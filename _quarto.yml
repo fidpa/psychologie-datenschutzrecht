@@ -137,9 +137,9 @@ book:
 comments:
   giscus:
     repo: fidpa/psychologie-datenschutzrecht
-    repo-id: REPO_ID_HIER                               # TODO: von giscus.app generieren
-    category: Kommentare
-    category-id: CATEGORY_ID_HIER                       # TODO: von giscus.app generieren
+    repo-id: R_kgDOR6iqAQ
+    category: General
+    category-id: DIC_kwDOR6iqAc4C6H7_
     mapping: pathname
     reactions-enabled: true
     loading: lazy
