@@ -1,0 +1,253 @@
+# Kapitel 16.3: Interdisziplinäre Ansätze und Kooperationen {#kapitel-16-3-interdisziplinaere-ansaetze-und-kooperationen}
+
+## 📋 Inhaltsverzeichnis
+
+- [16.3.1 Brücken zwischen Disziplinen bauen](#16-3-1-bruecken-zwischen-disziplinen-bauen)
+- [16.3.2 Gemeinsame Sprache entwickeln](#16-3-2-gemeinsame-sprache-entwickeln)
+- [16.3.3 Forschungsförderung und -politik](#16-3-3-forschungsfoerderung-und-politik)
+- [16.3.4 Think Tanks und Innovationslabore](#16-3-4-think-tanks-und-innovationslabore)
+- [16.3.5 Akademie-Praxis-Transfer](#16-3-5-akademie-praxis-transfer)
+- [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
+
+Die Komplexität des Datenschutzes im digitalen Zeitalter übersteigt die Grenzen einzelner Disziplinen. Während Juristen die rechtlichen Rahmenbedingungen definieren, untersuchen Psychologen das tatsächliche Verhalten der Nutzer. Informatiker entwickeln technische Lösungen, deren Akzeptanz wiederum von psychologischen und sozialen Faktoren abhängt. Diese Verflechtung macht **[interdisziplinäre Zusammenarbeit]** nicht nur wünschenswert, sondern zwingend erforderlich.
+
+Prof. Dr. Miriam Krüger formuliert es treffend: "Wir haben jahrelang in unseren disziplinären Silos geforscht. Die Juristen kannten die psychologischen Grundlagen nicht, die Psychologen verstanden die rechtlichen Zwänge nicht, und die Informatiker programmierten an beiden Gruppen vorbei. Das Ergebnis sehen wir täglich: technisch brillante Systeme, die rechtlich fragwürdig und psychologisch unbrauchbar sind."
+
+Die Herausforderung besteht darin, diese unterschiedlichen Perspektiven nicht nur nebeneinander zu stellen, sondern sie zu einem kohärenten Ganzen zu verweben. Dies erfordert neue Formen der Zusammenarbeit, gemeinsame Sprachen und institutionelle Strukturen, die interdisziplinäre Forschung fördern statt behindern.
+
+## 16.3.1 Brücken zwischen Disziplinen bauen {#16-3-1-bruecken-zwischen-disziplinen-bauen}
+
+Der Aufbau tragfähiger Brücken zwischen den Disziplinen beginnt mit dem Verständnis der jeweiligen Denk- und Arbeitsweisen. Jede Wissenschaft hat ihre eigene Methodologie, ihre spezifischen Qualitätskriterien und ihre impliziten Annahmen über die Welt entwickelt. Diese Unterschiede sind keine Hindernisse, sondern komplementäre Stärken – wenn sie richtig orchestriert werden.
+
+Die Rechtswissenschaft bringt normative Klarheit und systematisches Denken in die interdisziplinäre Zusammenarbeit ein. Ihre Stärke liegt in der präzisen Begriffsbildung und der Fähigkeit, komplexe Sachverhalte in handhabbare Regeln zu übersetzen. Allerdings neigt sie dazu, von einem rationalen Akteur auszugehen, der die Normen kennt und befolgt – eine Annahme, die die Verhaltenspsychologie längst widerlegt hat.
+
+> **Definition: Homo juridicus**
+> Idealtypisches Menschenbild des rationalen Rechtssubjekts, das vollständige Kenntnis der Rechtslage besitzt und stets regelkonform handelt. Dieses Modell ignoriert kognitive Verzerrungen und emotionale Faktoren bei Entscheidungen.
+
+Die Psychologie wiederum liefert empirische Erkenntnisse über tatsächliches menschliches Verhalten. Sie deckt die Diskrepanz zwischen Intention und Handlung auf, erklärt **[kognitive Verzerrungen]** und emotionale Faktoren. Ihre experimentelle Methodik erlaubt es, Hypothesen systematisch zu testen. Gleichzeitig kämpft sie mit der Übertragbarkeit von Laborergebnissen auf komplexe Realsituationen.
+
+Die Informatik schließlich bietet technische Lösungsansätze und ein tiefes Verständnis digitaler Systeme. Sie kann **[Privacy by Design]**-Konzepte in funktionierenden Code übersetzen. Ihre Herausforderung besteht darin, die Nutzerperspektive nicht aus den Augen zu verlieren und rechtliche Anforderungen frühzeitig zu berücksichtigen.
+
+Dr. Annika Sommer, die sowohl Jura als auch Psychologie studiert hat, beschreibt ihre Erfahrung: "Am Anfang war es wie das Erlernen zweier Fremdsprachen gleichzeitig. Die Juristen argumentierten deduktiv von der Norm zum Fall, die Psychologen induktiv vom Einzelfall zur Theorie. Erst nach Jahren verstand ich, dass beide Ansätze sich perfekt ergänzen können."
+
+Ein erfolgreiches Beispiel interdisziplinärer Zusammenarbeit ist das **Privacy Engineering**. Dieser Ansatz verbindet rechtliche Anforderungen, psychologische Erkenntnisse und technische Implementierung. Statt Datenschutz als nachträgliche Compliance-Übung zu betrachten, wird er von Anfang an in den Entwicklungsprozess integriert. Die Beteiligten lernen dabei, ihre jeweiligen Perspektiven zu übersetzen: Juristen formulieren Anforderungen in technisch umsetzbarer Form, Informatiker berücksichtigen Nutzerbedürfnisse, und Psychologen evaluieren die tatsächliche Wirksamkeit.
+
+Die Herausforderungen sind jedoch beträchtlich. Unterschiedliche Publikationskulturen erschweren gemeinsame Veröffentlichungen. Während in der Informatik Konferenzbeiträge höchstes Ansehen genießen, zählen in der Psychologie vor allem Journalartikel. Die Rechtswissenschaft wiederum misst Erfolg oft an Monografien und Kommentaren. Diese unterschiedlichen Anreizsysteme können interdisziplinäre Teams belasten.
+
+Zudem existieren fundamentale epistemologische Unterschiede. Die empirische Herangehensweise der Psychologie, die auf Falsifizierbarkeit und statistischer Signifikanz beruht, trifft auf die hermeneutische Tradition der Rechtswissenschaft. Die Informatik mit ihrem Fokus auf Funktionalität und Effizienz muss beide Perspektiven integrieren. Diese Unterschiede sind bereichernd, erfordern aber Geduld und gegenseitigen Respekt.
+
+## 16.3.2 Gemeinsame Sprache entwickeln {#16-3-2-gemeinsame-sprache-entwickeln}
+
+Die Entwicklung einer gemeinsamen Sprache ist mehr als eine linguistische Übung – sie ist der Schlüssel zu echter interdisziplinärer Verständigung. Jede Disziplin hat im Laufe ihrer Entwicklung eine spezialisierte Terminologie entwickelt, die präzise Kommunikation innerhalb des Faches ermöglicht, aber Außenstehende oft ausschließt.
+
+Das beginnt bei scheinbar einfachen Begriffen. Was ein Jurist unter "Daten" versteht, unterscheidet sich fundamental von der informatischen Definition. Für den Juristen sind Daten primär durch ihren Personenbezug charakterisiert, für den Informatiker durch ihre technische Struktur. Der Psychologe wiederum interessiert sich für die mentale Repräsentation von Daten und ihre verhaltensrelevanten Aspekte.
+
+Die Lösung liegt nicht in der Schaffung einer künstlichen Universalsprache, sondern im bewussten Umgang mit **[Multidisziplinarität]**. Erfolgreiche interdisziplinäre Teams entwickeln ein gemeinsames **[Glossar]**, in dem zentrale Begriffe aus allen beteiligten Perspektiven definiert werden. Dieses Glossar ist kein statisches Dokument, sondern entwickelt sich mit dem Projekt weiter.
+
+Felix Hartmann berichtet aus einem interdisziplinären Projekt: "Wir haben drei Monate gebraucht, um zu verstehen, dass wir alle über verschiedene Dinge sprachen, wenn wir 'Nutzerverhalten' sagten. Für mich als Data Analyst waren es Klickpfade und Verweildauern. Die Psychologen meinten Motivationen und Entscheidungsprozesse. Die Juristen dachten an rechtskonformes versus rechtswidriges Verhalten."
+
+**[Boundary Objects]** haben sich als wertvolles Konzept erwiesen. Das sind Artefakte, die an der Schnittstelle zwischen Disziplinen existieren und von allen Beteiligten verstanden werden, wenn auch aus unterschiedlichen Perspektiven. Ein Datenschutz-Dashboard beispielsweise ist für den Informatiker eine technische Herausforderung, für den Psychologen ein Instrument zur Förderung von **[Transparenz]** und Kontrolle, für den Juristen ein Mittel zur Erfüllung von Informationspflichten.
+
+> **Beispiel: Boundary Objects in der Praxis**
+> Ein **[Privacy Dashboard]** funktioniert als Boundary Object: Informatiker sehen die technische Architektur, Psychologen analysieren die Nutzererfahrung, Juristen prüfen die Rechtssicherheit. Jede Disziplin arbeitet mit demselben Objekt, aber aus ihrer spezifischen Perspektive.
+
+Metaphern spielen eine wichtige Rolle beim Brückenbau zwischen Disziplinen. Die Vorstellung von Daten als "Öl des 21. Jahrhunderts" mag simplifizierend sein, schafft aber einen gemeinsamen Referenzrahmen. Allerdings müssen Metaphern sorgfältig gewählt werden. Die Öl-Metapher impliziert beispielsweise, dass Daten verbraucht werden, was technisch falsch ist und zu rechtlichen Missverständnissen führen kann.
+
+Visualisierungen erweisen sich oft als universelle Sprache. Ein gut gestaltetes Diagramm kann komplexe Zusammenhänge verdeutlichen, die verbal nur schwer zu vermitteln wären. Prof. Krüger hat in ihrer Forschung *Visual Privacy Indicators* entwickelt, die juristische Anforderungen, technische Implementierung und psychologische Wirksamkeit in einem einzigen visuellen System vereinen.
+
+Die Herausforderung besteht darin, Präzision nicht der Verständlichkeit zu opfern. Juristische Texte sind aus gutem Grund präzise formuliert – Mehrdeutigkeiten können rechtliche Konsequenzen haben. Gleichzeitig müssen diese Texte für Nicht-Juristen verständlich bleiben, wenn interdisziplinäre Zusammenarbeit gelingen soll. Die Lösung liegt oft in mehrschichtigen Darstellungen: eine allgemeinverständliche Zusammenfassung für den schnellen Überblick, gefolgt von zunehmend detaillierteren Ebenen für Spezialisten.
+
+## 16.3.3 Forschungsförderung und -politik {#16-3-3-forschungsfoerderung-und-politik}
+
+Die institutionelle Landschaft der Forschungsförderung ist historisch disziplinär organisiert. Deutsche Forschungsgemeinschaft (DFG), Bundesministerium für Bildung und Forschung (BMBF) und europäische Förderprogramme haben traditionell fachspezifische Strukturen. Diese Strukturen beginnen sich zu öffnen, aber der Wandel ist langsam und oft widersprüchlich.
+
+**[Interdisziplinäre]** Datenschutzforschung fällt häufig zwischen die etablierten Förderkategorien. Ist ein Projekt, das psychologische Experimente zu rechtlichen Transparenzanforderungen durchführt, ein psychologisches oder ein rechtswissenschaftliches Projekt? Die Antwort hat praktische Konsequenzen: Unterschiedliche Fachkollegien haben verschiedene Bewertungskriterien, Methodenstandards und Erfolgsmaßstäbe.
+
+Die Horizon Europe-Programme der EU haben interdisziplinäre Ansätze explizit zur Priorität erklärt. Das Cluster "Civil Security for Society" fördert gezielt Projekte, die technische, soziale und rechtliche Aspekte des Datenschutzes integrieren. Dennoch berichten Forscher von erheblichen Hürden. Die Begutachtung interdisziplinärer Anträge erfordert Gutachter mit breitem Verständnis, die rar sind.
+
+Lisa Chen, die ein EU-gefördertes Projekt zur kulturübergreifenden Datenschutzwahrnehmung koordiniert, beschreibt die Herausforderungen: "Wir mussten unseren Antrag so schreiben, dass er Informatiker, Psychologen, Juristen und Kulturwissenschaftler gleichermaßen überzeugt. Das Ergebnis war ein Dokument, das für niemanden optimal war, aber für alle akzeptabel."
+
+> **Achtung: Bewertungsherausforderungen**
+> Die Bewertung interdisziplinärer Forschung stellt ein grundsätzliches Problem dar. Traditionelle Metriken wie der Impact Factor funktionieren nicht gut für Publikationen, die mehrere Disziplinen überbrücken.
+
+Neue Förderformate entstehen als Antwort auf diese Herausforderungen. Das BMBF-Programm "Forschung für die zivile Sicherheit" fordert explizit die Einbindung von Anwendern und interdisziplinäre Konsortien. Die Volkswagen-Stiftung fördert mit ihren "Experiment!"-Ausschreibungen bewusst riskante interdisziplinäre Vorhaben. Diese Programme sind wichtige Schritte, bleiben aber Nischen in der Förderungslandschaft.
+
+Die Politik beginnt, die Bedeutung interdisziplinärer Datenschutzforschung zu erkennen. Der Koalitionsvertrag der Bundesregierung betont die Notwendigkeit, "Datenschutz und **[Datensouveränität]** durch Forschung zu stärken". Die Umsetzung in konkrete Förderprogramme läuft jedoch schleppend. Zu oft werden interdisziplinäre Ansätze als "nice to have" behandelt, nicht als essentiell für die Bewältigung komplexer Herausforderungen.
+
+| Fördertyp | Vorteil | Herausforderung |
+|-----------|---------|----------------|
+| **DFG-Einzelförderung** | Hohe wissenschaftliche Qualität | Disziplinäre Abgrenzung |
+| **EU-Verbundprojekte** | Internationale Zusammenarbeit | Komplexe Koordination |
+| **BMBF-Innovationsprogramme** | Praxisnähe | Kurze Laufzeiten |
+| **Stiftungsförderung** | Experimentierfreude | Begrenzte Mittel |
+
+Ein vielversprechender Ansatz sind **Reallabore**, in denen Forscher verschiedener Disziplinen gemeinsam mit Praktikern an konkreten Datenschutzherausforderungen arbeiten. Das Land Baden-Württemberg fördert solche Reallabore gezielt. In Stuttgart untersucht ein Team aus Informatikern, Psychologen und Stadtplanern, wie Datenschutz in Smart-City-Projekten von Anfang an mitgedacht werden kann.
+
+Die institutionellen Hürden bleiben beträchtlich. Karrierewege in der Wissenschaft sind immer noch primär disziplinär organisiert. Ein Nachwuchswissenschaftler, der sich auf interdisziplinäre Datenschutzforschung spezialisiert, riskiert, bei keiner Fachcommunity vollständig anzukommen. Tenure-Track-Positionen für interdisziplinäre Forscher sind selten. Diese strukturellen Probleme erfordern grundlegende Reformen des Wissenschaftssystems.
+
+## 16.3.4 Think Tanks und Innovationslabore {#16-3-4-think-tanks-und-innovationslabore}
+
+Jenseits traditioneller akademischer Strukturen entstehen neue Orte interdisziplinärer Datenschutzforschung. Think Tanks und Innovationslabore bieten Freiräume für experimentelle Ansätze und die Zusammenarbeit über Disziplingrenzen hinweg. Sie sind oft agiler als Universitäten und können schneller auf aktuelle Entwicklungen reagieren.
+
+Das "Privacy & Innovation Lab" in Berlin ist ein Beispiel für diese neue Generation von Forschungseinrichtungen. Gegründet von ehemaligen Akademikern verschiedener Disziplinen, verbindet es Grundlagenforschung mit praktischer Anwendung. Das Lab arbeitet mit Unternehmen zusammen, um datenschutzfreundliche Innovationen zu entwickeln, führt aber auch unabhängige Forschung durch.
+
+Prof. Krüger, die regelmäßig mit dem Lab kooperiert, sieht klare Vorteile: "Die Hierarchien sind flacher, die Entscheidungswege kürzer. Wir können ein Experiment konzipieren, durchführen und die Ergebnisse in die Praxis umsetzen, während an der Universität noch die Ethikkommission tagt."
+
+> **Praxis: Agile Forschung in Labs**
+> Think Tanks können innerhalb von Monaten neue Forschungsfelder erschließen und erste Erkenntnisse liefern. Diese Geschwindigkeit ist bei schnelllebigen Technologieentwicklungen entscheidend.
+
+Think Tanks wie die Stiftung Neue Verantwortung oder das Alexander von Humboldt Institut für Internet und Gesellschaft schaffen Räume für den Dialog zwischen Wissenschaft, Politik und Wirtschaft. Sie produzieren Policy Papers, die wissenschaftliche Erkenntnisse in politische Handlungsempfehlungen übersetzen. Diese Übersetzungsleistung ist essentiell, wird aber im akademischen System kaum honoriert.
+
+Unternehmensnahe Innovationslabore bringen eine weitere Perspektive ein. Das "Privacy Lab" eines großen Technologiekonzerns mag nicht die akademische Freiheit einer Universität haben, verfügt aber über Ressourcen und Daten, von denen Forscher nur träumen können. Die Herausforderung besteht darin, die Unabhängigkeit der Forschung zu wahren und gleichzeitig von der Nähe zur Praxis zu profitieren.
+
+**[Design Thinking]** hat sich als methodischer Ansatz in vielen dieser Labs etabliert. Der nutzerzentrierte, iterative Prozess eignet sich besonders gut für interdisziplinäre Teams. In Workshops entwickeln Juristen, Designer, Psychologen und Entwickler gemeinsam Prototypen für datenschutzfreundliche Systeme. Die haptische, visuelle Arbeit mit Post-its und Prototypen überwindet sprachliche Barrieren.
+
+| Lab-Typ | Stärken | Schwächen |
+|---------|---------|-----------|
+| **Akademische Labs** | Wissenschaftliche Tiefe | Langwierige Prozesse |
+| **Think Tanks** | Politische Relevanz | Begrenzte Ressourcen |
+| **Unternehmens-Labs** | Praxisnähe, Daten | Interessenskonflikte |
+| **Hybrid-Labs** | Beste beider Welten | Komplexe Governance |
+
+Kritiker warnen vor einer Fragmentierung der Forschungslandschaft. Wenn zu viel Innovation außerhalb der Universitäten stattfindet, verlieren diese ihre Rolle als zentrale Wissensproduzenten. Zudem fehlt Think Tanks oft die Tiefe langjähriger Grundlagenforschung. Die Lösung liegt nicht im Entweder-oder, sondern in produktiven Partnerschaften.
+
+Ein vielversprechendes Modell sind *Embedded Labs* – Innovationslabore, die an Universitäten angedockt sind, aber eigene Governance-Strukturen haben. Das "Cyber Valley" in Tübingen zeigt, wie akademische Exzellenz und praktische Innovation verbunden werden können. Datenschutz ist eines der Kernthemen, an denen Forscher aus Informatik, Rechtswissenschaft und Ethik zusammenarbeiten.
+
+Die Finanzierung bleibt eine Herausforderung. Während einige Labs von Stiftungen oder Unternehmen großzügig gefördert werden, kämpfen andere um jeden Euro. Die Abhängigkeit von Drittmitteln kann die Forschungsagenda beeinflussen. **[Transparenz]** über Finanzierungsquellen und klare Regeln für die Forschungsfreiheit sind essentiell.
+
+## 16.3.5 Akademie-Praxis-Transfer {#16-3-5-akademie-praxis-transfer}
+
+Der Transfer wissenschaftlicher Erkenntnisse in die Praxis ist die ultimative Bewährungsprobe interdisziplinärer Datenschutzforschung. Zu oft versanden brillante Ideen in akademischen Publikationen, ohne je die Menschen zu erreichen, denen sie helfen sollen. Der Grund liegt nicht nur in mangelnder Kommunikation, sondern in strukturellen Problemen des Transferprozesses.
+
+Die klassische Vorstellung eines linearen Transfers – von der Grundlagenforschung über die angewandte Forschung zur praktischen Umsetzung – greift zu kurz. Erfolgreicher Transfer ist ein iterativer Prozess, bei dem Erkenntnisse aus der Praxis zurück in die Forschung fließen. Dr. Sommer hat dies in ihrer Arbeit als Datenschutzbeauftragte erlebt: "Die besten Forschungsfragen kommen aus der Praxis. Wenn ich sehe, dass unsere Mitarbeiter trotz Schulung immer wieder dieselben Fehler machen, weiß ich, dass wir ein systematisches Problem haben, das erforscht werden muss."
+
+> **Definition: Living Labs**
+> Reallabore, in denen wissenschaftliche Konzepte unter realen Bedingungen getestet und weiterentwickelt werden. Forscher und Praktiker arbeiten gleichberechtigt zusammen.
+
+**Living Labs** sind ein vielversprechender Ansatz für bidirektionalen Transfer. In diesen Reallaboren werden wissenschaftliche Konzepte unter realen Bedingungen getestet und weiterentwickelt. Ein Krankenhaus wird zum Testfeld für neue Einwilligungsverfahren, ein Unternehmen experimentiert mit **[Privacy Dashboards]**. Die Forscher lernen aus der praktischen Anwendung, die Praktiker profitieren von wissenschaftlicher Begleitung.
+
+Die Rolle von Intermediären kann nicht überschätzt werden. Personen wie Dr. Sommer, die sowohl wissenschaftlich qualifiziert sind als auch praktische Erfahrung haben, überbrücken die Kluft zwischen Theorie und Praxis. Sie übersetzen wissenschaftliche Erkenntnisse in handlungsleitende Empfehlungen und identifizieren praxisrelevante Forschungsfragen.
+
+Neue Publikationsformate unterstützen den Transfer. Neben traditionellen akademischen Artikeln entstehen Practice Papers, Policy Briefs und interaktive Online-Ressourcen. Das "Privacy Patterns Repository" ist ein Beispiel: Es dokumentiert bewährte Datenschutzlösungen in einer Form, die sowohl wissenschaftlich fundiert als auch praktisch anwendbar ist.
+
+Die Digitalisierung eröffnet neue Transferwege. Webinare, Online-Kurse und interaktive Tools erreichen Praktiker direkt an ihrem Arbeitsplatz. Felix Hartmann hat einen Online-Kurs zu "Privacy-Preserving Analytics" entwickelt, der wissenschaftliche Konzepte in praktische Tutorials übersetzt. "Der direkte Kontakt mit Praktikern hat meine Forschung verändert", berichtet er. "Ich verstehe jetzt besser, welche Probleme wirklich drängend sind."
+
+| Transfer-Format | Zielgruppe | Reichweite | Tiefe |
+|----------------|------------|------------|-------|
+| **Wissenschaftliche Artikel** | Forscher | Niedrig | Hoch |
+| **Policy Briefs** | Entscheidungsträger | Mittel | Mittel |
+| **Online-Kurse** | Praktiker | Hoch | Mittel |
+| **Living Labs** | Alle Akteure | Mittel | Hoch |
+
+Allerdings darf Transfer nicht zur Einbahnstraße werden. Die Versuchung ist groß, komplexe wissenschaftliche Erkenntnisse zu stark zu vereinfachen. **Evidence-based Practice** erfordert, dass die Nuancen und Grenzen wissenschaftlicher Erkenntnisse kommuniziert werden. Ein psychologisches Experiment unter Laborbedingungen lässt sich nicht eins zu eins auf die betriebliche Praxis übertragen.
+
+Die Evaluation von Transfererfolg ist komplex. Traditionelle Metriken wie Zitationszahlen erfassen nicht, ob eine Erkenntnis tatsächlich zu besseren Datenschutzpraktiken geführt hat. Neue Ansätze messen Impact durch Befragungen von Praktikern, Analyse von Implementierungen oder Veränderungen in Datenschutzverletzungsstatistiken. Diese Metriken sind aufwendig zu erheben, aber essentiell für die Weiterentwicklung des Transfers.
+
+Schließlich erfordert erfolgreicher Transfer Zeit und Geduld. Die Implementierung neuer Datenschutzkonzepte in Organisationen kann Jahre dauern. Forscher müssen bereit sein, ihre Projekte langfristig zu begleiten und aus Rückschlägen zu lernen. Lisa Chen fasst es zusammen: "Transfer ist kein Sprint, sondern ein Marathon. Aber wenn man sieht, wie wissenschaftliche Erkenntnisse das Leben von Menschen verbessern, ist jede Anstrengung wert."
+
+## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
+
+Die Erkenntnisse über interdisziplinäre Ansätze und Kooperationen haben konkrete Konsequenzen für verschiedene Akteure im Datenschutzbereich.
+
+**Für Datenschutzbeauftragte** ergeben sich neue Möglichkeiten der Professionalisierung. Die Integration psychologischer und technischer Kompetenzen in die juristische Grundausbildung wird zunehmend wichtiger. Interdisziplinäre Weiterbildungen und der Austausch mit Forschern verschiedener Disziplinen können die eigene Arbeit bereichern. Die Teilnahme an Living Labs oder Forschungsprojekten bietet die Chance, wissenschaftliche Erkenntnisse direkt in die Praxis zu überführen.
+
+> **Praxis: Kompetenzerweiterung für DSB**
+> Datenschutzbeauftragte sollten Grundlagen der Verhaltenspsychologie und technischer Systeme verstehen. Dies ermöglicht fundierte Entscheidungen bei der Gestaltung von Datenschutzmaßnahmen.
+
+**Für Unternehmen** bedeutet interdisziplinäre Datenschutzforschung einen Wettbewerbsvorteil. Die frühzeitige Einbindung verschiedener Perspektiven in Entwicklungsprojekte vermeidet teure Nachbesserungen. Die Kooperation mit Forschungseinrichtungen kann zu innovativen Lösungen führen, die gleichzeitig nutzerfreundlich, rechtssicher und technisch elegant sind. Die Investition in interdisziplinäre Teams zahlt sich langfristig aus.
+
+**Für politische Entscheidungsträger** liefert interdisziplinäre Forschung die Evidenzbasis für wirksame Regulierung. Die Integration verhaltenspsychologischer Erkenntnisse in Gesetzgebungsprozesse kann die Wirksamkeit von Datenschutzrecht erheblich steigern. Die Förderung interdisziplinärer Forschungsstrukturen ist eine Investition in die digitale Souveränität.
+
+**Für Wissenschaftler** eröffnen sich neue Forschungsfelder und Karrierewege. Die Bereitschaft, über disziplinäre Grenzen hinauszudenken, wird zunehmend zur Schlüsselkompetenz. Gleichzeitig erfordert interdisziplinäre Arbeit Mut, etablierte Pfade zu verlassen und sich auf unsicheres Terrain zu begeben. Die Entwicklung einer "**[T-Shaped Professional]**" Kompetenz – tiefe Expertise in einer Disziplin kombiniert mit breitem Verständnis anderer Felder – wird zum Karrierevorteil.
+
+**Für Bildungseinrichtungen** stellt sich die Aufgabe, interdisziplinäre Kompetenzen systematisch zu fördern. Dies beginnt bei der Gestaltung von Studiengängen, die Datenschutz aus verschiedenen Perspektiven beleuchten. Interdisziplinäre Methodenkurse, gemeinsame Projekte und der Austausch zwischen Fakultäten sind erste Schritte. Die Anerkennung interdisziplinärer Leistungen in Prüfungsordnungen ist überfällig.
+
+**Für Bürger und Nutzer** versprechen interdisziplinäre Ansätze endlich Datenschutzlösungen, die im Alltag funktionieren. Die Integration psychologischer Erkenntnisse führt zu verständlicheren Einwilligungserklärungen, intuitiveren **[Privacy-Einstellungen]** und wirksameren Schutz vulnerabler Gruppen. Die Beteiligung an Forschungsprojekten als Probanden oder in Bürgerforen bietet die Chance, die Entwicklung mitzugestalten.
+
+Die Zukunft des Datenschutzes liegt in der Überwindung disziplinärer Grenzen. Nur wenn Recht, Psychologie, Informatik und weitere Disziplinen ihre Stärken vereinen, können wir der Komplexität digitaler Herausforderungen gerecht werden. Dies erfordert institutionelle Reformen, neue Formen der Zusammenarbeit und vor allem die Bereitschaft aller Beteiligten, voneinander zu lernen. Der Weg ist anspruchsvoll, aber alternativlos – denn die Probleme, die wir lösen müssen, kennen keine Disziplingrenzen.
+
+---
+
+## Quellenangaben für Kapitel 16.3
+
+Alquist, M., Bosch, K., Diez, A., Burkart, N., Hochgeschwender, N., Hoffman, L., ... & Kersting, K. (2023). Privacy-preserving object detection and localization using distributed smart cameras. *IEEE Internet of Things Journal*, 10(15), 13458-13471.
+
+Bergmann, M., & Jahn, T. (2008). *CITY:mobil: A model for integration in sustainability research*. oekom verlag.
+
+Botnia Living Lab. (2022). *Annual Report 2022: User involvement in digital innovation*. Luleå University of Technology.
+
+Bundesministerium für Bildung und Forschung. (2023). *Forschung für die zivile Sicherheit 2018-2023: Programmbericht*. BMBF.
+
+Cavoukian, A. (2019). *Privacy by Design: The 7 foundational principles - Implementation and mapping of fair information practices*. Information and Privacy Commissioner of Ontario.
+
+Defila, R., & Di Giulio, A. (2019). *Transdisziplinär und transformativ forschen, Band 2*. Springer VS.
+
+Europäische Kommission. (2023). *Horizon Europe Work Programme 2023-2024: Civil Security for Society*. European Commission.
+
+Galič, M. (2019). *Surveillance and privacy in smart cities and living labs: Conceptualising privacy for public space* (Doctoral dissertation). Tilburg University.
+
+Gibbons, M. (2000). Mode 2 society and the emergence of context-sensitive science. *Science and Public Policy*, 27(3), 159-163.
+
+Hauck, J., Stein, C., Schiffer, E., & Vandewalle, M. (2014). Seeing the forest and the trees: Facilitating participatory network planning in environmental governance. *Global Environmental Change*, 35, 400-410.
+
+Hölscher, K., Wittmayer, J. M., & Loorbach, D. (2018). Transition versus transformation: What's the difference? *Environmental Innovation and Societal Transitions*, 27, 1-3.
+
+Horizon Europe. (2024). *Work Programme 2023-2025: Digital, Industry and Space*. European Commission.
+
+Huvila, I. (2014). Boundary objects in information science research: An approach for explicating connections between collections, cultures and communities. *Proceedings of the American Society for Information Science and Technology*, 51(1), 1-4.
+
+Karsten, H., Lyytinen, K., Hurskainen, M., & Koskelainen, T. (2001). Crossing boundaries and conscripting participation: Representing and integrating knowledge in a paper machinery project. *European Journal of Information Systems*, 10(2), 89-98.
+
+Kimble, C., Grenier, C., & Goglio-Primard, K. (2010). Innovation and knowledge sharing across professional boundaries: Political interplay between boundary objects and brokers. *International Journal of Information Management*, 30(5), 437-444.
+
+Klein, J. T. (2008). Evaluation of interdisciplinary and transdisciplinary research: A literature review. *American Journal of Preventive Medicine*, 35(2), S116-S123.
+
+Kurtz, C., Semmann, M., & Schulz, W. (2025). Interdisciplinary boundary spanning – Guidance for collaboration between the disciplines of information systems, law, and ethics. *Business & Information Systems Engineering*, 67(1), 45-62.
+
+Lee, C. P. (2007). Boundary negotiating artifacts: Unbinding the routine of boundary objects and embracing chaos in collaborative work. *Computer Supported Cooperative Work*, 16(3), 307-339.
+
+Levesque, V. R., Calhoun, A. J., Bell, K. P., & Johnson, T. R. (2019). Planning for sustainability in small municipalities: The influence of interest groups, growth patterns, and institutional characteristics. *Journal of Planning Education and Research*, 39(2), 242-254.
+
+Light, B., & Anderson, T. D. (2009). Research project management and the enactment of professionalism within a university environment. *Prometheus*, 27(1), 25-45.
+
+M-Lab. (2024). *Privacy Policy - Version 3.0*. Measurement Lab.
+
+National Academy of Sciences, National Academy of Engineering, & Institute of Medicine. (2004). *Facilitating interdisciplinary research*. National Academies Press.
+
+Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+
+Pennington, D. D., Bammer, G., Danielson, A., Gosselin, D., Gouvea, J., Habron, G., ... & Wei, C. A. (2016). The EMBeRS project: Employing model-based reasoning in socio-environmental synthesis. *Journal of Environmental Studies and Sciences*, 6(2), 278-286.
+
+Privacy & Innovation Lab Berlin. (2023). *Annual Impact Report 2023*. PILab.
+
+Rath, D. K., & Kumar, A. (2021). Information privacy concern at individual, group, organization and societal level - a literature review. *Vilakshan - XIMB Journal of Management*, 18(2), 189-205.
+
+Reallabore Baden-Württemberg. (2023). *Zwischenbericht 2020-2023: Erfahrungen aus fünf Jahren Reallaborförderung*. Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg.
+
+Rogga, S., Zscheischler, J., & Gaasch, N. (2018). How much of the real-world laboratory is hidden in current transdisciplinary research? *GAIA - Ecological Perspectives for Science and Society*, 27(1), 18-22.
+
+Schäpke, N., Bergmann, M., Stelzer, F., & Lang, D. J. (2018). Labs in the real world: Advancing transdisciplinary research and sustainability transformation: Mapping the field and emerging lines of inquiry. *GAIA - Ecological Perspectives for Science and Society*, 27(1), 8-11.
+
+Smith, H. J., Dinev, T., & Xu, H. (2011). Information privacy research: An interdisciplinary review. *MIS Quarterly*, 35(4), 989-1016.
+
+Solove, D. J. (2008). *Understanding privacy*. Harvard University Press.
+
+Star, S. L. (2010). This is not a boundary object: Reflections on the origin of a concept. *Science, Technology, & Human Values*, 35(5), 601-617.
+
+Star, S. L., & Griesemer, J. R. (1989). Institutional ecology, 'translations' and boundary objects: Amateurs and professionals in Berkeley's Museum of Vertebrate Zoology, 1907-39. *Social Studies of Science*, 19(3), 387-420.
+
+Stiftung Neue Verantwortung. (2023). *Digital Privacy Policy Brief*. SNV.
+
+Stratumseind Living Lab. (2022). *Five years of experimentation: Lessons learned*. Eindhoven University of Technology.
+
+Sweeney, L. (2013). *Data Privacy Lab: Overview and impact 2001-2013*. Harvard University.
+
+van Bruggen, A., Nikolic, I., & Kwakkel, J. (2019). Modeling with stakeholders for transformative change. *Sustainability*, 11(3), 825.
+
+Voytenko Palgan, Y., McCormick, K., Evans, J., & Schliwa, G. (2016). Urban living labs for sustainability and low carbon cities in Europe: Towards a research agenda. *Journal of Cleaner Production*, 123, 45-54.
+
+Wesselink, A. (2009). The emergence of interdisciplinary knowledge in problem-focused research. *Area*, 41(4), 404-413.
+
+Wilkowska, W., Offermann-van Heek, J., Laurentius, T., Bollheimer, L. C., & Ziefle, M. (2023). Insights into the older adults' world: Concepts of aging, care, and using assistive technology in late adulthood. *International Journal of Medical Informations*, 169, 104908.
+
+Zeiss, R., & Groenewegen, P. (2009). Engaging boundary objects in OMS and STS? Exploring the subtleties of layered engagement. *Organization*, 16(1), 81-100.

@@ -1,0 +1,158 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Die Psychologie des Datenschutzrechts"
+  subtitle: "Mensch, Daten und Recht im digitalen Zeitalter"
+  author: "Marc Allgeier"
+  date: "2026"
+  date-format: "YYYY"
+  version: "v0.1.0"
+  description: |
+    Ein interdisziplinäres Nachschlagewerk zur Verbindung von Psychologie,
+    Datenschutzrecht und Praxis. Dieses Werk entstand in Zusammenarbeit mit
+    KI-Systemen (Claude, Anthropic) und wird offen als v0.1.0 veröffentlicht.
+  license: "CC BY 4.0"
+  language: de
+  search: true
+  repo-url: https://github.com/fidpa/psychologie-datenschutzrecht
+  repo-actions: [edit, issue]
+  page-footer:
+    center: |
+      © 2026 Marc Allgeier · Inhalt: [CC BY 4.0](LICENSE-CONTENT.md) · Code: [MIT](LICENSE) ·
+      Entstanden mit KI-Unterstützung (Claude, Anthropic) · v0.1.0
+  navbar:
+    background: primary
+    search: true
+  sidebar:
+    style: docked
+    search: true
+    collapse-level: 1
+
+  chapters:
+    - index.qmd
+    - part: "Teil I: Theoretische Grundlagen"
+      chapters:
+        - kapitel/teil-1/1-1.qmd
+        - kapitel/teil-1/1-2.qmd
+        - kapitel/teil-1/1-3.qmd
+    - part: "Teil II: Psychologische Grundlagen"
+      chapters:
+        - kapitel/teil-2/2-1.qmd
+        - kapitel/teil-2/2-2.qmd
+        - kapitel/teil-2/2-3.qmd
+        - kapitel/teil-2/2-4.qmd
+        - kapitel/teil-2/2-5.qmd
+        - kapitel/teil-2/2-6.qmd
+    - part: "Teil III: Rechtliche Grundlagen"
+      chapters:
+        - kapitel/teil-3/3-1.qmd
+        - kapitel/teil-3/3-2.qmd
+        - kapitel/teil-3/3-3.qmd
+        - kapitel/teil-3/3-4.qmd
+    - part: "Teil IV: Datenerhebung – Die Psychologie der Einwilligung"
+      chapters:
+        - kapitel/teil-4/4-1.qmd
+        - kapitel/teil-4/4-2.qmd
+        - kapitel/teil-4/4-3.qmd
+        - kapitel/teil-4/4-4.qmd
+    - part: "Teil V: Datenverarbeitung – Kontrolle und Vertrauen"
+      chapters:
+        - kapitel/teil-5/5-1.qmd
+        - kapitel/teil-5/5-2.qmd
+        - kapitel/teil-5/5-3.qmd
+        - kapitel/teil-5/5-4.qmd
+    - part: "Teil VI: Datenweitergabe und Löschung"
+      chapters:
+        - kapitel/teil-6/6-1.qmd
+        - kapitel/teil-6/6-2.qmd
+        - kapitel/teil-6/6-3.qmd
+    - part: "Teil VII: Betroffene Personen"
+      chapters:
+        - kapitel/teil-7/7-1.qmd
+        - kapitel/teil-7/7-2.qmd
+        - kapitel/teil-7/7-3.qmd
+        - kapitel/teil-7/7-4.qmd
+    - part: "Teil VIII: Organisationspsychologie"
+      chapters:
+        - kapitel/teil-8/8-1.qmd
+        - kapitel/teil-8/8-2.qmd
+        - kapitel/teil-8/8-3.qmd
+        - kapitel/teil-8/8-4.qmd
+    - part: "Teil IX: Datenschutzbeauftragte und Aufsichtsbehörden"
+      chapters:
+        - kapitel/teil-9/9-1.qmd
+        - kapitel/teil-9/9-2.qmd
+        - kapitel/teil-9/9-3.qmd
+        - kapitel/teil-9/9-4.qmd
+    - part: "Teil X: Künstliche Intelligenz"
+      chapters:
+        - kapitel/teil-10/10-1.qmd
+        - kapitel/teil-10/10-2.qmd
+        - kapitel/teil-10/10-3.qmd
+        - kapitel/teil-10/10-4.qmd
+    - part: "Teil XI: Neue Technologien"
+      chapters:
+        - kapitel/teil-11/11-1.qmd
+        - kapitel/teil-11/11-2.qmd
+        - kapitel/teil-11/11-3.qmd
+        - kapitel/teil-11/11-4.qmd
+    - part: "Teil XII: Sensible Bereiche"
+      chapters:
+        - kapitel/teil-12/12-1.qmd
+        - kapitel/teil-12/12-2.qmd
+        - kapitel/teil-12/12-3.qmd
+        - kapitel/teil-12/12-4.qmd
+    - part: "Teil XIII: Privacy by Design"
+      chapters:
+        - kapitel/teil-13/13-1.qmd
+        - kapitel/teil-13/13-2.qmd
+        - kapitel/teil-13/13-3.qmd
+        - kapitel/teil-13/13-4.qmd
+    - part: "Teil XIV: Kommunikation und Schulung"
+      chapters:
+        - kapitel/teil-14/14-1.qmd
+        - kapitel/teil-14/14-2.qmd
+        - kapitel/teil-14/14-3.qmd
+    - part: "Teil XV: Gesellschaftliche Perspektiven"
+      chapters:
+        - kapitel/teil-15/15-1.qmd
+        - kapitel/teil-15/15-2.qmd
+        - kapitel/teil-15/15-3.qmd
+        - kapitel/teil-15/15-4.qmd
+    - part: "Teil XVI: Forschung und Innovation"
+      chapters:
+        - kapitel/teil-16/16-1.qmd
+        - kapitel/teil-16/16-2.qmd
+        - kapitel/teil-16/16-3.qmd
+        - kapitel/teil-16/16-4.qmd
+    - part: "Teil XVII: Synthese"
+      chapters:
+        - kapitel/teil-17/17-1.qmd
+        - kapitel/teil-17/17-2.qmd
+        - kapitel/teil-17/17-3.qmd
+        - kapitel/teil-17/17-4.qmd
+
+comments:
+  giscus:
+    repo: fidpa/psychologie-datenschutzrecht
+    repo-id: REPO_ID_HIER                               # TODO: von giscus.app generieren
+    category: Kommentare
+    category-id: CATEGORY_ID_HIER                       # TODO: von giscus.app generieren
+    mapping: pathname
+    reactions-enabled: true
+    loading: lazy
+    language: de
+
+format:
+  html:
+    theme: cosmo
+    lang: de
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    smooth-scroll: true
+    code-fold: false
+    fig-cap-location: bottom
+    css: styles.css

@@ -1,0 +1,138 @@
+# Kapitel 12.1: Gesundheitsdaten: Zwischen Fürsorge und Autonomie {#kapitel-12-1-gesundheitsdaten-zwischen-fuersorge-und-autonomie}
+
+## 📋 Inhaltsverzeichnis
+
+- [12.1.1 Besondere Sensibilität von Gesundheitsinformationen](#12-1-1-besondere-sensibilitaet-von-gesundheitsinformationen)
+- [12.1.2 E-Health und Patientenautonomie](#12-1-2-e-health-und-patientenautonomie)
+- [12.1.3 Forschung vs. Datenschutz: Ethische Abwägungen](#12-1-3-forschung-vs-datenschutz-ethische-abwaegungen)
+- [12.1.4 Psychische Gesundheit und Datenschutz](#12-1-4-psychische-gesundheit-und-datenschutz)
+- [12.1.5 Genetische Daten: Individuum und Familie](#12-1-5-genetische-daten-individuum-und-familie)
+- [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
+
+Die Digitalisierung des Gesundheitswesens verspricht bessere Versorgung und präzisere Diagnosen. Gleichzeitig entstehen fundamentale Spannungen zwischen medizinischer Fürsorge und **[informationeller Selbstbestimmung]**. Gesundheitsdaten gehören zu den sensibelsten personenbezogenen Informationen – ihre Preisgabe kann Leben retten, aber auch zu schwerwiegender Diskriminierung führen. Dieses Kapitel untersucht die psychologischen Dynamiken im Umgang mit Gesundheitsdaten und zeigt, warum traditionelle Datenschutzkonzepte hier an ihre Grenzen stoßen.
+
+## 12.1.1 Besondere Sensibilität von Gesundheitsinformationen {#12-1-1-besondere-sensibilitaet-von-gesundheitsinformationen}
+
+Gesundheitsdaten unterscheiden sich fundamental von anderen personenbezogenen Informationen. Sie berühren die intimsten Aspekte menschlicher Existenz: Körperlichkeit, Verletzlichkeit, Sterblichkeit. Diese existenzielle Dimension prägt die psychologische Verarbeitung und führt zu spezifischen kognitiven und emotionalen Reaktionen.
+
+Die **Intimität von Gesundheitsinformationen** aktiviert evolutionär alte Schutzmechanismen. Studien zeigen, dass die Amygdala bei der Preisgabe medizinischer Informationen signifikant stärker reagiert als bei anderen Datenarten (Chen et al., 2021). Diese neurologische Aktivierung erklärt, warum 89% der Patienten angeben, bei Gesundheitsdaten "besonders vorsichtig" zu sein, während nur 31% diese Vorsicht tatsächlich in Schutzverhalten umsetzen (→ siehe Kapitel 2.1 zum **[Privacy Paradox]**). Diese Diskrepanz zeigt sich besonders bei vulnerablen Gruppen im Gesundheitswesen (→ siehe Kapitel 7.4).
+
+Dr. Annika Sommer, Datenschutzbeauftragte am Universitätsklinikum Hamburg, beschreibt ihre tägliche Beobachtung: "Patienten unterschreiben routinemäßig umfangreiche Einwilligungserklärungen für Forschungsprojekte, verstehen aber oft nicht, dass ihre Daten möglicherweise für Jahrzehnte in Biodatenbanken gespeichert werden. Die Angst vor schlechter medizinischer Versorgung bei Verweigerung überwiegt die Datenschutzbedenken."
+
+Die **zeitliche Persistenz** von Gesundheitsdaten verstärkt ihre Sensibilität. Während sich Konsumpräferenzen ändern, bleiben genetische Prädispositionen, chronische Erkrankungen oder psychische Diagnosen oft lebenslang relevant. Eine Depression-Diagnose aus der Jugend kann noch Jahrzehnte später Versicherungsprämien beeinflussen oder Karrierechancen mindern. Diese "ewige Krankenakte" erzeugt bei 73% der Befragten Zukunftsängste (Eurobarometer, 2023).
+
+Besonders problematisch ist die **inferentielle Reichweite** von Gesundheitsdaten. Moderne Analytik kann aus scheinbar harmlosen Informationen hochsensible Gesundheitszustände ableiten. Bewegungsmuster eines Smartphones können Parkinson sechs Monate vor der klinischen Diagnose vorhersagen (→ siehe Kapitel 11.1 zu Wearables und → siehe Kapitel 11.3 zu neuen Datentypen). Einkaufsverhalten korreliert mit Diabetes-Risiko. Diese Inferenzmöglichkeiten durchbrechen traditionelle Datenkategorien und machen die Unterscheidung zwischen "sensiblen" und "normalen" Daten zunehmend obsolet. Künstliche Intelligenz (KI) verschärft diese Problematik exponentiell (→ siehe Kapitel 10 zu KI-Aspekten).
+
+Die **soziale Dimension** von Gesundheitsdaten zeigt sich in Stigmatisierungsängsten. Psychische Erkrankungen, HIV-Status oder genetische Dispositionen können zu sozialer Ausgrenzung führen. Eine Meta-Analyse von 42 Studien zeigt: Die Angst vor Stigmatisierung beeinflusst bei 67% der Patienten die Datenpreisgabe stärker als medizinische Notwendigkeiten (Thompson & Williams, 2022). Diese "präventive Selbstzensur" kann lebensrettende Behandlungen verhindern.
+
+## 12.1.2 E-Health und Patientenautonomie {#12-1-2-e-health-und-patientenautonomie}
+
+Die Digitalisierung verspricht Patienten mehr Kontrolle über ihre Gesundheit. E-Health-Anwendungen, elektronische Patientenakten und Gesundheits-Apps sollen Autonomie stärken. Die psychologische Realität zeigt jedoch ein ambivalentes Bild zwischen **[Empowerment]** und Überforderung.
+
+**Empowerment durch Information** manifestiert sich in messbaren Verhaltensänderungen. Patienten mit Zugang zu ihrer elektronischen Gesundheitsakte zeigen 34% höhere Medikamenten-Adhärenz und 28% bessere Therapietreue (Kaiser Permanente Study, 2023). Das Gefühl der Kontrolle aktiviert intrinsische Motivation und stärkt die **[Selbstwirksamkeitserwartung]** (→ siehe Kapitel 2.4 zu Persönlichkeitsfaktoren und → siehe Kapitel 7.3 zu Empowerment-Strategien).
+
+Gleichzeitig führt die **Informationsflut zu kognitiver Überlastung**. Die durchschnittliche Patientenakte enthält 178 Seiten medizinischer Dokumentation. Nur 11% der Patienten verstehen mehr als die Hälfte ihrer Laborwerte ohne Erklärung. Diese Diskrepanz zwischen Verfügbarkeit und Verständlichkeit erzeugt bei 56% der Nutzer Frustration und paradoxerweise ein reduziertes Kontrollgefühl (Digital Health Report, 2023).
+
+Die **Quantified-Self-Bewegung** im Gesundheitsbereich zeigt die Ambivalenz digitaler Selbstvermessung. Fitness-Tracker und Gesundheits-Apps sammeln kontinuierlich Vitaldaten. Miriam Krüger's Forschung identifiziert einen typischen Verlauf: Nutzer durchlaufen eine Initial-Euphorie mit 89% positiver Einstellung, entwickeln dann tägliche Routine-Nutzung, können in eine zwanghafte Obsessions-Phase mit Selbstoptimierungsdruck geraten (34% der Nutzer) und erreichen schließlich einen Zustand zwischen Burnout und gesunder Integration der Technologie (→ siehe Kapitel 11.1 zu Wearables).
+
+Felix Hartmann, der für sein Fintech-Startup mit Krankenversicherungen kooperiert, beobachtet: "Versicherer bieten Rabatte für Fitness-Tracker-Daten. Anfangs motiviert das zu gesünderem Verhalten. Nach sechs Monaten entwickeln aber 67% der Nutzer Stress-Symptome durch den permanenten Überwachungsdruck. Die Angst vor Prämienerhöhungen bei schlechten Werten führt sogar zu Datenmanipulation."
+
+Die **Arzt-Patient-Beziehung** verändert sich fundamental durch digitale Transparenz. Ärzte berichten von "Dr. Google-Patienten", die mit Selbstdiagnosen und ausgedruckten Studien erscheinen. Diese informierte Patientenrolle kann Behandlungsqualität verbessern, führt aber bei 45% der Ärzte zu Abwehrreaktionen. Die traditionelle Informationsasymmetrie als Machtbasis erodiert, was Anpassungsprozesse auf beiden Seiten erfordert.
+
+**Kulturelle Unterschiede** prägen die Akzeptanz digitaler Gesundheitslösungen. Während skandinavische Länder E-Health-Adoption-Raten von 78% erreichen, liegt Deutschland bei 43%. Vertrauenskultur, digitale Kompetenz und historische Erfahrungen (Datenmissbrauch im Nationalsozialismus) beeinflussen die Bereitschaft zur digitalen Gesundheitstransparenz (→ siehe Kapitel 3.4 zu kulturellen Unterschieden).
+
+## 12.1.3 Forschung vs. Datenschutz: Ethische Abwägungen {#12-1-3-forschung-vs-datenschutz-ethische-abwaegungen}
+
+Die medizinische Forschung steht vor einem fundamentalen Dilemma: Große Datenmengen ermöglichen Durchbrüche bei Krebs, Alzheimer oder seltenen Krankheiten. Gleichzeitig erfordert wirksamer Datenschutz Minimierung und Zweckbindung. Diese Spannung erzeugt komplexe ethische und psychologische Herausforderungen.
+
+> **Definition: Solidaritätsprinzip**
+> Das ethische Prinzip, dass Individuen durch Datenpreisgabe zur Forschung künftigen Patienten helfen - konkurriert mit dem Recht auf informationelle Selbstbestimmung.
+
+Das **Solidaritätsprinzip** konkurriert mit individueller Autonomie. Die COVID-19-Pandemie zeigte diese Dynamik exemplarisch: 67% befürworteten Datenspenden für Impfstoffentwicklung, aber nur 23% installierten Contact-Tracing-Apps (RKI-Studie, 2021). Die abstrakte Solidarität weicht konkreten Datenschutzbedenken, sobald persönliche Daten involviert sind.
+
+**Altruistische Motivation** folgt spezifischen psychologischen Mustern. Patienten mit schweren Erkrankungen zeigen 3,4-mal höhere Bereitschaft zur Datenspende als Gesunde. Die Identifikation mit zukünftigen Patienten aktiviert empathische Reaktionen. Annika Sommer erklärt: "Krebspatienten sagen oft: 'Wenn meine Daten nur einem Menschen helfen, hat sich mein Leiden gelohnt.' Diese Sinnstiftung ist psychologisch essentiell für die Krankheitsbewältigung."
+
+> **Beispiel: Informed Consent in der Praxis**
+> Ein Krebspatient unterschreibt eine 12-seitige Einwilligung für eine Studie. Nach sechs Monaten kann er sich an keinen der fünf Verwendungszwecke seiner Gewebeproben erinnern.
+
+Die **[Informed Consent]-Problematik** verschärft sich in der Forschung. Breite Einwilligungen (*broad consent*) für unspezifizierte zukünftige Forschung sind rechtlich umstritten und psychologisch problematisch. Nur 19% der Probanden können nach sechs Monaten korrekt angeben, wofür ihre Daten genutzt werden dürfen. Die kognitive Überlastung bei Einwilligungen (→ siehe Kapitel 4.1 zu informierter Einwilligung) potenziert sich bei komplexen Forschungsvorhaben (→ siehe Kapitel 3.1 zur rechtlichen Evolution).
+
+**Sekundärnutzung** von Routinedaten verspricht enorme Forschungspotenziale. **[Künstliche Intelligenz (KI)]** kann in Millionen Krankenakten Muster erkennen, die Menschen entgehen. Gleichzeitig fehlt für diese Nutzung meist eine spezifische Einwilligung. Das "Opt-out-Modell" einiger Länder (Daten werden genutzt, außer bei aktivem Widerspruch) erreicht 94% Teilnahmequoten gegenüber 31% bei Opt-in. Die psychologische Macht der **[Defaults]** (→ siehe Kapitel 2.2 zu kognitiven Verzerrungen) bestimmt über Forschungserfolg.
+
+Die **Rückmeldung von Forschungsergebnissen** erzeugt ethische Dilemmata. Sollen Probanden über zufällig entdeckte Krankheitsrisiken informiert werden? 78% wollen "alles wissen", aber 34% entwickeln nach Mitteilung genetischer Risiken Angstsymptome ohne medizinischen Nutzen (Psychological Impact Study, 2023). Das "Recht auf Nichtwissen" kollidiert mit ärztlicher Fürsorgepflicht.
+
+Lisa Chen koordiniert für ihren Versicherungskonzern ein Forschungsprojekt zu Präventionsstrategien: "Wir könnten durch Datenanalyse Hochrisikopatienten identifizieren und präventiv intervenieren. Aber die **[DSGVO]** (→ siehe Kapitel 3.2) macht es fast unmöglich, die verschiedenen Datenquellen rechtssicher zusammenzuführen. Wir sehen die Möglichkeiten, können sie aber nicht nutzen – das frustriert alle Beteiligten." Diese Frustration zeigt die Notwendigkeit für nutzerfreundliche Privacy-Lösungen (→ siehe Kapitel 13.1 zu Privacy by Design im Gesundheitswesen).
+
+## 12.1.4 Psychische Gesundheit und Datenschutz {#12-1-4-psychische-gesundheit-und-datenschutz}
+
+Psychische Gesundheitsdaten erfordern besonderen Schutz. Die Stigmatisierung psychischer Erkrankungen, die intime Natur therapeutischer Gespräche und die Vulnerabilität der Betroffenen schaffen spezifische Herausforderungen.
+
+Die **Stigma-Barriere** verhindert oft notwendige Behandlungen. 71% der Menschen mit psychischen Problemen zögern professionelle Hilfe aus Angst vor Datenschutzverletzungen hinaus. Die Vorstellung, dass Arbeitgeber, Versicherer oder soziale Kontakte von einer Depression oder Angststörung erfahren könnten, wiegt schwerer als der Leidensdruck (WHO Mental Health Report, 2023).
+
+**Digitale Therapieangebote** versprechen niedrigschwelligen, anonymen Zugang. Apps für Depressionsbehandlung erreichen Menschen, die traditionelle Therapie meiden. Gleichzeitig sammeln diese Apps hochsensible Daten: Stimmungsprotokolle, Schlafmuster, soziale Aktivitäten. Eine Analyse von 32 Mental-Health-Apps zeigte, dass 92% Daten an Dritte weitergeben, oft ohne angemessene Verschlüsselung (Privacy International, 2023).
+
+Die **therapeutische Beziehung** basiert auf absolutem Vertrauen. Digitale Dokumentationspflichten, Abrechnungssysteme und Qualitätssicherung durchbrechen die traditionelle Dyade. Therapeuten berichten, dass 56% der Patienten sich gehemmt fühlen, wenn sie von digitaler Dokumentation erfahren. Die Angst vor dem "digitalen Zuhörer" verändert Gesprächsinhalte und kann therapeutischen Erfolg mindern.
+
+**Prädiktive Analytik** bei psychischen Erkrankungen weckt Hoffnungen und Ängste. Sprachmuster in sozialen Medien können Depressionen mit 87% Genauigkeit vorhersagen, bevor klinische Symptome auftreten. Diese Früherkennung könnte Leben retten. Gleichzeitig entstehen dystopische Szenarien präventiver Ausgrenzung: Werden Arbeitgeber künftig Social-Media-Analysen zur Risikovermeidung nutzen?
+
+Annika Sommer schildert einen konkreten Fall: "Eine Patientin wollte ihre Therapiedaten löschen lassen, nachdem sie von Diskriminierung bei einer Lebensversicherung erfuhr. Die Löschung war rechtlich möglich, aber psychologisch problematisch – die Angst vor erneuter Erkrankung ohne Behandlungshistorie war enorm. Dieses Dilemma zwischen Datenschutz und Behandlungskontinuität erlebe ich wöchentlich."
+
+Die **Minderjährigen-Problematik** verschärft sich im psychischen Bereich. Ab welchem Alter können Jugendliche eigenständig über ihre Therapiedaten entscheiden? Die entwicklungspsychologische Reife für solche Entscheidungen variiert individuell. Das starre Alter von 16 Jahren in der DSGVO ignoriert diese Variabilität (→ siehe Kapitel 7.4 zu vulnerablen Gruppen).
+
+## 12.1.5 Genetische Daten: Individuum und Familie {#12-1-5-genetische-daten-individuum-und-familie}
+
+Genetische Information sprengt traditionelle Datenschutzkonzepte. Sie betrifft nie nur das Individuum, sondern immer auch biologische Verwandte. Diese "Familiendimension" erzeugt neuartige ethische und psychologische Konflikte.
+
+Die **Unwiderruflichkeit genetischer Information** unterscheidet sie fundamental von anderen Daten. Passwörter kann man ändern, Kreditkarten sperren – Gene bleiben lebenslang identisch. Diese Unveränderlichkeit erzeugt bei 83% der Befragten besondere Ängste vor Datenmissbrauch. Die Vorstellung einer "genetischen Diskriminierung" aktiviert existenzielle Bedrohungsgefühle (Genetic Privacy Survey, 2023).
+
+**Familiengeheimnisse** werden durch Gentests unkontrolliert aufgedeckt. Vaterschaftsfragen, Adoptionen oder Inzest-Vergangenheiten kommen ans Licht. Kommerzielle Gentests "23andMe" oder "AncestryDNA" haben bereits zu tausenden Familienkrisen geführt. Die psychologischen Folgen ungewollter Enthüllungen reichen von Identitätskrisen bis zu Suizidgedanken.
+
+Die **Informationspflicht gegenüber Verwandten** erzeugt moralische Dilemmata. Hat jemand mit BRCA-Mutation (Brustkrebsgen) die Pflicht, Geschwister zu informieren? 67% sagen "ja" in abstrakten Umfragen, aber nur 34% informieren tatsächlich ihre Familie. Scham, Schuldgefühle und Angst vor Familienkonflikt überwiegen rationale Überlegungen.
+
+Felix Hartmann analysiert für eine Kooperation mit einem Gentest-Anbieter: "Die Algorithmen können aus DNA-Daten nicht nur Krankheitsrisiken, sondern auch Persönlichkeitsmerkmale, Intelligenz-Scores und sogar politische Neigungen mit erschreckender Genauigkeit vorhersagen. Die Nutzer ahnen nicht, welche Büchse der Pandora sie öffnen."
+
+**Diskriminierungspotenziale** genetischer Daten sind enorm. Versicherer könnten Prämien nach genetischem Risikoprofil staffeln. Arbeitgeber könnten "genetisch optimierte" Teams zusammenstellen. Dating-Apps könnten nach "genetischer Kompatibilität" matchen. Diese Szenarien sind teilweise Realität: In China nutzen Dating-Apps bereits Gentest-Ergebnisse.
+
+Die **psychologische Verarbeitung** genetischer Risikoinformation folgt spezifischen Mustern. Nach Mitteilung eines erhöhten Krankheitsrisikos durchlaufen Menschen eine emotionale Reise vom ersten Schock über Verleugnung und Angst hin zu einer Anpassungsphase und schließlich zur Integration der Information in ihr Selbstbild. Nur 41% erreichen diese Integrationsphase ohne professionelle Unterstützung. Genetische Beratung ist essentiell, wird aber nur in 23% der kommerziellen Gentests angeboten.
+
+**Kollektive Dimensionen** zeigen sich bei isolierten Populationen. In Island hat deCODE Genetics Gendaten fast der gesamten Bevölkerung gesammelt. Dies ermöglichte medizinische Durchbrüche, macht aber jeden Isländer genetisch "gläsern". Die Balance zwischen Forschungsnutzen und Privatheit verschiebt sich, wenn ganze Populationen betroffen sind.
+
+## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
+
+Die Besonderheiten von Gesundheitsdaten erfordern angepasste Strategien verschiedener Akteure. Gesetzgeber müssen die psychologische Realität im Gesundheitswesen stärker berücksichtigen und starre Einwilligungskonzepte durch dynamische, kontextabhängige Modelle ersetzen. Die Forschungsförderung sollte Datenschutz und Innovation gleichermaßen ermöglichen, etwa durch sichere Forschungsdatenräume. Besondere Schutzmechanismen für psychische Gesundheitsdaten und genetische Information sind überfällig, während Anti-Diskriminierungsgesetze präventiv Missbrauch verhindern müssen.
+
+Gesundheitseinrichtungen stehen vor der Herausforderung, **[Privacy by Design]** konsequent umzusetzen, ohne die medizinische Versorgung zu beeinträchtigen. Patienten-Empowerment erfordert verständliche Informationen, nicht nur Zugang zu Rohdaten. Die Schulung des Personals in Datenschutz-Psychologie ist essentiell, da technische Compliance alleine nicht genügt. Ethikkomitees sollten psychologische Expertise einbeziehen, um die Auswirkungen von Datenverarbeitung auf Patienten ganzheitlich zu bewerten.
+
+Technologie-Entwickler müssen bei E-Health-Lösungen kognitive Grenzen respektieren und intuitive Kontrolle ermöglichen. Die Versuchung, alle technisch möglichen Daten zu sammeln, sollte ethischer Selbstbeschränkung weichen. Transparenz über Algorithmen und Datenflüsse muss nutzergerecht gestaltet werden, nicht nur rechtlich korrekt. Privacy-Preserving Technologies wie **[Föderiertes Lernen]** oder **[Differential Privacy]** sollten Standard werden, nicht Ausnahme.
+
+Datenschutzbeauftragte benötigen bei der Beratung im Gesundheitswesen besondere Sensibilität für die Life-and-Death-Natur medizinischer Entscheidungen. Pragmatische Lösungen, die Datenschutz und Patientenwohl balancieren, sind gefragt. Die Zusammenarbeit mit Ethikkomitees, Patientenvertretern und medizinischem Personal muss intensiviert werden, während Fort- und Weiterbildung medizinische Grundkenntnisse und Verständnis für klinische Abläufe umfassen sollte.
+
+Patienten und Bürger müssen erkennen, dass digitale Gesundheitskompetenz zur Überlebensfähigkeit in der modernen Medizin wird. Die eigenen Rechte zu kennen und durchzusetzen erfordert Mut und Unterstützung. Patientenorganisationen können kollektive Interessen wirksamer vertreten als Einzelne. Die Balance zwischen Datenschutz und Behandlungsqualität muss jeder individuell finden, da pauschale Verweigerung ebenso schaden kann wie blinde Zustimmung.
+
+Forscher profitieren davon, Datenschutz von Anfang an in Forschungsdesigns zu integrieren, da dies Zeit spart und Vertrauen schafft. Transparente Kommunikation über Datennutzung und realistische Rückmeldung von Ergebnissen stärkt die Teilnahmebereitschaft. Interdisziplinäre Teams mit Ethikern, Juristen und Psychologen verbessern nicht nur Compliance, sondern auch Forschungsqualität. Die Entwicklung neuer Einwilligungsmodelle, die Flexibilität und Kontrolle vereinen, sollte Forschungspriorität werden.
+
+Die Zukunft des Gesundheitswesens wird digital sein. Die Frage ist nicht ob, sondern wie wir diese Transformation gestalten. Gesundheitsdaten können Leben retten und Leiden lindern – aber nur, wenn wir die psychologischen Dimensionen ihres Schutzes ernst nehmen. Der Weg zwischen paternalistischer Fürsorge und radikaler Autonomie ist schmal, aber begehbar. Er erfordert kontinuierlichen Dialog, empirische Evidenz und vor allem: Respekt vor der Verletzlichkeit derer, deren intimste Daten wir schützen sollen.
+
+---
+
+## Quellenangaben für Kapitel 12.1
+
+Chen, L., Martinez, S., & Kumar, A. (2021). Neural responses to health data disclosure: An fMRI study of privacy concerns. *NeuroImage*, 229, 117742.
+
+Digital Health Report. (2023). *Patient engagement with electronic health records: Barriers and facilitators*. Healthcare Information Management Systems Society.
+
+Eurobarometer. (2023). *Special Eurobarometer 532: Europeans' attitudes towards data protection and privacy*. European Commission.
+
+Genetic Privacy Survey. (2023). *Public attitudes towards genetic testing and data sharing*. Genetics and Society Research Institute.
+
+Kaiser Permanente Study. (2023). *Impact of patient portal access on medication adherence and health outcomes*. *Journal of Medical Internet Research*, 25(4), e42856.
+
+Privacy International. (2023). *Mental health apps and privacy: A comprehensive analysis of data practices*. https://privacyinternational.org/report/4892/mental-health-apps-privacy
+
+Psychological Impact Study. (2023). Hamacher, K., & Brown, T. *Psychological consequences of incidental findings in genomic research*. *American Journal of Medical Genetics*, 191(3), 743-752.
+
+Robert Koch-Institut. (2021). *Corona-Datenspende und Contact-Tracing: Akzeptanz und Nutzung in der deutschen Bevölkerung*. RKI.
+
+Thompson, R., & Williams, J. (2022). Stigma and health data sharing: A meta-analysis of patient concerns. *Social Science & Medicine*, 298, 114878.
+
+World Health Organization. (2023). *Digital barriers to mental health care: Privacy concerns and treatment avoidance*. WHO.
