@@ -1,6 +1,8 @@
 project:
   type: book
   output-dir: _site
+  resources:
+    - custom/CNAME
 
 book:
   title: "Die Psychologie des Datenschutzrechts"
