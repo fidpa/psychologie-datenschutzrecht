@@ -15,9 +15,7 @@ book:
         - "Zertifizierter Berater im Datenschutzrecht (FernUniversität in Hagen)"
   version: "v0.1.0"
   description: |
-    Ein interdisziplinäres Nachschlagewerk zur Verbindung von Psychologie,
-    Datenschutzrecht und Praxis. Dieses Werk entstand in Zusammenarbeit mit
-    KI-Systemen (Claude, Anthropic) und wird offen als v0.1.0 veröffentlicht.
+    Ein interdisziplinäres Nachschlagewerk zur Verbindung von Psychologie und Datenschutzrecht.
   license: "CC BY 4.0"
   language: de
   search: true
@@ -26,7 +24,7 @@ book:
   page-footer:
     center: |
       © 2026 Marc Allgeier · Inhalt: [CC BY 4.0](LICENSE-CONTENT.md) · Code: [MIT](LICENSE) ·
-      Entstanden mit KI-Unterstützung (Claude, Anthropic) · v0.1.0 · [datenschutz-psychologie.de](https://datenschutz-psychologie.de)
+      v0.1.0 · [datenschutz-psychologie.de](https://datenschutz-psychologie.de)
   navbar:
     background: primary
     search: true
