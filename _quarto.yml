@@ -7,7 +7,12 @@ project:
 book:
   title: "Die Psychologie des Datenschutzrechts"
   subtitle: "Mensch, Daten und Recht im digitalen Zeitalter"
-  author: "Marc Allgeier"
+  author:
+    - name: "Marc Allgeier"
+      affiliations:
+        - "Diplom-Psychologe"
+        - "Fachinformatiker für Daten- und Prozessanalyse"
+        - "Zertifizierter Berater im Datenschutzrecht (FernUniversität in Hagen)"
   date: "2026"
   date-format: "YYYY"
   version: "v0.1.0"
