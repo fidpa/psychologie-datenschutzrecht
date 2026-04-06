@@ -11,7 +11,7 @@ sind lizenziert unter der **Creative Commons Attribution 4.0 International Lizen
 - **Namensnennung** – Sie müssen angemessene Urheber- und Rechteangaben machen:
 
   > Marc Allgeier: *Die Psychologie des Datenschutzrechts. Mensch, Daten und Recht im digitalen Zeitalter.*
-  > https://www.psychologie-datenschutzrecht.de – CC BY 4.0
+  > https://datenschutz-psychologie.de – CC BY 4.0
 
 **Hinweis zur KI-Unterstützung:**
 Dieses Werk entstand in wesentlichen Teilen in Zusammenarbeit mit KI-Systemen

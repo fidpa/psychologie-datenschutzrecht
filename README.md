@@ -5,7 +5,7 @@
 Ein interdisziplinäres Open-Access-Nachschlagewerk zur Verbindung von Psychologie,
 Datenschutzrecht und Praxis.
 
-🌐 **Website:** https://www.psychologie-datenschutzrecht.de
+🌐 **Website:** https://datenschutz-psychologie.de
 
 ---
 
@@ -58,4 +58,4 @@ quarto preview
 | **Code** (Quarto-Konfiguration, CSS, Workflows) | [MIT](LICENSE) |
 
 Bei Nutzung des Inhalts bitte angeben:
-> Marc Allgeier: *Die Psychologie des Datenschutzrechts* – https://www.psychologie-datenschutzrecht.de – CC BY 4.0
+> Marc Allgeier: *Die Psychologie des Datenschutzrechts* – https://datenschutz-psychologie.de – CC BY 4.0
