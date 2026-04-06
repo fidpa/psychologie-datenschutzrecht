@@ -35,6 +35,7 @@ book:
 
   chapters:
     - index.qmd
+    - inhaltsverzeichnis.qmd
     - part: "Teil I: Theoretische Grundlagen"
       chapters:
         - kapitel/teil-1/1-1.qmd
