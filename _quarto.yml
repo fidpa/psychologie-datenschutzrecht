@@ -152,6 +152,12 @@ comments:
     loading: lazy
     language: de
 
+language:
+  title-block-author-single: "Autor"
+  title-block-author-plural: "Autoren"
+  title-block-affiliation-single: "Qualifikationen"
+  title-block-affiliation-plural: "Qualifikationen"
+
 format:
   html:
     theme: cosmo
