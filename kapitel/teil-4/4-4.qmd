@@ -18,7 +18,7 @@ Dr. Annika Sommer sitzt in einem Usability-Labor des Universitätsklinikums Hamb
 
 "Testperson 23 hat aufgegeben", meldet ihr Assistent. "Sie sagte wörtlich: 'Ich würde lieber meine Steuererklärung lesen. Die ist wenigstens relevant für mich.'"
 
-Annika, die sich mit ihrer Doppelqualifikation in Jura und Psychologie intensiv mit **Legal Design** beschäftigt, schüttelt den Kopf. "Wir haben ein fundamentales Problem. Diese Dokumente erfüllen vielleicht juristische Anforderungen, aber sie verfehlen ihren eigentlichen Zweck komplett: Menschen zu informieren."
+Annika, die sich mit ihrer Doppelqualifikation in Jura und Psychologie intensiv mit **Legal Design** beschäftigt, schüttelt den Kopf. "Wir haben ein strukturelles Problem. Diese Dokumente erfüllen vielleicht juristische Anforderungen, aber sie verfehlen ihren eigentlichen Zweck komplett: Menschen zu informieren."
 
 Annika öffnet ihr Redesign-Konzept. Statt 67 Seiten Fließtext zeigt es eine interaktive Grafik. Datenflüsse werden als animierte Linien dargestellt. Komplexe Konzepte sind in verständliche Häppchen aufgeteilt. "Schau dir das an", sagt sie zu ihrem Assistenten. "Gleicher Inhalt, aber so aufbereitet, dass Menschen ihn tatsächlich verstehen können."
 
@@ -71,10 +71,10 @@ Ergebnis für Datenschutzerklärungen: 4,2 von 20 Punkten (sehr unverständlich)
 
 **1. Juristische Fachsprache**:
 Begriffe, die Laien nicht verstehen:
-- "Auftragsverarbeitung" (91% unklar)
-- "Berechtigtes Interesse" (87% unklar)
-- "Gemeinsam Verantwortliche" (94% unklar)
-- "Drittland-Transfer" (96% unklar)
+- "Auftragsverarbeitung" (für Laien typischerweise unklar)
+- "Berechtigtes Interesse" (juristischer Fachbegriff ohne Alltagsentsprechung)
+- "Gemeinsam Verantwortliche" (begrifflich mehrdeutig)
+- "Drittland-Transfer" (erfordert Kenntnisse des internationalen Datenschutzrechts)
 
 **2. Nominalstil-Dominanz**:
 Statt: "Wir speichern Ihre Daten"
@@ -90,12 +90,12 @@ Ein Beispiel aus einer realen Erklärung zeigt das Problem deutlich. Dieser eine
 
 **Psycholinguistische Verarbeitungsprobleme**
 
-**Working Memory Overload** (→ siehe Kapitel 4.1.2):
+**Working Memory Overload** (→ siehe Kapitel 4.1):
 - Lange Sätze übersteigen 7±2 Regel
 - Verschachtelte Informationen nicht prozessierbar
 - Abstrakte Konzepte belasten zusätzlich
 
-**Cognitive Load Theory** (Sweller → siehe Kapitel 2.2.4):
+**Cognitive Load Theory** (Sweller):
 Drei Arten kognitiver Belastung:
 1. **Intrinsische Last**: Komplexität des Themas
 2. **Extrinsische Last**: Schlechte Darstellung
@@ -119,10 +119,7 @@ Effekt:
 Passiv: "Von uns werden Cookies verwendet."
 Aktiv: "Wir verwenden Cookies."
 
-Studie (Meyer, 2024): Aktiv-Formulierungen
-- Verständnis: +34%
-- Merkfähigkeit: +47%
-- Vertrauen: +23%
+Studien zeigen: Aktiv-Formulierungen verbessern Verständnis, Merkfähigkeit und Vertrauen im Vergleich zu passiven Konstruktionen erheblich.
 
 **3. Beispiele und Analogien**:
 Abstrakt: "Pseudonymisierung der Nutzungsdaten"
@@ -135,18 +132,15 @@ Wirkung:
 
 **Empirische Validierung**
 
-**A/B-Test: Traditional vs. Optimized** (n=2.400):
+**A/B-Tests: Traditional vs. Optimized:**
 
-| Metrik | Traditionell | Optimiert | Verbesserung |
-|--------|--------------|-----------|--------------|
-| **Lesequote** | 8% | 47% | +488% |
-| **Verständnistest** | 19% | 72% | +279% |
-| **Erinnerung (24h)** | 6% | 43% | +617% |
-| **Handlungsabsicht** | 11% | 58% | +427% |
+Studien deuten darauf hin, dass optimierte Datenschutzerklärungen gegenüber traditionellen Texten erheblich besser abschneiden: Lesequote, Verständnistest-Ergebnisse, Erinnerungsleistung nach 24 Stunden und Handlungsabsicht verbessern sich deutlich.
+
+**Weiterführende Kapitel:** → 2.2
 
 ## 4.4.2 Visualisierung von Datenflüssen und Risiken {#4-4-2-visualisierung-von-datenfluessen-und-risiken}
 
-Menschen sind visuelle Wesen. 65% der Bevölkerung sind visuelle Lerner, und das Gehirn verarbeitet visuelle Information 60.000 Mal schneller als Text. Diese Erkenntnisse müssen in die Gestaltung von Datenschutzinformationen einfließen.
+Menschen sind visuelle Wesen. Visuelle Lernformen sind in der Bevölkerung weit verbreitet, und das Gehirn verarbeitet visuelle Information deutlich schneller als rein textuelle. Diese Erkenntnisse müssen in die Gestaltung von Datenschutzinformationen einfließen.
 
 **Die Macht der Visualisierung**
 
@@ -165,14 +159,7 @@ Anwendung auf Datenschutz:
 - Zeiträume als Zeitleisten
 - Empfänger als Netzwerke
 
-**Empirische Studie: Visual Privacy** (Stanford d.school, 2024):
-1.000 Teilnehmer, randomisiert:
-- Gruppe A: Traditionelle Textform
-- Gruppe B: Visualisierte Datenschutzerklärung
-
-| Metrik | Traditionell | Visualisiert | Verbesserung |
-|--------|--------------|--------------|--------------|
-Das **Verständnis der Datenflüsse** verbesserte sich von 17% auf 76%. Die **Identifikation von Risiken** stieg von 22% auf 81%. Das **Bewusstsein für Drittparteien** wuchs von 14% auf 69%. **Aktive Privatsphäre-Anpassungen** stiegen von 9% auf 41%.
+Studien zeigen: Visualisierte Datenschutzerklärungen verbessern im Vergleich zu rein textlichen Erklärungen das Verständnis von Datenflüssen, die Identifikation von Risiken, das Bewusstsein für Drittparteien und die aktiven Privatsphäre-Anpassungen erheblich.
 
 **Effektive Visualisierungstechniken**
 
@@ -283,7 +270,7 @@ Adoption:
 
 ## 4.4.3 Layered Notices und Progressive Disclosure {#4-4-3-layered-notices-und-progressive-disclosure}
 
-Das Konzept der geschichteten Informationen (Layered Notices) adressiert das fundamentale Dilemma zwischen rechtlicher Vollständigkeit und kognitiver Verarbeitbarkeit.
+Das Konzept der geschichteten Informationen (Layered Notices) adressiert das unauflösbare Dilemma zwischen rechtlicher Vollständigkeit und kognitiver Verarbeitbarkeit.
 
 **Das Schichtenprinzip**
 
@@ -301,10 +288,7 @@ Die zweite **Schicht** bietet Details in Kategorien. Sie erklärt erweiterte Zwe
 
 Die dritte **Schicht** liefert vollständige juristische Details. Sie enthält alle Eventualitäten und Gesetzesverweise. Die Lesedauer beträgt 20+ Minuten.
 
-**Empirische Validierung** (EU-Pilot 2023-2024):
-50 Unternehmen, 500.000 Nutzer:
-
-Die erste Schicht erreicht 78% der Nutzer mit 47 Sekunden Verweildauer und 71% Verständnis. Die zweite Schicht nutzen 24% der Nutzer für durchschnittlich 3:12 Minuten bei 83% Verständnis. Die dritte Schicht lesen nur 3% für 8:34 Minuten, erreichen aber 91% Verständnis. Traditionelle Erklärungen erreichen zwar 100% der Nutzer für 31 Sekunden, aber nur 19% Verständnis.
+Studien zu geschichteten Datenschutzerklärungen zeigen: Die erste Schicht erreicht den größten Teil der Nutzer mit kurzer Verweildauer und solider Verständnisrate. Weitergehende Schichten werden von immer weniger Nutzern gelesen, erreichen diese aber mit erheblich tieferem Verständnis. Traditionelle Erklärungen erreichen zwar alle Nutzer, erzielen aber die niedrigsten Verständniswerte.
 
 > **Infobox: Die 80-20-Regel der Datenschutz-Information**
 > **80% der Nutzer** brauchen nur **20% der Information**
@@ -417,7 +401,7 @@ Ironie: Um Datenschutzinformationen zu personalisieren, braucht man Daten über 
 - Rohdaten-Export
 - Technische Spezifikationen
 
-**2. Kultureller Kontext** (→ siehe Kapitel 3.4):
+**2. Kultureller Kontext**:
 
 *Individualistisch (USA, UK)*:
 - Fokus auf persönliche Kontrolle
@@ -518,6 +502,8 @@ Ergebnisse:
 - Verständnis: +156%
 - Kontrollausübung: +234%
 
+**Weiterführende Kapitel:** → 3.4
+
 ## 4.4.5 Testing und Iteration: Der nutzerzentrierte Ansatz {#4-4-5-testing-und-iteration-der-nutzerzentrierte-ansatz}
 
 Gute Datenschutzerklärungen entstehen nicht am Reißbrett, sondern durch iterative Verbesserung basierend auf echtem Nutzerfeedback.
@@ -570,7 +556,7 @@ Die **Haupterkenntnisse** waren eindeutig. 94% fanden die Erklärungen "zu lang"
 
 **1. Comprehension Testing**:
 Methode: Nach Lesen Fragen beantworten
-- "Wofür nutzen wir Ihre Email?"
+- "Wofür nutzen wir Ihre E-Mail?"
 - "Wer kann Ihre Daten sehen?"
 - "Wie können Sie widersprechen?"
 

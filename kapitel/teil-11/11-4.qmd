@@ -17,7 +17,7 @@ Die Versprechen sind verlockend: Transparenz ohne Überwachung, Sicherheit ohne 
 
 ## 11.4.1 Vertrauen ohne zentrale Autorität {#11-4-1-vertrauen-ohne-zentrale-autorität}
 
-Die Blockchain stellt ein fundamentales Paradigma der menschlichen Gesellschaft in Frage: die Notwendigkeit vertrauenswürdiger Intermediäre. Seit Jahrtausenden organisieren Menschen ihr Zusammenleben durch zentrale Autoritäten – von Stammesältesten über Könige bis zu modernen Institutionen wie Banken und Regierungen. Die Blockchain verspricht, diese Strukturen obsolet zu machen. Doch wie reagiert die menschliche Psyche auf diesen radikalen Wandel?
+Die Blockchain stellt ein tragendes Paradigma der menschlichen Gesellschaft in Frage: die Notwendigkeit vertrauenswürdiger Intermediäre. Seit Jahrtausenden organisieren Menschen ihr Zusammenleben durch zentrale Autoritäten – von Stammesältesten über Könige bis zu modernen Institutionen wie Banken und Regierungen. Die Blockchain verspricht, diese Strukturen obsolet zu machen. Doch wie reagiert die menschliche Psyche auf diesen radikalen Wandel?
 
 ### Die Psychologie institutionellen Vertrauens
 
@@ -34,17 +34,17 @@ Die Rechenschaftspflicht stellt einen weiteren kritischen Punkt dar. Bei Problem
 
 Die Idee des "*trustless trust*" – Vertrauen ohne Vertrauenswürdigkeit – stellt ein psychologisches Paradoxon dar, das unser Gehirn nur schwer verarbeiten kann. Die Analyse der kognitiven Verarbeitung zeigt drei Hauptprobleme, die Menschen beim Verstehen und Akzeptieren dezentraler Vertrauenssysteme haben.
 
-Das erste Problem ist die **Abstraktionsüberforderung**. Verteilte Konsensmechanismen übersteigen die Alltagserfahrung fundamental. "Die Bank verwahrt mein Geld" ist intuitiv verständlich und knüpft an Tresore an. "Computer validieren Transaktionen durch kryptographische Beweise" bleibt für die meisten eine abstrakte Worthülse. Unser Gehirn ist für konkrete Objekte und soziale Interaktionen ausgelegt, nicht für verteilte Algorithmen.
+Das erste Problem ist die **Abstraktionsüberforderung**. Verteilte Konsensmechanismen übersteigen die Alltagserfahrung bei weitem. "Die Bank verwahrt mein Geld" ist intuitiv verständlich und knüpft an Tresore an. "Computer validieren Transaktionen durch kryptographische Beweise" bleibt für die meisten eine abstrakte Worthülse. Unser Gehirn ist für konkrete Objekte und soziale Interaktionen ausgelegt, nicht für verteilte Algorithmen.
 
 Das zweite Problem betrifft die **Wahrnehmung von Kontrolle**. Blockchain verspricht mehr Kontrolle durch Intermediär-Eliminierung – "Be your own bank" ist ein beliebter Krypto-Slogan. Paradoxerweise erleben viele Nutzer Kontrollverlust. Sie verstehen die Technologie nicht, haben keine Ansprechpartner bei Problemen und fühlen sich ausgeliefert. Diese Diskrepanz zwischen versprochener und erlebter Kontrolle erzeugt Stress.
 
-Das dritte Problem ist der **Vertrauenstransfer**. Statt "trustless" zu agieren, übertragen Menschen Vertrauen auf neue Akteure – Wallet-Entwickler, Exchanges, Mining-Pools. Dies unterläuft die Dezentralisierung und zeigt ein fundamentales Bedürfnis nach Intermediären, auch wenn Technologie diese überflüssig machen könnte.
+Das dritte Problem ist der **Vertrauenstransfer**. Statt "trustless" zu agieren, übertragen Menschen Vertrauen auf neue Akteure – Wallet-Entwickler, Exchanges, Mining-Pools. Dies unterläuft die Dezentralisierung und zeigt ein tief sitzendes Bedürfnis nach Intermediären, auch wenn Technologie diese überflüssig machen könnte.
 
 ### Psychologische Mechanismen der Blockchain-Akzeptanz
 
 Trotz dieser erheblichen psychologischen Barrieren zeigen einige Nutzergruppen eine hohe Akzeptanz von Blockchain-Technologien. Eine Längsschnittstudie des MIT (2023) identifizierte mehrere Faktoren, die erfolgreiche Adoption begünstigen.
 
-Die **narrative Einbettung** spielt eine zentrale Rolle. Nutzer, die Blockchain als Teil einer größeren Geschichte verstehen – sei es die Demokratisierung des Finanzsystems, die Befreiung von staatlicher Kontrolle oder die Ermöglichung einer faireren Wirtschaft – zeigen eine 78% höhere Akzeptanz als solche, die nur die technischen Aspekte sehen. Diese Narrative geben der abstrakten Technologie einen Sinn und eine Richtung, die über die reine Funktionalität hinausgeht.
+Die **narrative Einbettung** spielt eine zentrale Rolle. Nutzer, die Blockchain als Teil einer größeren Geschichte verstehen – sei es darum, das Finanzsystem zu demokratisieren, sich von staatlicher Kontrolle zu befreien oder eine fairere Wirtschaft zu ermöglichen – zeigen eine 78% höhere Akzeptanz als solche, die nur die technischen Aspekte sehen. Diese Narrative geben der abstrakten Technologie einen Sinn und eine Richtung, die über die reine Funktionalität hinausgeht.
 
 Die **schrittweise Exposition** folgt dem psychologischen Prinzip des "*Foot-in-the-Door*"-Effekts. Nutzer, die mit einfachen Anwendungen beginnen, etwa dem Kauf kleiner Mengen von Kryptowährungen, entwickeln graduell Vertrauen in komplexere Anwendungen. Dieser Prozess der schrittweisen Vertrauensbildung umgeht die initiale Überforderung und ermöglicht es Menschen, in ihrem eigenen Tempo Kompetenz und Vertrauen aufzubauen.
 
@@ -55,19 +55,19 @@ Die **soziale Validierung** erweist sich als stärkste Vertrauensquelle. 67% der
 
 ## 11.4.2 Unveränderlichkeit vs. Recht auf Löschung {#11-4-2-unveränderlichkeit-vs-recht-auf-löschung}
 
-Die Unveränderlichkeit (*Immutability*) ist ein Kernmerkmal der Blockchain-Technologie. Einmal eingetragene Daten können nicht mehr gelöscht oder verändert werden – sie sind für immer in der Kette der Blöcke verewigt. Diese technische Eigenschaft kollidiert fundamental mit dem **[Recht auf Vergessenwerden]** (→ siehe Kapitel 6.2) und schafft neue psychologische Herausforderungen, die weit über rechtliche Fragen hinausgehen.
+Die Unveränderlichkeit (*Immutability*) ist ein Kernmerkmal der Blockchain-Technologie. Einmal eingetragene Daten können nicht mehr gelöscht oder verändert werden – sie sind für immer in der Kette der Blöcke verewigt. Diese technische Eigenschaft steht in unversöhnlichem Widerspruch zum **[Recht auf Vergessenwerden]** (→ siehe Kapitel 6.2) und schafft neue psychologische Herausforderungen, die weit über rechtliche Fragen hinausgehen.
 
 ### Die Psychologie der digitalen Permanenz
 
-Menschen sind evolutionär auf Vergessen programmiert. Diese scheinbare Schwäche unseres Gedächtnisses ist in Wahrheit eine adaptive Stärke. Das Vergessen erfüllt wichtige psychologische Funktionen: Es ermöglicht emotionale Heilung, da negative Erinnerungen mit der Zeit verblassen. Es erlaubt Identitätsentwicklung, da Menschen sich verändern können, ohne permanent von ihrer Vergangenheit definiert zu werden. Zudem schafft es Fehlertoleranz, die fundamental für menschliches Lernen ist.
+Menschen sind evolutionär auf Vergessen programmiert. Diese scheinbare Schwäche unseres Gedächtnisses ist in Wahrheit eine adaptive Stärke. Das Vergessen erfüllt wichtige psychologische Funktionen: Es ermöglicht emotionale Heilung, da negative Erinnerungen mit der Zeit verblassen. Es erlaubt Identitätsentwicklung, da Menschen sich verändern können, ohne permanent von ihrer Vergangenheit definiert zu werden. Zudem schafft es Fehlertoleranz, die für menschliches Lernen unverzichtbar ist.
 
 Die Blockchain macht diese natürlichen Prozesse unmöglich. Jeder Fehler, jede Peinlichkeit, jede Fehlentscheidung wird permanent festgehalten. Eine Studie der Universität Cambridge (2023) untersuchte die psychologischen Effekte mit beunruhigenden Ergebnissen: 73% der Teilnehmer berichteten von erhöhter Angst vor Fehlern. 56% zeigten Anzeichen von "Blockchain-Anxiety" – einer spezifischen Angst vor unwiderruflichen digitalen Entscheidungen. 41% vermieden Blockchain-basierte Systeme komplett aus Angst vor der Permanenz ihrer Daten.
 
-Die psychologischen Auswirkungen gehen noch tiefer. Menschen, die wissen, dass ihre Aktionen permanent aufgezeichnet werden, zeigen Verhaltensänderungen, die an die Effekte permanenter Überwachung erinnern. Sie werden vorsichtiger, weniger experimentierfreudig, konformistischer. Die Möglichkeit des Vergessens und des Neuanfangs ist fundamental für psychische Gesundheit und persönliches Wachstum – die Blockchain nimmt uns diese Möglichkeit.
+Die psychologischen Auswirkungen gehen noch tiefer. Menschen, die wissen, dass ihre Aktionen permanent aufgezeichnet werden, zeigen Verhaltensänderungen, die an die Effekte permanenter Überwachung erinnern. Sie werden vorsichtiger, weniger experimentierfreudig, konformistischer. Die Möglichkeit des Vergessens und des Neuanfangs ist für psychische Gesundheit und persönliches Wachstum unverzichtbar – die Blockchain nimmt uns diese Möglichkeit.
 
 ### Das Löschungsdilemma
 
-Die Kollision zwischen Blockchain-Unveränderlichkeit und rechtlichem Löschungsanspruch schafft ein unlösbares Dilemma. Die DSGVO verlangt Datenlöschung als fundamentales Recht. Die Blockchain macht diese Löschung technisch unmöglich. Verschiedene Lösungsansätze haben alle erhebliche Nachteile:
+Die Kollision zwischen Blockchain-Unveränderlichkeit und rechtlichem Löschungsanspruch schafft ein unlösbares Dilemma. Die DSGVO verlangt Datenlöschung als unveräußerliches Recht. Die Blockchain macht diese Löschung technisch unmöglich. Verschiedene Lösungsansätze haben alle erhebliche Nachteile:
 
 **Off-Chain-Storage** speichert nur kryptographische Hashes auf der Blockchain, während eigentliche Daten extern bleiben. Dies untergräbt die Dezentralisierung. **Verschlüsselung mit Schlüsselvernichtung** macht Daten unlesbar, aber sie bleiben erhalten – schwacher Trost für Menschen, die echte Löschung wollen. **Editierbare Blockchains** widersprechen der Unveränderlichkeit.
 
@@ -92,7 +92,7 @@ Einige Nutzergruppen, besonders aus der frühen Krypto-Community, haben eine **"
 
 ## 11.4.3 Pseudonymität und Identitätsmanagement {#11-4-3-pseudonymität-und-identitätsmanagement}
 
-Blockchain-Systeme bieten typischerweise Pseudonymität statt echter Anonymität. Transaktionen sind öffentlich einsehbar und nachvollziehbar, aber zunächst nicht direkt mit realen Identitäten verknüpft. Diese Pseudonymität schafft einzigartige psychologische Dynamiken, die sich fundamental von sowohl vollständiger Anonymität als auch vollständiger Transparenz unterscheiden.
+Blockchain-Systeme bieten typischerweise Pseudonymität statt echter Anonymität. Transaktionen sind öffentlich einsehbar und nachvollziehbar, aber zunächst nicht direkt mit realen Identitäten verknüpft. Diese Pseudonymität schafft einzigartige psychologische Dynamiken, die sich sowohl von vollständiger Anonymität als auch vollständiger Transparenz unterscheiden.
 
 ### Die Illusion der Anonymität
 
@@ -133,14 +133,14 @@ Ein fundamentales **Dilemma** entsteht zwischen dem Aufbau von Reputation und de
 
 ### Die Psychologie des Kontrollverlusts
 
-Smart Contracts nehmen Menschen etwas, was fundamental für unser Rechtssystem und unsere sozialen Interaktionen ist: die Möglichkeit der nachträglichen Verhandlung, der Kulanz, der situativen Anpassung. Dies löst spezifische psychologische Reaktionen aus, die tief in unserer evolutionären Geschichte verwurzelt sind.
+Smart Contracts nehmen Menschen etwas, was tragend für unser Rechtssystem und unsere sozialen Interaktionen ist: die Möglichkeit der nachträglichen Verhandlung, der Kulanz, der situativen Anpassung. Dies löst spezifische psychologische Reaktionen aus, die tief in unserer evolutionären Geschichte verwurzelt sind.
 
 Die **Automatisierungsangst**, die Smart Contracts auslösen, ist mehr als nur Technikskepsis. Die Vorstellung, dass ein Programm unwiderruflich über wichtige Aspekte des Lebens entscheidet – sei es die Auszahlung einer Versicherung, die Übertragung von Eigentum oder die Ausführung von Strafzahlungen – erzeugt bei vielen Menschen tiefes Unbehagen. Eine experimentelle Studie des *Behavioral Blockchain Lab* (2023) quantifizierte diese Reaktionen:
 - 71% der Teilnehmer fühlten sich unwohl bei der Vorstellung automatischer Vertragsausführung ohne menschliche Überprüfung
 - 84% wünschten sich eine "Notbremse" für Smart Contracts, auch wenn dies dem Grundprinzip widerspricht
 - 92% bevorzugten menschliche Schlichter bei Streitigkeiten, selbst wenn diese potenziell voreingenommen oder korrupt sein könnten
 
-Der **"Fluch der Spezifikation"** stellt eine weitere psychologische Hürde dar. Smart Contracts erfordern, dass alle möglichen Eventualitäten im Voraus bedacht und codiert werden. Dies überfordert die menschliche Fähigkeit zur Zukunftsplanung fundamental. Prof. Dr. Miriam Krüger, die die psychologischen Aspekte von Smart Contracts erforscht, erklärt: "Menschen sind notorisch schlecht darin, alle möglichen Zukunftsszenarien vorherzusehen. Wir verlassen uns auf implizites Verständnis, soziale Normen, die Möglichkeit der Nachverhandlung. Die Rigidität von Smart Contracts steht im fundamentalen Konflikt mit unserer Präferenz für Flexibilität und unserer Unfähigkeit, die Zukunft vollständig zu antizipieren."
+Der **"Fluch der Spezifikation"** stellt eine weitere psychologische Hürde dar. Smart Contracts erfordern, dass alle möglichen Eventualitäten im Voraus bedacht und codiert werden. Dies überfordert die menschliche Fähigkeit zur Zukunftsplanung systematisch. Prof. Dr. Miriam Krüger, die die psychologischen Aspekte von Smart Contracts erforscht, erklärt: "Menschen sind notorisch schlecht darin, alle möglichen Zukunftsszenarien vorherzusehen. Wir verlassen uns auf implizites Verständnis, soziale Normen, die Möglichkeit der Nachverhandlung. Die Rigidität von Smart Contracts steht im unauflösbaren Konflikt mit unserer Präferenz für Flexibilität und unserer Unfähigkeit, die Zukunft vollständig zu antizipieren."
 
 ### Vertrauen in Code
 
@@ -148,16 +148,16 @@ Das Mantra der Blockchain-Community "*Code is Law*" – der Code ist Gesetz – 
 
 Die bereits in Kapitel 10.1 diskutierte **[Algorithm Aversion]** (→ siehe Kapitel 10.1) zeigt sich bei Smart Contracts in besonders ausgeprägter Form. Menschen zeigen systematische Ablehnung algorithmischer Entscheidungen, besonders bei wichtigen Lebensbereichen. Bei Smart Contracts ist diese Aversion noch stärker. Die Konsequenzen sind oft finanziell bedeutsam und vollkommen irreversibel. Die Kombination aus hohen Stakes und fehlender menschlicher Überprüfung triggert tief sitzende Ängste.
 
-Das **Black Box Problem** verschärft diese Ablehnung. Die überwältigende Mehrheit der Nutzer kann Smart Contract Code nicht lesen oder verstehen. Sie müssen Experten oder Audit-Firmen vertrauen, die den Code überprüft haben. Dies unterläuft ironischerweise die versprochene "*Trustlessness*". Statt niemandem vertrauen zu müssen, müssen Nutzer nun Code-Auditoren vertrauen, ohne deren Arbeit überprüfen zu können.
+Das **Intransparenz-Problem** verschärft diese Ablehnung. Die überwältigende Mehrheit der Nutzer kann Smart Contract Code nicht lesen oder verstehen. Sie müssen Experten oder Audit-Firmen vertrauen, die den Code überprüft haben. Dies unterläuft ironischerweise die versprochene "*Trustlessness*". Statt niemandem vertrauen zu müssen, müssen Nutzer nun Code-Auditoren vertrauen, ohne deren Arbeit überprüfen zu können.
 
-Die **Fehlertoleranz** – oder vielmehr deren Fehlen – stellt einen fundamentalen Konflikt zwischen menschlicher Natur und Smart Contract-Logik dar. Menschen machen Fehler, und unsere sozialen Systeme sind darauf ausgelegt, mit Fehlern umzugehen. Wir erwarten Kulanz, zweite Chancen, die Möglichkeit der Korrektur. Smart Contracts kennen keine Kulanz. Der berühmte DAO-Hack von 2016, bei dem 50 Millionen Dollar durch einen Programmierfehler verloren gingen, bleibt ein mahnendes Beispiel für die Gnadenlosigkeit von "*Code is Law*".
+Die **Fehlertoleranz** – oder vielmehr deren Fehlen – stellt einen unauflösbaren Konflikt zwischen menschlicher Natur und Smart Contract-Logik dar. Menschen machen Fehler, und unsere sozialen Systeme sind darauf ausgelegt, mit Fehlern umzugehen. Wir erwarten Kulanz, zweite Chancen, die Möglichkeit der Korrektur. Smart Contracts kennen keine Kulanz. Der berühmte DAO-Hack von 2016, bei dem 50 Millionen Dollar durch einen Programmierfehler verloren gingen, bleibt ein mahnendes Beispiel für die Gnadenlosigkeit von "*Code is Law*".
 
 > **Praxis: Nutzerakzeptanz bei Smart Contracts**
 > Felix Hartmann, der selbst Smart Contracts für sein Fintech-Startup entwickelt, schildert die praktischen Herausforderungen: "Die größte Herausforderung war nicht die Programmierung – die ist relativ straightforward. Es war die Nutzerakzeptanz. Menschen wollen Sicherheit, aber sie wollen auch Flexibilität. Sie wollen Fairness, aber sie wollen auch Ausnahmen, wenn sie selbst betroffen sind. Smart Contracts bieten das eine auf Kosten des anderen. Wir mussten lernen, dass perfekte Automatisierung nicht das ist, was Menschen wirklich wollen."
 
 ### Psychologische Anpassungsstrategien
 
-Angesichts dieser fundamentalen Konflikte zwischen menschlichen Bedürfnissen und Smart Contract-Eigenschaften haben sich verschiedene Anpassungsstrategien entwickelt. Erfolgreiche Smart Contract-Implementierungen berücksichtigen zunehmend psychologische Bedürfnisse.
+Angesichts dieser tiefgreifenden Konflikte zwischen menschlichen Bedürfnissen und Smart Contract-Eigenschaften haben sich verschiedene Anpassungsstrategien entwickelt. Erfolgreiche Smart Contract-Implementierungen berücksichtigen zunehmend psychologische Bedürfnisse.
 
 Der **graduelle Übergang** hat sich als effektive Strategie erwiesen. Statt vollständiger Automatisierung werden hybride Modelle entwickelt, die menschliche Intervention in definierten Fällen erlauben. Diese "Smart Contracts mit Sicherheitsnetz" opfern einen Teil der Automatisierung zugunsten psychologischer Akzeptanz. Beispielsweise können Streitschlichtungsmechanismen eingebaut werden, die bei Uneinigkeit zwischen den Parteien aktiviert werden.
 
@@ -167,7 +167,7 @@ Die **soziale Validierung** durch Multi-Signature-Wallets und Governance-Mechani
 
 ## 11.4.5 Dezentrale Identitäten (DID) aus Nutzersicht {#11-4-5-dezentrale-identitäten-did-aus-nutzersicht}
 
-**[Dezentrale Identitäten]** versprechen, eines der fundamentalsten Probleme des digitalen Zeitalters zu lösen: die Abhängigkeit von großen Plattformen für unsere digitale Identität. Statt dass Google, Facebook oder staatliche Stellen unsere Identität verwalten, sollen Menschen ihre digitale Identität selbst kontrollieren. Die Vision ist verlockend – wahre digitale Selbstbestimmung. Die psychologischen Implikationen sind jedoch komplex und oft problematisch.
+**[Dezentrale Identitäten]** versprechen, eines der drängendsten Probleme des digitalen Zeitalters zu lösen: die Abhängigkeit von großen Plattformen für unsere digitale Identität. Statt dass Google, Facebook oder staatliche Stellen unsere Identität verwalten, sollen Menschen ihre digitale Identität selbst kontrollieren. Die Vision ist verlockend – wahre digitale Selbstbestimmung. Die psychologischen Implikationen sind jedoch komplex und oft problematisch.
 
 ### Das Selbstsouveränitäts-Paradoxon
 
@@ -177,15 +177,15 @@ Eine umfassende Umfrage unter frühen DID-Adoptern, durchgeführt vom *Digital I
 
 Die **Identitäts-Fragmentierung** stellt eine weitere Herausforderung dar. In der Vision dezentraler Identitäten müssen Menschen verschiedene Aspekte ihrer Identität – beruflich, privat, finanziell, gesundheitlich – selbst managen und bei Bedarf selektiv offenlegen. Dies führt zu erheblicher kognitiver Belastung und Fehleranfälligkeit. Die Komplexität, multiple Identitätsfacetten konsistent und sicher zu verwalten, übersteigt die Kapazitäten der meisten Nutzer.
 
-Paradoxerweise kann die Selbstsouveränität zu einem kritischeren *Single Point of Failure* führen als zentralisierte Systeme. Verliert jemand den Zugang zu seiner selbstsouveränen Identität, ist potenziell die gesamte digitale Existenz bedroht – ohne Möglichkeit der Wiederherstellung durch einen Kundenservice oder Administrator. Diese "digitale Todesstrafe" für menschliche Fehler steht im krassen Widerspruch zu unseren Erwartungen an fehlertolerante Systeme.
+Paradoxerweise kann die Selbstsouveränität zu einem kritischeren *Single Point of Failure* führen als zentralisierte Systeme. Verliert jemand den Zugang zu seiner selbstsouveränen Identität, ist potenziell die gesamte digitale Existenz bedroht – ohne jede Wiederherstellungsmöglichkeit. Es gibt keinen Kundenservice, keinen Administrator. Diese "digitale Todesstrafe" für menschliche Fehler steht im krassen Widerspruch zu unseren Erwartungen an fehlertolerante Systeme.
 
 ### Psychologische Bedürfnisse und DID
 
 Dr. Annika Sommer, die sich aus ihrer Doppelperspektive als Juristin und Psychologie-Kennerin intensiv mit dezentralen Identitäten beschäftigt, fasst die Herausforderung prägnant zusammen: "Menschen haben widersprüchliche Bedürfnisse – sie wollen Kontrolle, aber auch Bequemlichkeit; Privatsphäre, aber auch soziale Verbindung; Sicherheit, aber auch Fehlertoleranz. Aktuelle DID-Systeme adressieren oft nur eine Seite dieser Gleichungen und ignorieren die andere."
 
-Die Forschung identifizierte mehrere **Kernbedürfnisse**, die DID-Systeme berücksichtigen müssen, um psychologisch akzeptabel zu sein. Das **Bedürfnis nach Kontinuität** steht dabei an erster Stelle. Menschen wollen eine kohärente Identität über Zeit und Kontexte hinweg. Die radikale Fragmentierung, die viele DID-Systeme erfordern, widerspricht diesem fundamentalen Bedürfnis nach einem zusammenhängenden Selbst.
+Die Forschung identifizierte mehrere **Kernbedürfnisse**, die DID-Systeme berücksichtigen müssen, um psychologisch akzeptabel zu sein. Das **Bedürfnis nach Kontinuität** steht dabei an erster Stelle. Menschen wollen eine kohärente Identität über Zeit und Kontexte hinweg. Die radikale Fragmentierung, die viele DID-Systeme erfordern, widerspricht diesem tief verankerten Bedürfnis nach einem zusammenhängenden Selbst.
 
-Die **soziale Einbettung** ist ein weiterer kritischer Faktor. Identität existiert nicht im Vakuum – wir definieren uns durch unsere Beziehungen, unsere Zugehörigkeiten, unsere sozialen Rollen. Rein technische DID-Lösungen, die Identität als individuelles Datenverwaltungsproblem betrachten, vernachlässigen diese fundamentale soziale Dimension.
+Die **soziale Einbettung** ist ein weiterer kritischer Faktor. Identität existiert nicht im Vakuum – wir definieren uns durch unsere Beziehungen, unsere Zugehörigkeiten, unsere sozialen Rollen. Rein technische DID-Lösungen, die Identität als individuelles Datenverwaltungsproblem betrachten, vernachlässigen diese soziale Dimension.
 
 Die **Fehlertoleranz** erweist sich als vielleicht wichtigster Faktor. Menschen machen Fehler – sie vergessen Passwörter, verlieren Geräte, klicken auf Phishing-Links. Ein Identitätssystem, das keine Fehler verzeiht, ist für Menschen ungeeignet. DID-Systeme müssen "menschlich" sein in ihrer Fehlertoleranz, ohne dabei die Sicherheit zu kompromittieren.
 

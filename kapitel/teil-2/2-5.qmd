@@ -28,7 +28,7 @@ Miriam nickt verständnisvoll. Sie hat diese Reaktion heute schon zwölf Mal ges
 
 ## 2.5.1 Soziale Normen und Peer-Einflüsse {#2-5-1-soziale-normen-und-peer-einfluesse}
 
-Menschen sind fundamentally soziale Wesen. Unsere Entscheidungen – auch und gerade im Datenschutz – werden maßgeblich von dem geprägt, was andere tun und was sie von uns erwarten. Diese sozialen Einflüsse wirken oft stärker als rationale Überlegungen oder individuelle Präferenzen und bestätigen Thus These 1: Datenschutz scheitert primär an psychologischen, nicht technischen Barrieren.
+Menschen sind zutiefst soziale Wesen. Unsere Entscheidungen – auch und gerade im Datenschutz – werden maßgeblich von dem geprägt, was andere tun und was sie von uns erwarten. Diese sozialen Einflüsse wirken oft stärker als rationale Überlegungen oder individuelle Präferenzen und bestätigen These 1: Datenschutz scheitert primär an psychologischen, nicht technischen Barrieren.
 
 **Die Macht sozialer Normen im digitalen Raum**
 
@@ -81,13 +81,13 @@ Nicht alle sozialen Gruppen beeinflussen uns gleich stark:
 **Die Reference Group Privacy Study** (Kim & Chen, 2024):
 Einfluss verschiedener Gruppen auf Datenschutzverhalten (standardisierte β-Koeffizienten):
 
-1. **Enge Freunde**: β = 0.71
-2. **Familie**: β = 0.53
-3. **Peers (gleiche Demografie)**: β = 0.48
-4. **Arbeitskollegen**: β = 0.41
-5. **Influencer/Prominente**: β = 0.27
-6. **Experten**: β = 0.23
-7. **Anonyme Masse**: β = 0.16
+1. **Enge Freunde** (stärkster Einfluss)
+2. **Familie**
+3. **Peers (gleiche Demografie)**
+4. **Arbeitskollegen**
+5. **Influencer/Prominente**
+6. **Experten**
+7. **Anonyme Masse** (geringster Einfluss)
 
 Paradox: Experten haben weniger Einfluss als Freunde, obwohl sie kompetenter sind.
 
@@ -117,19 +117,21 @@ Die Cialdini'sche Persuasionsstrategie wirkt digital verstärkt:
 
 **Kulturelle Variation sozialer Normeffekte**
 
-Der Einfluss sozialer Normen variiert kulturell erheblich und unterstreicht dabei These 17 zur kulturellen Variabilität gesellschaftlicher Privatheitsnormen (→ siehe Kapitel 2.4):
+Der Einfluss sozialer Normen variiert kulturell erheblich und unterstreicht dabei These 17 zur kulturellen Variabilität gesellschaftlicher Privatheitsnormen:
 
 **Kollektivistische vs. individualistische Kulturen**:
-- Japan: Gruppennorm-Einfluss β = 0.83
-- Deutschland: β = 0.54
-- USA: β = 0.47
+- Japan: Gruppennorm-Einfluss besonders ausgeprägt
+- Deutschland: Moderater Gruppeneinfluss
+- USA: Etwas geringerer Gruppeneinfluss
 - Erklärung: Höhere **[Interdependenz]** → stärkerer Normeinfluss
 
-**Generationale Unterschiede** (→ siehe Kapitel 15.2):
-- Gen Z: Peer-Einfluss dominiert (β = 0.76)
-- Millennials: Balance Peer/Experten (β = 0.51/0.38)
-- Gen X: Expertenmeinungen wichtiger (β = 0.45)
-- Boomer: Medieneinfluss am stärksten (β = 0.52)
+**Generationale Unterschiede**:
+- Gen Z: Peer-Einfluss dominiert
+- Millennials: Balance zwischen Peer- und Experteneinfluss
+- Gen X: Expertenmeinungen wichtiger
+- Boomer: Medieneinfluss am stärksten
+
+**Weiterführende Kapitel:** → 2.4, → 15.2
 
 ## 2.5.2 Impression Management in digitalen Räumen {#2-5-2-impression-management-in-digitalen-raeumen}
 
@@ -404,7 +406,7 @@ Die Kalkulation verändert sich über den Nutzungslebenszyklus:
    - Stable Privacy-Praktiken
 
 4. **Ermüdung** (3+ Jahre):
-   - Privacy Fatigue (→ siehe Kapitel 11.1)
+ - Privacy Fatigue
    - Resignation oder Rückzug
    - Plattform-Migration
 
@@ -419,7 +421,7 @@ Leon Festinger's Theorie sozialer Vergleiche beeinflusst Datenschutzentscheidung
 
 **Downward Comparisons**:
 - Datenschutz-Opfer als Warnung
-- "Mir passiert das nicht" → **[Optimismus-Bias]** (→ siehe Kapitel 2.2)
+- "Mir passiert das nicht" → **[Optimismus-Bias]**
 - Überlegenheitsgefühl → Sorglosigkeit
 
 **Lateral Comparisons**:
@@ -431,7 +433,9 @@ Leon Festinger's Theorie sozialer Vergleiche beeinflusst Datenschutzentscheidung
 
 Plattformen manipulieren systematisch die Kalkulation:
 
-**Dark Patterns in der Kalkulation** (→ siehe Kapitel 4.2) manipulieren systematisch die Entscheidungsfindung: Nutzen wird salient gemacht durch ständige Benachrichtigungen, Risiken werden verschleiert durch komplexe Privacy Policies, soziale Kosten werden erhöht ("Deine Freunde warten"), FOMO wird getriggert ("Verpasse nichts"), und Defaults werden ausgenutzt, indem alles öffentlich voreingestellt ist.
+**Dark Patterns in der Kalkulation** manipulieren systematisch die Entscheidungsfindung: Nutzen wird salient gemacht durch ständige Benachrichtigungen, Risiken werden verschleiert durch komplexe Privacy Policies, soziale Kosten werden erhöht ("Deine Freunde warten"), FOMO wird getriggert ("Verpasse nichts"), und Defaults werden ausgenutzt, indem alles öffentlich voreingestellt ist.
+
+**Weiterführende Kapitel:** → 11.1, → 2.2, → 4.2
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
@@ -453,7 +457,7 @@ Die sozialpsychologische Perspektive revolutioniert unser Verständnis von Daten
 
 **Für Bildungseinrichtungen** sind pädagogische Innovationen gefragt: Soziale Kompetenz für digitale Räume sollte gesunde Selbstdarstellung und Gruppenverhalten lehren. Peer-Education kann genutzt werden, indem Schüler und Studierende voneinander lernen. Normen sollten aktiv gestaltet werden, um positive Datenschutznormen in Bildungseinrichtungen zu etablieren. Kritisches Denken in Gruppen sollte trainiert werden, um Resistenz gegen Gruppendenken zu entwickeln.
 
-Die Erkenntnis, dass Datenschutz ein fundamental soziales Phänomen ist, verändert alles. Individuelle Aufklärung und Befähigung bleiben wichtig, aber ohne Berücksichtigung sozialer Dynamiken greifen sie zu kurz. Menschen sind soziale Wesen – und ihr Datenschutzverhalten ist es auch.
+Die Erkenntnis, dass Datenschutz ein zutiefst soziales Phänomen ist, verändert alles. Individuelle Aufklärung und Befähigung bleiben wichtig, aber ohne Berücksichtigung sozialer Dynamiken greifen sie zu kurz. Menschen sind soziale Wesen – und ihr Datenschutzverhalten ist es auch.
 
 Das nächste Kapitel wird zeigen, wie sich diese verschiedenen psychologischen Faktoren – kognitive, emotionale, persönlichkeitsbasierte und soziale – in integrativen Modellen zusammenführen lassen (→ These 20: Ein integratives, menschenzentriertes Datenschutz-Modell), um Datenschutzverhalten umfassend zu verstehen und vorherzusagen.
 

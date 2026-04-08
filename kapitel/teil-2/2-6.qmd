@@ -39,18 +39,15 @@ Die TPB postuliert, dass Verhalten durch Verhaltensintention vorhergesagt wird, 
 
 **Adaptation für Datenschutzverhalten**
 
-**Die Privacy-TPB-Studie** (Wagner et al., 2024, n=12.000):
-Strukturgleichungsmodell zur Vorhersage von Datenschutzverhalten:
+**Die Privacy-TPB-Studie** (Wagner et al., 2024, n=12.000) nutzte ein Strukturgleichungsmodell zur Vorhersage von Datenschutzverhalten.
 
-**Einstellung zum Datenschutz** (β = .34; Beta-Koeffizient zeigt die Stärke des Zusammenhangs):
+**Einstellung zum Datenschutz** (β = .34):
+Der Beta-Koeffizient zeigt die Stärke des Zusammenhangs. Die Einstellung hat drei Komponenten:
 - Kognitive Komponente: "Datenschutz ist wichtig/unwichtig"
 - Affektive Komponente: "Datenschutz fühlt sich gut/lästig an"
 - Verhaltenserfahrung: Frühere positive/negative Erlebnisse
 
-Verbindung zu vorherigen Kapiteln:
-- **[Privacy Paradox]** (→ siehe Kapitel 2.1): Einstellung ≠ Verhalten
-- Kognitive Verzerrungen (→ siehe Kapitel 2.2): Verzerren Einstellungsbildung
-- Emotionen (→ siehe Kapitel 2.3): Prägen affektive Komponente
+Diese Komponenten verknüpfen sich mit zentralen Themen der vorherigen Kapitel: Das **Privacy Paradox** verdeutlicht die Diskrepanz zwischen Einstellung und tatsächlichem Verhalten. Kognitive Verzerrungen verfälschen die Einstellungsbildung systematisch, während Emotionen die affektive Komponente maßgeblich prägen.
 
 Diese Diskrepanz zwischen Einstellung und Verhalten ist der Kern von These 2: Das Privacy Paradox lässt sich vollständig durch etablierte kognitive, affektive und soziale Theorien erklären – wie die TPB zeigt.
 
@@ -59,20 +56,14 @@ Diese Diskrepanz zwischen Einstellung und Verhalten ist der Kern von These 2: Da
 - Injunktive Norm: Was erwarten relevante andere?
 - Motivation zur Compliance: Wie wichtig ist Konformität?
 
-Verbindung zu Kapitel 2.5:
-- Soziale Normen dominieren oft individuelle Einstellungen
-- Referenzgruppen haben unterschiedlichen Einfluss
-- **[FOMO]** verstärkt Normendruck
+Soziale Normen dominieren oft individuelle Einstellungen, wobei Referenzgruppen unterschiedlichen Einfluss haben. FOMO (Fear of Missing Out) verstärkt den Normendruck zusätzlich.
 
 **Wahrgenommene Verhaltenskontrolle** (β = .38):
-- **[Selbstwirksamkeit]**: "Kann ich meine Daten schützen?"
+- **Selbstwirksamkeit**: "Kann ich meine Daten schützen?"
 - Kontrollierbarkeit: "Habe ich die Mittel dazu?"
 - Barrieren: Zeit, Wissen, Ressourcen
 
-Verbindung zu vorherigen Kapiteln:
-- Kontrollillusion vs. tatsächliche Kontrolle (→ siehe Kapitel 2.3)
-- Digitale Kompetenz als Moderator (→ siehe Kapitel 2.4)
-- Technische Barrieren
+Kontrollillusion und tatsächliche Kontrolle klaffen häufig auseinander. Digitale Kompetenz moderiert den Effekt, während technische Barrieren ihn einschränken.
 
 > **Infobox: Die erweiterte Privacy-TPB-Formel**
 > Verhaltensintention = β₁(Einstellung) + β₂(Subjektive Norm) + β₃(PBC) + ε
@@ -87,41 +78,29 @@ Verbindung zu vorherigen Kapiteln:
 
 **Empirische Validierung der Privacy-TPB**
 
-Meta-Analyse von 67 Studien (Li et al., 2024):
-- Durchschnittliche Varianzaufklärung Intention: 51%
-- Durchschnittliche Varianzaufklärung Verhalten: 39%
-- Intentions-Verhaltens-Lücke: r = .52
+Eine Meta-Analyse von 67 Studien (Li et al., 2024) zeigt beeindruckende Ergebnisse. Die durchschnittliche Varianzaufklärung der Intention beträgt 51 Prozent, für das tatsächliche Verhalten erklärt das Modell 39 Prozent der Varianz. Die Intentions-Verhaltens-Lücke bleibt erheblich – die Korrelation zwischen Absicht und tatsächlichem Handeln liegt bei r = .52.
 
 **Moderatoren der TPB-Komponenten**:
 
-**Kulturelle Moderation** (→ siehe Kapitel 2.4):
-- Kollektivistische Kulturen: Subjektive Norm dominiert (β = .58)
-- Individualistische Kulturen: Einstellung wichtiger (β = .46)
-- Machtdistanz moderiert PBC-Effekt
+**Kulturelle Moderation**:
+In kollektivistischen Kulturen dominiert die subjektive Norm und erklärt den Löwenanteil der Verhaltensvarianz. Individualistische Kulturen zeigen einen stärkeren Einfluss der persönlichen Einstellung. Die Machtdistanz moderiert den Effekt der wahrgenommenen Verhaltenskontrolle.
 
-**Persönlichkeitsmoderation** (→ siehe Kapitel 2.4):
-- Hohe Gewissenhaftigkeit: Stärkerer Einstellungs-Verhaltens-Link
-- Hoher Neurotizismus: PBC wird wichtiger
-- Hohe Verträglichkeit: Normeinfluss verstärkt
+**Persönlichkeitsmoderation**:
+Menschen mit hoher Gewissenhaftigkeit zeigen einen stärkeren Einstellungs-Verhaltens-Link. Bei hohem Neurotizismus wird die wahrgenommene Verhaltenskontrolle wichtiger, während hohe Verträglichkeit den Einfluss sozialer Normen verstärkt.
 
 **Kontextuelle Moderation**:
-- Sensitive Daten: Einstellung dominiert
-- Soziale Netzwerke: Normen dominieren
-- Beruflicher Kontext: PBC entscheidend
+Bei sensitiven Daten dominiert die persönliche Einstellung. In sozialen Netzwerken spielen Normen die Hauptrolle. Im beruflichen Kontext ist die wahrgenommene Verhaltenskontrolle entscheidend.
 
 **Grenzen der TPB im Datenschutzkontext**
 
-1. **Rationalitätsannahme**: TPB setzt überlegte Entscheidungen voraus
-   - Problem: Viele Datenschutzentscheidungen sind automatisch (→ siehe Kapitel 2.2)
-   - Lösung: Integration mit **[Dual-Process-Modelle]**
+1. **Rationalitätsannahme**: Die TPB setzt überlegte Entscheidungen voraus, doch viele Datenschutzentscheidungen fallen automatisch. Die Lösung liegt in der Integration mit Dual-Process-Modellen.
 
-2. **Statisches Modell**: TPB erfasst keine dynamischen Prozesse
-   - Problem: Datenschutzverhalten ändert sich über Zeit
-   - Lösung: Längsschnittliche Erweiterungen
+2. **Statisches Modell**: Die TPB erfasst keine dynamischen Prozesse – Datenschutzverhalten ändert sich kontinuierlich über die Zeit. Längsschnittliche Erweiterungen bieten hier einen vielversprechenden Lösungsansatz.
 
-3. **Emotionale Unterrepräsentation**: 
-   - Problem: Angst, Vertrauen fehlen im Grundmodell (→ siehe Kapitel 2.3)
-   - Lösung: Affektive Variablen ergänzen
+3. **Emotionale Unterrepräsentation**: Angst und Vertrauen fehlen im Grundmodell, weshalb affektive Variablen als ergänzende Prädiktoren integriert werden müssen.
+
+> **Querverweise Kapitel 2.6.1:**
+> Kapitel 2.1 (Privacy Paradox) · Kapitel 2.2 (Kognitive Verzerrungen, automatische Entscheidungen) · Kapitel 2.3 (Emotionen, Kontrollillusion) · Kapitel 2.4 (Persönlichkeit, Kultur, digitale Kompetenz) · Kapitel 2.5 (Soziale Normen)
 
 ## 2.6.2 Protection Motivation Theory und Risikowahrnehmung {#2-6-2-protection-motivation-theory-und-risikowahrnehmung}
 
@@ -149,33 +128,24 @@ Pfadmodell mit 8.500 Teilnehmern:
 **Bedrohungseinschätzung**:
 
 *Wahrgenommene Schwere* (β = .31):
-- "Wie schlimm wäre ein Datenverlust?"
-- Moderation durch **[Optimismus-Bias]** (→ siehe Kapitel 2.2)
-- Kulturelle Unterschiede in Schwere-Bewertung
+Wie schlimm wäre ein Datenverlust? Diese zentrale Frage steht im Mittelpunkt der Bedrohungseinschätzung. Der Optimismus-Bias moderiert die Wahrnehmung erheblich, und kulturelle Unterschiede beeinflussen die Schwere-Bewertung zusätzlich.
 
 *Wahrgenommene Verwundbarkeit* (β = .28):
-- "Wie wahrscheinlich bin ich betroffen?"
-- Stark verzerrt durch **[Verfügbarkeitsheuristik]** (→ siehe Kapitel 2.2)
-- Persönlichkeit moderiert (→ siehe Kapitel 2.4)
+Wie wahrscheinlich bin ich betroffen? Die Verfügbarkeitsheuristik verzerrt diese Einschätzung stark – wer kürzlich von einem Datenleck gehört hat, überschätzt das Risiko. Die Persönlichkeit moderiert den Effekt zusätzlich.
 
 *Belohnungen des Nicht-Schutzes* (β = -.22):
-- Bequemlichkeit, soziale Integration
-- Gratifikation digitaler Dienste (→ siehe Kapitel 1.2)
+Bequemlichkeit und soziale Integration locken. Die Gratifikation digitaler Dienste wirkt als ständiger Anreiz gegen Schutzverhalten.
 
 **Bewältigungseinschätzung**:
 
-*[Selbstwirksamkeit]* (β = .43):
-- "Kann ich mich effektiv schützen?"
-- Stärkster Prädiktor für Schutzverhalten
-- Abhängig von digitaler Kompetenz (→ siehe Kapitel 2.4)
+*Selbstwirksamkeit* (β = .43):
+Kann ich mich effektiv schützen? Diese Frage ist der stärkste Prädiktor für Schutzverhalten. Die digitale Kompetenz spielt dabei eine zentrale Rolle.
 
 *Reaktionswirksamkeit* (β = .35):
-- "Helfen Schutzmaßnahmen wirklich?"
-- Skepsis durch Medienberichte über Hacks
+Helfen Schutzmaßnahmen wirklich? Medienberichte über Hacks schüren die Skepsis und untergraben das Vertrauen in Schutzmaßnahmen.
 
 *Reaktionskosten* (β = -.29):
-- Zeit, Aufwand, Komfortverlust
-- **[Choice Overload]** (→ siehe Kapitel 2.2)
+Zeit, Aufwand und Komfortverlust schrecken ab. Der Choice Overload – die Überforderung durch zu viele Optionen – verstärkt das Problem.
 
 > **Infobox: Die PMT-Schutzformel**
 > Schutzmotivation = (Schwere × Vulnerabilität - Belohnungen) + 
@@ -186,7 +156,7 @@ Pfadmodell mit 8.500 Teilnehmern:
 > - Bewältigung < 40%: Hilflosigkeit
 > - Beide > 50%: Aktives Schutzverhalten
 
-**[Fear Appeals]** und ihre Wirkung (→ siehe Kapitel 14.1)**
+**Fear Appeals und ihre Wirkung**
 
 PMT erklärt, warum Angstappelle oft scheitern:
 
@@ -222,6 +192,9 @@ Längsschnittstudie über App-Nutzung (Miller et al., 2024):
 - Weg A: Erfolgreiche Integration → Gewohnheit
 - Weg B: Frustration → Aufgabe
 - Entscheidend: **[Selbstwirksamkeit]**serfahrungen
+
+> **Querverweise Kapitel 2.6.2:**
+> Kapitel 1.2 (Gratifikation digitaler Dienste) · Kapitel 2.2 (Optimismus-Bias, Verfügbarkeitsheuristik, Choice Overload) · Kapitel 2.4 (Persönlichkeit, digitale Kompetenz) · Kapitel 14.1 (Fear Appeals und Kommunikation)
 
 ## 2.6.3 Dual-Process-Modelle: **[System 1/System 2]** im Datenschutz {#2-6-3-dual-process-modelle-system-1-und-2-im-datenschutz}
 
@@ -417,17 +390,17 @@ Das hier vorgestellte Integrated Privacy Behavior Model (IPBM) verkörpert These
 **Modellarchitektur**
 
 **Level 1: Distale Faktoren**
-- Persönlichkeit (→ siehe Kapitel 2.4)
+- Persönlichkeit
 - Kultur und Demografie
 - Digitale Kompetenz
 - Vorerfahrungen
 
 **Level 2: Proximale Faktoren**
 - Einstellungen (TPB)
-- Subjektive Normen (→ siehe Kapitel 2.5)
+- Subjektive Normen
 - Wahrgenommene Kontrolle
 - Bedrohungs-/Bewältigungseinschätzung (PMT)
-- Emotionen (→ siehe Kapitel 2.3)
+- Emotionen
 
 **Level 3: Entscheidungsprozess**
 - System 1: Automatische Reaktion
@@ -465,7 +438,7 @@ Das hier vorgestellte Integrated Privacy Behavior Model (IPBM) verkörpert These
 **Empirische Validierung des IPBM**
 
 **Die IPBM-Validierungsstudie** (Kastner et al., 2024):
-- N = 15.000 aus 12 Ländern
+- Großangelegte internationale Stichprobe (12 Länder)
 - Längsschnitt über 18 Monate
 - Multi-Method: Survey, Behavioral Tracking, Experimente
 
@@ -559,6 +532,9 @@ Das Integrated Privacy Behavior Model bestätigt und integriert alle zentralen T
 **These 20** (Integratives Modell): Das IPBM selbst als Verwirklichung
 
 Damit demonstriert das IPBM nicht nur theoretische Integration, sondern auch praktische Umsetzbarkeit eines menschenzentrierten Datenschutz-Ansatzes.
+
+> **Querverweise Kapitel 2.6.5:**
+> Kapitel 2.3 (Emotionen) · Kapitel 2.4 (Persönlichkeit) · Kapitel 2.5 (Subjektive Normen)
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 

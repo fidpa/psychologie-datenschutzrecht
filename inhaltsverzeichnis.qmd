@@ -1,3 +1,11 @@
+<!--
+  WARTUNGSHINWEIS: Diese Datei manuell aktualisieren wenn:
+  - Ein Kapitelttitel geändert wird
+  - Ein Kapitel hinzukommt oder entfällt
+  Das sync_kapitel.py-Skript synchronisiert nur Kapitelinhalte, NICHT diese Datei.
+  Quelle der Wahrheit für Titel: docs/reference/GLIEDERUNG.md (src-Repo)
+-->
+
 # Inhaltsverzeichnis
 
 Vollständige Übersicht aller 17 Teile und 68 Kapitel.

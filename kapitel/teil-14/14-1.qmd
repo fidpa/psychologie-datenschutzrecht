@@ -9,25 +9,27 @@
 - [14.1.5 Positive Datenschutzbotschaften entwickeln](#14-1-5-positive-datenschutzbotschaften-entwickeln)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Die traditionelle Datenschutzkommunikation leidet unter einem fundamentalen Paradoxon: Je mehr Organisationen über Datenschutz informieren, desto weniger scheinen Menschen tatsächlich zu verstehen oder ihr Verhalten zu ändern. Lisa Chen erlebt dies täglich in ihrem Versicherungskonzern. "Wir haben detaillierte Datenschutzrichtlinien, regelmäßige E-Mail-Updates und verpflichtende Schulungen", berichtet sie frustriert. "Trotzdem nutzen 67% unserer Mitarbeiter weiterhin unverschlüsselte USB-Sticks für sensible Kundendaten." Dieses Phänomen ist kein Einzelfall, sondern spiegelt ein systemisches Versagen traditioneller Kommunikationsansätze wider.
+Die traditionelle Datenschutzkommunikation leidet unter einem strukturellen Paradoxon: Je mehr Organisationen über Datenschutz informieren, desto weniger scheinen Menschen tatsächlich zu verstehen oder ihr Verhalten zu ändern. Lisa Chen erlebt dies täglich in ihrem Versicherungskonzern. "Wir haben detaillierte Datenschutzrichtlinien, regelmäßige E-Mail-Updates und verpflichtende Schulungen", berichtet sie frustriert. "Trotzdem nutzen 67% unserer Mitarbeiter weiterhin unverschlüsselte USB-Sticks für sensible Kundendaten." Dieses Phänomen ist kein Einzelfall, sondern spiegelt ein systemisches Versagen traditioneller Kommunikationsansätze wider.
 
-Auch die nutzerfreundlichsten **[Privacy UX-Designs]** aus **[Kapitel 13]** erreichen ihre Wirkung nur durch begleitende Kommunikation. Selbst perfekte **[Privacy Dashboards]**, intuitive **[Privacy Controls]** und durchdachte **[Feedback-Systeme]** (→ siehe Kapitel 13.4) benötigen strategische Kommunikation, um Awareness in nachhaltiges Verhalten zu verwandeln (→ siehe Kapitel 2.3 zu emotionalen Faktoren).
+Auch die nutzerfreundlichsten **[Privacy UX-Designs]** aus **[Kapitel 13]** erreichen ihre Wirkung nur durch begleitende Kommunikation. Selbst perfekte **[Privacy Dashboards]**, intuitive **[Privacy Controls]** und durchdachte **[Feedback-Systeme]** (→ siehe Kapitel 13.4) benötigen strategische Kommunikation, um Awareness in nachhaltiges Verhalten zu verwandeln (→ siehe Kapitel 2.3).
 
 Die Forschung bestätigt Lisas Beobachtung eindrücklich. Nutzer sind sich 75% ihrer Datenschutzverletzungen nicht bewusst und kümmern sich nur um 46,2% derjenigen, von denen sie wissen (Baruh et al., 2017). Diese erschreckende Diskrepanz zwischen Information und Handlung – der sogenannte Privacy Awareness Gap – zeigt, dass bloße Informationsvermittlung nicht ausreicht. Das **[Privacy Paradox]** (→ siehe Kapitel 2.1) manifestiert sich nicht nur als **[Einstellungs-Verhaltens-Lücke]**, sondern auch als **[Intentions-Verhaltens-Lücke]**, wobei selbst Menschen mit guten Absichten ihre Datenschutzvorsätze nicht umsetzen (Risius et al., 2020).
 
 ## 14.1.1 Framing-Effekte nutzen {#14-1-1-framing-effekte-nutzen}
 
-"Ich habe zwei verschiedene Versionen unserer Phishing-Warnung getestet", erklärt Prof. Dr. Miriam Krüger während eines Beratungsgesprächs mit Lisa Chen. "Die erste Version betonte die negativen Konsequenzen: 'Wenn Sie auf diesen Link klicken, könnten Ihre persönlichen Daten gestohlen werden.' Die zweite Version fokussierte auf positive Handlungsoptionen: 'Schützen Sie Ihre Daten, indem Sie verdächtige Links melden.' Die Ergebnisse waren faszinierend."
+"Ich habe zwei verschiedene Versionen unserer Phishing-Warnung getestet", erklärt Prof. Dr. Miriam Krüger. "Die erste Version betonte die negativen Konsequenzen: 'Wenn Sie auf diesen Link klicken, könnten Ihre persönlichen Daten gestohlen werden.' Die zweite Version fokussierte auf positive Handlungsoptionen: 'Schützen Sie Ihre Daten, indem Sie verdächtige Links melden.' Die Ergebnisse waren faszinierend."
 
-In **[Verhaltensänderungsinterventionen]** sind **[Loss-Framed-Nachrichten]** generell effektiver, da "Verluste schwerer wiegen als Gewinne" (O'Keefe & Jensen, 2008). Miriams Experiment bestätigte dies: Die verlustorientierte Formulierung führte zu 34% mehr gemeldeten Phishing-Versuchen. Doch die Realität ist komplexer. Bei Nutzern mit hohem **[psychologischen Eigentum]** bezüglich des Online-Services waren **[Gain-Framed-Nachrichten]** effektiver, während bei Nutzern mit niedrigem psychologischen Eigentum Loss-Framed-Nachrichten besser wirkten (Chong et al., 2018).
+In **[Verhaltensänderungsinterventionen]** sind **[Loss-Framed-Nachrichten]** generell effektiver, da "Verluste schwerer wiegen als Gewinne" (O'Keefe & Jensen, 2008). Miriams Experiment bestätigte dies: Die verlustorientierte Formulierung führte zu 34% mehr gemeldeten Phishing-Versuchen. Doch die Realität ist komplexer. Bei Nutzern mit hohem **[psychologischen Eigentum]** beim Online-Service waren **[Gain-Framed-Nachrichten]** effektiver, während bei Nutzern mit niedrigem psychologischen Eigentum Loss-Framed-Nachrichten besser wirkten (Chong et al., 2018).
 
-"Das bedeutet", fasst Miriam zusammen, "dass wir unsere Botschaften an die psychologische Verbindung der Mitarbeiter zum Unternehmen anpassen müssen." Lisa nickt nachdenklich. In ihrem Versicherungskonzern arbeiten sowohl langjährige Mitarbeiter mit starker Unternehmensidentifikation als auch viele neue, noch wenig verwurzelte Kollegen.
+"Das bedeutet", fasst Miriam zusammen, "dass wir unsere Botschaften an die psychologische Verbindung der Mitarbeiter zum Unternehmen anpassen müssen."
 
-Die **[zeitliche Orientierung]** spielt ebenfalls eine Rolle. **[Vergangenheitsorientierte Nutzer]** reagieren besser auf Gain-Framed-Botschaften, während **[zukunftsorientierte Nutzer]** effektiver durch Loss-Framed-Botschaften beeinflusst werden (Hong et al., 2015). Dies erklärt, warum Lisas bisherige "One-Size-Fits-All"-Kommunikation so unterschiedliche Reaktionen hervorrief.
+Die **[zeitliche Orientierung]** spielt ebenfalls eine Rolle. **[Vergangenheitsorientierte Nutzer]** reagieren besser auf Gain-Framed-Botschaften, während **[zukunftsorientierte Nutzer]** effektiver durch Loss-Framed-Botschaften beeinflusst werden (Hong et al., 2015). Dies erklärt, warum eine einheitliche "One-Size-Fits-All"-Kommunikation in heterogenen Belegschaften so unterschiedliche Reaktionen hervorruft.
 
-Felix Hartmann, der bei einem gemeinsamen Workshop anwesend ist, wirft ein: "In unserem Fintech-Startup haben wir mit **[prosozialem Framing]** (→ siehe Kapitel 4.3) experimentiert. Statt 'Schützen Sie Ihre Daten' kommunizieren wir 'Schützen Sie unsere Kunden'. **[Prosoziale Appeals]** (→ siehe Kapitel 4.3) sind effektiver bei der Motivation von **[Compliance]** und **[Hilfsverhalten]**, besonders bei Menschen mit niedrigem **[Kontrollgefühl]** (Grant & Hofmann, 2011)."
+Eine weitere Dimension ist das **[prosoziale Framing]** (→ siehe Kapitel 4.3): Statt "Schützen Sie Ihre Daten" wirkt "Schützen Sie unsere Kunden" bei Menschen mit niedrigem Kontrollgefühl signifikant motivierender — **[Prosoziale Appeals]** steigern **[Compliance]** und **[Hilfsverhalten]** nachweislich (Grant & Hofmann, 2011).
 
 Die praktische Umsetzung erfordert Fingerspitzengefühl. Dr. Annika Sommer berichtet aus ihrer Erfahrung am Universitätsklinikum: "Wir nutzen kontextabhängiges Framing. In der Notaufnahme, wo schnelle Entscheidungen zählen, verwenden wir klare Loss-Frames: 'Unverschlüsselte Patientendaten gefährden Leben.' In der Verwaltung, wo mehr Zeit für Reflexion ist, setzen wir auf Gain-Frames: 'Sichere Datenpraktiken stärken das Vertrauen unserer Patienten.'"
+
+**Weiterführende Kapitel:** → 4.3
 
 ## 14.1.2 Narrative und Geschichten im Datenschutz {#14-1-2-narrative-und-geschichten-im-datenschutz}
 
@@ -40,7 +42,7 @@ Die Wirksamkeit von Geschichten ist **[neurobiologisch fundiert]**. Annika nutzt
 
 "Wir haben unsere gesamte Schulungsstrategie umgestellt", erklärt Annika. Menschen verwenden Geschichten sowohl bei der Arbeit als auch zu Hause in ihren Gesprächen. Die Geschichten werden Teil der Organisationskultur. Mitarbeiter erzählen sie weiter, adaptieren sie, machen sie zu ihren eigenen.
 
-Felix ergänzt aus technischer Perspektive: "In unserem Unternehmen nutzen wir **[interaktive Geschichten]**. Mitarbeiter durchlaufen **[virtuelle Szenarien]**, in denen sie Entscheidungen treffen müssen. Besonders effektiv ist es, wenn die Protagonisten den Mitarbeitern ähneln – gleiche Rolle, ähnliche Herausforderungen."
+Besonders wirkungsvoll sind **[interaktive Geschichten]**, in denen Mitarbeiter virtuelle Szenarien durchlaufen und selbst Entscheidungen treffen müssen — vor allem wenn die Protagonisten der eigenen Rolle und den eigenen Herausforderungen ähneln.
 
 Lisa hat diese Erkenntnisse in ein unternehmensweites **[Storytelling-Programm]** übersetzt. Jeden Monat wird eine neue "**[Datenschutz-Heldengeschichte]**" geteilt – echte Beispiele von Mitarbeitern, die **[Datenschutzrisiken]** erkannt und abgewendet haben. Menschen behalten sogar feine Details, bis eine Geschichte ihre Vollendung erreicht, und Fakten sind 20-mal wahrscheinlicher erinnert zu werden, wenn sie in Geschichtsform erzählt werden.
 
@@ -48,19 +50,19 @@ Die Geschichten folgen bewährten **[narrativen Strukturen]**. Die **[Heldenreis
 
 ## 14.1.3 Multimodale Kommunikation {#14-1-3-multimodale-kommunikation}
 
-Prof. Dr. Miriam Krüger demonstriert in ihrem Labor die Macht **[multimodaler Kommunikation]**. "Betrachten wir diese beiden Datenschutzerklärungen", erklärt sie Lisa. Die erste ist ein traditioneller Textblock. Die zweite kombiniert Text mit **[Infografiken]**, kurzen Videosequenzen und interaktiven Elementen. **[Eye-Tracking-Daten]** zeigen den dramatischen Unterschied: Bei der multimodalen Version verweilen Nutzer 267% länger und erinnern 84% mehr Inhalte.
+Der Vergleich zweier Kommunikationsformate verdeutlicht die Macht **[multimodaler Kommunikation]**: Ein traditioneller Textblock gegen eine Kombination aus Text, **[Infografiken]**, kurzen Videosequenzen und interaktiven Elementen. **[Eye-Tracking-Daten]** aus Laborstudien zeigen messbare Unterschiede: Multimodale Formate steigern die Verweildauer und den Anteil erinnerter Inhalte erheblich.
 
 Die **[visuelle Modalität]** hilft Autoren, Bedeutung auf eine Weise zu kommunizieren, die vom Publikum gesehen werden kann, und kann hilfreich und sogar überzeugend sein (Lang, 2006). Miriam erklärt: "Verschiedene Menschen lernen unterschiedlich. Manche sind **[visuelle Lerner]**, andere **[auditiv]**, wieder andere **[kinästhetisch]**. Wenn wir nur einen Kanal nutzen, erreichen wir nur einen Teil unserer Zielgruppe."
 
 Felix hat diese Erkenntnis in ein innovatives **[Dashboard]** übersetzt. "Unsere **[Datenschutz-Visualisierung]** zeigt **[Datenflüsse]** in Echtzeit. Mitarbeiter sehen buchstäblich, wie ihre Daten durch verschiedene Systeme fließen. Die Kombination verschiedener **[Modalitäten]** ermöglicht natürlichere und intuitivere **[Nutzerinteraktionen]**. Wenn sie unsichere Praktiken anwenden, färben sich die Datenströme rot – ein sofortiges, **[visuelles Feedback]**."
 
-Annika ergänzt aus praktischer Sicht: "Im Klinikum nutzen wir **[kontextabhängige multimodale Kommunikation]**. In lauten Umgebungen wie der Notaufnahme setzen wir auf **[visuelle Signale]** – **[farbcodierte Bildschirme]** für verschiedene **[Datenschutzstufen]**. In ruhigeren Bereichen nutzen wir zusätzlich **[akustische Hinweise]**."
+**[Kontextabhängige multimodale Kommunikation]** berücksichtigt dabei auch die Umgebung: In lauten Bereichen wie Notaufnahmen eignen sich **[farbcodierte Bildschirme]** für verschiedene **[Datenschutzstufen]**, in ruhigeren Umgebungen kommen zusätzlich **[akustische Hinweise]** zum Einsatz.
 
-Die Integration verschiedener Modalitäten muss durchdacht erfolgen. Multimodale Modelle exzellieren bei der Integration multimodaler Informationen, um die Effektivität zu steigern. Lisa berichtet von ihren Erfahrungen: "Wir haben gelernt, dass es nicht darum geht, möglichst viele Kanäle zu nutzen. Es geht darum, die richtigen Kanäle zur richtigen Zeit für die richtige Botschaft einzusetzen."
+Die Integration verschiedener Modalitäten muss durchdacht erfolgen. Es geht nicht darum, möglichst viele Kanäle zu nutzen, sondern die richtigen Kanäle zur richtigen Zeit für die richtige Botschaft einzusetzen.
 
 Ein besonders erfolgreiches Beispiel ist ihr "**[Privacy Escape Room]**" – eine physische Installation, in der Teams **[Datenschutzrätsel]** lösen müssen. Hier verschmelzen **[haptische Elemente]** (das Durchsuchen von Akten), **[visuelle Hinweise]** (versteckte QR-Codes), **[auditive Signale]** (Warnungen bei Fehlern) und **[narrative Elemente]** (eine spannende Rahmengeschichte) zu einem unvergesslichen **[Lernerlebnis]**. Multimodale Texte nutzen die Stärken verschiedener Modi, um ein kohärentes Ganzes zu schaffen.
 
-Die Wirksamkeit zeigt sich in den Zahlen: Mitarbeiter, die den Escape Room durchlaufen haben, zeigen 89% bessere Datenschutzpraktiken nach sechs Monaten – verglichen mit 23% bei traditionellen Schulungen.
+Die Wirksamkeit zeigt sich in den Ergebnissen: Mitarbeiter, die erfahrungsbasierte Lernformate wie diesen Escape Room durchlaufen haben, zeigen in Evaluationen deutlich bessere und nachhaltigere Datenschutzpraktiken als Teilnehmer traditioneller Schulungen.
 
 ## 14.1.4 Krisenkommunikation bei Datenpannen {#14-1-4-krisenkommunikation-bei-datenpannen}
 
@@ -75,7 +77,7 @@ Lisa ergänzt aus ihrer Erfahrung mit einer Cyber-Versicherungsschadenmeldung: "
 > **Praxis: Krisenkommunikation**
 > Die emotionale Dimension darf nicht unterschätzt werden. Menschen werden sich zu Recht verletzlich und wütend fühlen. Der beste Weg, die Narrative zu kontrollieren, ist sicherzustellen, dass Sie derjenige sind, der die schlechten Nachrichten zuerst überbringt, mit einer aufrichtigen Entschuldigung.
 
-Felix' Startup musste dies lernen, als ein API-Fehler kurzzeitig Kundendaten exponierte. "Wir schrieben persönliche Entschuldigungen, keine juristischen Textbausteine. Wir erklärten in einfacher Sprache, was passiert war und was wir dagegen taten."
+Persönliche Entschuldigungen — keine juristischen Textbausteine — und eine klare Erklärung in einfacher Sprache sind dabei wirkungsvoller als formale Verlautbarungen.
 
 Die Nachbetreuung ist ebenso wichtig. In vielen Ländern bieten öffentliche Organisationen verschiedene Notfalllösungen für Opfer, einschließlich Chats und telefonischer Notdienste. Annika richtete eine 24/7-Hotline ein, bot psychologische Unterstützung an und stellte kostenlose Identitätsschutz-Dienste zur Verfügung.
 
@@ -83,23 +85,23 @@ Die Nachbetreuung ist ebenso wichtig. In vielen Ländern bieten öffentliche Org
 
 ## 14.1.5 Positive Datenschutzbotschaften entwickeln {#14-1-5-positive-datenschutzbotschaften-entwickeln}
 
-"Angst verkauft keine Sicherheit", stellt Miriam bei ihrer Forschungspräsentation fest. "Unsere Studien zeigen eindeutig: **[Coping-Nachrichten]** (→ siehe Kapitel 2.6), die Nutzer beraten, wie sie ihre Risikoexposition minimieren können, steigern sicheres Verhalten signifikant mehr als Drohbotschaften (Van Bavel et al., 2019)."
+Angst ist ein schlechter Motivator für dauerhaftes Verhalten: **[Coping-Nachrichten]** (→ siehe Kapitel 2.6), die konkret beraten, wie Menschen ihre Risikoexposition minimieren können, steigern sicheres Verhalten signifikant mehr als Drohbotschaften (Van Bavel et al., 2019). Statt Warnungen vor Hackern wirkt es besser, zu zeigen, wie Datenschutz das Leben vereinfacht: "Sichere Passwörter bedeuten weniger Stress bei vergessenen Logins." "Datenschutz gibt Ihnen Kontrolle über Ihre digitale Identität."
 
-Felix hat diese Erkenntnis in seinem Unternehmen umgesetzt. Statt Warnungen vor Hackern zeigt sein Team, wie Datenschutz das Leben vereinfacht: "Sichere Passwörter bedeuten weniger Stress bei vergessenen Logins." "Verschlüsselung schützt Ihre kreativen Ideen." "Datenschutz gibt Ihnen Kontrolle über Ihre digitale Identität."
-
-Menschen sollten über die Schwere der Bedrohung aufgeklärt werden, indem erklärt wird, wie die Sammlung, Nutzung und Weitergabe persönlicher Daten online negative Folgen haben kann, aber der Fokus sollte auf Lösungen liegen (← vgl. Kapitel 4.1 zu Risikowahrnehmung) (Rogers, 1975). Lisa entwickelte eine Kampagne mit dem Motto "Datenschutz macht stark". Mitarbeiter wurden nicht als potenzielle Sicherheitslücken dargestellt, sondern als "digitale Helden", die ihre Kollegen und Kunden schützen.
+Menschen sollten über die Schwere der Bedrohung aufgeklärt werden, indem erklärt wird, wie die Sammlung, Nutzung und Weitergabe persönlicher Daten online negative Folgen haben kann, aber der Fokus sollte auf Lösungen liegen (← vgl. Kapitel 4.1) (Rogers, 1975). Lisa entwickelte eine Kampagne mit dem Motto "Datenschutz macht stark". Mitarbeiter wurden nicht als potenzielle Sicherheitslücken dargestellt, sondern als "digitale Helden", die ihre Kollegen und Kunden schützen.
 
 "Wir nutzen auch soziale Verstärkung", erklärt Lisa. Wenn Menschen das Gefühl haben, dass ihre Handlungen wichtig sind – nicht nur beim Schutz des Unternehmens, sondern in ihrem täglichen Leben – sind sie viel eher bereit, sich zu engagieren (Reeves et al., 2021). Ihr Unternehmen führte "Privacy Champions" ein – Mitarbeiter, die für gute Datenschutzpraktiken anerkannt werden und andere inspirieren.
 
-Annika betont die Bedeutung von **[Selbstwirksamkeit]** (→ siehe Kapitel 2.4): "Menschen müssen glauben, dass sie einen Unterschied machen können. Schutzverhalten hängt von der wahrgenommenen Bedrohung und der wahrgenommenen Wirksamkeit ab. Wir zeigen konkrete, machbare Schritte und feiern jeden Fortschritt, egal wie klein."
+Annika betont die Bedeutung von **[Selbstwirksamkeit]**: "Menschen müssen glauben, dass sie einen Unterschied machen können. Schutzverhalten hängt von der wahrgenommenen Bedrohung und der wahrgenommenen Wirksamkeit ab. Wir zeigen konkrete, machbare Schritte und feiern jeden Fortschritt, egal wie klein."
 
 Die positive Rahmung erstreckt sich auch auf Fehler. Statt Bestrafung für Sicherheitsverletzungen setzt Annikas Klinikum auf "Lernmomente". Mitarbeiter, die Fehler melden, werden gelobt für ihre Ehrlichkeit. Dies führte zu einer Verfünffachung der gemeldeten Vorfälle – und einer drastischen Reduktion schwerwiegender Breaches.
 
-Felix fasst zusammen: "Positiver Datenschutz bedeutet, Menschen zu zeigen, was sie gewinnen, nicht was sie verlieren. Es geht um Empowerment, nicht um Einschränkung. Wenn Menschen verstehen, dass Datenschutz ihnen Macht über ihr digitales Leben gibt, werden sie zu aktiven Teilnehmern statt widerwilligen Befolgern."
+Positiver Datenschutz bedeutet letztlich, Menschen zu zeigen, was sie gewinnen, nicht was sie verlieren — Empowerment statt Einschränkung. Wer versteht, dass Datenschutz ihm Kontrolle über das digitale Leben gibt, wird zum aktiven Teilnehmer statt zum widerwilligen Befolger.
+
+**Weiterführende Kapitel:** → 2.4
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
-Kommunikationsverantwortliche sollten zielgruppenspezifische **[Framing-Strategien]** basierend auf psychologischem Eigentum und zeitlicher Orientierung entwickeln. Dabei erweisen sich **[A/B-Tests]** als unverzichtbar, um die Wirksamkeit verschiedener Botschaften zu messen. Das **[Storytelling]** (→ siehe Kapitel 14.1.2) bildet das zentrale Element erfolgreicher Kommunikationsstrategien, weshalb echte Geschichten aus der Organisation systematisch gesammelt und kuratiert werden müssen. Gleichzeitig erfordern moderne Datenschutzbotschaften Investitionen in **[multimodale Kommunikationstools]** und entsprechende Fähigkeiten. Besonders wichtig ist die proaktive Vorbereitung von **[Krisenkommunikationsplänen]**, die emotionale und praktische Bedürfnisse gleichermaßen adressieren.
+Kommunikationsverantwortliche sollten zielgruppenspezifische **[Framing-Strategien]** basierend auf psychologischem Eigentum und zeitlicher Orientierung entwickeln. Dabei erweisen sich **[A/B-Tests]** als unverzichtbar, um die Wirksamkeit verschiedener Botschaften zu messen. Das **[Storytelling]** (→ siehe Kapitel 14.1) bildet das zentrale Element erfolgreicher Kommunikationsstrategien, weshalb echte Geschichten aus der Organisation systematisch gesammelt und kuratiert werden müssen. Gleichzeitig erfordern moderne Datenschutzbotschaften Investitionen in **[multimodale Kommunikationstools]** und entsprechende Fähigkeiten. Besonders wichtig ist die proaktive Vorbereitung von **[Krisenkommunikationsplänen]**, die emotionale und praktische Bedürfnisse gleichermaßen adressieren.
 
 Datenschutzbeauftragte erleben einen Wandel vom reinen Compliance-Kommunikator zum Geschichtenerzähler. Diese Transformation verlangt, komplexe Datenschutzthemen in nachvollziehbare **[Narrative]** zu übersetzen und dabei positive Verstärkung statt **[Angstappelle]** zu nutzen. Erfolgreich sind jene DSB, die eng mit Kommunikationsexperten zusammenarbeiten und dabei ein vielfältiges Repertoire an Erfolgsgeschichten entwickeln, das situationsgerecht eingesetzt werden kann.
 

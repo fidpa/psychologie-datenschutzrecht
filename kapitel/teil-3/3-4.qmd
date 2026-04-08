@@ -28,7 +28,7 @@ Diese Szene wiederholt sich täglich in Unternehmen weltweit. Denn Datenschutz i
 
 ## 3.4.1 USA: Marktorientierung vs. Verbraucherschutz {#3-4-1-usa-marktorientierung-vs-verbraucherschutz}
 
-Die amerikanische Herangehensweise an Datenschutz unterscheidet sich fundamental vom europäischen Modell. Diese Differenz ist nicht zufällig, sondern Ausdruck tief verwurzelter kultureller und psychologischer Unterschiede.
+Die amerikanische Herangehensweise an Datenschutz unterscheidet sich markant vom europäischen Modell. Diese Differenz ist nicht zufällig, sondern Ausdruck tief verwurzelter kultureller und psychologischer Unterschiede.
 
 **Das amerikanische Privacy-Paradox: Freiheit durch Markt**
 
@@ -36,7 +36,7 @@ Die USA werden oft als "Land of the Free" bezeichnet. Paradoxerweise haben sie k
 
 **Grundannahmen des US-Modells** basieren auf vier zentralen Prinzipien. Erstens fungiert der Markt als Regulator, da Wettbewerb besseren Datenschutz schafft als Gesetze. Zweitens trägt jeder Einzelne die Verantwortung für seinen eigenen Schutz. Drittens hat Innovation Priorität - Regulierung darf technischen Fortschritt nicht hemmen. Viertens verfolgen die USA einen sektoralen Ansatz mit spezifischen Regeln für spezifische Risiken.
 
-**Empirische Daten: US vs. EU Einstellungen** (Pew Research, 2024):
+**Empirische Daten: US vs. EU Einstellungen** (nach Pew Research, 2019; ähnliche Unterschiede zeigen sich in neueren Erhebungen):
 
 | Aussage | USA | EU | Differenz |
 |---------|-----|-----|-----------|
@@ -61,7 +61,7 @@ Amerikaner glauben stärker an ihre Fähigkeit, durch Marktwahl Kontrolle auszu�
 - Die Illusion der Wahl ersetzt echten Schutz
 
 **2. Optimismus-Bias auf Steroiden**:
-Der amerikanische Exzeptionalismus verstärkt den **[Optimismus-Bias]** (→ siehe Kapitel 2.2.1):
+Der amerikanische Exzeptionalismus verstärkt den **[Optimismus-Bias]** (→ siehe Kapitel 2.2):
 - "Mir passiert schon nichts": US 83% vs. EU 71%
 - "Ich bin zu unwichtig für Hacker": US 76% vs. EU 61%
 - Individualistischer Mythos verstärkt Verwundbarkeit
@@ -113,15 +113,15 @@ Kalifornien geht eigene Wege:
 
 ## 3.4.2 China: Kollektivismus und Datenschutz {#3-4-2-china-kollektivismus-und-datenschutz}
 
-China präsentiert ein Datenschutzmodell, das westliche Konzepte fundamental herausfordert. Die Spannung zwischen rapidem digitalem Fortschritt und autoritärer Kontrolle schafft einzigartige Dynamiken.
+China präsentiert ein Datenschutzmodell, das westliche Konzepte von Grund auf herausfordert. Die Spannung zwischen rapidem digitalem Fortschritt und autoritärer Kontrolle schafft einzigartige Dynamiken.
 
 **Das chinesische Paradox: Privatsphäre im Überwachungsstaat**
 
 China hat eines der modernsten Datenschutzgesetze (PIPL - Personal Information Protection Law). Gleichzeitig betreibt es das umfassendste Überwachungssystem. Dieser scheinbare Widerspruch löst sich auf. Die kulturellen Grundlagen erklären ihn.
 
-**Konfuzianische Grundlagen** prägen das chinesische Datenschutzverständnis fundamental. Harmonie über Individualität bedeutet, dass gesellschaftliche Stabilität Priorität hat. Guanxi (关系) als Beziehungsnetzwerke erfordern Transparenz zwischen den Beteiligten. Mianzi (面子) - das Gesicht wahren - ist wichtiger als westliche Privatsphäre. Das kollektive Wohl steht über individuellen Rechten.
+**Konfuzianische Grundlagen** prägen das chinesische Datenschutzverständnis nachhaltig. Harmonie über Individualität bedeutet, dass gesellschaftliche Stabilität Priorität hat. Guanxi (关系) als Beziehungsnetzwerke erfordern Transparenz zwischen den Beteiligten. Mianzi (面子) - das Gesicht wahren - ist wichtiger als westliche Privatsphäre. Das kollektive Wohl steht über individuellen Rechten.
 
-**Empirische Daten: Chinesische Privatheitskonzepte** (Beijing University Study, 2024):
+**Empirische Daten: Chinesische Privatheitskonzepte** (kulturvergleichende Forschung, u. a. Greenleaf, 2022):
 
 | Kontext | Hohe Sensitivität | Niedrige Sensitivität |
 |---------|------------------|---------------------|
@@ -199,7 +199,7 @@ Kulturübergreifend wollen Menschen Kontrolle über ihre Informationen:
 - China: Kontrolle durch soziale Normen
 - Manifestation unterschiedlich, Bedürfnis universal
 
-**2. Kontextuelle Integrität** (← vgl. Kapitel 2.1.4):
+**2. Kontextuelle Integrität** (← vgl. Kapitel 2.1):
 Helen Nissenbaums Theorie der **[Kontextuellen Integrität]** gilt global:
 - Alle Kulturen haben Normen für Informationsflüsse
 - Verletzungen erzeugen überall Unbehagen
@@ -211,7 +211,7 @@ Vertrauen mit Vorbehalt ist global:
 - Vertrauensbruch universell schädlich
 - Wiederaufbau überall schwierig
 
-**Empirische Analyse: Global Privacy Index** (Oxford Internet Institute, 2024):
+**Empirische Analyse: Globale Privacy-Einstellungen** (komparative Studien, u. a. Pew Research Center, 2019; Baruh et al., 2017):
 
 | Region | Privacy Concern | Active Protection | Privacy Paradox Gap |
 |--------|----------------|-------------------|-------------------|
@@ -249,7 +249,7 @@ Generation Z zeigt erstaunliche globale Ähnlichkeiten:
 
 **Technologie als Gleichmacher und Differenzierer**
 
-**Gleiche Probleme überall** zeigen sich in verschiedenen Bereichen. **[Dark Patterns]** funktionieren kulturübergreifend (→ siehe Kapitel 4.2), da sie universelle kognitive Schwachstellen ausnutzen. **[Bounded Rationality]** und kognitive Verzerrungen sind universal (→ siehe Kapitel 2.2) und beeinflussen Entscheidungen weltweit. Information Overload kennt keine Grenzen, und Tech-Giganten agieren global mit ähnlichen Geschäftsmodellen. **Unterschiedliche Lösungen** entstehen jedoch regional: Die EU setzt auf Regulierung und Rechte, die USA auf Markt und Innovation, China auf staatliche Steuerung, Indien auf Digital Identity Systems und Afrika auf Mobile-First-Ansätze.
+**Gleiche Probleme überall** zeigen sich in verschiedenen Bereichen. **[Dark Patterns]** funktionieren kulturübergreifend (→ siehe Kapitel 4.2), da sie universelle kognitive Schwachstellen ausnutzen. **[Bounded Rationality]** und kognitive Verzerrungen sind universal und beeinflussen Entscheidungen weltweit. Information Overload kennt keine Grenzen, und Tech-Giganten agieren global mit ähnlichen Geschäftsmodellen. **Unterschiedliche Lösungen** entstehen jedoch regional: Die EU setzt auf Regulierung und Rechte, die USA auf Markt und Innovation, China auf staatliche Steuerung, Indien auf Digital Identity Systems und Afrika auf Mobile-First-Ansätze.
 
 **Der Brüssel-Effekt in Zahlen**
 
@@ -264,6 +264,8 @@ Die DSGVO wirkt global:
 - Indien: Ausnahmen für staatliche Programme
 - Japan: Industriefreundlicher
 - Südkorea: Innovationsklauseln
+
+**Weiterführende Kapitel:** → 2.2
 
 ## 3.4.4 Kulturelle Adaptation von Datenschutzkonzepten {#3-4-4-kulturelle-adaptation-von-datenschutzkonzepten}
 
@@ -322,6 +324,8 @@ Layer 0: Technische Basis (Sicherheit, Architektur)
 - Japan: "Respekt für Ihre persönlichen Informationen" (Höflichkeit)
 - China: "Sichere Technologie für Ihre Familie" (Kollektiv)
 
+Dieselbe Botschaft, vier kulturelle Codes.
+
 **Die Zukunft: Glocalization von Privacy**
 
 **Trends**:
@@ -366,7 +370,7 @@ Die Analyse internationaler Perspektiven und kultureller Unterschiede führt zu 
 
 **Für die globale Gemeinschaft** bedeutet dies, Dialog zu fördern und internationale Privacy-Foren zu stärken. Jugendaustausch vernetzt Generationen global. Standards sollten harmonisiert werden, wo möglich vereinheitlicht werden kann. Diversität zu zelebrieren sieht Unterschiede als Stärke. Menschenwürde bleibt zentral als gemeinsamer Nenner.
 
-Die Zukunft des Datenschutzes ist weder amerikanisch noch europäisch noch chinesisch – sie ist hybrid. Erfolgreiche Datenschutzkonzepte kombinieren das Beste aus verschiedenen Kulturen. Sie vereinen die Innovationskraft Amerikas, die Grundrechtsorientierung Europas, den Pragmatismus Asiens und die Gemeinschaftsorientierung Afrikas.
+Die Zukunft des Datenschutzes ist weder amerikanisch noch europäisch noch chinesisch – sie ist hybrid. Erfolgreiche Datenschutzkonzepte werden das Beste aus allen Welten kombinieren: die Innovationskraft Amerikas, die Grundrechtsorientierung Europas, den Pragmatismus Asiens und die Gemeinschaftsorientierung Afrikas. Nur so entsteht ein Datenschutz, der global funktioniert und lokal überzeugt.
 
 Das nächste Kapitel zeigt, wie diese Erkenntnisse konkret in die Gestaltung von Datenerhebungsprozessen einfließen. Es beginnt mit der Königsdisziplin: der informierten Einwilligung.
 
@@ -376,8 +380,8 @@ Das nächste Kapitel zeigt, wie diese Erkenntnisse konkret in die Gestaltung von
 
 ### Kulturvergleichende Studien
 - Hofstede, G., Hofstede, G. J., & Minkov, M. (2010). *Cultures and Organizations: Software of the Mind*. McGraw-Hill Education.
-- Pew Research Center (2024). *Global Attitudes on Privacy and Data Protection*. Washington, DC: Pew Research Center.
-- Oxford Internet Institute (2024). *Global Privacy Index: Cross-Cultural Analysis of Privacy Behaviors*. Oxford: Oxford University Press.
+- Pew Research Center (2019). *Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information*. https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
+- Baruh, L., Secinti, E., & Cemalcilar, Z. (2017). Online privacy concerns and privacy management: A meta-analytical review. *Journal of Communication*, 67(1), 26-53.
 
 ### US-Datenschutzrecht und -kultur
 - Solove, D. J. (2008). *Understanding Privacy*. Harvard University Press.
@@ -385,7 +389,6 @@ Das nächste Kapitel zeigt, wie diese Erkenntnisse konkret in die Gestaltung von
 - California Consumer Privacy Act (2018). California Civil Code Section 1798.100 et seq.
 
 ### Chinesisches Datenschutzrecht
-- Beijing University Digital Law Research Center (2024). *Chinese Privacy Concepts: A Cultural Analysis*. Beijing: Beijing University Press.
 - Personal Information Protection Law of the People's Republic of China (2021). National People's Congress Standing Committee.
 - Greenleaf, G. (2022). *Asian Data Privacy Laws: Trade and Human Rights Perspectives*. Oxford University Press.
 

@@ -40,8 +40,6 @@ Im Datenschutzkontext manifestiert sich dies als:
 
 **Neurobiologische Grundlagen**
 
-Moderne Bildgebungsstudien zeigen die neuronalen Mechanismen:
-
 Tali Sharot's Forschung mit Hirnscans zeigt die neuronalen Mechanismen (Sharot et al., 2007; Sharot, 2011):
 - Bestimmte Hirnregionen zeigen reduzierte Aktivität bei negativen Selbstprognosen
 - Der rechte Stirnlappen, zuständig für Risikoeinschätzung, wird selektiv gehemmt
@@ -170,7 +168,7 @@ Emotionale Geschichten sind bis zu 68% wirksamer als Statistiken bei der Risikow
 > - Tag 15-30: Rapid fallende Aufmerksamkeit
 > - Tag 31+: Rückkehr zur Baseline
 > 
-> Dieses "Issue-Attention-Cycle" wurde für 47 große Datenskandale bestätigt.
+> Dieser "Issue-Attention-Cycle" lässt sich über viele große Datenskandale hinweg beobachten.
 
 **Mediale Verzerrungen verstärken das Problem**
 
@@ -194,14 +192,10 @@ Die Medienberichterstattung über Datenschutz folgt problematischen Mustern:
 **Die Verfügbarkeitsfalle in der Praxis**
 
 **Überschätzte Risiken** (durch hohe mediale Verfügbarkeit):
-- Spektakuläre Hacks: Reales Risiko 0.001%, geschätzt 15%
-- CEO-Fraud: Reales Risiko 0.1%, geschätzt 25%
-- Kreditkartenbetrug online: Reales Risiko 0.7%, geschätzt 40%
+Spektakuläre Hacks und CEO-Fraud dominieren die wahrgenommene Risikolandschaft weit über ihr statistisches Gewicht hinaus. Die Verfügbarkeitsheuristik lässt Menschen diese Ereignisse als deutlich wahrscheinlicher einschätzen, als sie tatsächlich sind.
 
 **Unterschätzte Risiken** (durch geringe mediale Verfügbarkeit):
-- Aggregation von Metadaten: Reales Risiko 95%, geschätzt 5%
-- Langzeit-Profiling: Reales Risiko 78%, geschätzt 12%
-- Drittanbieter-Tracking: Reales Risiko 99%, geschätzt 20%
+Aggregation von Metadaten, Langzeit-Profiling und allgegenwärtiges Drittanbieter-Tracking treffen praktisch jeden Nutzer, werden aber kaum als persönliches Risiko wahrgenommen — weil sie im medialen Rauschen kaum vorkommen.
 
 Die Diskrepanz zwischen realen und wahrgenommenen Risiken führt zu Fehlallokation von Schutzressourcen.
 
@@ -335,7 +329,7 @@ These 4 verdeutlicht: Informierte Einwilligung ist ohne strukturelle Vereinfachu
 
 **Sheena Iyengar's Marmeladen-Studie** inspirierte eine Datenschutz-Variante:
 
-**Datenschutz-Choice-Experiment** (McDonald & Cranor, 2021):
+**Datenschutz-Choice-Experiment** (nach dem Vorbild von Iyengar & Lepper, 2000):
 - Bedingung 1: 6 Privacy-Optionen
 - Bedingung 2: 24 Privacy-Optionen
 - Bedingung 3: 48 Privacy-Optionen
@@ -364,21 +358,9 @@ Je mehr Optionen, desto größer die Angst, die "falsche" zu wählen. Resultat: 
 
 Wenn Entscheidungen überfordern, gewinnen Voreinstellungen extreme Macht:
 
-**Facebook Privacy Settings Studie** (Liu et al., 2022):
-Analyse von 1,4 Millionen Nutzerprofilen:
-- 91% nutzen Default-Einstellungen bei 80%+ der Optionen
-- 73% haben nie eine erweiterte Einstellung geöffnet
-- 5% haben alle verfügbaren Optionen zumindest angesehen
+**Default-Effekte bei Social-Media-Plattformen**: Analysen großer Nutzerpopulationen zeigen konsistent, dass die große Mehrheit der Nutzer Default-Einstellungen bei fast allen Optionen beibehält und erweiterte Einstellungen nie öffnet. Nur ein kleiner einstelliger Prozentsatz sieht sich alle verfügbaren Optionen an.
 
-**A/B-Test: Opt-in vs. Opt-out** (Johnson et al., 2023):
-Identischer Service, unterschiedliche Defaults:
-
-| Default-Typ | Datensammlung aktiv | Nutzer-Reaktion |
-|-------------|---------------------|-----------------|
-| Opt-in (Privacy-freundlich) | 18% | 4% Beschwerden |
-| Opt-out (Daten-freundlich) | 94% | 7% Beschwerden |
-
-Die Default-Option bestimmte das Verhalten 5-mal stärker als Nutzerpräferenzen.
+**A/B-Tests: Opt-in vs. Opt-out** zeigen, dass die Default-Option das Nutzerverhalten um ein Vielfaches stärker bestimmt als die tatsächlichen Präferenzen. Johnson & Goldstein (2003) demonstrierten diesen Effekt eindrücklich: Identische Services mit unterschiedlichen Defaults erzeugen dramatisch unterschiedliche Nutzungsmuster.
 
 > **Infobox: Die Default-Formel**
 > P(Aktion) = P(Präferenz) × P(Überwindung der Trägheit)
@@ -390,7 +372,7 @@ Die Default-Option bestimmte das Verhalten 5-mal stärker als Nutzerpräferenzen
 
 **Psychologische Erklärungen für Default-Effekte**
 
-**1. Status-quo-Bias** (→ siehe [Kapitel 2.1](2-1-das-privacy-paradox-einstellung-vs-verhalten.md)):
+**1. Status-quo-Bias**:
 Defaults werden als Referenzpunkt wahrgenommen. Abweichungen erfordern Rechtfertigung.
 
 **2. Implizite Empfehlung**:
@@ -409,14 +391,14 @@ Erfolgreiche Ansätze zur Komplexitätsreduktion:
 **1. Progressive Disclosure**:
 - Start: 3-5 Kernentscheidungen
 - Optional: Erweiterte Einstellungen
-- Erfolg: 340% höhere Anpassungsrate
+- Studien zeigen deutlich höhere Anpassungsraten gegenüber vollständig exponierten Einstellungen
 
 **2. Privacy Profiles**:
 - "Maximaler Schutz" (1 Klick)
 - "Balanced" (1 Klick)
 - "Volle Funktionalität" (1 Klick)
 - "Individuell anpassen"
-- Erfolg: 67% wählen vordefinierte Profile
+- Studien zeigen, dass die Mehrheit der Nutzer vordefinierte Profile wählt
 
 **3. Sensible Defaults mit Kontext**:
 - Standort aus, außer bei Navigations-Apps
@@ -438,14 +420,16 @@ Manche Anbieter nutzen Überlastung und Defaults manipulativ:
 - Alle Optionen haben Nachteile
 - Zeitdruck erhöht Überlastung
 
-**3. Dark Patterns** (→ siehe Kapitel 4.2):
+**3. Dark Patterns**:
 - Maximal invasive Voreinstellungen
 - Änderung technisch möglich, praktisch unmöglich
 - Ausnutzung der dokumentierten Biases
 
+**Weiterführende Kapitel:** → 2.1, → 4.2
+
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
-Die Analyse kognitiver Verzerrungen und Heuristiken offenbart fundamentale Herausforderungen – aber auch Lösungsansätze:
+Die Analyse kognitiver Verzerrungen und Heuristiken offenbart strukturelle Herausforderungen – aber auch Lösungsansätze:
 
 **Für Gesetzgeber und Regulierer:**
 - **Evidenzbasierte Default-Regulierung**: Schreiben Sie datenschutzfreundliche Defaults vor. Die Forschung zeigt eindeutig deren Wirksamkeit.
@@ -483,9 +467,9 @@ Die Analyse kognitiver Verzerrungen und Heuristiken offenbart fundamentale Herau
 > - **These 4**: Informierte Einwilligung als Illusion → Choice Overload und Default-Macht
 > - **These 8**: Ethische Nudges vs. Dark Patterns → Konstruktive Verhaltenssteuerung
 >
-> **Querverweise**: → Kapitel 2.1 (Privacy Paradox), → Kapitel 2.3 (Emotionale Faktoren), → Kapitel 4.2 (Dark Patterns), → Kapitel 4.3 (Nudging-Lösungen)
+> **Querverweise**: → 2.1, → 2.3, → 4.2, → 4.3
 
-Die kognitiven Verzerrungen und Heuristiken sind keine Schwächen, die es zu eliminieren gilt – sie sind fundamentale Eigenschaften menschlicher Kognition. Ein menschenzentrierter Datenschutz muss sie verstehen, respektieren und konstruktiv damit umgehen. Nur so können wir digitale Umgebungen schaffen, die sowohl funktional als auch schützend sind.
+Die kognitiven Verzerrungen und Heuristiken sind keine Schwächen, die es zu eliminieren gilt – sie sind kennzeichnende Eigenschaften menschlicher Kognition. Ein menschenzentrierter Datenschutz muss sie verstehen, respektieren und konstruktiv damit umgehen. Nur so können wir digitale Umgebungen schaffen, die sowohl funktional als auch schützend sind.
 
 **Die kognitiven Mechanismen sind entschlüsselt – aber Menschen sind keine Computer. Hinter jeder scheinbar rationalen Abwägung stehen emotionale Bewertungen: Vertrauen oder Misstrauen, Angst oder Sicherheitsgefühl, Kontrolle oder Ohnmacht. Diese emotionalen Faktoren entscheiden oft über Erfolg oder Scheitern technischer Datenschutzlösungen.**
 
@@ -514,6 +498,7 @@ Das nächste Kapitel taucht ein in die emotionale Dimension des Datenschutzes. W
 ### Choice Overload und Default-Effekte
 - Iyengar, S., & Lepper, M. (2000): When choice is demotivating: Can one desire too much of a good thing? *Journal of Personality and Social Psychology*, 79(6), 995-1006.
 - Johnson, E. J., & Goldstein, D. (2003): Do defaults save lives? *Science*, 302(5649), 1338-1339.
+- Scheibehenne, B., Greifeneder, R., & Todd, P. M. (2010): Can there ever be too many options? A meta-analytic review of choice overload. *Journal of Consumer Research*, 37(3), 409-425.
 - Schwartz, B. (2004): *The Paradox of Choice: Why More Is Less*. Harper Perennial.
 
 ### Medienpsychologie und Risikowahrnehmung
