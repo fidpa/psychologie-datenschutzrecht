@@ -11,7 +11,7 @@
 
 Stellen Sie sich vor, eine Datenschutzbeauftragte will verstehen, warum ihre Mitarbeiter trotz dreier Schulungen im letzten Jahr weiterhin Passwörter auf Post-its notieren. Sie kennt die rechtlichen Vorgaben, sie hat die technischen Systeme implementiert — und trotzdem ändert sich das Verhalten nicht. Was ihr fehlt, ist ein Rahmenwerk, das die verschiedenen Ursachen sichtbar macht: die kognitive Überlastung durch zu viele Passwort-Regeln, den sozialen Druck im Team, die emotionale Resignation nach dem dritten Systemwechsel in einem Jahr, und die Gewohnheiten, die sich über Jahre eingeschliffen haben.
 
-Genau diesen Rahmen liefert das **Integrative Modell Psychologischen Datenschutzes (IMPD)**. Prof. Dr. Miriam Krüger, die das Modell in ihrer wegweisenden Arbeit zur Privacy-Psychologie entwickelt hat, bringt das Grundproblem auf den Punkt: „Wir haben genug Einzeltheorien. Was fehlt, ist ein Rahmenwerk, das die verschiedenen Ebenen menschlichen Datenschutzverhaltens integriert und handlungsleitend wirkt" (Krüger, 2024). Das IMPD ist der Versuch, diese Lücke zu schließen — nicht als akademische Fingerübung, sondern als praktisches Werkzeug für genau jene Situationen, in denen isolierte Maßnahmen versagen.
+Genau diesen Rahmen liefert das **Integrative Modell Psychologischen Datenschutzes (IMPD)** — die Synthese dieses Buches. Es bündelt die in den vorangegangenen sechzehn Kapiteln erarbeiteten Erkenntnisse in einem kohärenten Rahmenwerk und führt das integrative Rahmenmodell aus Kapitel 2.6 weiter: von einer konzeptuellen Verknüpfung bestehender Theorien zu einem handlungsleitenden Werkzeug. Miriam Krüger, die das Modell in ihrer Arbeit als UX-Forscherin und Datenschutzberaterin intensiv erprobt hat, bringt das Grundproblem auf den Punkt: „Wir haben genug Einzeltheorien. Was fehlt, ist ein Rahmenwerk, das die verschiedenen Ebenen menschlichen Datenschutzverhaltens integriert und handlungsleitend wirkt." Das IMPD ist der Versuch, diese Lücke zu schließen — nicht als akademische Fingerübung, sondern als praktisches Werkzeug für genau jene Situationen, in denen isolierte Maßnahmen versagen.
 
 ## 17.2.1 Theoretische Grundlagen des Modells {#17-2-1-theoretische-grundlagen-des-modells}
 
@@ -31,9 +31,9 @@ Datenschutzverhalten findet nicht im sozialen Vakuum statt. Die **Theory of Plan
 
 **Mikro-Ebene:** Direkte soziale Umgebung und Peer-Gruppen prägen Datenschutznormen. Wenn Freunde und Familie freizügig mit Daten umgehen, sinkt die eigene Datenschutzsensibilität. Die **Social Proof-Heuristik** (Cialdini, 2021) verstärkt diesen Effekt.
 
-**Meso-Ebene:** Organisationale und institutionelle Kontexte schaffen eigene Datenschutzkulturen (→ Kapitel 8.1). Solange die informelle Norm lautet "Hauptsache, es funktioniert", bleibt Datenschutz Compliance-Last. Erst wenn er als Innovationstreiber positioniert wird, ändert sich die Kultur.
+**Meso-Ebene:** Organisationale und institutionelle Kontexte schaffen eigene Datenschutzkulturen (→ Kapitel 8.1). Solange die informelle Norm lautet "Hauptsache, es funktioniert", bleibt Datenschutz Compliance-Last. Erst wenn er als Innovationstreiber positioniert wird, ändert sich die Kultur. Eine besondere Gefahr für diese Kulturentwicklung ist die intraorganisationale Mikropolitik: Wird Datenschutzrhetorik als Machtinstrument missbraucht, delegitimiert das den Schutzauftrag von innen — unabhängig davon, ob Regeln formal eingehalten werden (→ Kapitel 8.5).
 
-**Makro-Ebene:** Kulturelle und gesellschaftliche Normen definieren, was als privat gilt. Die **kontextuelle Integrität** (Nissenbaum, 2010) variiert zwischen Kulturen erheblich.
+**Makro-Ebene:** Kulturelle und gesellschaftliche Normen definieren, was als privat gilt. Die **kontextuelle Integrität** (Nissenbaum, 2009) variiert zwischen Kulturen erheblich.
 
 ### Die emotionspsychologische Säule: Affektive Prozesse
 
@@ -53,9 +53,7 @@ Datenschutzverhalten ist nicht statisch, sondern entwickelt sich über die Leben
 
 **Generationeneffekte:** Digital Natives haben kategorial andere Privatheitsnormen als Digital Immigrants (→ Kapitel 15.2). Diese Unterschiede sind nicht nur oberflächlich, sondern reflektieren unterschiedliche mentale Modelle von Privatheit.
 
-**Lernprozesse:** Datenschutzverletzungen können zu nachhaltigen Verhaltensänderungen führen – aber nur unter bestimmten Bedingungen. Felix Hartmann berichtet aus seiner Praxis: "Nach einem Datenleck werden Nutzer kurzzeitig vorsichtiger, fallen aber ohne strukturelle Unterstützung in alte Muster zurück."
-
-**Weiterführende Kapitel:** → 2.1, → 3.4, → 3.2
+**Lernprozesse:** Datenschutzverletzungen können zu nachhaltigen Verhaltensänderungen führen – aber nur unter bestimmten Bedingungen. Felix Hartmann berichtet aus seiner Praxis: "Nach einem Datenleck werden Nutzer kurzzeitig vorsichtiger, fallen aber ohne strukturelle Unterstützung in alte Muster zurück." Dieses Muster verweist auf eine grundlegende Asymmetrie: Einzelerfahrungen reichen nicht aus, um tiefgreifende Verhaltensänderungen zu erzeugen — dafür braucht es strukturelle Unterstützung, die das IMPD als Kontextkomponente erfasst (→ vgl. Kapitel 3.2 zu rechtlichen Kontexten, Kapitel 3.4 zu kulturellen Unterschieden).
 
 ## 17.2.2 Komponenten und ihre Interaktionen {#17-2-2-komponenten-und-ihre-interaktionen}
 
@@ -77,9 +75,7 @@ Schließlich schließt sich der Kreis durch **Feedback-Prozesse**, die jedes Ver
 
 ### Interaktionsdynamiken: Warum isolierte Maßnahmen scheitern
 
-Die eigentliche Stärke des IMPD liegt nicht in den einzelnen Komponenten, sondern in ihrem Zusammenspiel. Kognition und Emotion stehen in einer Spirale: Risikowahrnehmung erzeugt Angst, und Angst verzerrt die Risikowahrnehmung — eine Dynamik, die sowohl eskalieren als auch deeskalieren kann. Person und Kontext bedingen einander wechselseitig: Persönlichkeit beeinflusst die Kontextwahl (manche **[Privacy Fundamentalisten]** meiden bestimmte Dienste ganz), während der Kontext die Persönlichkeit formt — ständige Überwachung etwa kann zu erlernter Hilflosigkeit führen. Und Verhalten und Feedback verstärken sich gegenseitig: Positive Erfahrungen festigen Verhaltensweisen durch operante Konditionierung, während negative Erfahrungen je nach Intensität zu Vermeidung oder verstärktem Schutzverhalten führen. Wer nur eine dieser Stellschrauben dreht — etwa ausschließlich auf Information setzt, ohne emotionale oder kontextuelle Faktoren zu berücksichtigen — wird erleben, dass die Wirkung verpufft.
-
-**Weiterführende Kapitel:** → 4.1, 5.2
+Die eigentliche Stärke des IMPD liegt nicht in den einzelnen Komponenten, sondern in ihrem Zusammenspiel. Kognition und Emotion stehen in einer Spirale: Risikowahrnehmung erzeugt Angst, und Angst verzerrt die Risikowahrnehmung — eine Dynamik, die sowohl eskalieren als auch deeskalieren kann. Person und Kontext bedingen einander wechselseitig: Persönlichkeit beeinflusst die Kontextwahl (manche **[Privacy Fundamentalisten]** meiden bestimmte Dienste ganz), während der Kontext die Persönlichkeit formt — ständige Überwachung etwa kann zu erlernter Hilflosigkeit führen. Und Verhalten und Feedback verstärken sich gegenseitig: Positive Erfahrungen festigen Verhaltensweisen durch operante Konditionierung, während negative Erfahrungen je nach Intensität zu Vermeidung oder verstärktem Schutzverhalten führen. Wer nur eine dieser Stellschrauben dreht — etwa ausschließlich auf Information setzt, ohne emotionale oder kontextuelle Faktoren zu berücksichtigen — wird erleben, dass die Wirkung verpufft (→ zur Dynamik zwischen Einwilligung und kontextueller Integrität vgl. Kapitel 4.1 und 5.2).
 
 ## 17.2.3 Anwendung in verschiedenen Kontexten {#17-2-3-anwendung-in-verschiedenen-kontexten}
 
@@ -119,49 +115,27 @@ Das Modell fordert: Altersadaptive Datenschutzkonzepte, die kognitive Entwicklun
 
 ## 17.2.4 Validierung und Weiterentwicklung {#17-2-4-validierung-und-weiterentwicklung}
 
-Ein Modell ist nur so gut wie seine empirische Fundierung. Das IMPD durchlief mehrere Validierungsphasen:
+Ein Modell ist nur so gut wie seine empirische Fundierung — und die Ehrlichkeit, mit der es seine eigenen Grenzen benennt.
 
-### Empirische Validierung
+### Empirische Fundierung
 
-Prof. Krüger leitete eine internationale Validierungsstudie mit 12.000 Teilnehmern aus 15 Ländern (Krüger et al., 2024). Die Ergebnisse bestätigen die Grundstruktur:
+Das IMPD beansprucht keine eigene groß angelegte Validierungsstudie — es bezieht seine Evidenz aus den Bausteinen, auf denen es aufbaut. Jede seiner sechs Komponenten ist in empirisch validierten Theorien verankert: die verhaltensökonomische Säule in der Prospect Theory (Kahneman & Tversky, 1979) und der begrenzten Rationalität (Simon, 1955); die sozialpsychologische Säule in der Theory of Planned Behavior (Ajzen, 1991) und dem Social Proof (Cialdini, 2021); die emotionale Säule in der Affekt-Heuristik (Slovic et al., 2007) und den Kontrollüberzeugungen (Rotter, 1966); die entwicklungspsychologische Säule in den Lernprozessen, die Felix Hartmanns Beobachtungen aus der Praxis bestätigen. Die Validität des IMPD ergibt sich zunächst aus der Validität seiner Bausteine — und aus der Kohärenz, mit der sie verbunden werden.
 
-- 78% der Varianz im Datenschutzverhalten lässt sich durch die sechs Komponenten erklären
-- Kulturelle Unterschiede moderieren die Gewichtung einzelner Faktoren
-- Die Interaktionseffekte sind stärker als Haupteffekte
+Ob diese Bausteine in ihrer Kombination tatsächlich mehr erklären als in isolierter Anwendung, bleibt eine empirische Frage, die das Modell explizit offen lässt. Strukturgleichungsmodelle mit den sechs Komponenten als latenten Variablen wären geeignete Prüfinstrumente — ebenso Longitudinalstudien, die untersuchen, wie sich die Gewichtung einzelner Faktoren über Lebensphasen und Technologiewandel verändert. Das IMPD macht damit Vorhersagen, die grundsätzlich falsifizierbar sind — eine Voraussetzung für wissenschaftliche Ernsthaftigkeit.
 
-Strukturgleichungsmodelle zeigen robuste Pfade zwischen Komponenten. Besonders stark sind die Verbindungen Emotion → Verhalten und Kontext → Kognition.
+### Anwendungserfahrungen aus der Praxis
 
-### Praktische Validierung
+Die praktische Nützlichkeit des Modells zeigt sich in seiner Anwendung. Dr. Annika Sommer nutzt das IMPD in ihrer Datenschutzarbeit im Klinikum als Analyseraster: „Das Modell zwingt mich, systematisch zu fragen: Liegt das Problem im Wissen? In der emotionalen Einstellung? In den Kontextbedingungen? Oder in verfestigten Gewohnheiten? Ich komme viel schneller zu zielgenauen Maßnahmen, als wenn ich nur Compliance-Prüflisten durcharbeite." Felix Hartmann ergänzt die Entwicklerperspektive: In seinem Berliner Fintech-Startup habe das Modell geholfen, Privacy-by-Design-Anforderungen in konkrete Interface-Entscheidungen zu übersetzen — welche Komponente durch welches Design-Element angesprochen wird. Die Sprache des Modells schaffe eine gemeinsame Gesprächsgrundlage zwischen Juristen, Entwicklern und UX-Designern, die sonst aneinander vorbeiredeten.
 
-Drei Pilotstudien in unterschiedlichen Organisationen testeten die Anwendbarkeit:
+Diese Praxiserfahrungen sind keine empirische Validierung im wissenschaftlichen Sinne — weder randomisiert noch kontrolliert noch mit definierten Kontrollbedingungen. Sie sind Plausibilitätshinweise, die das Modell als Ausgangspunkt für systematische Forschung qualifizieren, nicht als Ersatz dafür.
 
-1. **Universitätsklinikum Hamburg:** Implementation IMPD-basierter Datenschutzschulungen führte zu 67% besserer Retention und 45% häufigerer Nutzung von Datenschutztools (Sommer et al., 2024).
+### Entwicklungsagenda
 
-2. **Fintech-Startup Berlin:** **[Privacy by Design]** nach IMPD-Prinzipien resultierte in 23% höherer Nutzerakzeptanz und 31% weniger Support-Anfragen (Hartmann & König, 2024).
-
-3. **Internationaler Versicherungskonzern:** IMPD-basiertes **[Change Management]** reduzierte Widerstände gegen neue Datenschutzprozesse um 52% (Chen & Mueller, 2024).
-
-### Iterative Weiterentwicklung
-
-Das Modell ist kein statisches Konstrukt, sondern entwickelt sich basierend auf neuen Erkenntnissen:
-
-- Version 1.0 (2023): Grundmodell mit vier Komponenten
-- Version 1.5 (2024): Integration emotionaler und entwicklungspsychologischer Faktoren
-- Version 2.0 (2025): Aktuelle Version mit sechs Komponenten und definierten Interaktionen
-
-Geplante Erweiterungen umfassen:
-- Integration neuropsychologischer Erkenntnisse
-- Berücksichtigung von KI-spezifischen Faktoren
-- Kultursensitive Adaptationen
+Das Modell hat keine abgeschlossene Versionsgeschichte — es entwickelt sich mit dem Wissensstand, der es trägt. Die in Abschnitt 17.2.5 dokumentierten offenen Fragen definieren gleichzeitig seine Entwicklungsagenda: Wie lassen sich unbewusste Prozesse besser in das Modell integrieren? Welche Rolle spielen KI-spezifische Faktoren, die in Kapitel 10 analysiert wurden? Wie passt sich das Modell an kultursensitive Anforderungen an (→ Kapitel 3.4)? Jede dieser Fragen ist zugleich ein Forschungsprogramm — und jede Antwort wird das Modell weiterentwickeln, ohne seinen Kern zu verwerfen.
 
 ### Methodische Triangulation
 
-Die Validierung nutzt multiple Methoden:
-- Quantitative Surveys zur Komponentenmessung
-- Qualitative Interviews zur Prozessaufklärung
-- Experimentelle Studien zu kausalen Zusammenhängen
-- Longitudinalstudien zu Entwicklungsprozessen
-- Neuroimaging zu unbewussten Prozessen
+Für eine systematische Überprüfung des IMPD eignet sich ein methodisch triangulierender Ansatz. Quantitative Surveys können die sechs Komponenten als latente Variablen operationalisieren und ihre Interaktionen durch Strukturgleichungsmodelle testen. Qualitative Tiefeninterviews und kognitive Walkthrough-Studien klären, wie Entscheidungsprozesse tatsächlich verlaufen — und ob das Modell die richtigen Konstrukte adressiert. Experimentelle Designs, in denen einzelne Komponenten gezielt manipuliert werden, prüfen kausale Zusammenhänge. Longitudinalstudien über mehrere Jahre ermöglichen schließlich Aussagen über Entwicklungstrajektorien — wie sich das Datenschutzverhalten verändert, wenn Menschen Erfahrungen sammeln, Technologien wechseln und neue Rollen übernehmen.
 
 ## 17.2.5 Grenzen und offene Fragen {#17-2-5-grenzen-und-offene-fragen}
 
@@ -217,35 +191,15 @@ Diese Zweifel sind berechtigt, aber kein Grund zur Resignation. Das IMPD bietet 
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
-Das Integrative Modell Psychologischen Datenschutzes hat weitreichende praktische Konsequenzen:
+Das Integrative Modell Psychologischen Datenschutzes verändert, wie verschiedene Akteursgruppen über Datenschutz denken und handeln. Seine weitreichendste praktische Konsequenz ist eine gemeinsame Sprache: Das Modell macht die Komplexität menschlichen Datenschutzverhaltens für Juristen, Techniker, Designer und Führungskräfte gleichermaßen greifbar — und schafft damit die Voraussetzung für koordiniertes Handeln über Disziplingrenzen hinweg.
 
-### Für Datenschutzbeauftragte
+Für Gesetzgeber, Regulierungsbehörden und Forschung zeigt das IMPD, wo rechtliche Regelungen an psychologische Grenzen stoßen. Informationspflichten sprechen ausschließlich die kognitive Komponente an und ignorieren emotionale, soziale und habituelle Faktoren. IMPD-informierte Regulierung würde stärker auf Kontextgestaltung und Verhaltensarchitektur setzen — auf Defaults, die Datenschutz erleichtern, statt auf Belehrungen, die ihn fordern. Regulatorische Sandboxes könnten verschiedene Interventionsdesigns erproben, die auf unterschiedlichen Modellkomponenten basieren, bevor sie in breit wirksame Regulierung überführt werden. Für die Forschungsgemeinschaft bietet das IMPD ein strukturiertes Forschungsprogramm: Jede der sechs Komponenten und jede ihrer Interaktionen ist ein eigenständiger Forschungsgegenstand, der interdisziplinäre Methodenkombinationen verlangt.
 
-Das IMPD bietet eine systematische Analysestruktur für Datenschutzprobleme. Statt intuitiv vorzugehen, können DSBs gezielt identifizieren, welche Komponenten in ihrer Organisation problematisch sind. Dr. Annika Sommer nutzt das Modell für strukturierte Datenschutz-Audits: "Ich gehe systematisch durch alle sechs Komponenten und identifiziere Schwachstellen. Das macht meine Empfehlungen präziser und wirkungsvoller." 
+Für Unternehmen, Entwickler und Datenschutzbeauftragte ist das IMPD ein Diagnose- und Gestaltungswerkzeug in einem. Dr. Annika Sommer nutzt das Modell für strukturierte Datenschutz-Audits: „Ich gehe systematisch durch alle sechs Komponenten und identifiziere Schwachstellen. Das macht meine Empfehlungen präziser und wirkungsvoller." Entwickler können IMPD-basierte Interface-Bewertungen durchführen: Welche kognitive Last erzeugt dieses Formular? Welche emotionale Valenz transportiert dieses Design? Welche sozialen Normen werden durch diese Funktion kommuniziert? Das Modell verwandelt Datenschutz für Unternehmens­leitungen in eine strategische Managementaufgabe mit messbaren Dimensionen. Lisa Chen, die IMPD-gestützte KPIs eingeführt hat, bringt es auf den Punkt: „Wir messen nicht nur Compliance, sondern auch Vertrauen, Nutzerzufriedenheit und Verhaltensänderungen. Das gibt ein vollständigeres Bild."
 
-Praktisch lässt sich dies durch die Entwicklung IMPD-basierter Checklisten umsetzen. Zusätzlich benötigen DSBs Training in psychologischer Diagnostik und sollten das Modell in bestehende Datenschutz-Management-Systeme integrieren.
+Für Bildungseinrichtungen, Nutzer und Zivilgesellschaft liegt der Wert des Modells in der Selbstreflexion, die es ermöglicht. Wer die sechs Komponenten kennt, versteht die eigenen Datenschutzentscheidungen besser — warum man trotz besseren Wissens sorglos agiert, warum emotionale Bindung an einen Dienst Datenschutzbedenken überlagert, warum Gewohnheiten sich so schwer durchbrechen lassen. Datenschutzorganisationen können gezielter handeln, wenn sie identifizieren, welche IMPD-Komponenten in ihrer Zielgruppe kritisch sind: Fehlt es an Wissen, an Vertrauen, an geeignetem Kontext oder an unterstützenden sozialen Normen? Bildungsprogramme, die alle Modellkomponenten ansprechen statt nur Wissen zu vermitteln, zeigen dauerhaft mehr Wirkung als reine Informationskampagnen.
 
-### Für UX-Designer und Entwickler
-
-Das Modell liefert konkrete Gestaltungsrichtlinien für UX-Designer. Jedes Interface-Element lässt sich danach bewerten, welche IMPD-Komponenten es anspricht. Designer sollten bewusst entscheiden: Wollen sie kognitive Last reduzieren durch **[Progressive Disclosure]**? Sollen sie emotionale Sicherheit durch Vertrauenssignale vermitteln? Oder möchten sie soziale Normen durch **[Social Proof]** kommunizieren? Die Komplexität des Modells erfordert allerdings spezialisierte Tools und neue Metriken.
-
-### Für Unternehmensleitungen
-
-IMPD verwandelt Datenschutz in eine strategische Managementaufgabe. Die verschiedenen Komponenten erfordern unterschiedliche organisationale Kompetenzen. HR muss individuelle Faktoren verstehen, IT den technischen Kontext gestalten, Marketing emotionale Prozesse ansprechen. Lisa Chen implementierte IMPD-basierte KPIs: "Wir messen nicht nur Compliance, sondern auch Vertrauen, Nutzerzufriedenheit und Verhaltensänderungen. Das gibt ein vollständigeres Bild."
-
-### Für Regulierer und Gesetzgeber
-
-Das Modell zeigt auf, wo rechtliche Regelungen an psychologische Grenzen stoßen. Informationspflichten sprechen nur die kognitive Komponente an, ignorieren aber emotionale und soziale Faktoren. IMPD-informierte Regulierung würde stärker auf Kontextgestaltung und Verhaltensarchitektur setzen. **[Regulatory Sandboxes]** könnten verschiedene Interventionen testen, die auf unterschiedlichen IMPD-Komponenten basieren.
-
-### Für Forscher und Akademiker
-
-Das IMPD bietet ein strukturiertes Forschungsprogramm für Wissenschaftler. Jede Komponente und Interaktion lässt sich detaillierter erforschen. Besonders fruchtbar erweisen sich interdisziplinäre Projekte, die verschiedene methodische Zugänge kombinieren. Prof. Krüger's Forschungsgruppe hat bereits 15 Dissertationsprojekte initiiert, die auf dem Modell basieren.
-
-### Für Nutzer und Zivilgesellschaft
-
-Das Modell kann bei Nutzern Selbstreflexion fördern. Sie verstehen ihre eigenen Datenschutzentscheidungen besser, wenn sie die verschiedenen Einflussfaktoren kennen. Datenschutzorganisationen können gezielter handeln, indem sie identifizieren, welche IMPD-Komponenten in ihrer Zielgruppe kritisch sind. Bildungsprogramme sollten nicht nur Wissen vermitteln, sondern alle Modellkomponenten ansprechen.
-
-Das Integrative Modell zeigt, was in der Praxis oft vergessen wird: Datenschutzverhalten folgt keiner einfachen Logik. Es entsteht aus dem Zusammenspiel von Wissen, Emotionen, Kontext und Gewohnheit — und lässt sich nur verändern, wenn man alle diese Faktoren gemeinsam in den Blick nimmt.
+Das Integrative Modell zeigt, was in der Praxis oft vergessen wird: Datenschutzverhalten folgt keiner einfachen Logik. Es entsteht aus dem Zusammenspiel von Wissen, Emotionen, Kontext und Gewohnheit — und lässt sich nur verändern, wenn man alle diese Faktoren gemeinsam in den Blick nimmt. Welche gesellschaftlichen Szenarien entstehen, wenn diese Dynamiken sich in unterschiedliche Richtungen entwickeln — ob Richtung einer Privacy-First-Gesellschaft oder Richtung totaler Transparenz —, zeigen die Zukunftsszenarien in Kapitel 17.3.
 
 ---
 
@@ -253,21 +207,13 @@ Das Integrative Modell zeigt, was in der Praxis oft vergessen wird: Datenschutzv
 
 Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes*, 50(2), 179-211.
 
-Chen, L., & Mueller, S. (2024). IMPD-based change management in insurance: A case study. *Journal of Privacy and Technology*, 18(3), 234-251.
-
 Cialdini, R. B. (2021). *Influence: The psychology of persuasion* (Revised edition). Harper Business.
-
-Hartmann, F., & König, T. (2024). Privacy by design in fintech: Applying the IMPD framework. *Proceedings of the Privacy Engineering Conference*, 145-162.
 
 Higgins, E. T. (1997). Beyond pleasure and pain. *American Psychologist*, 52(12), 1280-1300.
 
 Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica*, 47(2), 263-291.
 
-Krüger, M. (2024). *Privacy by design: A behavioral perspective*. Springer.
-
-Krüger, M., Smith, J., Tanaka, K., & Garcia, M. (2024). Cross-cultural validation of the Integrative Model of Psychological Privacy. *International Journal of Human-Computer Studies*, 189, 103-127.
-
-Nissenbaum, H. (2010). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
 
 Rogers, R. W. (1975). A protection motivation theory of fear appeals and attitude change. *Journal of Psychology*, 91(1), 93-114.
 
@@ -278,5 +224,3 @@ Simon, H. A. (1955). A behavioral model of rational choice. *Quarterly Journal o
 Slovic, P. (1993). Perceived risk, trust, and democracy. *Risk Analysis*, 13(6), 675-682.
 
 Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G. (2007). The affect heuristic. *European Journal of Operational Research*, 177(3), 1333-1352.
-
-Sommer, A., Westphal, R., & Lehmann, M. (2024). Implementing IMPD in healthcare: Effects on privacy behavior and data protection culture. *Healthcare Privacy Journal*, 12(2), 78-95.
