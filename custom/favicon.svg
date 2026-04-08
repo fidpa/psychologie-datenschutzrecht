@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Shield shape -->
+  <path d="M16 2 L27 6.5 V17.5 C27 23.5 22 27.5 16 30 C10 27.5 5 23.5 5 17.5 V6.5 Z"
+        fill="#1e3a6e" />
+  <!-- Subtle inner highlight at top -->
+  <path d="M16 4.5 L25 8.2 V11 C21 9.5 16 8.8 16 8.8 C16 8.8 11 9.5 7 11 V8.2 Z"
+        fill="#2e5499" opacity="0.5"/>
+  <!-- Psi symbol (Ψ) -->
+  <text x="16" y="23.5"
+        text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="15"
+        font-weight="bold"
+        fill="#e8d5a3"
+        letter-spacing="0">Ψ</text>
+</svg>

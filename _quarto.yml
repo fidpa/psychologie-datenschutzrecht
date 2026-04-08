@@ -159,6 +159,7 @@ language:
 format:
   html:
     theme: cosmo
+    favicon: custom/favicon.svg
     lang: de
     toc: true
     toc-depth: 3
