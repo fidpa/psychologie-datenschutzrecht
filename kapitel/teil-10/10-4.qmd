@@ -17,6 +17,29 @@ Der AI Act verkörpert einen fundamentalen Paradigmenwechsel: von der nachträgl
 
 These 3 wird hier konkret: Eine verhaltenspsychologisch fundierte Regulierung muss nicht nur Risiken adressieren. Sie muss auch verstehen, wie Menschen diese Risiken wahrnehmen und auf regulatorische Maßnahmen reagieren.
 
+> **Infobox: AI Act — Zeitplan der Geltung**
+>
+> Der AI Act gilt, aber nicht alles auf einmal. Die Verordnung (EU) 2024/1689 trat im August 2024 in Kraft; ihre Pflichten werden gestaffelt wirksam:
+>
+> | Ab wann | Was gilt |
+> |---------|---------|
+> | **02.02.2025** | Verbotene Praktiken (Art. 5): Social Scoring, Echtzeit-Biometrie in öffentlichen Räumen, Emotionserkennung am Arbeitsplatz und in Bildungseinrichtungen, manipulative KI |
+> | **02.08.2025** | Pflichten für General-Purpose AI (GPAI), Benennung nationaler Marktaufsichtsbehörden |
+> | **02.08.2026** | Pflichten für Hochrisiko-KI-Systeme (Annex III) |
+> | **02.08.2027** | Alle verbleibenden Pflichten |
+>
+> Die Verbote aus Art. 5 sind somit bereits geltendes, durchsetzbares Recht. In Deutschland ist die Bundesnetzagentur als nationale Marktaufsichtsbehörde zuständig.
+
+Die Tabelle suggeriert Ordnung. Vier Daten, vier Stufen, saubere Spalten. Psychologisch verbirgt sie eine Falle: Gestaffelte Geltung erzeugt nicht Klarheit, sondern regulatorische Ambiguität. Drei Mechanismen bestimmen, wie Organisationen auf diesen Zwischenzustand reagieren.
+
+**Serielles Aufschieben durch hyperbolisches Diskontieren.** Jede Frist, die mehr als zwölf Monate entfernt liegt, wird subjektiv entwertet (← vgl. Kapitel 2.1). Wer im Februar 2025 erfährt, dass Hochrisiko-Pflichten erst im August 2026 greifen, speichert diese Information als „noch nicht relevant". Das hyperbolische Diskontieren wiederholt sich mit jeder Stufe: Kaum ist eine Frist verstrichen, rückt die nächste in scheinbar komfortable Ferne. Die Staffelung, die den Übergang erleichtern soll, legitimiert fortgesetztes Abwarten.
+
+**Kognitive Dissonanz im Zwischenzustand.** Zwischen „teils gültig" und „teils ausstehend" entsteht ein Zustand, den die Dissonanztheorie präzise beschreibt (← vgl. Kapitel 2.1): Organisationen wissen, dass sie handeln müssten, handeln aber nicht. Die resultierende Spannung wird durch Externalisierung reduziert. „Finale Guidance fehlt noch", „die nationale Umsetzung ist unklar", „wir warten auf den ersten Enforcement Case" sind keine sachlichen Analysen. Es sind Dissonanzreduktionsstrategien, die das Unbehagen des Zwischenzustands lindern.
+
+**Antizipatorische Compliance versus Abwarten-Bias.** Wie Organisationen auf diese Ambiguität reagieren, hängt von ihrer kulturellen Prägung ab. Die Forschung zur Unsicherheitsvermeidung (← vgl. Kapitel 2.4) zeigt: Deutsche Organisationen mit hohem Uncertainty Avoidance Index tendieren zu vorzeitiger Überregulierung, um die Ambiguität zu beenden. Angelsächsisch geprägte Unternehmen warten ab und reagieren erst auf konkrete Durchsetzung. Beide Strategien haben Kosten. Die eine bindet Ressourcen für Anforderungen, die sich noch ändern können. Die andere riskiert Compliance-Lücken, wenn die nächste Geltungsstufe eintritt.
+
+Dr. Sommer entwickelte für ihr Universitätsklinikum eine pragmatische Antwort: eine regulatorische Zwischenbilanz. Halbjährlich gleicht sie den Umsetzungsstand mit den kommenden Geltungsstufen ab, priorisiert nach Eintrittswahrscheinlichkeit und trennt Handlungspflichten von Beobachtungspflichten. „Die Staffelung wird zum Risiko, wenn man sie als Pause liest", sagt sie. „Sie ist eine Aufforderung zur Priorisierung" (→ siehe Kapitel 9.1 zur Identitätsbedrohung durch Reformprozesse).
+
 ## 10.4.1 Risikobasierte Regulierung und Risikowahrnehmung {#10-4-1-risikobasierte-regulierung-und-risikowahrnehmung}
 
 Der AI Act kategorisiert KI-Systeme in vier Risikostufen: minimales Risiko, begrenztes Risiko, hohes Risiko und unannehmbares Risiko. Diese scheinbar klare Taxonomie trifft auf die chaotische Realität menschlicher Risikowahrnehmung – ein Zusammenprall, der erhebliche Herausforderungen für die Wirksamkeit der Regulierung schafft.
@@ -48,6 +71,8 @@ Um die Kluft zwischen regulatorischer und psychologischer Risikoeinschätzung zu
 ## 10.4.2 Verbotene Praktiken: Manipulation und Ausnutzung {#10-4-2-verbotene-praktiken-manipulation-und-ausnutzung}
 
 Der AI Act verbietet KI-Praktiken, die als hochgradig schädlich für menschliche Autonomie und Würde gelten. Dazu gehören unterschwellige Techniken zur Verhaltensbeeinflussung, die Ausnutzung von Vulnerabilitäten und Social Scoring durch öffentliche Behörden. Diese Verbote adressieren direkt die psychologischen Manipulationspotenziale von KI-Systemen, doch ihre Umsetzung konfrontiert uns mit der Komplexität menschlicher Beeinflussbarkeit.
+
+Diese Verbote sind seit Februar 2025 geltendes Recht. Bei Verstößen drohen Bußgelder bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes. Die Durchsetzungspraxis baut sich noch auf, doch die psychologische Wirkung zeigt sich bereits: Die bloße Existenz klarer Verbote verändert die organisationale Risikowahrnehmung.
 
 Die Definition von "Manipulation" im KI-Kontext ist psychologisch herausfordernd. Wo endet legitime Beeinflussung und wo beginnt Manipulation? Die Forschung zu Persuasion und Social Influence (Cialdini, 2021) zeigt: Diese Grenze ist fließend und kontextabhängig (← vgl. Kapitel 4.2).
 

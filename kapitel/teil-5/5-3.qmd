@@ -105,6 +105,22 @@ Die psychologische Wirkung von Pseudonymen variiert erheblich nach Typ, unabhän
 
 Felix hatte in seinem Startup lange auf gehashte Nutzer-IDs gesetzt. Bis er bemerkte, dass Nutzer mit gleichen Verhaltensmustern — Überweisungsrhythmus, Gerätetyp, Tageszeit der App-Nutzung — auch nach Rotation ihrer IDs erkennbar blieben. Die technische Pseudonymisierung hatte die Identifikatoren entfernt. Die Verhaltenssignatur war geblieben. Seitdem unterscheidet sein Team zwischen dem, was technisch als pseudonymisiert gilt, und dem, was unter realistischen Angreiferannahmen noch identifizierbar bleibt.
 
+### Der relative Ansatz: Wer sieht was?
+
+Wer ein Pseudonym vergibt, wer es empfängt und wer den Schlüssel hält: Für die juristische Bewertung macht das seit September 2025 einen entscheidenden Unterschied.
+
+Der EuGH hat in einer Grundsatzentscheidung (Rs. C-413/23 P, SRB v EDPS) die Bewertung der Pseudonymisierung verschoben. Pseudonymisierte Daten sind demnach nicht automatisch für jeden Beteiligten personenbezogene Daten. Entscheidend ist die Perspektive des konkreten Akteurs: Wer den Schlüssel zur Re-Identifikation besitzt, verarbeitet personenbezogene Daten. Wer keinen Zugang zum Schlüssel hat und ihn mit vernünftigem Aufwand nicht erlangen kann, verarbeitet möglicherweise keine personenbezogenen Daten im Sinne der DSGVO.
+
+Psychologisch spiegelt diese Unterscheidung die im Kapitel beschriebene Erkenntnis wider, dass Anonymitätserleben kontextabhängig ist. Dieselben Daten können für verschiedene Akteure unterschiedliche Schutzqualität haben — eine juristische Formalisierung dessen, was Menschen intuitiv erleben, wenn sie sich in der Masse anonym fühlen, obwohl der Plattformbetreiber sie jederzeit identifizieren könnte.
+
+Der EDPB widersprach dieser Linie in seinen Guidelines 01/2025 zur Pseudonymisierung und betonte, dass pseudonymisierte Daten grundsätzlich personenbezogen bleiben. Die Europäische Kommission hingegen griff den relativen Ansatz im Digital Omnibus (COM(2025) 837) auf und schlug vor, ihn in Art. 4 DSGVO zu kodifizieren. Ob sich der relative oder der absolute Ansatz durchsetzt, ist im April 2026 offen. Die Debatte zeigt aber, dass die Diskrepanz zwischen technischer und gefühlter Sicherheit auch die juristische Bewertung erreicht hat.
+
+Für Felix bedeutet dieser Autoritätskonflikt ein konkretes Problem. Sein Startup verarbeitet pseudonymisierte Finanzdaten. Die Frage, ob diese Daten personenbezogen sind, bestimmt den gesamten Compliance-Aufwand. Der EuGH sagt: kommt auf die Perspektive an. Der EDPB sagt: grundsätzlich ja. Die Kommission will den relativen Ansatz kodifizieren. Drei Autoritäten, drei Positionen, keine Handlungssicherheit.
+
+Die Forschung zu Choice Overload beschreibt, was in solchen Situationen geschieht (← vgl. Kapitel 2.2): Nicht die Komplexität der Optionen lähmt, sondern die Angst, die falsche Autorität gewählt zu haben. Antizipiertes Bedauern wiegt schwerer als Nachlässigkeit. Felix könnte abwarten, bis sich eine Linie durchsetzt. Stattdessen beobachtet er, wie sein Team Gutachten sammelt, externe Meinungen einholt und Entscheidungen vertagt. Die Kontrollillusion, die durch intensive Recherche entsteht, ändert die zugrunde liegende Unsicherheit nicht (← vgl. Kapitel 2.3). Sie verschiebt nur den Zeitpunkt der Entscheidung.
+
+Am Ende implementiert Felix den strengeren Ansatz. Nicht aus Überzeugung, dass der EDPB Recht hat. Sondern weil Handeln ihn weniger belastet als Warten.
+
 ### Die Persistenz-Falle
 
 Pseudonyme entwickeln über Zeit eigene Identitäten mit psychologischen Konsequenzen:
