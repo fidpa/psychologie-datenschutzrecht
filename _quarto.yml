@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - custom/CNAME
+    - custom/favicon.svg
 
 book:
   title: "Die Psychologie des Datenschutzrechts"
@@ -18,6 +19,7 @@ book:
     Ein interdisziplinäres Nachschlagewerk zur Verbindung von Psychologie und Datenschutzrecht.
   license: "CC BY 4.0"
   language: de
+  favicon: custom/favicon.svg
   search: true
   repo-url: https://github.com/fidpa/psychologie-datenschutzrecht
   repo-actions: [edit, issue]
@@ -159,7 +161,6 @@ language:
 format:
   html:
     theme: cosmo
-    favicon: custom/favicon.svg
     lang: de
     toc: true
     toc-depth: 3
