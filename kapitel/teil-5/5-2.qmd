@@ -9,7 +9,7 @@
 - [5.2.5 Zweckbindung in der Praxis: Fallstudien](#5-2-5-zweckbindung-in-der-praxis-fallstudien)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Felix Hartmann sitzt an einem Montagmorgen in seinem Berliner Büro, als die Supportanfrage eingeht. Ein Nutzer seiner Fintech-App ist empört: Wie konnten seine Standortdaten zur Berechnung eines Kreditscores verwendet werden? Felix öffnet die Nutzungsbedingungen — der Zweck ist dort klar benannt, Art. 6 Abs. 1 lit. b DSGVO greift als Rechtsgrundlage. Alles korrekt. Und dennoch: Der Nutzer fühlt sich nicht betrogen, weil die Verarbeitung unrechtmäßig war, sondern weil sie seiner inneren Vorstellung davon, wozu eine App Standortdaten verwendet, fundamental widersprach.
+Felix Hartmann sitzt an einem Montagmorgen in seinem Berliner Büro, als die Supportanfrage eingeht. Ein Nutzer seiner Fintech-App ist empört: Wie konnten seine Standortdaten zur Berechnung eines Kreditscores verwendet werden? Felix öffnet die Nutzungsbedingungen. Der Zweck ist dort klar benannt, Art. 6 Abs. 1 lit. b DSGVO greift als Rechtsgrundlage. Alles korrekt. Und dennoch: Der Nutzer fühlt sich nicht betrogen, weil die Verarbeitung unrechtmäßig war, sondern weil sie seiner inneren Vorstellung davon, wozu eine App Standortdaten verwendet, fundamental widersprach.
 
 Dieses Erlebnis markiert den Kern eines strukturellen Problems. Die **[Zweckbindung]** bildet das Herzstück des **[Datenschutzrechts]** — die **[DSGVO]** verlangt klare Zwecke für jede Datensammlung. Doch während das Recht in präzisen Definitionen denkt, operieren Menschen mit vereinfachten inneren Bildern. Diese **[mentalen Modelle]** passen selten zur komplexen digitalen Realität. Dieses Kapitel untersucht, wie Menschen Datenzwecke verstehen und warum ihre Interpretationen so häufig von der rechtlichen und technischen Wirklichkeit abweichen.
 
@@ -21,13 +21,13 @@ Was sind **[mentale Modelle]**? Man kann sie sich als kognitive Landkarten vorst
 
 Auf der Grundlage von Nutzerbefragungsforschung lassen sich vier dominante mentale Modelle unterscheiden, die in der Literatur wiederkehrend beschrieben werden.
 
-Das **Tresor-Modell** ist das am häufigsten beobachtete: Nutzer stellen sich Daten wie in einem Safe eingeschlossen vor, auf den nur das empfangende Unternehmen Zugriff hat. Dieses Modell führt zu Überraschung, wenn Daten weitergegeben oder für neue Zwecke genutzt werden — denn in der Tresor-Vorstellung verlassen Daten das Unternehmen nie.
+Das **Tresor-Modell** ist das am häufigsten beobachtete: Nutzer stellen sich Daten wie in einem Safe eingeschlossen vor, auf den nur das empfangende Unternehmen Zugriff hat. Dieses Modell führt zu Überraschung, wenn Daten weitergegeben oder für neue Zwecke genutzt werden, denn in der Tresor-Vorstellung verlassen Daten das Unternehmen nie.
 
 Das **Brief-Modell** beschreibt eine verbreitete Ergänzungsvorstellung: Daten werden als digitale Post verstanden, die einmal abgeschickt und dann „weg" ist. Nutzer mit diesem Modell unterschätzen systematisch die Persistenz digitaler Daten und ihre langfristige Analysierbarkeit.
 
 Das **Kopier-Modell** erfasst Nutzer, die die Vervielfältigung von Daten prinzipiell verstehen, aber linear denken: Sie bemerken, wenn eine Kopie entsteht, übersehen jedoch Netzwerkeffekte und die Möglichkeit, Daten aus verschiedenen Quellen zu aussagekräftigen Profilen zu verdichten.
 
-Am seltensten — und überwiegend bei technisch versierten Nutzern — ist das **Ökosystem-Modell** anzutreffen: ein realistisches Verständnis für die Vernetzung von Datensystemen, das paradoxerweise oft in Resignation mündet, weil die wahrgenommene Komplexität jeden Kontrollversuch sinnlos erscheinen lässt.
+Am seltensten, und überwiegend bei technisch versierten Nutzern, ist das **Ökosystem-Modell** anzutreffen: ein realistisches Verständnis für die Vernetzung von Datensystemen, das paradoxerweise oft in Resignation mündet, weil die wahrgenommene Komplexität jeden Kontrollversuch sinnlos erscheinen lässt.
 
 ### Die Realitätslücke
 
@@ -37,7 +37,7 @@ Tversky und Kahneman (1974) haben mit ihrer Theorie der kognitiven Heuristiken e
 
 ### Kulturelle Variationen mentaler Modelle
 
-Kulturelle Faktoren prägen die Ausformung dieser Modelle erheblich mit. Es ist anzunehmen — und dies wäre ein ergiebiges Forschungsfeld —, dass in stärker kollektivistisch geprägten Kulturen andere Modelle dominieren als in individualistisch ausgerichteten Gesellschaften. In Deutschland, wo Datensparsamkeit historisch tief verankert ist, dürfte das Tresor-Modell besonders verbreitet sein. In den USA, wo Datenpraktiken oft als geschäftliche Transaktion verstanden werden, könnte das Brief-Modell stärker verbreitet sein. Diese kulturellen Unterschiede sind keine Marginalie: Identische Datenpraktiken werden je nach kulturellem Hintergrund grundlegend verschieden bewertet, was für international tätige Unternehmen und für supranationale Regulierung wie die DSGVO erhebliche Konsequenzen hat.
+Kulturelle Faktoren prägen die Ausformung dieser Modelle erheblich mit. Es ist anzunehmen, und dies wäre ein ergiebiges Forschungsfeld, dass in stärker kollektivistisch geprägten Kulturen andere Modelle dominieren als in individualistisch ausgerichteten Gesellschaften. In Deutschland, wo Datensparsamkeit historisch tief verankert ist, dürfte das Tresor-Modell besonders verbreitet sein. In den USA, wo Datenpraktiken oft als geschäftliche Transaktion verstanden werden, könnte das Brief-Modell stärker verbreitet sein. Diese kulturellen Unterschiede sind keine Marginalie: Identische Datenpraktiken werden je nach kulturellem Hintergrund grundlegend verschieden bewertet, was für international tätige Unternehmen und für supranationale Regulierung wie die DSGVO erhebliche Konsequenzen hat.
 
 ### Die Entstehung und Verfestigung mentaler Modelle
 
@@ -61,9 +61,9 @@ Diese Beispiele sind kein Zufall: Obar und Oeldorf-Hirsch (2020) zeigten, dass N
 
 Felix Hartmann erlebt auch den umgekehrten Effekt in seiner täglichen Arbeit. Als sein Startup die Scoring-App um ein Bonusprogramm erweitert und dabei neue Datenverarbeitungszwecke einführt, sinken die App-Store-Bewertungen merklich — und das bereits in den Tagen vor der offiziellen Ankündigung der Änderung. Technisch versierte Nutzer hatten die geänderten API-Anfragen bemerkt und in einschlägigen Foren diskutiert. Felix versteht: Die psychologische Reaktion auf Zweckänderungen setzt nicht erst bei der offiziellen Kommunikation ein.
 
-**[Function Creep]** — die schleichende Ausweitung von Datenverarbeitungszwecken — nutzt gezielt psychologische Mechanismen, die Ariely (2008) und andere Verhaltensökonomen in verwandten Kontexten ausführlich beschrieben haben. Drei Strategien dominieren.
+**[Function Creep]**, die schleichende Ausweitung von Datenverarbeitungszwecken, nutzt gezielt psychologische Mechanismen, die Ariely (2008) und andere Verhaltensökonomen in verwandten Kontexten ausführlich beschrieben haben. Drei Strategien dominieren.
 
-Das *Shifting Baselines Syndrome* bezeichnet die graduelle Gewöhnung an neue Zustände: Wenn sich Zwecke langsam, über viele Monate und kleine Schritte hinweg verändern, adaptieren Nutzer an eine neue Normalität, ohne den Gesamtumfang der Transformation zu bemerken. WhatsApps Entwicklung von einer einfachen Messaging-App zu einem Business-Kommunikationskanal mit Werbepotenzial vollzog sich über Jahre — und jeder einzelne Schritt erschien isoliert betrachtet akzeptabel.
+Das *Shifting Baselines Syndrome* bezeichnet die graduelle Gewöhnung an neue Zustände: Wenn sich Zwecke langsam, über viele Monate und kleine Schritte hinweg verändern, adaptieren Nutzer an eine neue Normalität, ohne den Gesamtumfang der Transformation zu bemerken. WhatsApps Entwicklung von einer einfachen Messaging-App zu einem Business-Kommunikationskanal mit Werbepotenzial vollzog sich über Jahre, und jeder einzelne Schritt erschien isoliert betrachtet akzeptabel.
 
 Die *Foot-in-the-Door-Technik* beschreibt einen weiteren Mechanismus: Eine kleine initiale Zustimmung zu einem datenintensiven Feature senkt die psychologische Hürde für spätere, weitergehende Zustimmungen. Wer einem sozialen Netzwerk erstmals erlaubt, sein Adressbuch für Kontaktvorschläge zu lesen, hat damit eine Schwelle überschritten, die folgende Erweiterungen kognitiv leichter erscheinen lässt.
 
@@ -73,7 +73,7 @@ Die **[Sunk Cost Fallacy]** (→ siehe Kapitel 2.2 zu kognitiven Verzerrungen) w
 
 Die Kommunikation von Zweckänderungen stellt Unternehmen vor ein grundlegendes Dilemma, das Solove (2013) als „consent dilemma" beschrieben hat: Vollständige Transparenz über neue Datenverarbeitungszwecke kann zu Abwanderung führen und schreckt Nutzer ab, die die Implikationen möglicherweise falsch einschätzen. Mangelnde Klarheit hingegen zerstört Vertrauen, sobald die Änderungen bekannt werden.
 
-In der Praxis sind drei Kommunikationsansätze anzutreffen. Vollständige Transparenz bringt alle neuen Zwecke explizit zur Sprache — riskiert aber erhöhte Opt-out-Raten, obwohl das langfristige Vertrauen bei verbleibenden Nutzern steigt. Positives Framing betont Nutzervorteile und minimiert kurzfristig die Abwanderung, erzeugt jedoch Vertrauensdefizite, sobald die tatsächliche Tragweite der Änderungen deutlich wird. Stufenweise Offenlegung — eine kurze Erstinformation mit vertiefenden Details auf Anfrage — versucht, beide Extreme zu vermeiden. McDonald und Cranor (2008) haben gezeigt, dass selbst gutgemeinte Transparenz scheitert, wenn der kognitive Aufwand der Informationsverarbeitung zu groß ist: Vollständigkeit und Verständlichkeit stehen strukturell in Spannung zueinander.
+In der Praxis sind drei Kommunikationsansätze anzutreffen. Vollständige Transparenz bringt alle neuen Zwecke explizit zur Sprache, riskiert aber erhöhte Opt-out-Raten, obwohl das langfristige Vertrauen bei verbleibenden Nutzern steigt. Positives Framing betont Nutzervorteile und minimiert kurzfristig die Abwanderung, erzeugt jedoch Vertrauensdefizite, sobald die tatsächliche Tragweite der Änderungen deutlich wird. Stufenweise Offenlegung, eine kurze Erstinformation mit vertiefenden Details auf Anfrage, versucht, beide Extreme zu vermeiden. McDonald und Cranor (2008) haben gezeigt, dass selbst gutgemeinte Transparenz scheitert, wenn der kognitive Aufwand der Informationsverarbeitung zu groß ist: Vollständigkeit und Verständlichkeit stehen strukturell in Spannung zueinander.
 
 ### Erwartungsmanagement als proaktive Strategie
 
@@ -95,17 +95,17 @@ Felix erkennt in diesem Paradox ein strukturelles Problem seines Berufsalltags. 
 
 Die psychologische Literatur erklärt, warum rechtliche und gefühlte Kompatibilität auseinanderfallen. Drei Faktoren spielen eine entscheidende Rolle.
 
-Erstens ist der Nutzenempfänger entscheidend. Menschen bewerten einen neuen Zweck deutlich positiver, wenn er erkennbar ihnen selbst zugute kommt, weniger positiv, wenn er der Gesellschaft nützt, und deutlich skeptischer, wenn der Hauptnutznießer das Unternehmen ist. Das Datenschutzrecht ist gegenüber dieser Nutzenverteilung strukturell neutral — psychologisch ist sie hochrelevant.
+Erstens ist der Nutzenempfänger entscheidend. Menschen bewerten einen neuen Zweck deutlich positiver, wenn er erkennbar ihnen selbst zugute kommt, weniger positiv, wenn er der Gesellschaft nützt, und deutlich skeptischer, wenn der Hauptnutznießer das Unternehmen ist. Das Datenschutzrecht ist gegenüber dieser Nutzenverteilung strukturell neutral. Psychologisch ist sie hochrelevant.
 
 Zweitens bewerten Menschen Verwendungszwecke zeitdiskontiert. Ein sofort erkennbarer Nutzen einer neuen Datenverwendung erzeugt mehr Akzeptanz als ein abstrakter zukünftiger Nutzen oder eine gesellschaftliche Wohlfahrtssteigerung. Kahneman und Tversky (1984) haben gezeigt, dass diese zeitliche Diskontierung keine rationale Kalkulation ist, sondern ein systematischer kognitiver Bias.
 
-Drittens unterscheiden Menschen intuitiv, ob ein neuer Zweck im ursprünglichen Kontext verbleibt oder diesen verlässt — und bewerten die Kompatibilität maßgeblich danach.
+Drittens unterscheiden Menschen intuitiv, ob ein neuer Zweck im ursprünglichen Kontext verbleibt oder diesen verlässt und bewerten die Kompatibilität maßgeblich danach.
 
 ### Der Kontext-Integritäts-Ansatz
 
 Helen Nissenbaums Konzept der **[kontextuellen Integrität]** liefert hier ein elaborierteres Modell als der rein rechtliche Kompatibilitätsrahmen. Nissenbaum (2009) argumentiert, dass Menschen Datenweitergaben nicht nach dem abstrakten Kriterium der Einwilligung bewerten, sondern nach der Frage, ob ein Datenfluss den kontextuellen Normen entspricht, innerhalb derer die Daten ursprünglich geteilt wurden. Gesundheitsdaten, die im Arztgespräch anfallen, folgen anderen Weitergabe-Normen als dieselben Daten in einer App.
 
-Dieses Modell erklärt, warum Nutzer manche Zweckerweiterungen problemlos akzeptieren und andere vehement ablehnen, obwohl sich die rechtliche Lage nicht fundamental unterscheidet. Eine Fitness-App, die zur Gesundheitscoaching-App wird, verbleibt im medizinischen Kontext — die kontextuelle Integrität ist gewahrt. Eine Fitness-App, die beginnt, Kreditwürdigkeitsbewertungen zu informieren, verlässt diesen Kontext drastisch, auch wenn die Rohdaten dieselben sind. Kontextuelle Integrität ist für die Nutzerakzeptanz ein zuverlässigerer Prädiktor als rechtliche Kompatibilität — und damit ein wichtigeres Kriterium für nachhaltiges Vertrauen.
+Dieses Modell erklärt, warum Nutzer manche Zweckerweiterungen problemlos akzeptieren und andere vehement ablehnen, obwohl sich die rechtliche Lage nicht fundamental unterscheidet. Eine Fitness-App, die zur Gesundheitscoaching-App wird, verbleibt im medizinischen Kontext — die kontextuelle Integrität ist gewahrt. Eine Fitness-App, die beginnt, Kreditwürdigkeitsbewertungen zu informieren, verlässt diesen Kontext drastisch, auch wenn die Rohdaten dieselben sind. Kontextuelle Integrität ist für die Nutzerakzeptanz ein zuverlässigerer Prädiktor als rechtliche Kompatibilität und damit ein wichtigeres Kriterium für nachhaltiges Vertrauen.
 
 ### Kulturelle Unterschiede in der Kompatibilitätsbewertung
 

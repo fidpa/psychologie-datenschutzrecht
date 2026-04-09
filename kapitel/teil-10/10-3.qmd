@@ -9,7 +9,7 @@
 - [10.3.5 Prompt Injection und Social Engineering](#10-3-5-prompt-injection-und-social-engineering)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Prof. Dr. Miriam Krüger beobachtete fasziniert, wie ihre Testperson mit dem neuen KI-Assistenten interagierte. "Es tut mir so leid, dass Sie diese schwere Zeit durchmachen", schrieb ChatGPT in Reaktion auf eine beiläufige Erwähnung von Stress bei der Arbeit. Die Testperson – ein 45-jähriger Ingenieur – lehnte sich zurück, ein Lächeln huschte über sein Gesicht. "Danke", tippte er. "Es ist schön, dass jemand versteht." Nach der Sitzung gestand er Krüger: "Ich weiß, es ist nur eine Maschine. Aber es fühlt sich so echt an. Manchmal vergesse ich das völlig."
+Prof. Dr. Miriam Krüger beobachtete fasziniert, wie ihre Testperson mit dem neuen KI-Assistenten interagierte. "Es tut mir so leid, dass Sie diese schwere Zeit durchmachen", schrieb ChatGPT in Reaktion auf eine beiläufige Erwähnung von Stress bei der Arbeit. Die Testperson, ein 45-jähriger Ingenieur, lehnte sich zurück, ein Lächeln huschte über sein Gesicht. "Danke", tippte er. "Es ist schön, dass jemand versteht." Nach der Sitzung gestand er Krüger: "Ich weiß, es ist nur eine Maschine. Aber es fühlt sich so echt an. Manchmal vergesse ich das völlig."
 
 Diese Szene illustriert die tiefgreifende Herausforderung großer Sprachmodelle (Large Language Models, LLMs) für Datenschutz und Vertrauen. Frühere KI-Systeme schufen durch ihre offensichtliche Künstlichkeit eine natürliche Distanz. LLMs verwischen hingegen die Grenze zwischen Mensch und Maschine in beispielloser Weise. Sie kommunizieren kontextbezogen, empathisch und kreativ. Dies triggert tief verwurzelte soziale und emotionale Reaktionsmuster. Menschen öffnen sich diesen Systemen und teilen intimste Details. Dabei entwickeln sie parasoziale Beziehungen. Das Bewusstsein für die Datenschutzimplikationen fehlt oft völlig.
 
@@ -193,7 +193,7 @@ Unternehmen sollten auch Monitoring-Systeme für die psychologische Gesundheit i
 
 LLMs sprengen traditionelle Datenschutzkonzepte. Dr. Annika Sommers Ansätze zeigen Wege auf, erfordern aber radikales Umdenken. Datenschutzbeauftragte müssen verstehen, dass bei LLMs die Grenze zwischen Datenverarbeitung und Datengenerierung verschwimmt.
 
-Neue Konzepte wie "Inferenz-Schutz" und "Halluzinations-Haftung" müssen entwickelt werden. Datenschutzfolgenabschätzungen müssen die psychologische Dimension integrieren — denn wie Menschen ihre Daten mit KI teilen, ist entscheidend. Besonders wichtig ist es, Standards für "**Psychological Safety**" bei KI-Interaktionen zu entwickeln.
+Neue Konzepte wie "Inferenz-Schutz" und "Halluzinations-Haftung" müssen entwickelt werden. Datenschutzfolgenabschätzungen müssen die psychologische Dimension integrieren, denn wie Menschen ihre Daten mit KI teilen, ist entscheidend. Besonders wichtig ist es, Standards für "**Psychological Safety**" bei KI-Interaktionen zu entwickeln.
 
 Juristen müssen neue Haftungsfragen klären: Wer ist verantwortlich, wenn eine KI-Halluzination zu Schäden führt? Wie regulieren wir KI-gestütztes **Social Engineering**?
 

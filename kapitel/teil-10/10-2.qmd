@@ -11,9 +11,9 @@
 
 Prof. Dr. Miriam Krüger beobachtete fasziniert die Augenbewegungen ihrer Probanden. Auf dem Bildschirm vor ihnen erschien die Erklärung eines KI-Systems, das soeben eine Kreditentscheidung getroffen hatte. Die Eye-Tracking-Daten zeigten ein chaotisches Muster: Sprünge zwischen Textblöcken, lange Fixationen auf irrelevanten Details, völliges Ignorieren der Kernaussagen. Nach drei Minuten fragte sie: "Können Sie mir erklären, warum die KI den Kredit abgelehnt hat?" Die Antwort kam zögerlich: "Irgendwas mit... zu vielen Faktoren?" 
 
-Diese Szene illustriert das zentrale Paradox erklärbarer KI-Systeme: Technische Transparenz garantiert kein menschliches Verstehen. Während Entwickler immer sophistiziertere Methoden zur Erklärung algorithmischer Entscheidungen entwickeln – von LIME über SHAP bis zu aufwendigen Visualisierungen – prallen diese Bemühungen oft an den kognitiven Realitäten menschlicher Informationsverarbeitung ab. These 14 bringt es auf den Punkt: Erklärbare KI-Systeme müssen kognitive Grenzen der Nutzer respektieren, sonst bleiben sie wirkungslos.
+Diese Szene illustriert das zentrale Paradox erklärbarer KI-Systeme: Technische Transparenz garantiert kein menschliches Verstehen. Während Entwickler immer sophistiziertere Methoden zur Erklärung algorithmischer Entscheidungen entwickeln, von LIME über SHAP bis zu aufwendigen Visualisierungen, prallen diese Bemühungen oft an den kognitiven Realitäten menschlicher Informationsverarbeitung ab. These 14 bringt es auf den Punkt: Erklärbare KI-Systeme müssen kognitive Grenzen der Nutzer respektieren, sonst bleiben sie wirkungslos.
 
-Die Herausforderung ist struktureller Natur: Moderne KI-Systeme, insbesondere **[Deep Learning]**-Modelle, operieren in hochdimensionalen Räumen mit Millionen von Parametern. Ihre "Denkprozesse" – sofern man überhaupt von Denken sprechen kann – folgen keiner menschlich-intuitiven Logik. Der Versuch, diese fremdartige Intelligenz in menschlich verständliche Erklärungen zu übersetzen, gleicht der Aufgabe, einem Blinden Farben zu erklären. Doch genau das fordern Regulierungen wie die [DSGVO] mit ihrem [Recht auf Vergessenwerden] (→ siehe Kapitel 6.2) und gesellschaftliche Erwartungen an verantwortungsvolle KI.
+Die Herausforderung ist struktureller Natur: Moderne KI-Systeme, insbesondere **[Deep Learning]**-Modelle, operieren in hochdimensionalen Räumen mit Millionen von Parametern. Ihre "Denkprozesse", sofern man überhaupt von Denken sprechen kann, folgen keiner menschlich-intuitiven Logik. Der Versuch, diese fremdartige Intelligenz in menschlich verständliche Erklärungen zu übersetzen, gleicht der Aufgabe, einem Blinden Farben zu erklären. Doch genau das fordern Regulierungen wie die [DSGVO] mit ihrem [Recht auf Vergessenwerden] (→ siehe Kapitel 6.2) und gesellschaftliche Erwartungen an verantwortungsvolle KI.
 
 ## 10.2.1 Was bedeutet "Verstehen" im KI-Kontext? {#10-2-1-was-bedeutet-verstehen-im-ki-kontext}
 
@@ -243,7 +243,7 @@ Die Kommunikation über Bias und Diskriminierung erfordert besondere Sensibilit�
 
 **Monitoring und Feedback**: Sichtbare Mechanismen zur Bias-Erkennung und -Korrektur signalisieren Ernsthaftigkeit und ermöglichen konstruktive Kritik.
 
-Ein konkreter Lösungsansatz sind interaktive "Fairness Dashboards", die verschiedene Bias-Metriken in Echtzeit zeigen. Wenn Nutzer selbst erkunden können, wie verschiedene Fairness-Definitionen zu verschiedenen Ergebnissen führen, verschiebt sich die Diskussion von "Ist es fair?" zu "Welche Art von Fairness wollen wir?" — ein produktiverer Ausgangspunkt.
+Ein konkreter Lösungsansatz sind interaktive "Fairness Dashboards", die verschiedene Bias-Metriken in Echtzeit zeigen. Wenn Nutzer selbst erkunden können, wie verschiedene Fairness-Definitionen zu verschiedenen Ergebnissen führen, verschiebt sich die Diskussion von "Ist es fair?" zu "Welche Art von Fairness wollen wir?", ein produktiverer Ausgangspunkt.
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 

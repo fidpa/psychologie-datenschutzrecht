@@ -56,7 +56,7 @@ Sneaking (Erschleichung) versteckt wahre Kosten vor Nutzern. Hidden Costs versch
 
 Interface Interference (Interface-Manipulation) manipuliert die Benutzeroberfläche. False Hierarchy nutzt visuelle Manipulation der Wahlmöglichkeiten: "Alle akzeptieren" erscheint als großer, grüner Button, während "Ablehnen" als kleiner, grauer Text-Link dargestellt wird. Farbpsychologie und Größe lenken das Verhalten gezielt. Disguised Ads/Actions tarnt Klick-Elemente: Cookies-Ablehnen sieht deaktiviert aus, "X" zum Schließen führt zur Zustimmung, und täuschende Ähnlichkeit mit harmlosen Elementen verwirrt Nutzer.
 
-Forschungsergebnisse zu Interface-Manipulation zeigen, dass visuelle und sprachliche Gestaltungsmerkmale starken Einfluss auf Zustimmungsraten haben. Luguri & Strahilevitz (2021) dokumentierten in kontrollierten Experimenten, dass manipulative Dark Patterns Einwilligungsraten um ein Vielfaches steigern können — besonders durch Kombination aus Größenverhältnissen, Farbkontrasten und emotionaler Sprache.
+Forschungsergebnisse zu Interface-Manipulation zeigen, dass visuelle und sprachliche Gestaltungsmerkmale starken Einfluss auf Zustimmungsraten haben. Luguri & Strahilevitz (2021) dokumentierten in kontrollierten Experimenten, dass manipulative Dark Patterns Einwilligungsraten um ein Vielfaches steigern können, besonders durch Kombination aus Größenverhältnissen, Farbkontrasten und emotionaler Sprache.
 
 Forced Action (Erzwungene Handlung) zwingt Nutzer zu ungewollten Aktionen. **Privacy Zuckering** ist nach Mark Zuckerberg benannt und führt dazu, dass Nutzer mehr Informationen preisgeben als beabsichtigt. Soziale Features erfordern Kontaktzugriff, während "Freunde finden" als Trojanisches Pferd fungiert. Forced Registration erzwingt Accountzwang für Basisfunktionen: Lesen erfordert Anmeldung, Datenweitergabe wird als Eintrittspreis verlangt und Funktionen werden künstlich verknappt.
 
@@ -74,7 +74,7 @@ Dark Patterns funktionieren, weil sie gezielt psychologische Schwächen ausnutze
 
 **Kognitive Verzerrungen als Angriffsvektoren**
 
-Dark Patterns weaponisieren die kognitiven Verzerrungen (→ siehe Kapitel 2.2). Default Bias Exploitation nutzt, dass Menschen bei Voreinstellungen bleiben. Dark Patterns setzen alle Berechtigungen standardmäßig aktiv und nutzen Trägheit plus Vertrauen in Defaults — die Forschung zeigt konsistent, dass ein großer Teil der Nutzer manipulative Defaults beibehält (vgl. Johnson et al., 2002; Thaler & Sunstein, 2008).
+Dark Patterns weaponisieren die kognitiven Verzerrungen (→ siehe Kapitel 2.2). Default Bias Exploitation nutzt, dass Menschen bei Voreinstellungen bleiben. Dark Patterns setzen alle Berechtigungen standardmäßig aktiv und nutzen Trägheit plus Vertrauen in Defaults. Die Forschung zeigt konsistent, dass ein großer Teil der Nutzer manipulative Defaults beibehält (vgl. Johnson et al., 2002; Thaler & Sunstein, 2008).
 
 Framing Effect Manipulation verwendet Positiv-Frames wie "Verbessern Sie Ihr Erlebnis" und Negativ-Frames wie "Verpassen Sie keine Features". Loss Aversion macht Verlustangst stärker als Gewinnfreude, was zu dreifach höheren Zustimmungsraten führt. Anchoring Abuse setzt extreme Anker ("Premium: Alle Daten teilen"), mittlere Optionen ("Standard: Die meisten Daten") und minimale Optionen ("Basic: Nur notwendige Daten"). Der Anker-Effekt führt dazu, dass eine Mehrheit der Nutzer die mittlere — als "vernünftig" erscheinende — Option wählt, die das eigentliche Ziel des Anbieters darstellt (vgl. Kahneman, 2011).
 
@@ -96,7 +96,7 @@ Shame and Guilt setzen soziale Emotionen als Druckmittel ein. Formulierungen wie
 
 **Neurobiologische Grundlagen**
 
-Neurowissenschaftliche Studien zu emotionaler Manipulation zeigen, dass manipulative Designelemente die Aktivität präfrontaler Kontrollareale reduzieren und gleichzeitig emotionale Verarbeitungssysteme (Amygdala, Insula) verstärken. Dieser Mechanismus — emotionale Überflutung bei reduzierter rationaler Kontrolle — bildet die neurobiologische Grundlage der Wirksamkeit von Dark Patterns (vgl. Kahneman, 2011; Thaler & Sunstein, 2008).
+Neurowissenschaftliche Studien zu emotionaler Manipulation zeigen, dass manipulative Designelemente die Aktivität präfrontaler Kontrollareale reduzieren und gleichzeitig emotionale Verarbeitungssysteme (Amygdala, Insula) verstärken. Dieser Mechanismus, emotionale Überflutung bei reduzierter rationaler Kontrolle, bildet die neurobiologische Grundlage der Wirksamkeit von Dark Patterns (vgl. Kahneman, 2011; Thaler & Sunstein, 2008).
 
 **Sozialpsychologische Mechanismen**
 
@@ -112,7 +112,7 @@ Social Proof Fabrication erzeugt künstlichen Konformitätsdruck durch gefälsch
 
 Vulnerability Moments werden gezielt für Dark Patterns ausgewählt. Während der Euphorie der Neuanmeldung sind Nutzer besonders zustimmungsbereit. Nach Erfolgen wird das **[Dopamin]**-High ausgenutzt, um weitere Zugeständnisse zu erhalten. Bei Frustration werden "einfache" Lösungen angeboten, die mehr Daten erfordern. Künstliche Verknappung und Zeitdruck verstärken den Entscheidungsdruck, während späte Tageszeiten bevorzugt werden, da Müdigkeit die Widerstandsfähigkeit reduziert.
 
-Empirische Belege stützen diese Timing-Strategie: Forschung zu Entscheidungsermüdung (Baumeister et al., 2018) zeigt, dass kognitive Ressourcen im Tagesverlauf abnehmen — mit der Folge, dass Menschen abends und nachts deutlich anfälliger für manipulative Einwilligungsanfragen sind als am Morgen.
+Empirische Belege stützen diese Timing-Strategie: Forschung zu Entscheidungsermüdung (Baumeister et al., 2018) zeigt, dass kognitive Ressourcen im Tagesverlauf abnehmen, mit der Folge, dass Menschen abends und nachts deutlich anfälliger für manipulative Einwilligungsanfragen sind als am Morgen.
 
 **Weiterführende Kapitel:** → 2.3, → 2.5
 

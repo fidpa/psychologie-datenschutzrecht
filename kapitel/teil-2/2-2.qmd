@@ -22,7 +22,7 @@ Jetzt, 37 Sekunden später, klickt er durch die Einrichtung. Die Eye-Tracking-Da
 
 "Nun ja", antwortet der Teilnehmer, "wenn fast alle anderen es auch machen, kann es ja nicht so schlimm sein. Außerdem – mir wird schon nichts passieren. Ich bin vorsichtig."
 
-Felix notiert: *Optimismus-Bias, Social Proof, Verfügbarkeitsheuristik – alles in 37 Sekunden.* Diese Mechanismen zeigen das Privacy Paradox (→ siehe Kapitel 2.1) in Aktion. Er ist kein Manipulator, sondern Forscher. Aber er weiß: Diese kognitiven Verzerrungen sind die unsichtbaren Puppenspieler unseres digitalen Verhaltens. Meistens ohne dass wir es merken. In seinem Alltag mit Machine Learning-Modellen sieht er täglich, wie Algorithmen menschliche Schwächen ausnutzen – ein ethisches Dilemma, das ihn umtreibt.
+Felix notiert: *Optimismus-Bias, Social Proof, Verfügbarkeitsheuristik. Alles in 37 Sekunden.* Diese Mechanismen zeigen das Privacy Paradox (→ siehe Kapitel 2.1) in Aktion. Er ist kein Manipulator, sondern Forscher. Aber er weiß: Diese kognitiven Verzerrungen sind die unsichtbaren Puppenspieler unseres digitalen Verhaltens. Meistens ohne dass wir es merken. In seinem Alltag mit Machine Learning-Modellen sieht er täglich, wie Algorithmen menschliche Schwächen ausnutzen – ein ethisches Dilemma, das ihn umtreibt.
 
 ## 2.2.1 Optimismus-Bias: "Mir passiert schon nichts" {#221-optimismus-bias-mir-passiert-schon-nichts}
 
@@ -30,7 +30,7 @@ Der Optimismus-Bias ist vielleicht die folgenreichste kognitive Verzerrung im Da
 
 **Die Psychologie des unrealistischen Optimismus**
 
-Neil Weinstein prägte 1980 den Begriff des "unrealistischen Optimismus" (Weinstein, 1980). Seine bahnbrechende Erkenntnis: Menschen glauben systematisch, dass ihnen Negatives seltener widerfahren wird als dem Durchschnitt – eine statistische Unmöglichkeit.
+Neil Weinstein prägte 1980 den Begriff des "unrealistischen Optimismus" (Weinstein, 1980). Seine bahnbrechende Erkenntnis: Menschen glauben systematisch, dass ihnen Negatives seltener widerfahren wird als dem Durchschnitt, eine statistische Unmöglichkeit.
 
 Im Datenschutzkontext manifestiert sich dies als:
 - "Meine Daten sind uninteressant"
@@ -195,7 +195,7 @@ Die Medienberichterstattung über Datenschutz folgt problematischen Mustern:
 Spektakuläre Hacks und CEO-Fraud dominieren die wahrgenommene Risikolandschaft weit über ihr statistisches Gewicht hinaus. Die Verfügbarkeitsheuristik lässt Menschen diese Ereignisse als deutlich wahrscheinlicher einschätzen, als sie tatsächlich sind.
 
 **Unterschätzte Risiken** (durch geringe mediale Verfügbarkeit):
-Aggregation von Metadaten, Langzeit-Profiling und allgegenwärtiges Drittanbieter-Tracking treffen praktisch jeden Nutzer, werden aber kaum als persönliches Risiko wahrgenommen — weil sie im medialen Rauschen kaum vorkommen.
+Aggregation von Metadaten, Langzeit-Profiling und allgegenwärtiges Drittanbieter-Tracking treffen praktisch jeden Nutzer, werden aber kaum als persönliches Risiko wahrgenommen, weil sie im medialen Rauschen kaum vorkommen.
 
 Die Diskrepanz zwischen realen und wahrgenommenen Risiken führt zu Fehlallokation von Schutzressourcen.
 
@@ -215,7 +215,7 @@ Die Verfügbarkeitsheuristik interagiert mit anderen kognitiven Verzerrungen:
 
 ## 2.2.3 Anchoring-Effekte bei Privatsphäre-Einstellungen {#223-anchoring-effekte-bei-privatsphaere-einstellungen}
 
-Anchoring-Effekte (Ankereffekt) beschreiben die Tendenz, sich bei Einschätzungen zu stark an einem anfänglichen Wert zu orientieren – selbst wenn dieser irrelevant ist. Im Datenschutz sind Anker allgegenwärtig und folgenreich.
+Anchoring-Effekte (Ankereffekt) beschreiben die Tendenz, sich bei Einschätzungen zu stark an einem anfänglichen Wert zu orientieren, selbst wenn dieser irrelevant ist. Im Datenschutz sind Anker allgegenwärtig und folgenreich.
 
 **Die Macht des ersten Eindrucks**
 
@@ -299,7 +299,7 @@ Jede Zusage wird zum Anker für die nächste Entscheidung.
 - Option B: 50€/Jahr, keine Datensammlung
 - Option C (Decoy): 45€/Jahr, "reduzierte" Datensammlung
 
-Option C macht Option A attraktiver – ein klassischer Anker-Trick.
+Option C macht Option A attraktiver, ein klassischer Anker-Trick.
 
 **Anchoring in Datenschutzerklärungen**
 
@@ -321,7 +321,7 @@ Die Normalität wird zum beruhigenden Anker.
 
 ## 2.2.4 Entscheidungsüberlastung und Default-Optionen {#224-entscheidungsueberlastung-und-default-optionen}
 
-Die Qual der Wahl kann zur Lähmung führen – nirgends zeigt sich dies deutlicher als bei Datenschutzentscheidungen. Barry Schwartz' "Paradox of Choice" (→ siehe Kapitel 1.1) findet im digitalen Raum seine extremste Ausprägung.
+Die Qual der Wahl kann zur Lähmung führen. Nirgends zeigt sich dies deutlicher als bei Datenschutzentscheidungen. Barry Schwartz' "Paradox of Choice" (→ siehe Kapitel 1.1) findet im digitalen Raum seine extremste Ausprägung.
 
 **Das Phänomen der Choice Overload (Entscheidungsüberlastung)**
 
@@ -429,7 +429,7 @@ Manche Anbieter nutzen Überlastung und Defaults manipulativ:
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
-Die Analyse kognitiver Verzerrungen und Heuristiken offenbart strukturelle Herausforderungen – aber auch Lösungsansätze:
+Die Analyse kognitiver Verzerrungen und Heuristiken offenbart strukturelle Herausforderungen, aber auch Lösungsansätze:
 
 **Für Gesetzgeber und Regulierer:**
 - **Evidenzbasierte Default-Regulierung**: Schreiben Sie datenschutzfreundliche Defaults vor. Die Forschung zeigt eindeutig deren Wirksamkeit.
@@ -471,7 +471,7 @@ Die Analyse kognitiver Verzerrungen und Heuristiken offenbart strukturelle Herau
 
 Die kognitiven Verzerrungen und Heuristiken sind keine Schwächen, die es zu eliminieren gilt – sie sind kennzeichnende Eigenschaften menschlicher Kognition. Ein menschenzentrierter Datenschutz muss sie verstehen, respektieren und konstruktiv damit umgehen. Nur so können wir digitale Umgebungen schaffen, die sowohl funktional als auch schützend sind.
 
-**Die kognitiven Mechanismen sind entschlüsselt – aber Menschen sind keine Computer. Hinter jeder scheinbar rationalen Abwägung stehen emotionale Bewertungen: Vertrauen oder Misstrauen, Angst oder Sicherheitsgefühl, Kontrolle oder Ohnmacht. Diese emotionalen Faktoren entscheiden oft über Erfolg oder Scheitern technischer Datenschutzlösungen.**
+**Die kognitiven Mechanismen sind entschlüsselt, aber Menschen sind keine Computer. Hinter jeder scheinbar rationalen Abwägung stehen emotionale Bewertungen: Vertrauen oder Misstrauen, Angst oder Sicherheitsgefühl, Kontrolle oder Ohnmacht. Diese emotionalen Faktoren entscheiden oft über Erfolg oder Scheitern technischer Datenschutzlösungen.**
 
 Das nächste Kapitel taucht ein in die emotionale Dimension des Datenschutzes. Während die kognitiven Verzerrungen die *Art* unseres Denkens prägen, bestimmen Emotionen die *Richtung*. Kapitel 2.3 zeigt: Vertrauen ist die wichtigste Währung der digitalen Welt – und gleichzeitig die flüchtigste. Wie entsteht es? Wie zerbricht es? Und wie können wir es bewusst aufbauen, statt dem Zufall zu überlassen?
 

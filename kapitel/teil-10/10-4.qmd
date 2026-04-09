@@ -9,7 +9,7 @@
 - [10.4.5 Regulatory Sandboxes: Innovation und Sicherheit](#10-4-5-regulatory-sandboxes-innovation-und-sicherheit)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Dr. Annika Sommer blickte frustriert auf das 106-seitige Dokument vor sich. Der AI Act der Europäischen Union sollte eigentlich Klarheit schaffen, doch die Umsetzung in ihrem Universitätsklinikum warf mehr Fragen auf als sie beantwortete. "Hochrisiko-KI-System" stand da – aber was bedeutete das konkret für das Diagnosetool, das sie gerade evaluierte? Und noch wichtiger: Wie sollte sie den besorgten Ärzten und noch beunruhigteren Patienten erklären, was diese Regulierung für sie bedeutete? "Das Problem", murmelte sie, "ist nicht die Regulierung selbst. Es ist die Kluft zwischen dem, was der Gesetzgeber als Schutz intendiert, und dem, was Menschen als Sicherheit empfinden."
+Dr. Annika Sommer blickte frustriert auf das 106-seitige Dokument vor sich. Der AI Act der Europäischen Union sollte eigentlich Klarheit schaffen, doch die Umsetzung in ihrem Universitätsklinikum warf mehr Fragen auf als sie beantwortete. "Hochrisiko-KI-System" stand da, aber was bedeutete das konkret für das Diagnosetool, das sie gerade evaluierte? Und noch wichtiger: Wie sollte sie den besorgten Ärzten und noch beunruhigteren Patienten erklären, was diese Regulierung für sie bedeutete? "Das Problem", murmelte sie, "ist nicht die Regulierung selbst. Es ist die Kluft zwischen dem, was der Gesetzgeber als Schutz intendiert, und dem, was Menschen als Sicherheit empfinden."
 
 Diese Beobachtung trifft den Kern der psychologischen Herausforderungen des AI Acts. Als weltweit erste umfassende KI-Regulierung setzt die Verordnung Maßstäbe – nicht nur rechtlich, sondern auch in der Art, wie Gesellschaften über künstliche Intelligenz denken und mit ihr umgehen. Der risikobasierte Ansatz, die Definition verbotener Praktiken, die besonderen Anforderungen an Hochrisiko-Systeme – all diese regulatorischen Innovationen haben tiefgreifende psychologische Implikationen, die weit über juristische Compliance hinausgehen.
 
@@ -31,7 +31,7 @@ Die Diskrepanz zwischen regulatorischer und psychologischer Risikobewertung mani
 
 **Kontrollillusion und Risikominimierung**: Menschen unterschätzen Risiken bei Systemen, die sie zu kontrollieren glauben. Ein "Hochrisiko"-Diagnosesystem mit vielen Einstellmöglichkeiten wird als weniger riskant wahrgenommen als ein "begrenztes Risiko"-Empfehlungssystem ohne Anpassungsoptionen.
 
-**Vertrautheit und Habituation**: Je länger Menschen mit KI-Systemen interagieren, desto mehr sinkt ihre Risikowahrnehmung – unabhängig von der regulatorischen Einstufung. Longitudinale Befunde zeigen diesen Habituationseffekt: Nach mehrmonatiger Nutzung wurde die regulatorische Einstufung zunehmend irrelevant für das tatsächliche Nutzerverhalten.
+**Vertrautheit und Habituation**: Je länger Menschen mit KI-Systemen interagieren, desto mehr sinkt ihre Risikowahrnehmung, unabhängig von der regulatorischen Einstufung. Longitudinale Befunde zeigen diesen Habituationseffekt: Nach mehrmonatiger Nutzung wurde die regulatorische Einstufung zunehmend irrelevant für das tatsächliche Nutzerverhalten.
 
 **Benefit-Bias**: Die wahrgenommenen Vorteile eines Systems verzerren die Risikowahrnehmung dramatisch. Medizinische KI wird trotz hoher Risikoeinstufung positiver bewertet als Werbe-KI mit niedrigem Risiko, weil der gesellschaftliche Nutzen evident ist.
 
@@ -47,7 +47,7 @@ Um die Kluft zwischen regulatorischer und psychologischer Risikoeinschätzung zu
 
 ## 10.4.2 Verbotene Praktiken: Manipulation und Ausnutzung {#10-4-2-verbotene-praktiken-manipulation-und-ausnutzung}
 
-Der AI Act verbietet KI-Praktiken, die als hochgradig schädlich für menschliche Autonomie und Würde gelten. Dazu gehören unterschwellige Techniken zur Verhaltensbeeinflussung, die Ausnutzung von Vulnerabilitäten und Social Scoring durch öffentliche Behörden. Diese Verbote adressieren direkt die psychologischen Manipulationspotenziale von KI-Systemen – doch ihre Umsetzung konfrontiert uns mit der Komplexität menschlicher Beeinflussbarkeit.
+Der AI Act verbietet KI-Praktiken, die als hochgradig schädlich für menschliche Autonomie und Würde gelten. Dazu gehören unterschwellige Techniken zur Verhaltensbeeinflussung, die Ausnutzung von Vulnerabilitäten und Social Scoring durch öffentliche Behörden. Diese Verbote adressieren direkt die psychologischen Manipulationspotenziale von KI-Systemen, doch ihre Umsetzung konfrontiert uns mit der Komplexität menschlicher Beeinflussbarkeit.
 
 Die Definition von "Manipulation" im KI-Kontext ist psychologisch herausfordernd. Wo endet legitime Beeinflussung und wo beginnt Manipulation? Die Forschung zu Persuasion und Social Influence (Cialdini, 2021) zeigt: Diese Grenze ist fließend und kontextabhängig (← vgl. Kapitel 4.2).
 
@@ -81,7 +81,7 @@ Angesichts der Subtilität vieler manipulativer Praktiken sind Insider oft die e
 
 ## 10.4.3 Hochrisiko-KI-Systeme: Psychologische Schutzbedarfe {#10-4-3-hochrisiko-ki-systeme-psychologische-schutzbedarfe}
 
-Die Kategorie der Hochrisiko-KI-Systeme umfasst Anwendungen in kritischen Bereichen wie Bildung, Beschäftigung, Strafverfolgung und Gesundheit. Diese Systeme unterliegen strengen Anforderungen – von Risikomanagement über menschliche Aufsicht bis zu Transparenzpflichten. Doch die psychologischen Schutzbedarfe in diesen Bereichen gehen oft über die regulatorischen Anforderungen hinaus.
+Die Kategorie der Hochrisiko-KI-Systeme umfasst Anwendungen in kritischen Bereichen wie Bildung, Beschäftigung, Strafverfolgung und Gesundheit. Diese Systeme unterliegen strengen Anforderungen, von Risikomanagement über menschliche Aufsicht bis zu Transparenzpflichten. Doch die psychologischen Schutzbedarfe in diesen Bereichen gehen oft über die regulatorischen Anforderungen hinaus.
 
 Dr. Annika Sommer kämpfte mit der Implementierung eines als "hochriskant" eingestuften Diagnose-Assistenzsystems: "Die technischen Anforderungen konnten wir erfüllen – Logging, Transparenz, menschliche Kontrolle. Aber die psychologischen Bedürfnisse unserer Ärzte und Patienten waren komplexer. Ärzte fühlten sich entmündigt, Patienten verunsichert. Die Regulierung adressierte die technischen Risiken, nicht die menschlichen Ängste."
 
@@ -97,11 +97,11 @@ Felix Hartmann analysierte die Auswirkungen von Hochrisiko-KI im Finanzsektor: "
 
 Die besonderen psychologischen Herausforderungen verschiedener Hochrisiko-Bereiche:
 
-**Bildung**: KI-Systeme, die Lernwege personalisieren oder Leistungen bewerten, beeinflussen die Entwicklung junger Menschen. Die Gefahr selbsterfüllender Prophezeiungen ist groß – wenn KI einem Kind bescheinigt, in Mathematik schwach zu sein, kann dies die Motivation und damit die Leistung tatsächlich senken. Die Regulierung fordert Genauigkeit, aber psychologisch wichtiger ist es, ein Growth Mindset zu fördern.
+**Bildung**: KI-Systeme, die Lernwege personalisieren oder Leistungen bewerten, beeinflussen die Entwicklung junger Menschen. Die Gefahr selbsterfüllender Prophezeiungen ist groß. Wenn KI einem Kind bescheinigt, in Mathematik schwach zu sein, kann dies die Motivation und damit die Leistung tatsächlich senken. Die Regulierung fordert Genauigkeit, aber psychologisch wichtiger ist es, ein Growth Mindset zu fördern.
 
 **Gesundheit**: Die Verwendung von KI für Diagnosen oder Behandlungsempfehlungen berührt existenzielle Ängste. Patienten müssen nicht nur den technischen Outputs vertrauen, sondern auch das Gefühl haben, als Menschen gesehen zu werden. Die regulatorische Forderung nach Erklärbarkeit hilft, aber emotional wichtiger ist es oft, KI-Ergebnisse menschlich zu vermitteln.
 
-**Strafverfolgung**: KI-Systeme für Risikobewertungen oder Gesichtserkennung werfen Fragen von Gerechtigkeit und Menschenwürde auf. Die psychologischen Auswirkungen falscher Verdächtigungen durch KI können traumatisch sein. Hier reichen technische Genauigkeitsanforderungen nicht – es braucht Mechanismen zur psychologischen Rehabilitation bei Fehlern.
+**Strafverfolgung**: KI-Systeme für Risikobewertungen oder Gesichtserkennung werfen Fragen von Gerechtigkeit und Menschenwürde auf. Die psychologischen Auswirkungen falscher Verdächtigungen durch KI können traumatisch sein. Hier reichen technische Genauigkeitsanforderungen nicht. Es braucht Mechanismen zur psychologischen Rehabilitation bei Fehlern.
 
 Ansätze für verbesserten psychologischen Schutz bei Hochrisiko-KI-Systemen:
 
@@ -139,7 +139,7 @@ Die Wirksamkeit von Transparenzmaßnahmen hängt von mehreren psychologischen Fa
 
 Innovative Ansätze zur effektiven Transparenz:
 
-**Layered Transparency**: Information in Schichten anbieten – von einer einfachen Zusammenfassung bis zu technischen Details. Nutzer können selbst entscheiden, wie tief sie eintauchen wollen.
+**Layered Transparency**: Information in Schichten anbieten, von einer einfachen Zusammenfassung bis zu technischen Details. Nutzer können selbst entscheiden, wie tief sie eintauchen wollen.
 
 **Interactive Transparency**: Systeme, die Nutzer ihre eigenen Fragen stellen lassen und personalisierte Antworten geben, statt vorgefertigte Informationen zu präsentieren.
 
@@ -239,7 +239,7 @@ Die psychologischen Erkenntnisse aus der AI-Act-Implementierung werden zur Blaup
 
 **Blockchain-Governance** stellt die Grundannahmen zentralisierter Regulierung infrage. Wenn KI-Systeme dezentral und autonom agieren, wer trägt die Verantwortung für Compliance? Die psychologischen Mechanismen der Vertrauensbildung müssen in vertrauenslosen Systemen neu erfunden werden.
 
-Die nächste Generation der KI-Regulierung wird stärker psychologisch fundiert sein müssen. Sie wird nicht nur technische Risiken, sondern auch kognitive Verzerrungen und emotionale Reaktionen systematisch berücksichtigen. Der AI Act ist der erste Schritt auf diesem Weg – aber längst nicht der letzte.
+Die nächste Generation der KI-Regulierung wird stärker psychologisch fundiert sein müssen. Sie wird nicht nur technische Risiken, sondern auch kognitive Verzerrungen und emotionale Reaktionen systematisch berücksichtigen. Der AI Act ist der erste Schritt auf diesem Weg, aber längst nicht der letzte.
 
 **Weiterführende Kapitel:** → 11.2, → 11.3, → 11.4
 

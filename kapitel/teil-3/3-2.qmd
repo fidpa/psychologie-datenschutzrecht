@@ -18,13 +18,13 @@ Ein Raunen geht durch den Saal. "Die DSGVO", fährt Annika fort, "ist ein Meiste
 
 Sie klickt zur nächsten Folie. Darauf: Eine Grafik des menschlichen Gehirns. "Das hier ist unser tatsächlicher Entscheidungsapparat. Evolutionär optimiert für die Savanne, nicht für Cookie-Banner. Überlastet von 35.000 Entscheidungen täglich. Anfällig für 188 dokumentierte kognitive Verzerrungen. Und wir erwarten, dass dieses Gehirn informierte Einwilligungen erteilt?"
 
-Felix Hartmann meldet sich aus der zweiten Reihe: "Aber die DSGVO stärkt doch die Nutzerrechte!" Annika erkennt ihn und lächelt. "Absolut, Felix. Die Frage ist nur: Können Menschen diese Rechte auch wahrnehmen? Oder schaffen wir eine Illusion von Kontrolle, während die reale Macht – wie in deinen Algorithmen – woanders liegt?" Felix nickt nachdenklich. Als Data Scientist kennt er die Macht der Daten, aber auch die Grenzen menschlicher Rationalität, die seine Modelle täglich ausnutzen.
+Felix Hartmann meldet sich aus der zweiten Reihe: "Aber die DSGVO stärkt doch die Nutzerrechte!" Annika erkennt ihn und lächelt. "Absolut, Felix. Die Frage ist nur: Können Menschen diese Rechte auch wahrnehmen? Oder schaffen wir eine Illusion von Kontrolle, während die reale Macht, wie in deinen Algorithmen, woanders liegt?" Felix nickt nachdenklich. Als Data Scientist kennt er die Macht der Daten, aber auch die Grenzen menschlicher Rationalität, die seine Modelle täglich ausnutzen.
 
 Diese Spannung zwischen juristischem Anspruch und psychologischer Realität durchzieht die DSGVO wie ein roter Faden (← vgl. Kapitel 3.1 zur Evolution des Datenschutzrechts). Zeit, die impliziten Verhaltensannahmen des ambitioniertesten Datenschutzgesetzes der Welt unter die psychologische Lupe zu nehmen.
 
 ## 3.2.1 Verhaltensannahmen des europäischen Gesetzgebers {#3-2-1-verhaltensannahmen-des-europaeischen-gesetzgebers}
 
-Die DSGVO ist mehr als ein Gesetz – sie ist eine Wette auf menschliches Verhalten. Um diese Wette zu verstehen, müssen wir die oft unausgesprochenen Annahmen über menschliche Natur rekonstruieren, die dem Regelwerk zugrunde liegen.
+Die DSGVO ist mehr als ein Gesetz. Sie ist eine Wette auf menschliches Verhalten. Um diese Wette zu verstehen, müssen wir die oft unausgesprochenen Annahmen über menschliche Natur rekonstruieren, die dem Regelwerk zugrunde liegen.
 
 ### Das implizite Menschenbild der DSGVO
 
@@ -234,7 +234,7 @@ Dies ist die größte verhaltenswissenschaftliche Innovation:
 - Reduziert Entscheidungslast
 - Empirisch messbare Wirkung: +43% Datenschutzniveau
 
-**Beispiel Standortdienste**: Vor der DSGVO waren 78% der Standortdienste standardmäßig aktiv, nach der DSGVO nur noch 31% – eine **Verhaltensänderung ohne Nutzerfrust**.
+**Beispiel Standortdienste**: Vor der DSGVO waren 78% der Standortdienste standardmäßig aktiv, nach der DSGVO nur noch 31%, eine **Verhaltensänderung ohne Nutzerfrust**.
 
 **2. Accountability-Prinzip**:
 - Verschiebt Last von Individuen zu Organisationen
@@ -308,7 +308,7 @@ Betroffenenrechte sind theoretisch stark, praktisch schwach:
 
 ### Empirische Wirkungsanalyse
 
-**Zur DSGVO-Effektivität** zeigen Längsschnittbefragungen ein gemischtes Bild: Die Datenschutz-Awareness ist seit Einführung deutlich gestiegen — der Eurobarometer-Vergleich (European Commission, 2019) und folgende Erhebungen belegen eine deutlich gewachsene Bekanntheit. Das Gefühl der Kontrolle hat sich ebenfalls verbessert. Die tatsächliche Kontrolle und die Nutzung von Betroffenenrechten bleiben jedoch auf sehr niedrigem Niveau. Die Einwilligungs-Qualität hat sich durch Consent Overload sogar verschlechtert. Das Vertrauen in Unternehmen ist nicht gestiegen.
+**Zur DSGVO-Effektivität** zeigen Längsschnittbefragungen ein gemischtes Bild: Die Datenschutz-Awareness ist seit Einführung deutlich gestiegen. Der Eurobarometer-Vergleich (European Commission, 2019) und folgende Erhebungen belegen eine deutlich gewachsene Bekanntheit. Das Gefühl der Kontrolle hat sich ebenfalls verbessert. Die tatsächliche Kontrolle und die Nutzung von Betroffenenrechten bleiben jedoch auf sehr niedrigem Niveau. Die Einwilligungs-Qualität hat sich durch Consent Overload sogar verschlechtert. Das Vertrauen in Unternehmen ist nicht gestiegen.
 
 ### Die Ambivalenz der Wirkung
 
@@ -502,7 +502,7 @@ Die DSGVO war ein mutiger erster Schritt in die richtige Richtung. Aber sie basi
 
 **Die Diagnose ist gestellt: Datenschutz scheitert primär an menschlichen, nicht technischen Faktoren.** Teil I hat systematisch aufgezeigt, wie psychologische Barrieren - vom **[Privacy Paradox]** über kognitive Verzerrungen bis zu emotionalen Reaktionen - wirksamen Datenschutz verhindern. Die rechtliche Analyse der DSGVO enthüllt: Selbst ambitionierteste Gesetze greifen ins Leere, wenn sie menschliche Natur ignorieren.
 
-**Aber Verständnis allein genügt nicht – wir brauchen Therapie.** Teil II wird zeigen, wie psychologische Erkenntnisse in konkrete Designlösungen übersetzt werden können. Von **[Dark Patterns]** zu Light Patterns, von **[Choice Overload]** zu Smart Defaults, von Compliance Theater zu echter Empowerment.
+**Aber Verständnis allein genügt nicht. Wir brauchen Therapie.** Teil II wird zeigen, wie psychologische Erkenntnisse in konkrete Designlösungen übersetzt werden können. Von **[Dark Patterns]** zu Light Patterns, von **[Choice Overload]** zu Smart Defaults, von Compliance Theater zu echter Empowerment.
 
 Die Werkzeuge sind identifiziert. Die Mechanismen verstanden. Die rechtlichen Herausforderungen kartiert. Jetzt geht es an die praktische Umsetzung: Wie können wir Datenschutz schaffen, der nicht nur auf dem Papier, sondern auch in der gelebten Realität funktioniert?
 
