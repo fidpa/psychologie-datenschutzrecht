@@ -295,6 +295,16 @@ Diese Rechtsgrundlage verschiebt die Verantwortung vom Nutzer zum Verantwortlich
 > 5. **Einwilligung** (43%): "Nervt"
 > 6. **Berechtigte Interessen** (31%): "Suspekt"
 
+**Die Psychologie der Interessenabwägung**
+
+Die Interessenabwägung nach Art. 6 Abs. 1 lit. f DSGVO ist nicht nur ein juristisches, sondern ein kognitives Problem. Die dreistufige Prüfung des EuGH verlangt von Verantwortlichen, die Grundrechte beider Seiten gegeneinander abzuwägen, darunter Informationsfreiheit (Art. 11 GRCh), unternehmerische Freiheit (Art. 16 GRCh) und Eigentumsrecht (Art. 17 GRCh) auf der einen, Datenschutz (Art. 8 GRCh) und Privatleben (Art. 7 GRCh) auf der anderen Seite. Ohne juristische Ausbildung ist diese Abwägung kognitiv anspruchsvoll und erzeugt in der Praxis erhebliche Unsicherheit (→ Kapitel 9.1 zur Rollenüberlastung von DSB).
+
+Ein zentrales Hindernis liegt dabei im **Zero-Sum Bias**, einer kognitiven Verzerrung, die Meegan (2010) als Tendenz beschreibt, Situationen fälschlich als Nullsummenspiel wahrzunehmen. Verantwortliche nehmen Datenschutz und Geschäftsinteresse intuitiv als unvereinbar wahr: „Entweder wir analysieren Nutzerdaten oder wir schützen die Privatsphäre." Diese heuristische Erstreaktion entspricht System-1-Denken (→ Kapitel 2.2) und verhindert kreative Lösungen.
+
+Der Ausweg liegt im **Reframing**, einer kognitiven Umdeutungstechnik. Statt „Wie verteilen wir den Kuchen?" lautet die produktivere Frage: „Was braucht jede Seite eigentlich?" Fisher, Ury und Patton (1981/2011) beschreiben diesen Wechsel von positionsbasiertem zu interessenbasiertem Verhandeln als Schlüssel zur Auflösung scheinbarer Konflikte. Übertragen auf die Datenschutzpraxis: Ein Unternehmen will Nutzungsanalysen für Produktverbesserung, der Betroffene will keine Profilbildung. Reframing offenbart, dass aggregierte, anonymisierte Analysen beide Interessen gleichzeitig erfüllen können.
+
+In der Praxis werden Interessenabwägungen allerdings häufig als Pflichtübung dokumentiert. Das Legitimate Interests Assessment (LIA) wird zum Formular statt zum Denkprozess. Wer die vorgegebenen Felder ausfüllt, ohne die eigentlichen Interessen beider Seiten ernsthaft zu klären, produziert eine Scheinabwägung. Eine psychologisch fundierte Interessenabwägung erfordert dagegen bewusstes System-2-Denken: das Verlassen der eigenen Position, die empathische Rekonstruktion der Betroffenenperspektive und die aktive Suche nach integrativen Lösungen. Der Zero-Sum Bias ist dabei der größte Feind, weil er diese Suche bereits im Ansatz blockiert (→ Kapitel 2.2 zum Zero-Sum Bias, → Kapitel 13.1 zum Scheingegensatz zwischen Nutzerzentrierung und Datenschutz).
+
 **Hybride Modelle: Der Weg nach vorn?**
 
 **Kontextuelle Legitimation** bedeutet differenzierte Rechtsgrundlagen statt einer für alles: Kernfunktionen basieren auf Vertrag, Zusatzfeatures auf Einwilligung, Sicherheit auf berechtigten Interessen und Steuern auf gesetzlicher Pflicht.

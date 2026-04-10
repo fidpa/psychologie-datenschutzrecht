@@ -6,6 +6,23 @@ body {
   color: #1a1a1a;
 }
 
+/* Blocksatz für Fließtext */
+.quarto-content p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  margin-bottom: 1.1em;
+}
+
+/* Kein Blocksatz auf schmalen Bildschirmen */
+@media (max-width: 768px) {
+  .quarto-content p {
+    text-align: left;
+    hyphens: none;
+    -webkit-hyphens: none;
+  }
+}
+
 /* Überschriften */
 h1, h2, h3 {
   font-family: "Helvetica Neue", Arial, sans-serif;
@@ -26,12 +43,42 @@ h3 { font-size: 1.2em; color: #34495e; }
   max-width: 780px;
 }
 
-/* Blockquotes als Zitate */
+/* Fließtext-Lesebreite nach goldener Regel (~70 Zeichen) */
+.quarto-content p {
+  max-width: 70ch;
+}
+
+/* Infoboxen / Blockquotes */
 blockquote {
+  background: #f0f4f8;
   border-left: 4px solid #2c3e50;
-  padding-left: 1em;
-  color: #555;
-  font-style: italic;
+  border-radius: 0 4px 4px 0;
+  padding: 0.9em 1.2em;
+  color: #333;
+  font-style: normal;
+  margin: 1.5em 0;
+}
+
+blockquote p {
+  margin-bottom: 0.4em;
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Links */
+a {
+  color: #2c3e50;
+  text-decoration: underline;
+  text-decoration-color: rgba(44, 62, 80, 0.35);
+  text-underline-offset: 2px;
+  transition: color 0.15s, text-decoration-color 0.15s;
+}
+
+a:hover {
+  color: #1a252f;
+  text-decoration-color: #1a252f;
 }
 
 /* Tabellen */
