@@ -163,7 +163,14 @@ PMT erklärt, warum Angstappelle oft scheitern:
 **Das Fear-Appeal-Experiment** (Thompson et al., 2023):
 Vier Bedingungen getestet:
 
-Das Fear-Appeal-Experiment testete vier Bedingungen mit unterschiedlichen Ergebnissen: Reine Angstappelle mit hoher Bedrohung aber niedriger Bewältigungsmöglichkeit führten nur zu 12% Schutzverhalten und lösten **[Reaktanztheorie]** aus. Balancierte Ansätze mit hoher Bedrohung und hohen Bewältigungsmöglichkeiten erreichten 67% Schutzverhalten. Empowerment-Ansätze mit mittlerer Bedrohung aber hohen Bewältigungsmöglichkeiten waren am effektivsten mit 71%. Die Kontrollgruppe mit niedriger Bedrohung und Bewältigung erreichte nur 23%.
+| Bedingung | Bedrohung | Bewältigung | Schutzverhalten | Effekt |
+|-----------|-----------|-------------|-----------------|--------|
+| Angstappell | hoch | niedrig | 12% | **[Reaktanztheorie]** ausgelöst |
+| Balanciert | hoch | hoch | 67% | Motivation + Kompetenz |
+| Empowerment | mittel | hoch | **71%** | Am effektivsten |
+| Kontrolle | niedrig | niedrig | 23% | Baseline |
+
+Bedrohung allein erzeugt Hilflosigkeit. Erst die Kombination mit Bewältigungsmöglichkeiten motiviert zum Handeln.
 
 Erkenntnis: Bedrohung ohne Bewältigungsmöglichkeit → Hilflosigkeit
 
@@ -319,7 +326,16 @@ Das rationale Modell trifft auf irrationale Akteure:
 **Die Biased Calculus Study** (Anderson & Kim, 2024):
 Experiment mit 5.000 Teilnehmern, tatsächliche vs. wahrgenommene Kosten/Nutzen:
 
-Die Studie mit 5.000 Teilnehmern zeigte dramatische Verzerrungen zwischen tatsächlichen und wahrgenommenen Kosten-Nutzen-Faktoren: Der tatsächliche Datenwert von 180€ pro Jahr wurde nur als 12€ wahrgenommen (-93% Verzerrung). Das Missbrauchsrisiko von 2,3% pro Jahr wurde auf 0,1% heruntergespielt (-96% Verzerrung). Umgekehrt wurde die Zeitersparnis von 3 Minuten täglich als 20 Minuten überschätzt (+567% Verzerrung), und der marginale Personalisierungsnutzen wurde als substantiell wahrgenommen (+340% Verzerrung).
+Die Studie mit 5.000 Teilnehmern zeigte dramatische Verzerrungen:
+
+| Faktor | Tatsächlich | Wahrgenommen | Verzerrung |
+|--------|-------------|-------------|------------|
+| Datenwert (€/Jahr) | 180€ | 12€ | -93% |
+| Missbrauchsrisiko (%/Jahr) | 2,3% | 0,1% | -96% |
+| Zeitersparnis (Min./Tag) | 3 Min. | 20 Min. | +567% |
+| Personalisierungsnutzen | marginal | substantiell | +340% |
+
+Kosten werden systematisch unterschätzt, Nutzen systematisch überschätzt. Die Kalkulation ist alles andere als rational.
 
 **Verzerrungsmechanismen** (→ siehe Kapitel 2.2):
 - **[Hyperbolic Discounting]**: Zukunftskosten abgewertet
@@ -360,7 +376,17 @@ Der Calculus variiert systematisch:
 
 **Die Context-Calculus-Matrix** (Wang & Davis, 2023):
 
-Die Context-Calculus-Matrix von Wang & Davis (2023) zeigt systematische Variationen: In sozialen Medien dominiert Nutzengewichtung (73% vs. 27% Kosten) und führt zu großzügigem Teilen. Gesundheitskontexte kehren das Verhältnis um (41% Nutzen vs. 59% Kosten) und führen zu vorsichtigem Abwägen. Finanzen sind noch restriktiver (38% vs. 62%), während Shopping pragmatisch behandelt wird (66% vs. 34%). Arbeitskontexte zeigen moderate Kostengewichtung (45% vs. 55%) und führen zu regelkonformem Verhalten.
+Die Context-Calculus-Matrix von Wang & Davis (2023) zeigt systematische Variationen:
+
+| Kontext | Nutzen-Gewichtung | Kosten-Gewichtung | Typisches Verhalten |
+|---------|-------------------|-------------------|---------------------|
+| Social Media | 73% | 27% | Großzügiges Teilen |
+| Shopping | 66% | 34% | Pragmatisch |
+| Arbeit | 45% | 55% | Regelkonform |
+| Gesundheit | 41% | 59% | Vorsichtiges Abwägen |
+| Finanzen | 38% | 62% | Restriktiv |
+
+Je sensibler der Kontext, desto stärker verschieben sich die Gewichte Richtung Kosten.
 
 **Temporale Dynamik des Calculus**
 

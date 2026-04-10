@@ -89,7 +89,17 @@ Die Rezeption des Volkszählungsurteils zeigt eine interessante Diskrepanz:
 - Von kollektivem Widerstand zu individueller Resignation
 - Das **[Privacy Paradox]** etabliert sich
 
-**Empirische Daten zur Einstellungsentwicklung** zeigen eine bemerkenswerte Entwicklung: Während 1983 noch 89% der Befragten Datenschutz als sehr wichtig erachteten und 67% aktive Schutzmaßnahmen ergriffen (Boykott), sank dieser Anteil 1993 auf 71% beziehungsweise 31%. Im Jahr 2003 hielten 68% Datenschutz für sehr wichtig, aber nur noch 19% handelten entsprechend. 2013 stieg das Bewusstsein wieder auf 74%, während die Handlungsbereitschaft auf 14% fiel. 2023 zeigt sich ein interessantes Bild: 81% halten Datenschutz für sehr wichtig, doch nur 22% setzen aktive Schutzmaßnahmen um.
+**Empirische Daten zur Einstellungsentwicklung** zeigen eine bemerkenswerte Schere:
+
+| Jahr | Bewusstsein ("sehr wichtig") | Aktives Handeln | Auslöser |
+|------|------------------------------|-----------------|----------|
+| 1983 | 89% | 67% (Boykott) | Volkszählungsurteil |
+| 1993 | 71% | 31% | Normalisierung |
+| 2003 | 68% | 19% | Internet-Euphorie |
+| 2013 | 74% | 14% | Post-Snowden-Effekt |
+| 2023 | 81% | 22% | DSGVO-Bewusstsein |
+
+Die Schere zwischen Wissen und Handeln wächst: 2023 halten viermal so viele Menschen Datenschutz für wichtig, wie tatsächlich aktiv werden.
 
 Die Schere zwischen Einstellung und Verhalten öffnet sich trotz (oder wegen?) des rechtlichen Schutzes.
 
@@ -203,7 +213,17 @@ Am 25. Mai 2018 wurde die DSGVO anwendbar. Die psychologischen Reaktionen waren 
 - Entstehung einer "Datenschutz-Industrie"
 - Compliance-Kultur vs. Privacy-Kultur
 
-**Empirische Bilanz: Was hat die DSGVO bewirkt?** Die Daten zeigen gemischte Ergebnisse: Das Datenschutzbewusstsein stieg von 67% (2017) auf 84% (2023), während die aktive Rechtenutzung von 2% auf 7% zunahm. Gleichzeitig akzeptieren 89% der Nutzer Cookie-Banner in weniger als drei Sekunden, was auf **[Consent fatigue]** hindeutet. Das Vertrauen in Unternehmen sank von 42% auf 38%, während das Gefühl der Kontrolle von 31% auf 43% anstieg – möglicherweise eine Illusion durch die rechtlichen Veränderungen.
+**Empirische Bilanz: Was hat die DSGVO bewirkt?**
+
+| Metrik | 2017 | 2023 | Trend |
+|--------|------|------|-------|
+| Datenschutzbewusstsein | 67% | 84% | ↑ deutlich |
+| Aktive Rechtenutzung | 2% | 7% | ↑ moderat |
+| Cookie-Banner <3 Sek. akzeptiert | — | 89% | **[Consent fatigue]** |
+| Vertrauen in Unternehmen | 42% | 38% | ↓ leicht |
+| Gefühl der Kontrolle | 31% | 43% | ↑ (Illusion?) |
+
+Das Bewusstsein steigt, das Verhalten bleibt träge. Der stärkste Effekt der DSGVO könnte eine Kontrollillusion sein: Menschen fühlen sich geschützter, ohne tatsächlich aktiver zu handeln.
 
 **Weiterführende Kapitel:** → 2.2, → 4.1, → 7.2, → 8.2
 
@@ -354,7 +374,16 @@ Die amerikanische Privacy-Tradition unterscheidet sich grundlegend von der europ
 - CCPA/CPRA (Kalifornien)
 - Keine bundesweite Regelung
 
-**Empirische Unterschiede USA vs. EU** verdeutlichen die kulturellen Divergenzen: Amerikaner vertrauen Unternehmen mehr (43% vs. 31%), während Europäer ihrer Regierung mehr vertrauen (54% vs. 27%). Besonders markant ist der Unterschied beim Grundrechtsverständnis: 89% der Europäer sehen Privacy als Grundrecht, aber nur 41% der Amerikaner. Diese Einstellung spiegelt sich in der Bereitschaft wider, für Convenience zu zahlen: 71% der Amerikaner gegenüber 52% der Europäer.
+**Empirische Unterschiede USA vs. EU** verdeutlichen die kulturellen Divergenzen:
+
+| Dimension | USA | EU | Differenz |
+|-----------|-----|-----|-----------|
+| Vertrauen in Unternehmen | 43% | 31% | USA +12 |
+| Vertrauen in Regierung | 27% | 54% | EU +27 |
+| Privacy als Grundrecht | 41% | 89% | EU +48 |
+| Daten für Convenience opfern | 71% | 52% | USA +19 |
+
+Der größte Unterschied liegt im Grundrechtsverständnis: Europäer sehen Privatheit als unveräußerliches Recht, Amerikaner eher als persönliche Präferenz.
 
 **China: Kollektive Sicherheit über individuelle Privatheit**
 

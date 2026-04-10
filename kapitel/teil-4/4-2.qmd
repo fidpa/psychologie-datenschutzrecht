@@ -108,6 +108,17 @@ Authority Manipulation missbraucht Vertrauen in Autoritäten durch gefälschte E
 
 Social Proof Fabrication erzeugt künstlichen Konformitätsdruck durch gefälschte Nutzerzahlen, manipulierte Bewertungen und die "Alle machen es"-Illusion. Menschen orientieren sich an vermeintlichem Gruppenverhalten, auch wenn es künstlich erzeugt wurde.
 
+**Privacy Washing: Wenn Datenschutz-Compliance zum Marketing-Label wird**
+
+Analog zum Greenwashing in der Umweltpolitik hat sich im Datenschutz ein verwandtes Phänomen etabliert: Privacy Washing. Unternehmen werben mit Labels wie "DSGVO-konform" oder "100% datenschutzkonform", ohne diese Versprechen substanziell einzulösen.
+
+Psychologisch nutzt Privacy Washing denselben Authority-Mechanismus wie Fake-Siegel. Das Label aktiviert die Vertrauensheuristik der zweiten Phase der Vertrauensbildung (→ Kapitel 2.3). Nutzer ordnen dem Anbieter Kompetenz und Verlässlichkeit zu, ohne die tatsächliche Datenschutzpraxis prüfen zu können. Die Informationsasymmetrie zwischen Anbieter und Nutzer macht eine Verifizierung für Laien praktisch unmöglich.
+
+> **Infobox: Das Compliance-Label als inverses Signal**
+> Datenschutzrechtliche Prüfpraxis zeigt ein wiederkehrendes Muster: Die Werbung mit "DSGVO-konform" korreliert in Audits häufig negativ mit dem tatsächlichen Schutzniveau. Wo substanzielle Compliance vorliegt, ist das Label oft überflüssig; wo es prominent beworben wird, fehlen häufig grundlegende Voraussetzungen — ordnungsmäßige Vertragsgrundlagen, korrekt umgesetzte Betroffenenrechte, technisch-organisatorische Maßnahmen auf aktuellem Stand. Piltz & Kukin (2026) zeigen zudem, dass solche Werbeaussagen wettbewerbsrechtlich unzulässig sein können.
+
+Das Conversion-Rate-Paradox verdeutlicht den Zielkonflikt: Datenschutz-Labels steigern nachweislich die Conversion-Rate und schaffen kurzfristig Wettbewerbsvorteile, aber untergraben langfristig genau das Vertrauen, das die Datenökonomie als Währung benötigt (→ These 9). Wenn ein signifikanter Anteil der Labels substanzlos ist, entwertet dies auch die Signalwirkung für tatsächlich konforme Anbieter, ein klassisches "Market for Lemons"-Problem (Akerlof, 1970).
+
 **Das Timing der Manipulation**
 
 Vulnerability Moments werden gezielt für Dark Patterns ausgewählt. Während der Euphorie der Neuanmeldung sind Nutzer besonders zustimmungsbereit. Nach Erfolgen wird das **[Dopamin]**-High ausgenutzt, um weitere Zugeständnisse zu erhalten. Bei Frustration werden "einfache" Lösungen angeboten, die mehr Daten erfordern. Künstliche Verknappung und Zeitdruck verstärken den Entscheidungsdruck, während späte Tageszeiten bevorzugt werden, da Müdigkeit die Widerstandsfähigkeit reduziert.
@@ -425,12 +436,14 @@ Das nächste Kapitel wird zeigen, wie die positiven Erkenntnisse der Verhaltensf
 - Mathur, A., Acar, G., Friedman, M. J., Lucherini, E., Mayer, J., Chetty, M., & Narayanan, A. (2019): Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites. *Proceedings of the ACM on Human-Computer Interaction*, 3(CSCW), 1-32.
 
 ### Psychologie und Verhalten
+- Akerlof, G. A. (1970): The Market for "Lemons": Quality Uncertainty and the Market Mechanism. *Quarterly Journal of Economics*, 84(3), 488–500.
 - Kahneman, D. (2011): *Thinking, Fast and Slow*. New York: Farrar, Straus and Giroux.
 - Thaler, R. H., & Sunstein, C. R. (2008): *Nudge: Improving Decisions About Health, Wealth, and Happiness*. New Haven: Yale University Press.
 - Tversky, A., & Kahneman, D. (1974): Judgment under Uncertainty: Heuristics and Biases. *Science*, 185(4157), 1124-1131.
 - Fogg, B. J. (2003): *Persuasive Technology: Using Computers to Change What We Think and Do*. Boston: Morgan Kaufmann.
 
 ### Rechtswissenschaft
+- Piltz, C., & Kukin, O. (2026): Werbung mit "DSGVO-konform": Wo liegen die Grenzen des Zulässigen? *Datenschutz-Berater*.
 - Regulation (EU) 2016/679 (DSGVO): General Data Protection Regulation. *Official Journal of the European Union*, L 119, 1-88.
 - Regulation (EU) 2022/2065 (DSA): Digital Services Act. *Official Journal of the European Union*, L 277, 1-102.
 - Regulation (EU) 2024/1689 (AI Act): Artificial Intelligence Act. *Official Journal of the European Union*, L 2024/1689, 1-144.
