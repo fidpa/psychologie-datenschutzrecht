@@ -6,17 +6,19 @@ body {
   color: #1a1a1a;
 }
 
-/* Blocksatz für Fließtext */
-.quarto-content p {
+/* Blocksatz für Fließtext
+   Quarto generiert: <main class="content" id="quarto-document-content"> */
+#quarto-document-content p {
   text-align: justify;
   hyphens: auto;
   -webkit-hyphens: auto;
   margin-bottom: 1.1em;
+  max-width: 70ch;
 }
 
 /* Kein Blocksatz auf schmalen Bildschirmen */
 @media (max-width: 768px) {
-  .quarto-content p {
+  #quarto-document-content p {
     text-align: left;
     hyphens: none;
     -webkit-hyphens: none;
@@ -39,13 +41,8 @@ h3 { font-size: 1.2em; color: #34495e; }
 }
 
 /* Lesebreite begrenzen */
-.quarto-content {
+#quarto-content {
   max-width: 780px;
-}
-
-/* Fließtext-Lesebreite nach goldener Regel (~70 Zeichen) */
-.quarto-content p {
-  max-width: 70ch;
 }
 
 /* Infoboxen / Blockquotes */
