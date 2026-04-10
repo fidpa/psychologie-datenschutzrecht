@@ -13,7 +13,6 @@ body {
   hyphens: auto;
   -webkit-hyphens: auto;
   margin-bottom: 1.1em;
-  max-width: 70ch;
 }
 
 /* Kein Blocksatz auf schmalen Bildschirmen */
