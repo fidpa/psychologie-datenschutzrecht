@@ -17,7 +17,7 @@ book:
   version: "v0.1.0"
   description: |
     Ein interdisziplinäres Nachschlagewerk zur Verbindung von Psychologie und Datenschutzrecht.
-  license: "CC BY 4.0"
+  license: "Alle Rechte vorbehalten"
   language: de
   favicon: custom/favicon.svg
   search: true
@@ -25,8 +25,7 @@ book:
   repo-actions: [edit, issue]
   page-footer:
     center: |
-      © 2026 Marc Allgeier · Inhalt: [CC BY 4.0](LICENSE-CONTENT.md) · Code: [MIT](LICENSE) ·
-      v0.1.0 · [datenschutz-psychologie.de](https://datenschutz-psychologie.de)
+      © 2026 Marc Allgeier · Alle Rechte vorbehalten
   navbar:
     background: primary
     search: true
