@@ -66,6 +66,23 @@ Diese Doppelrolle, gleichzeitig potenzielles Ziel organisationaler Machtspiele u
 
 Im Beschäftigtendatenschutz (→ Kapitel 12.2) verkörpert der Betriebsrat dieselbe Ambivalenz: Sein Mitbestimmungsrecht bei Monitoring-Systemen dient dem Arbeitnehmerschutz und kann zugleich als Blockadeinstrument gegen unliebsame Veränderungen eingesetzt werden. Diese Doppelrolle lässt sich nicht auflösen, nur diagnostisch einordnen.
 
+### Formale Vertragsstrukturen und faktische Machthierarchien
+
+Die bisher beschriebenen Muster der Instrumentalisierung spielen sich innerhalb einzelner Organisationen ab. Doch formale und faktische Macht können auch zwischen verbundenen Unternehmen auseinanderfallen, besonders deutlich bei der Auftragsverarbeitung in Konzernstrukturen.
+
+Der AV-Vertrag nach Art. 28 DSGVO setzt ein effektives Weisungsrecht des Auftraggebers voraus. Die Tochtergesellschaft, die als datenschutzrechtlich Verantwortliche die Muttergesellschaft mit der Datenverarbeitung beauftragt, müsste die Verarbeitungsprozesse steuern können. Doch gesellschaftsrechtlich liegt die Steuerungsmacht bei der Muttergesellschaft: Sie kann Entscheidungsprozesse bei der Tochter jederzeit an sich ziehen.
+
+Das Kammergericht Berlin hat diese Kollision ausdrücklich benannt:
+
+> „Diese vertragliche Berechtigung wird aber überlagert und verdrängt durch die gesellschaftsrechtliche Befugnis der Muttergesellschaft (…). Diese kann Entscheidungsprozesse bei der [Tochtergesellschaft] faktisch jederzeit an sich ziehen, sei es durch Anweisungen als Gesellschafterin an die Organe, sei es durch einen Austausch der Organe."
+> — KG Berlin, Urteil vom 24.01.2014, Az. 5 U 42/12
+
+Das Ergebnis des Gerichts: Eine Auftragsverarbeitung durch die Muttergesellschaft für ihre 100-prozentige Tochter komme nicht in Betracht. Der BGH (Urteil vom 14.01.2016, Az. I ZR 65/14) ließ die Revision zu, befasste sich mit der Auftragsverarbeitungsfrage aber nicht mehr. Die Leitlinien 07/2020 des Europäischen Datenschutzausschusses (2021, Rn. 71) scheinen von einer grundsätzlichen Zulässigkeit auszugehen, binden Gerichte jedoch nicht.
+
+In der Terminologie der Machtbasen-Theorie (French & Raven, 1959) kollidieren hier zwei Machtformen: Die *legitimate power* der Tochtergesellschaft als vertragliche Auftraggeberin trifft auf die *coercive* und *reward power* der Muttergesellschaft als Gesellschafterin. Das Vertragsrecht gewährt der Tochter formale Weisungsbefugnis, das Gesellschaftsrecht gewährt der Mutter faktische Durchsetzungsmacht. Was auf dem Papier als Auftraggeber-Auftragnehmer-Beziehung erscheint, ist in der organisationalen Realität eine Hierarchie mit umgekehrten Vorzeichen.
+
+Dass die Praxis diese Grauzone weitgehend toleriert, obwohl die Rechtslage mindestens ungeklärt ist, erinnert an die in Kapitel 8.2 beschriebene Compliance-without-Commitment-Dynamik: Die vertragliche Konstruktion erfüllt die formalen Anforderungen, ohne die dahinterliegende Machtasymmetrie zu adressieren. Die Auftragsverarbeitung im Konzern wird so zum dokumentierten Beispiel für eine Mikropolitik, die sich hinter rechtlich einwandfreien Strukturen verbirgt.
+
 ## 8.5.3 Die Kehrseite: Wenn Datenschutz unterdrückt wird {#8-5-3-die-kehrseite-wenn-datenschutz-unterdrueckt-wird}
 
 Die Instrumentalisierung hat ein strukturelles Gegenstück: Wo Datenschutz *als Waffe* überdehnt wird, wird er andernorts *als Hindernis* geschwächt. Genuine Datenschutzziele werden durch Hierarchiedruck blockiert: der DSB steht unter Druck, Ausnahmen zu genehmigen (→ Kapitel 9.1), Budgets werden strategisch unterfinanziert, nach Datenpannen fließt die Schuld entlang der Hierarchie abwärts (→ Kapitel 15.1). In Kapitel 8.3 wurde dokumentiert, dass 73% der Mitarbeiter bei einer CEO-Anordnung implementieren, auch wenn sie eigene Bedenken haben. Diese Zahl ist ein Indikator für die Richtung, in der Machtdynamiken Datenschutzentscheidungen verschieben: entlang der Hierarchie, zulasten abhängiger Akteure.
@@ -157,6 +174,7 @@ Daher gilt für die Organisationsentwicklung: Instrumentalisierung ist ein Kultu
 ## Quellenangaben für Kapitel 8.5
 
 - Crozier, M. & Friedberg, E. (1977). *L'acteur et le système.* Paris: Éditions du Seuil. (dt. *Macht und Organisation.* Königstein: Athenäum, 1979).
+- Europäischer Datenschutzausschuss. (2021). Leitlinien 07/2020 zu den Begriffen „Verantwortlicher" und „Auftragsverarbeiter" in der DSGVO. Version 2.0.
 - French, J.R.P. & Raven, B. (1959). The bases of social power. In D. Cartwright (Hrsg.), *Studies in Social Power* (S. 150–167). Ann Arbor: University of Michigan Press.
 - Kipnis, D. (1976). *The Powerholders.* Chicago: University of Chicago Press.
 - Mintzberg, H. (1983). *Power In and Around Organizations.* Englewood Cliffs: Prentice-Hall.

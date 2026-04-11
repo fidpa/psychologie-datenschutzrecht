@@ -83,7 +83,17 @@ Die rechtlich geforderte Freiwilligkeit kollidiert mit digitalen Realitäten. Da
 
 Befragungen zum Freiwilligkeitserleben zeigen konsistent: Nur ein kleiner Teil der Nutzer empfindet Einwilligungen als wirklich freiwillig. Die überwiegende Mehrheit fühlt sich eher oder vollständig gezwungen. Die gefühlte Freiwilligkeit ist marginal.
 
-**Weiterführende Kapitel:** → 2.2, → 2.6
+**Das Nicht-Koppelungsgebot: Wann Kopplung die Freiwilligkeit nicht aufhebt**
+
+Dieses Bild ändert sich, sobald der Austausch transparent wird. Art. 7 Abs. 4 DSGVO verlangt, bei der Beurteilung der Freiwilligkeit „dem Umstand in größtmöglichem Umfang Rechnung" zu tragen, ob die Vertragserfüllung von einer nicht erforderlichen Einwilligung abhängt. Entgegen einer verbreiteten Lesart formuliert die Norm kein absolutes Koppelungsverbot, sondern ein kontextabhängiges Nicht-Koppelungsgebot: Entscheidend bleibt, ob eine echte Wahlmöglichkeit besteht.
+
+Das VG Schleswig bestätigte diesen Grundsatz in einer rechtskräftigen Entscheidung (Az. 8 A 33/22, 12.12.2024). Ein Verlag koppelte ein rabattiertes Probe-Abonnement an die Einwilligung in Werbeanrufe. Die Klausel legte das Austauschverhältnis offen: Die Einwilligung galt ausdrücklich als „vertraglich geschuldete Gegenleistung" für die Rabattierung, ein Widerruf beendete den Rabattanspruch. Das Gericht hob die aufsichtsbehördliche Anordnung auf und bewertete die Einwilligung als freiwillig, weil Abonnenten jederzeit ein Vollpreisabo ohne Datenfreigabe wählen konnten.
+
+Psychologisch erklärt die Fairnessforschung, warum solche transparenten Austauschmodelle auf deutlich höhere Akzeptanz stoßen als verdeckte Datenerhebung. Distributive Gerechtigkeit entsteht, wenn beide Seiten den Tausch als erkennbar und verhältnismäßig erleben: Rabatt gegen Werbekontakt. Prozedurale Gerechtigkeit kommt hinzu, wenn die Bedingungen klar formuliert sind und ein jederzeitiger Widerruf möglich bleibt. Beide Dimensionen reduzieren die Informationsasymmetrie, die intransparente „Take it or leave it"-Modelle kennzeichnet.
+
+Der Kontrast zu den Dark Patterns des nächsten Kapitels (→ 4.2) verdeutlicht die Trennlinie: Wo Reciprocity Exploitation den Wert der preisgegebenen Daten verschleiert, legt das transparente Daten-gegen-Ware-Modell ihn offen. Die Offenlegung des Austauschverhältnisses bildet das psychologische und rechtliche Differenzierungskriterium zwischen legitimem Tausch und manipulativer Ausbeutung.
+
+**Weiterführende Kapitel:** → 2.2, → 2.6, → 4.2
 
 ## 4.1.2 Die Verarbeitungskapazität des menschlichen Gehirns {#4-1-2-die-verarbeitungskapazitaet-des-menschlichen-gehirns}
 
@@ -297,7 +307,13 @@ Diese Rechtsgrundlage verschiebt die Verantwortung vom Nutzer zum Verantwortlich
 
 **Die Psychologie der Interessenabwägung**
 
-Die Interessenabwägung nach Art. 6 Abs. 1 lit. f DSGVO ist nicht nur ein juristisches, sondern ein kognitives Problem. Die dreistufige Prüfung des EuGH verlangt von Verantwortlichen, die Grundrechte beider Seiten gegeneinander abzuwägen, darunter Informationsfreiheit (Art. 11 GRCh), unternehmerische Freiheit (Art. 16 GRCh) und Eigentumsrecht (Art. 17 GRCh) auf der einen, Datenschutz (Art. 8 GRCh) und Privatleben (Art. 7 GRCh) auf der anderen Seite. Ohne juristische Ausbildung ist diese Abwägung kognitiv anspruchsvoll und erzeugt in der Praxis erhebliche Unsicherheit (→ Kapitel 9.1 zur Rollenüberlastung von DSB).
+Die Interessenabwägung nach Art. 6 Abs. 1 lit. f DSGVO ist nicht nur ein juristisches Problem, sondern eine kognitive Herausforderung. Der EuGH fordert in ständiger Rechtsprechung eine **Drei-Stufen-Prüfung**: Auf der ersten Stufe muss ein berechtigtes Interesse des Verantwortlichen oder eines Dritten vorliegen. Die zweite Stufe verlangt die Erforderlichkeit der Datenverarbeitung, die der EuGH restriktiv auslegt. Erst auf der dritten Stufe findet die eigentliche Abwägung mit den Grundrechten der betroffenen Person statt.
+
+Die Grundrechte-Charta der Europäischen Union (GRCh) bildet den Maßstab dieser Abwägung. Auf Seiten der Betroffenen stehen das Recht auf Schutz personenbezogener Daten (Art. 8 GRCh) und das Recht auf Achtung des Privatlebens (Art. 7 GRCh). Auf Seiten der Verantwortlichen kommen Informationsfreiheit (Art. 11 GRCh), Wissenschaftsfreiheit (Art. 13 GRCh), Berufsfreiheit (Art. 15 GRCh), unternehmerische Freiheit (Art. 16 GRCh) und Eigentumsrecht (Art. 17 GRCh) in Betracht. Die dritte Stufe scheitert in der Praxis häufig daran, dass Verantwortliche diese GRCh-Positionen nicht kennen und deshalb nur die Betroffenenseite substantiell gewichten.
+
+Der EuGH prüft die drei Stufen grundsätzlich nicht selbst vollständig, sondern verweist auf die Zuständigkeit der mitgliedstaatlichen Gerichte. In Deutschland setzt daher der BGH den konkreten Maßstab für die Interessenabwägung. Diese jurisdiktionelle Dimension bleibt in der Praxis weitgehend unbeachtet, obwohl der BGH bei der Erforderlichkeitsprüfung maßgeblich auf die Qualität der Interessenformulierung abstellt, was die zweite Stufe erheblich erleichtert.
+
+Die asymmetrische Grundrechtewahrnehmung erklärt die Verfügbarkeitsheuristik (→ Kapitel 2.2): Art. 7 und 8 GRCh sind kognitiv omnipräsent, weil sie in jeder Datenschutzdiskussion auftauchen. Die Grundrechte der Verantwortlichenseite — Art. 11, 13, 15, 16, 17 GRCh — bleiben dagegen kaum geläufig, weil weder die DSGVO-Praxis noch die gängigen Schulungsmaterialien sie systematisch vermitteln. Die Abwägung fällt deshalb nicht wegen der Rechtslage einseitig aus, sondern wegen einer fehlenden kognitiven Grundlage. Der frei zugängliche GRCh-Kommentar von Silveira, Coelho, Costa und Cabral (2024) bietet eine Ressource, die diese Wissenslücke schließen kann. Ohne juristische Ausbildung bleibt die Grundrechteabwägung insgesamt kognitiv anspruchsvoll und erzeugt erhebliche Unsicherheit (→ Kapitel 9.1 zur Rollenüberlastung von DSB).
 
 Ein zentrales Hindernis liegt dabei im **Zero-Sum Bias**, einer kognitiven Verzerrung, die Meegan (2010) als Tendenz beschreibt, Situationen fälschlich als Nullsummenspiel wahrzunehmen. Verantwortliche nehmen Datenschutz und Geschäftsinteresse intuitiv als unvereinbar wahr: „Entweder wir analysieren Nutzerdaten oder wir schützen die Privatsphäre." Diese heuristische Erstreaktion entspricht System-1-Denken (→ Kapitel 2.2) und verhindert kreative Lösungen.
 
