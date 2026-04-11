@@ -119,7 +119,7 @@ Vertrauen in technische Schutzmaßnahmen erzeugt falschen Optimismus. Die mensch
 
 ## 2.2.2 Verfügbarkeitsheuristik und mediale Berichterstattung {#222-verfuegbarkeitsheuristik-und-mediale-berichterstattung}
 
-Die Verfügbarkeitsheuristik, erstmals von Tversky und Kahneman (1973) beschrieben, besagt: Wir schätzen die Wahrscheinlichkeit von Ereignissen danach ein, wie leicht uns Beispiele dafür einfallen. Im Datenschutz führt dies zu massiven Fehleinschätzungen.
+Die Verfügbarkeitsheuristik, erstmals von Tversky und Kahneman (1973) beschrieben, besagt: Wir schätzen die Wahrscheinlichkeit von Ereignissen danach ein, wie leicht uns Beispiele dafür einfallen. Im Datenschutz führt dies zu starken Fehleinschätzungen.
 
 **Mechanismen der Verfügbarkeitsheuristik**
 
@@ -360,7 +360,7 @@ Wenn Entscheidungen überfordern, gewinnen Voreinstellungen extreme Macht:
 
 **Default-Effekte bei Social-Media-Plattformen**: Analysen großer Nutzerpopulationen zeigen konsistent, dass die große Mehrheit der Nutzer Default-Einstellungen bei fast allen Optionen beibehält und erweiterte Einstellungen nie öffnet. Nur ein kleiner einstelliger Prozentsatz sieht sich alle verfügbaren Optionen an.
 
-**A/B-Tests: Opt-in vs. Opt-out** zeigen, dass die Default-Option das Nutzerverhalten um ein Vielfaches stärker bestimmt als die tatsächlichen Präferenzen. Johnson & Goldstein (2003) demonstrierten diesen Effekt eindrücklich: Identische Services mit unterschiedlichen Defaults erzeugen dramatisch unterschiedliche Nutzungsmuster.
+**A/B-Tests: Opt-in vs. Opt-out** zeigen, dass die Default-Option das Nutzerverhalten um ein Vielfaches stärker bestimmt als die tatsächlichen Präferenzen. Johnson & Goldstein (2003) demonstrierten diesen Effekt eindrücklich: Identische Services mit unterschiedlichen Defaults erzeugen deutlich unterschiedliche Nutzungsmuster.
 
 > **Infobox: Die Default-Formel**
 > P(Aktion) = P(Präferenz) × P(Überwindung der Trägheit)

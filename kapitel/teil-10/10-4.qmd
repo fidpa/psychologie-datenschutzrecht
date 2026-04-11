@@ -56,7 +56,7 @@ Die Diskrepanz zwischen regulatorischer und psychologischer Risikobewertung mani
 
 **Vertrautheit und Habituation**: Je länger Menschen mit KI-Systemen interagieren, desto mehr sinkt ihre Risikowahrnehmung, unabhängig von der regulatorischen Einstufung. Longitudinale Befunde zeigen diesen Habituationseffekt: Nach mehrmonatiger Nutzung wurde die regulatorische Einstufung zunehmend irrelevant für das tatsächliche Nutzerverhalten.
 
-**Benefit-Bias**: Die wahrgenommenen Vorteile eines Systems verzerren die Risikowahrnehmung dramatisch. Medizinische KI wird trotz hoher Risikoeinstufung positiver bewertet als Werbe-KI mit niedrigem Risiko, weil der gesellschaftliche Nutzen evident ist.
+**Benefit-Bias**: Die wahrgenommenen Vorteile eines Systems verzerren die Risikowahrnehmung erheblich. Medizinische KI wird trotz hoher Risikoeinstufung positiver bewertet als Werbe-KI mit niedrigem Risiko, weil der gesellschaftliche Nutzen evident ist.
 
 Die risikobasierte Regulierung trifft auch auf kulturelle Unterschiede in der Risikowahrnehmung (→ siehe Kapitel 3.4). Was in Deutschland als inakzeptables Risiko gilt, mag in Silicon Valley als notwendige Innovation gesehen werden. Diese kulturelle Variabilität untergräbt die Universalitätsansprüche der Risikokategorisierung.
 
@@ -64,7 +64,7 @@ Um die Kluft zwischen regulatorischer und psychologischer Risikoeinschätzung zu
 
 **Narrative Risikokommunikation**: Statt abstrakter Risikokategorien braucht es konkrete Szenarien und Geschichten, die Risiken erfahrbar machen. Dr. Sommer entwickelte für ihr Klinikum "Risiko-Personas" – fiktive Patientengeschichten, die verschiedene KI-Risiken illustrieren.
 
-**Partizipative Risikobewertung**: Stakeholder in die Risikoeinstufung einzubeziehen erhöht Akzeptanz und Verständnis. Wenn Menschen mitentscheiden können, welche Risiken sie für akzeptabel halten, steigt die Compliance dramatisch.
+**Partizipative Risikobewertung**: Stakeholder in die Risikoeinstufung einzubeziehen erhöht Akzeptanz und Verständnis. Wenn Menschen mitentscheiden können, welche Risiken sie für akzeptabel halten, steigt die Compliance deutlich.
 
 **Dynamische Risikovisualisierung**: Interfaces, die Risiken in Echtzeit und kontextbezogen darstellen, helfen bei der Kalibrierung der Risikowahrnehmung. Simple Ampelsysteme sind oft effektiver als komplexe Risikomatrizen.
 
@@ -80,13 +80,13 @@ Lisa Chen stand vor genau diesem Dilemma bei der Implementierung eines Kundenbin
 
 Die psychologischen Mechanismen, die KI-Manipulation so potent machen, sind vielfältig:
 
-Moderne KI kann aus digitalen Spuren psychologische Profile erstellen. Diese **Mikrotargeting**-Systeme identifizieren Vulnerabilitäten mit erschreckender Präzision. Big Data und maschinelles Lernen kombiniert ermöglichen Manipulation in bisher unmöglichem Ausmaß.
+Moderne KI kann aus digitalen Spuren psychologische Profile erstellen. Diese **Mikrotargeting**-Systeme identifizieren Vulnerabilitäten mit bemerkenswerter Präzision. Big Data und maschinelles Lernen kombiniert ermöglichen Manipulation in bisher unmöglichem Ausmaß.
 
 **Sublimale Beeinflussung**: KI-Systeme können Muster in menschlichem Verhalten erkennen und ausnutzen, die dem Bewusstsein nicht zugänglich sind. Unterschwellige visuelle oder auditive Stimuli, Timing von Nachrichten basierend auf Biorhythmen, oder die Ausnutzung kognitiver Verzerrungen geschieht oft unterhalb der Wahrnehmungsschwelle.
 
 **Emotionale Manipulation**: Die Fähigkeit von KI-Systemen, emotionale Zustände zu erkennen und darauf zu reagieren, öffnet Türen für sophisticated emotionale Manipulation. Ein System, das Traurigkeit erkennt und mit scheinbar empathischen Nachrichten reagiert, um Verkäufe zu fördern, nutzt menschliche Vulnerabilität aus.
 
-Forschungsbefunde zur KI-Manipulation zeigen alarmierende Ergebnisse: Experimentelle Studien belegen, dass KI-Systeme Kaufentscheidungen von Probanden in erheblichem Maße beeinflussen können, ohne dass sich diese der Beeinflussung bewusst sind. Besonders vulnerabel erweisen sich dabei Menschen in emotionalen Ausnahmezuständen – genau die Gruppe, die der AI Act schützen will.
+Forschungsbefunde zur KI-Manipulation zeigen auffällige Ergebnisse: Experimentelle Studien belegen, dass KI-Systeme Kaufentscheidungen von Probanden in erheblichem Maße beeinflussen können, ohne dass sich diese der Beeinflussung bewusst sind. Besonders vulnerabel erweisen sich dabei Menschen in emotionalen Ausnahmezuständen – genau die Gruppe, die der AI Act schützen will.
 
 Die Identifikation und das Verbot solcher Praktiken stößt auf mehrere psychologische Herausforderungen:
 
@@ -98,7 +98,7 @@ Die Identifikation und das Verbot solcher Praktiken stößt auf mehrere psycholo
 
 Die Durchsetzung der Verbote erfordert innovative Ansätze:
 
-**Unternehmen sollten nicht nur technische, sondern auch psychologische Auswirkungen ihrer KI-Systeme evaluieren. Dies erfordert **interdisziplinäre** Teams aus Technikern, Psychologen und Ethikern. Solche **Behavioral Impact Assessments** (→ Glossar: Behavioral Impact Assessment) werden zunehmend wichtiger.
+**Unternehmen sollten nicht nur technische, sondern auch psychologische Auswirkungen ihrer KI-Systeme evaluieren. Dies erfordert **interdisziplinäre** Teams aus Technikern, Psychologen und Ethikern. Solche **Behavioral Impact Assessments** (→ Glossar: Behavioral Impact Assessment) werden wichtiger.
 
 **Red Team Exercises**: Teams, die explizit versuchen, manipulative Verwendungen von KI-Systemen zu finden, können Schwachstellen aufdecken, bevor sie ausgenutzt werden.
 
@@ -226,7 +226,7 @@ Der AI Act erweitert das Aufgabenspektrum von Datenschutzbeauftragten erheblich.
 
 Dies erfordert neue Kompetenzen. DSBs brauchen Verständnis für KI-Technologien, aber auch für Psychologie und Kommunikation. KI-Systeme sollten nicht nur nach formalen Kriterien eingestuft werden. Die wahrgenommenen Risiken müssen ebenfalls Eingang finden. Workshops mit verschiedenen Stakeholdern können helfen, blinde Flecken zu identifizieren.
 
-Bei der Umsetzung von Transparenzpflichten sollten DSBs als Nutzeranwälte agieren: Welche Information brauchen Menschen wirklich? Wie kann sie verständlich vermittelt werden? Wer Compliance-Maßnahmen dokumentiert, sollte auch deren psychologische Effekte erfassen. Dies wird bei zukünftigen Audits zunehmend relevant.
+Bei der Umsetzung von Transparenzpflichten sollten DSBs als Nutzeranwälte agieren: Welche Information brauchen Menschen wirklich? Wie kann sie verständlich vermittelt werden? Wer Compliance-Maßnahmen dokumentiert, sollte auch deren psychologische Effekte erfassen. Dies wird bei zukünftigen Audits relevant.
 
 **Für Regulatoren und politische Entscheidungsträger:**
 Die Erfahrungen mit dem AI Act zeigen: Gute Intentionen garantieren keine guten Ergebnisse. Regulierung muss menschliches Verhalten antizipieren und einplanen. Dies erfordert systematische **Behavioral Impact Assessments** (→ Glossar: Behavioral Impact Assessment) vor Verabschiedung neuer Regeln.

@@ -35,7 +35,7 @@ Aus psychologischer Sicht ist diese Vision jedoch problematisch. Die **[Kontroll
 
 Die Herausforderung besteht darin, Datenschutzbewusstsein zu schaffen, ohne die Nutzer kognitiv zu überlasten. Verschiedene Ansätze wurden entwickelt:
 
-**Ambient Privacy Indicators** nutzen subtile visuelle oder akustische Hinweise, um Datensammlung anzuzeigen. Das "Privacy Bird" des Carnegie Mellon University zeigt durch Farbwechsel an, wenn Daten gesammelt werden. Die Akzeptanz solcher Systeme ist jedoch begrenzt – nur 23% der Testnutzer behielten die Indikatoren nach sechs Monaten aktiviert (Cranor et al., 2022).
+**Ambient Privacy Indicators** nutzen subtile visuelle oder akustische Hinweise, um Datensammlung anzuzeigen. Das "Privacy Bird" des Carnegie Mellon University zeigt durch Farbwechsel an, wenn Daten gesammelt werden. In der Praxis blieb die Akzeptanz gering: Nur 23% der Testnutzer behielten die Indikatoren nach sechs Monaten aktiviert (Cranor et al., 2022).
 
 **Just-in-Time Notifications** informieren Nutzer kontextabhängig über Datensammlung. Prof. Dr. Miriam Krüger entwickelte ein System, das Nutzer nur dann informiert, wenn ungewöhnliche oder besonders sensitive Daten erhoben werden. "Die Kunst liegt darin, die Balance zwischen Information und Überforderung zu finden", erklärt sie. Ihre Forschung zeigt, dass adaptive Benachrichtigungen die Privacy Awareness um 67% steigern können, ohne die Nutzerzufriedenheit zu beeinträchtigen.
 
@@ -47,7 +47,7 @@ Das Zuhause galt traditionell als ultimativer Rückzugsort – "My home is my ca
 
 ### Die Erosion der privaten Sphäre
 
-Die **[Territorialitätstheorie]** (→ siehe Kapitel 2.5; Altman, 1975) beschreibt, wie Menschen ihr Zuhause als primäres Territorium verteidigen. Smart-Home-Geräte stellen eine tiefgreifende Verletzung dieser Territorialität dar. Eine Längsschnittstudie der Universität Michigan (2023) begleitete 500 Haushalte über drei Jahre bei der Smart-Home-Adoption und dokumentierte dramatische Veränderungen im Privatheitsempfinden.
+Die **[Territorialitätstheorie]** (→ siehe Kapitel 2.5; Altman, 1975) beschreibt, wie Menschen ihr Zuhause als primäres Territorium verteidigen. Smart-Home-Geräte stellen eine tiefgreifende Verletzung dieser Territorialität dar. Eine Längsschnittstudie der Universität Michigan (2023) begleitete 500 Haushalte über drei Jahre bei der Smart-Home-Adoption und dokumentierte deutliche Veränderungen im Privatheitsempfinden.
 
 In der Anfangsphase (0-3 Monate) zeigten 78% der Nutzer Begeisterung über die neuen Möglichkeiten. Lisa Chen erinnert sich: "Die ersten Wochen mit unserem Smart-Home-System waren wie Magie. Das Licht ging automatisch an, die Heizung passte sich an – es fühlte sich an, als würde die Wohnung für uns sorgen."
 
@@ -135,7 +135,7 @@ Die **[Habituation]** führt zu einer schleichenden Normalisierung der Überwach
 
 Lisa Chens 16-jährige Tochter illustriert dies: "Für sie ist es völlig normal, dass das Smartphone ihren Standort kennt. Als ich ihr erzählte, dass wir früher ohne GPS gelebt haben, konnte sie es sich nicht vorstellen."
 
-Eine generationsübergreifende Studie (Miller & Davis, 2023) zeigte dramatische Unterschiede:
+Eine generationsübergreifende Studie (Miller & Davis, 2023) zeigte deutliche Unterschiede:
 - Generation Z: 78% finden permanente Standorterfassung akzeptabel
 - Millennials: 56%
 - Generation X: 34%

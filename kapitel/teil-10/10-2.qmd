@@ -17,7 +17,7 @@ Die Herausforderung ist struktureller Natur: Moderne KI-Systeme, insbesondere **
 
 ## 10.2.1 Was bedeutet "Verstehen" im KI-Kontext? {#10-2-1-was-bedeutet-verstehen-im-ki-kontext}
 
-Verstehen ist kein binärer Zustand, sondern ein Kontinuum mit multiplen Dimensionen. Die kognitive Psychologie unterscheidet verschiedene Ebenen des Verstehens, die im Kontext von KI-Erklärungen relevant werden. Diese Differenzierung ist essentiell, denn was Entwickler als "Erklärung" präsentieren und was Nutzer als "Verstehen" erleben, klaffen oft dramatisch auseinander.
+Verstehen ist kein binärer Zustand, sondern ein Kontinuum mit multiplen Dimensionen. Die kognitive Psychologie unterscheidet verschiedene Ebenen des Verstehens, die im Kontext von KI-Erklärungen relevant werden. Diese Differenzierung ist essentiell, denn was Entwickler als "Erklärung" präsentieren und was Nutzer als "Verstehen" erleben, klaffen oft weit auseinander.
 
 Felix Hartmann erlebte diese Diskrepanz hautnah: "Ich präsentierte unserem Vorstand eine detaillierte SHAP-Analyse unseres Betrugerkennungsmodells. Farbkodierte Feature-Importance, Wasserfalldiagramme, sogar interaktive Visualisierungen. Nach 45 Minuten fragte der CEO: 'Aber woher weiß das System, dass das Betrug ist?' Ich realisierte: Wir reden völlig aneinander vorbei."
 
@@ -43,7 +43,7 @@ Dass technische Transparenz allein nicht genügt, hat inzwischen auch der EuGH b
 
 Psychologisch stützt dieses Urteil die im Kapitel vertretene These: Der EuGH verlangt implizit genau das, was die Forschung als funktionales und teleologisches Verstehen beschreibt — nicht die technischen Details des Algorithmus, sondern eine Erklärung, die Betroffene tatsächlich in die Lage versetzt, die Entscheidung nachzuvollziehen und anzufechten. Erklärbarkeit ist kein technisches, sondern ein menschliches Problem.
 
-Die **[Theory of Mind]** spielt eine besondere Rolle beim Verstehen von KI-Systemen. Menschen neigen dazu, intentionale Standpunkte einzunehmen – sie attribuieren dem System Absichten, Überzeugungen und Wünsche. Diese **[Anthropomorphisierung]** (→ siehe Kapitel 10.1) kann Verstehen erleichtern, führt aber auch zu groben Missverständnissen über die Natur algorithmischer Entscheidungen.
+Die **[Theory of Mind]** erklärt, warum Menschen KI-Systemen Intentionen zuschreiben. Menschen neigen dazu, intentionale Standpunkte einzunehmen – sie attribuieren dem System Absichten, Überzeugungen und Wünsche. Diese **[Anthropomorphisierung]** (→ siehe Kapitel 10.1) kann Verstehen erleichtern, führt aber auch zu groben Missverständnissen über die Natur algorithmischer Entscheidungen.
 
 Erfolgreiche Ansätze zur Förderung echten Verstehens umfassen:
 
@@ -102,7 +102,7 @@ Die optimale Erklärungstiefe variiert mit mehreren Faktoren:
 
 **Entscheidungskontext**: Hochrisiko-Entscheidungen erfordern tiefere Erklärungen als Routine-Entscheidungen. Die Herausforderung liegt in der dynamischen Anpassung der Erklärungstiefe.
 
-**Zeitdruck**: Unter Zeitdruck sinkt die Verarbeitungskapazität dramatisch. Erklärungen müssen sich anpassen – von detailliert in ruhigen Momenten zu essentiell unter Stress.
+**Zeitdruck**: Unter Zeitdruck sinkt die Verarbeitungskapazität stark. Erklärungen müssen sich anpassen – von detailliert in ruhigen Momenten zu essentiell unter Stress.
 
 Erfolgreiche Strategien zur Balancierung von Tiefe und Verständlichkeit:
 
@@ -158,7 +158,7 @@ Erfolgreiche Visualisierungsstrategien basieren auf psychologischen Prinzipien:
 
 **Uncertainty Visualization**: Die Darstellung von Unsicherheit ist kritisch, aber herausfordernd. Error Bars werden oft missverstanden, Confidence Intervals ignoriert. Innovative Ansätze wie "Sketchy Rendering" (je unsicherer, desto "skizzenhafter" die Darstellung) zeigen Potenzial.
 
-**Narrative Visualisierung**: Die Einbettung von Visualisierungen in eine Geschichte erhöht Verständnis und Retention dramatisch. Statt statischer Diagramme können animierte "Erklärgeschichten" den Entscheidungsprozess nachvollziehbar machen.
+**Narrative Visualisierung**: Die Einbettung von Visualisierungen in eine Geschichte erhöht Verständnis und Retention deutlich. Statt statischer Diagramme können animierte "Erklärgeschichten" den Entscheidungsprozess nachvollziehbar machen.
 
 ## 10.2.4 Counterfactual Explanations und mentale Modelle {#10-2-4-counterfactual-explanations-und-mentale-modelle}
 
@@ -235,7 +235,7 @@ Prof. Krüger's Forschung zur Bias-Kommunikation zeigt verschiedene Strategien u
 
 **Narrative Erklärungen**: Geschichten über die Bemühungen, Bias zu reduzieren, erhöhen wahrgenommene Fairness um 47%, auch ohne technische Verbesserungen.
 
-**Partizipative Bias-Definition**: Betroffene Gruppen in die Definition von Fairness einzubeziehen erhöht die Akzeptanz dramatisch (78% vs. 34% bei Top-Down-Ansätzen).
+**Partizipative Bias-Definition**: Betroffene Gruppen in die Definition von Fairness einzubeziehen erhöht die Akzeptanz deutlich (78% vs. 34% bei Top-Down-Ansätzen).
 
 **Trade-off-Transparenz**: Das explizite Diskutieren unvermeidbarer Trade-offs zwischen verschiedenen Fairness-Definitionen erhöht Verständnis für die Komplexität und reduziert simplistische Bias-Vorwürfe.
 

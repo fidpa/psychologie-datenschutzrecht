@@ -148,11 +148,11 @@ Ein vielversprechender Trend ist die Kombination von Progressive Disclosure mit 
 
 ## 13.1.4 A/B-Testing und Datenschutz {#13-1-4-a-b-testing-und-datenschutz}
 
-**[A/B-Testing]** ist das Rückgrat moderner digitaler Produktentwicklung. Unternehmen testen kontinuierlich verschiedene Versionen ihrer Interfaces, um Conversion-Raten zu optimieren, Nutzererfahrungen zu verbessern und Geschäftsziele zu erreichen. Doch diese datengetriebene Optimierungskultur kollidiert zunehmend mit Datenschutzanforderungen und ethischen Überlegungen.
+**[A/B-Testing]** ist das Rückgrat moderner digitaler Produktentwicklung. Unternehmen testen kontinuierlich verschiedene Versionen ihrer Interfaces, um Conversion-Raten zu optimieren, Nutzererfahrungen zu verbessern und Geschäftsziele zu erreichen. Doch diese datengetriebene Optimierungskultur kollidiert mit Datenschutzanforderungen und ethischen Überlegungen.
 
 Prof. Dr. Miriam Krüger hat dieses Spannungsfeld intensiv erforscht: "A/B-Testing ist ein mächtiges Werkzeug für evidenzbasierte Produktentwicklung. Aber die Grenze zwischen legitimer Optimierung und manipulativer Experimentierung ist oft verschwommen. Der berühmte Facebook-Emotions-Skandal von 2014 war ein Weckruf für die Branche."
 
-Der Fall ist lehrreich: Facebook manipulierte die News Feeds von 689.003 Nutzern, um zu sehen, ob das Zeigen von mehr positiven oder negativen Posts deren Emotionen beeinflussen würde. Obwohl der Effekt klein war, löste das Experiment massive ethische Debatten aus. Die Nutzer hatten technisch zugestimmt - irgendwo in den Nutzungsbedingungen -, aber niemand wusste von diesem spezifischen Experiment.
+Der Fall ist lehrreich: Facebook manipulierte die News Feeds von 689.003 Nutzern, um zu sehen, ob das Zeigen von mehr positiven oder negativen Posts deren Emotionen beeinflussen würde. Obwohl der Effekt klein war, löste das Experiment umfangreiche ethische Debatten aus. Die Nutzer hatten technisch zugestimmt - irgendwo in den Nutzungsbedingungen -, aber niemand wusste von diesem spezifischen Experiment.
 
 Felix Hartmann reflektiert über seine eigenen Erfahrungen: "Wir haben jahrelang A/B-Tests durchgeführt, ohne groß darüber nachzudenken. Button-Farben, Text-Varianten, Feature-Platzierungen - alles wurde getestet. Erst als wir anfingen, Preise zu testen und unterschiedlichen Nutzern verschiedene Preise anzuzeigen, wurde uns die ethische Dimension bewusst."
 
@@ -188,7 +188,7 @@ Die Integration von A/B-Testing in **[Privacy by Design]** erfordert ein Umdenke
 
 Ein vielversprechender Ansatz ist "Ethical A/B Testing as a Service", bei dem unabhängige Dritte Tests durchführen und nur aggregierte, anonymisierte Ergebnisse an Unternehmen weitergeben. Das reduziert Interessenkonflikte und ermöglicht höhere ethische Standards.
 
-Die Zukunft des A/B-Testings im Datenschutzkontext liegt wahrscheinlich in einer Kombination aus technischen Innovationen, ethischen Frameworks und regulatorischer Klarheit. Unternehmen, die proaktiv ethische Standards implementieren, gewinnen einen Wettbewerbsvorteil – nicht trotz, sondern wegen ihrer Datenschutzpraktiken.
+Die Zukunft des A/B-Testings im Datenschutzkontext liegt wahrscheinlich in einer Kombination aus technischen Innovationen, ethischen Frameworks und regulatorischer Klarheit. Unternehmen, die frühzeitig ethische Standards implementieren, gewinnen einen Wettbewerbsvorteil – nicht trotz, sondern wegen ihrer Datenschutzpraktiken.
 
 **Weiterführende Kapitel:** → 13.2
 

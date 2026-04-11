@@ -29,7 +29,7 @@ LLMs erzeugen zudem die Illusion einer konsistenten Persönlichkeit über Intera
 
 Felix Hartmann erlebte diese **Anthropomorphisierung** in seiner eigenen Arbeit: "Ich nutze GitHub Copilot für die Programmierung. Manchmal ertappe ich mich dabei, wie ich 'Danke' in die Kommentare schreibe, wenn es eine besonders elegante Lösung vorschlägt. Rational weiß ich, dass es nur Mustererkennung ist. Aber emotional fühlt es sich wie Zusammenarbeit an."
 
-Die **Anthropomorphisierung** von LLMs hat gravierende Konsequenzen für den Datenschutz. Menschen teilen mehr persönliche Informationen mit Systemen, die sie als empathisch und verständnisvoll wahrnehmen. Forschung zu Mensch-KI-Interaktion (vgl. Lucas et al., 2014; Nass & Moon, 2000) legt nahe, dass Nutzer deutlich mehr sensible Informationen mit anthropomorphisierten Chatbots teilen als mit offensichtlich maschinellen Interfaces. Die parasoziale Beziehung senkt die Datenschutz-Wachsamkeit erheblich.
+Die **Anthropomorphisierung** von LLMs hat erhebliche Konsequenzen für den Datenschutz. Menschen teilen mehr persönliche Informationen mit Systemen, die sie als empathisch und verständnisvoll wahrnehmen. Forschung zu Mensch-KI-Interaktion (vgl. Lucas et al., 2014; Nass & Moon, 2000) legt nahe, dass Nutzer deutlich mehr sensible Informationen mit anthropomorphisierten Chatbots teilen als mit offensichtlich maschinellen Interfaces. Die parasoziale Beziehung senkt die Datenschutz-Wachsamkeit erheblich.
 
 Die emotionale Verbindung zu anthropomorphisierten Systemen reduziert kritisches Hinterfragen. Nutzer akzeptieren Datenschutzbedingungen bereitwilliger. Sie ignorieren Warnhinweise und rationalisieren riskantes Sharing-Verhalten.
 
@@ -93,7 +93,7 @@ LLMs befinden sich meist im dritten Bereich – kompetent genug für übermäßi
 
 Dr. Annika Sommer implementierte Strategien gegen Halluzinationen in ihrem Klinikum: "Wir nutzen LLMs für administrative Aufgaben, aber mit strikten Protokollen. Jede faktische Aussage muss verifiziert werden. Interessanterweise führte das zu einem positiven Nebeneffekt – Mitarbeiter entwickelten generell bessere Faktencheck-Gewohnheiten."
 
-Die psychologischen Konsequenzen von Halluzinationen sind gravierend:
+Die psychologischen Konsequenzen von Halluzinationen sind erheblich:
 
 **Epistemische Vigilanz-Ermüdung**: Die ständige Notwendigkeit, LLM-Outputs zu verifizieren, erschöpft kognitive Ressourcen. Menschen verfallen in zwei dysfunktionale Muster: blindes Vertrauen oder komplette Ablehnung.
 
@@ -187,7 +187,7 @@ Entwickler sollten auch Tools schaffen, die gesunde Mensch-KI-Interaktion förde
 
 LLMs zu implementieren ist eine organisationspsychologische Herausforderung ersten Ranges. Lisa Chens Erfahrungen mit Datenlecks und Vertrauensproblemen sind lehrreich. Unternehmen müssen klare Policies für LLM-Nutzung entwickeln. Diese sollten psychologische Realitäten berücksichtigen.
 
-Mitarbeiter brauchen nicht nur technische Schulungen. Sie benötigen auch psychologische Vorbereitung auf die Arbeit mit menschenähnlichen KI-Systemen. Besonders kritisch ist der Umgang mit der Versuchung, menschliche Interaktion durch KI-Systeme zu ersetzen. Die Kosteneinsparungen mögen verlockend sein. Die langfristigen psychologischen und sozialen Kosten könnten jedoch verheerend sein.
+Mitarbeiter brauchen nicht nur technische Schulungen. Sie benötigen auch psychologische Vorbereitung auf die Arbeit mit menschenähnlichen KI-Systemen. Besonders kritisch ist der Umgang mit der Versuchung, menschliche Interaktion durch KI-Systeme zu ersetzen. Die Kosteneinsparungen mögen verlockend sein. Die langfristigen psychologischen und sozialen Kosten könnten jedoch erheblich sein.
 
 Unternehmen sollten auch Monitoring-Systeme für die psychologische Gesundheit ihrer Mitarbeiter etablieren. Diese sollten den Kontext von KI-Nutzung einbeziehen.
 
@@ -248,7 +248,7 @@ Die Lösung dieser Herausforderungen erfordert die systematische Anwendung der i
 > **Die wichtigsten Erkenntnisse dieses Kapitels:**
 >
 > - **Anthropomorphisierung** von LLMs ist evolutionär bedingt und führt zu erhöhter Selbstoffenbarung und parasozialen Beziehungen
-> - **Datenschutz-Herausforderungen** sind gravierend: Trainingsdaten können reproduziert werden, das Recht auf Vergessenwerden kollidiert mit der LLM-Architektur
+> - **Datenschutz-Herausforderungen** sind erheblich: Trainingsdaten können reproduziert werden, das Recht auf Vergessenwerden kollidiert mit der LLM-Architektur
 > - **Halluzinationen** sind psychologisch gefährlich, da sie hohe sprachliche Flüssigkeit mit faktischer Inkorrektheit kombinieren
 > - **Menschenähnliche KI-Systeme** beeinflussen Selbstkonzept, Kreativität und Empathie-Kalibrierung
 > - **Prompt Injection** und **KI-gestütztes Social Engineering** ermöglichen Manipulation in bisher unbekanntem Ausmaß
