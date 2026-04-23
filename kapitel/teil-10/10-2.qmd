@@ -39,7 +39,7 @@ Prof. Krüger dokumentierte dieses Phänomen in einer Studie mit 500 Probanden: 
 
 ### Wenn das Recht Verstehen fordert: EuGH zur algorithmischen Transparenz
 
-Dass technische Transparenz allein nicht genügt, hat inzwischen auch der EuGH bestätigt. In einer Grundsatzentscheidung vom Februar 2025 (Rs. C-203/22, CK v Magistrat der Stadt Wien) konkretisierte das Gericht erstmals, was Art. 15(1)(h) DSGVO unter „aussagekräftiger Information über die involvierte Logik" versteht. Die bloße Mitteilung einer „komplexen mathematischen Formel" reicht nicht aus. Verantwortliche müssen die tatsächlich angewandten Verfahren und Prinzipien vollständig erklären. Geschäftsgeheimnisse rechtfertigen keine pauschale Verweigerung — im Zweifelsfall entscheiden Aufsichtsbehörde oder Gericht.
+Dass technische Transparenz allein nicht genügt, hat inzwischen auch der EuGH bestätigt. In einer Grundsatzentscheidung vom 27. Februar 2025 (Rs. C-203/22, CK v Magistrat der Stadt Wien und Dun & Bradstreet Austria) konkretisierte das Gericht erstmals, was Art. 15(1)(h) DSGVO unter „aussagekräftiger Information über die involvierte Logik" versteht. Die bloße Mitteilung einer „komplexen mathematischen Formel" reicht nicht aus. Verantwortliche müssen die tatsächlich angewandten Verfahren und Prinzipien vollständig erklären. Geschäftsgeheimnisse rechtfertigen keine pauschale Verweigerung — im Zweifelsfall entscheiden Aufsichtsbehörde oder Gericht.
 
 Psychologisch stützt dieses Urteil die im Kapitel vertretene These: Der EuGH verlangt implizit genau das, was die Forschung als funktionales und teleologisches Verstehen beschreibt — nicht die technischen Details des Algorithmus, sondern eine Erklärung, die Betroffene tatsächlich in die Lage versetzt, die Entscheidung nachzuvollziehen und anzufechten. Erklärbarkeit ist kein technisches, sondern ein menschliches Problem.
 
@@ -126,7 +126,7 @@ Die Herausforderungen bei der Visualisierung von KI-Entscheidungen sind vielfäl
 
 **Gestaltgesetze und Fehlinterpretationen**: Die Gestaltpsychologie zeigt, wie visuelle Elemente gruppiert und interpretiert werden. Unbeabsichtigte Gruppierungen oder Betonungen können Fehlinterpretationen fördern.
 
-Empirische Studien zur Wirksamkeit verschiedener Visualisierungsansätze zeigen gemischte Ergebnisse:
+Empirische Studien zur Wirksamkeit verschiedener Visualisierungsansätze (Lage et al., 2019; Poursabzi-Sangdeh et al., 2021; Wang et al., 2019) zeigen gemischte Ergebnisse:
 
 **Feature Importance Visualisierungen** (Balkendiagramme, die die Wichtigkeit verschiedener Eingabevariablen zeigen):
 - Vorteile: Einfach zu verstehen, klare Hierarchie
@@ -154,7 +154,7 @@ Erfolgreiche Visualisierungsstrategien basieren auf psychologischen Prinzipien:
 
 **Konsistenz mit mentalen Modellen**: Visualisierungen sollten existierende mentale Modelle nutzen, nicht dagegen arbeiten. Eine "Rezept"-Metapher für KI-Entscheidungen (Zutaten → Verarbeitung → Ergebnis) resoniert besser als abstrakte Netzwerkdiagramme.
 
-**Fokus und Kontext**: Das Visual Information-Seeking Mantra "Overview first, zoom and filter, then details-on-demand" (Shneiderman, 1996) gilt auch für KI-Erklärungen.
+**Fokus und Kontext**: Shneidermans (1996) Visual Information-Seeking-Prinzip — zunächst Überblick, dann Zoom und Filter, schließlich Details auf Anforderung — gilt auch für KI-Erklärungen.
 
 **Uncertainty Visualization**: Die Darstellung von Unsicherheit ist kritisch, aber herausfordernd. Error Bars werden oft missverstanden, Confidence Intervals ignoriert. Innovative Ansätze wie "Sketchy Rendering" (je unsicherer, desto "skizzenhafter" die Darstellung) zeigen Potenzial.
 

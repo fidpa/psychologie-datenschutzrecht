@@ -38,15 +38,15 @@ Miriam selbst erkennt dieses Muster in ihrer eigenen Forschungspraxis. Neugier u
 
 **Gewissenhaftigkeit (Conscientiousness)**
 
-Gewissenhafte Menschen sind organisiert, diszipliniert und vorausschauend. Dies zeigt sich deutlich im Datenschutzverhalten: Gewissenhaftigkeit gehört zu den stärksten Prädiktoren für proaktives Schutzverhalten. Gewissenhafte Nutzer verwenden häufiger Passwort-Manager, lesen eher Datenschutzerklärungen und führen regelmäßiger Privacy-Audits ihrer Accounts durch. Felix Hartmann verkörpert dieses Profil: Sein systematisches Vorgehen bei Datenschutzfragen ist nicht allein Berufspflicht — es entspricht einer Grundhaltung, die sich durch alle Lebensbereiche zieht.
+Gewissenhafte Menschen sind organisiert, diszipliniert und vorausschauend. Dies zeigt sich deutlich im Datenschutzverhalten: Gewissenhaftigkeit gehört zu den stärksten Prädiktoren für proaktives Schutzverhalten (Junglas et al., 2008). Gewissenhafte Nutzer verwenden häufiger Passwort-Manager, lesen eher Datenschutzerklärungen und führen regelmäßiger Privacy-Audits ihrer Accounts durch. Felix Hartmann verkörpert dieses Profil: Sein systematisches Vorgehen bei Datenschutzfragen ist nicht allein Berufspflicht — es entspricht einer Grundhaltung, die sich durch alle Lebensbereiche zieht.
 
 **Extraversion**
 
-Extravertierte sind gesellig, durchsetzungsstark und suchen soziale Stimulation. Ihr Datenschutzverhalten ist oft problematisch: Extraversion korreliert mit einer höheren Anzahl von Social-Media-Profilen, mehr öffentlichen Beiträgen und geringerer Nutzung von Privacy-Einstellungen. Die Zusammenhänge zeigen sich annähernd linear — je extravertierter eine Person, desto weniger Schutzmaßnahmen ergreift sie tendenziell. Extraversion gilt als einer der stärksten Prädiktoren für Oversharing, nicht aus Gedankenlosigkeit, sondern weil sozialer Austausch als selbstverständlich erlebt wird und Privatheitsgrenzen dabei in den Hintergrund treten.
+Extravertierte sind gesellig, durchsetzungsstark und suchen soziale Stimulation. Ihr Datenschutzverhalten ist oft problematisch: Extraversion korreliert mit einer höheren Anzahl von Social-Media-Profilen, mehr öffentlichen Beiträgen und geringerer Nutzung von Privacy-Einstellungen (Amichai-Hamburger & Vinitzky, 2010). Die Zusammenhänge zeigen sich annähernd linear — je extravertierter eine Person, desto weniger Schutzmaßnahmen ergreift sie tendenziell. Extraversion gilt als einer der stärksten Prädiktoren für Oversharing, nicht aus Gedankenlosigkeit, sondern weil sozialer Austausch als selbstverständlich erlebt wird und Privatheitsgrenzen dabei in den Hintergrund treten.
 
 **Verträglichkeit (Agreeableness)**
 
-Verträgliche Menschen sind kooperativ, vertrauensvoll und hilfsbereit. Diese Grundhaltung macht sie digital anfällig: Hochverträgliche Personen fallen häufiger auf **[Social Engineering]** herein als Menschen mit niedriger Verträglichkeit, weil der Wunsch nach sozialer Harmonie kritisches Hinterfragen erschwert. Sie teilen eher Zugangsdaten "um zu helfen" und akzeptieren häufiger unbekannte Kontaktanfragen.
+Verträgliche Menschen sind kooperativ, vertrauensvoll und hilfsbereit. Diese Grundhaltung macht sie digital anfällig: Die Big-Five-Forschung legt nahe, dass hohe Verträglichkeit — insbesondere in Kombination mit niedriger Gewissenhaftigkeit — die Anfälligkeit für **[Social Engineering]** erhöhen kann, weil der Wunsch nach sozialer Harmonie kritisches Hinterfragen erschwert (Halevi et al., 2013). Sie teilen eher Zugangsdaten "um zu helfen" und akzeptieren häufiger unbekannte Kontaktanfragen.
 
 > **Infobox: Das Verträglichkeits-Paradox**
 > Hohe Verträglichkeit ist sozial erwünscht, aber digital gefährlich. Verträgliche Menschen bauen positive Online-Interaktionen auf und stärken Communitys — dieselbe Eigenschaft macht sie aber anfällig für Manipulation durch Betrüger, Oversharing und Phishing-Versuche. Der Ausweg liegt nicht darin, das Grundvertrauen zu zerstören, sondern "gesunde Skepsis" als erlernbare Kompetenz zu trainieren — ohne die soziale Stärke dieser Persönlichkeitsdimension zu untergraben.
@@ -80,7 +80,7 @@ Marvin Zuckermans Konzept des **[Sensation Seeking]** beschreibt das Bedürfnis 
 
 **Domain-spezifische Risikotoleranz**
 
-Risikotoleranz ist nicht generell, sondern bereichsspezifisch. Adaptiert man das Konzept der Domain-Specific Risk-Taking Scale (DOSPERT) für den Datenschutzkontext, zeigt sich ein aufschlussreiches Muster: Die Toleranz für Datenrisiken variiert stark nach Datenkategorie. Finanzielle und Gesundheitsdaten genießen meist hohen Schutz, soziale Daten werden deutlich bereitwilliger preisgegeben, bei Standort- und biometrischen Daten zeigt sich ein mittleres bis polarisiertes Bild. Diese bereichsspezifischen Unterschiede erklären, warum dieselbe Person bei Instagram großzügig teilt, aber bei ihrer Banking-App jede Berechtigung ablehnt.
+Risikotoleranz ist nicht generell, sondern bereichsspezifisch. Adaptiert man das Konzept der Domain-Specific Risk-Taking Scale (DOSPERT; Weber, Blais & Betz, 2002) für den Datenschutzkontext, zeigt sich ein aufschlussreiches Muster: Die Toleranz für Datenrisiken variiert stark nach Datenkategorie. Finanzielle und Gesundheitsdaten genießen meist hohen Schutz, soziale Daten werden deutlich bereitwilliger preisgegeben, bei Standort- und biometrischen Daten zeigt sich ein mittleres bis polarisiertes Bild. Diese bereichsspezifischen Unterschiede erklären, warum dieselbe Person bei Instagram großzügig teilt, aber bei ihrer Banking-App jede Berechtigung ablehnt.
 
 **Entwicklung über die Lebensspanne**
 
@@ -105,7 +105,7 @@ Konkret zeigt sich dies in charakteristischen Interaktionsmustern. Extravertiert
 
 **Die Dunning-Kruger-Falle im Datenschutz**
 
-Ein besonderes Problem entsteht durch die systematische Überschätzung eigener Fähigkeiten bei niedriger tatsächlicher Kompetenz. Das Phänomen zeigt sich auch im Datenschutz: Personen mit sehr niedriger digitaler Kompetenz überschätzen ihre Fähigkeiten systematisch und zeigen gleichzeitig hohes Privacy-Risikoverhalten. Erst ab mittlerer Kompetenz wird die Selbsteinschätzung realistischer; hohe Kompetenz geht mit angemessener Einschätzung und niedrigerem Risikoverhalten einher. Die gefährlichste Gruppe sind niedrig Kompetente mit hoher Selbsteinschätzung — sie ergreifen keine Schutzmaßnahmen, weil sie keinen Bedarf sehen.
+Ein besonderes Problem entsteht durch die systematische Überschätzung eigener Fähigkeiten bei niedriger tatsächlicher Kompetenz (Kruger & Dunning, 1999). Das Phänomen zeigt sich auch im Datenschutz: Personen mit sehr niedriger digitaler Kompetenz überschätzen ihre Fähigkeiten systematisch und zeigen gleichzeitig hohes Privacy-Risikoverhalten. Erst ab mittlerer Kompetenz wird die Selbsteinschätzung realistischer; hohe Kompetenz geht mit angemessener Einschätzung und niedrigerem Risikoverhalten einher. Die gefährlichste Gruppe sind niedrig Kompetente mit hoher Selbsteinschätzung — sie ergreifen keine Schutzmaßnahmen, weil sie keinen Bedarf sehen.
 
 **Kompetenzentwicklung und Persönlichkeit**
 
@@ -121,7 +121,7 @@ Persönlichkeit entfaltet sich nicht im Vakuum. Kulturelle und demografische Kon
 
 **Kulturelle Dimensionen des Datenschutzes**
 
-Geert Hofstedes Kulturdimensionen bieten einen konzeptionellen Rahmen zum Verständnis kultureller Datenschutzunterschiede. Entlang der Dimension Individualismus versus Kollektivismus zeigt sich, dass individualistisch geprägte Gesellschaften den Fokus auf persönliche Privatheit legen, ein hohes Misstrauen gegenüber Gruppen-Sharing zeigen und besonders sensibel für individuelle Rechte sind. Kollektivistisch geprägte Kulturen dagegen gewichten Familien- und Gruppenprivatheit höher, akzeptieren Gruppen-Datenzugriff leichter und orientieren Privatheitserwartungen stärker am sozialen Kontext. Kulturvergleichende Perspektiven — wie sie Westin (1967) und Nissenbaum (2009) aus unterschiedlichen Blickwinkeln entwickeln — bestätigen diese Grundtendenz, warnen aber vor Verallgemeinerungen: Individuelle Varianz innerhalb von Kulturen übersteigt oft die Unterschiede zwischen ihnen.
+Geert Hofstedes (2001) Kulturdimensionen bieten einen konzeptionellen Rahmen zum Verständnis kultureller Datenschutzunterschiede. Entlang der Dimension Individualismus versus Kollektivismus zeigt sich, dass individualistisch geprägte Gesellschaften den Fokus auf persönliche Privatheit legen, ein hohes Misstrauen gegenüber Gruppen-Sharing zeigen und besonders sensibel für individuelle Rechte sind. Kollektivistisch geprägte Kulturen dagegen gewichten Familien- und Gruppenprivatheit höher, akzeptieren Gruppen-Datenzugriff leichter und orientieren Privatheitserwartungen stärker am sozialen Kontext. Kulturvergleichende Perspektiven — wie sie Westin (1967) und Nissenbaum (2009) aus unterschiedlichen Blickwinkeln entwickeln — bestätigen diese Grundtendenz, warnen aber vor Verallgemeinerungen: Individuelle Varianz innerhalb von Kulturen übersteigt oft die Unterschiede zwischen ihnen.
 
 Entlang der Dimension Machtdistanz zeigt sich, dass Gesellschaften mit hoher Machtdistanz staatliche und unternehmerische Überwachung eher akzeptieren, während Gesellschaften mit niedriger Machtdistanz Transparenz und Kontrolle einfordern. Für die Unsicherheitsvermeidung gilt: Gesellschaften mit ausgeprägter Vermeidungstendenz — Deutschland gehört dazu — entwickeln starke Datenschutzpräferenzen, einen Drang nach klaren Regeln und erheblichen Widerstand gegen intransparente Datenverarbeitung. Das erklärt, warum das europäische Datenschutzrecht in seiner Regelungsdichte und Systematik kulturell keineswegs selbstverständlich ist, sondern einen spezifischen kulturellen Ausdruck kollektiver Unsicherheitsvermeidung darstellt — eine Erkenntnis, die für internationale Verhandlungen über Datenschutzstandards unterschätzt wird.
 
@@ -137,7 +137,7 @@ Demografische Merkmale überlagern und modulieren Persönlichkeitseffekte auf da
 
 Kohorteneffekte überlagern Persönlichkeitswirkungen zusätzlich: Jüngere Nutzer, die mit sozialen Netzwerken aufgewachsen sind, erleben extensives Sharing als soziale Norm, sodass Extraversion bei ihnen zu noch ausgeprägterer Offenlegung führt als bei älteren Kohorten. Ältere Kohorten zeigen dagegen, dass Gewissenhaftigkeit mit zunehmender Lebenserfahrung zu vorsichtigem, strukturiertem Umgang mit digitalen Diensten führt.
 
-Bildung moderiert Persönlichkeitseffekte erheblich: Bei niedrigem Bildungsniveau dominiert die Persönlichkeit das Datenschutzverhalten, während der Einfluss erworbener Kompetenz gering bleibt. Mit steigendem Bildungsniveau kehrt sich das Verhältnis um — Kompetenz gewinnt an Erklärungskraft. Dies verweist auf das Konzept des "Privacy Privilege": Informierter Datenschutz ist für ressourcenstarke Gruppen leichter zugänglich, was Datenschutzrecht vor eine Frage der sozialen Gerechtigkeit stellt.
+Bildung moderiert Persönlichkeitseffekte erheblich: Bei niedrigem Bildungsniveau dominiert die Persönlichkeit das Datenschutzverhalten, während der Einfluss erworbener Kompetenz gering bleibt. Mit steigendem Bildungsniveau kehrt sich das Verhältnis um — Kompetenz gewinnt an Erklärungskraft. Dies verweist auf das Konzept des "Privacy Privilege" (Marwick & boyd, 2018): Informierter Datenschutz ist für ressourcenstarke Gruppen leichter zugänglich, was Datenschutzrecht vor eine Frage der sozialen Gerechtigkeit stellt.
 
 **Migration und bikulturelle Identitäten**
 
@@ -172,12 +172,23 @@ Das nächste Kapitel wird zeigen, wie diese individuellen Unterschiede in sozial
 ## Quellenangaben für Kapitel 2.4
 
 ### Persönlichkeit und digitales Verhalten
+- Amichai-Hamburger, Y., & Vinitzky, G. (2010): Social network use and personality. *Computers in Human Behavior*, 26(6), 1289-1295.
+- Junglas, I. A., Johnson, N. A., & Spitzmüller, C. (2008): Personality traits and concern for privacy: An empirical study in the context of location-based services. *European Journal of Information Systems*, 17(4), 387-402.
 - Kosinski, M., Stillwell, D., & Graepel, T. (2013): Private traits and attributes are predictable from digital records of human behavior. *Proceedings of the National Academy of Sciences*, 110(15), 5802-5805.
 
+### Social Engineering und Phishing
+- Halevi, T., Lewis, J., & Memon, N. (2013): *Phishing, personality traits and Facebook* [arXiv preprint arXiv:1301.7643].
+
 ### Risikotoleranz und Sensation Seeking
+- Weber, E. U., Blais, A.-R., & Betz, N. E. (2002): A domain-specific risk-attitude scale: Measuring risk perceptions and risk behaviors. *Journal of Behavioral Decision Making*, 15(4), 263-290.
 - Zuckerman, M. (1994): *Behavioral Expressions and Biosocial Bases of Sensation Seeking*. Cambridge University Press.
 
+### Digitale Kompetenz und Selbsteinschätzung
+- Kruger, J., & Dunning, D. (1999): Unskilled and unaware of it: How difficulties in recognizing one's own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+
 ### Kulturelle Dimensionen und Privacy
+- Hofstede, G. (2001): *Culture's Consequences: Comparing Values, Behaviors, Institutions, and Organizations Across Nations* (2nd ed.). Sage Publications.
+- Marwick, A. E., & boyd, d. (2018): Privacy at the margins — Understanding privacy at the margins: Introduction. *International Journal of Communication*, 12, 1157-1165.
 - Nissenbaum, H. (2009): *Privacy in Context: Technology, Policy, and the Integrity of Social Life*. Stanford University Press.
 - Westin, A. F. (1967): *Privacy and Freedom*. Atheneum Publishers.
 

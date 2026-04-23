@@ -62,11 +62,7 @@ Studien zur Risikowahrnehmung zeigen konsistente Optimismus-Bias-Muster:
 Die Diskrepanz ist frappierend und konsistent über alle Risikotypen (Weinstein, 1980).
 
 **Verhalten nach Datenschutzvorfällen:**
-Longitudinalstudien zeigen typische Optimismus-Bias-Muster:
-- Unmittelbar nach Vorfall: ~78% verschärfen Sicherheitsmaßnahmen
-- Nach 3 Monaten: Rückkehr auf ursprüngliches oder höheres Risikoniveau
-- Nach 6 Monaten: Oftmals sorgloser als vor dem Vorfall
-- Erklärung: "Das war Pech, jetzt bin ich wieder sicher" (Optimismus-Bias kehrt zurück)
+Nach dem Cambridge-Analytica-Skandal 2018 zeigte eine repräsentative Pew-Erhebung unter US-Facebook-Nutzern, dass 54% ihre Datenschutzeinstellungen anpassten, 42% eine längere Pause von der Plattform einlegten und 26% die App vom Smartphone löschten; insgesamt unternahmen 74% mindestens eine dieser Schutz-Reaktionen (Pew Research Center, 2018). Longitudinaldaten zeigen jedoch ein rapides Decay-Muster: Die anfangs erhöhte Sensibilität klingt binnen Wochen ab, die Rückkehr zum ursprünglichen Nutzungsverhalten setzt üblicherweise nach wenigen Monaten ein. Die typische Erklärung der Betroffenen: „Das war Pech, jetzt bin ich wieder sicher" — der Optimismus-Bias kehrt zurück.
 
 > **Infobox: Die Optimismus-Bias-Formel**
 > Subjektives Risiko = Objektives Risiko × (1 - Optimismus-Faktor)
@@ -81,17 +77,12 @@ Longitudinalstudien zeigen typische Optimismus-Bias-Muster:
 
 Nicht alle Menschen zeigen gleich starken Optimismus-Bias:
 
-**Kontrollillusion verstärkt den Bias**:
-- "Ich nutze einen Mac, die sind sicherer" (+23% Optimismus)
-- "Ich habe eine Antivirus-Software" (+31% Optimismus)
-- "Ich bin technisch versiert" (+28% Optimismus)
+**Kontrollillusion verstärkt den Bias**: Vermeintliche Schutzmaßnahmen (z.B. die Wahl eines bestimmten Betriebssystems, installierte Antivirus-Software, selbsteingeschätzte technische Versiertheit) führen paradoxerweise zu erhöhtem Optimismus bezüglich Datenschutzrisiken (Rhee, Ryu & Kim, 2005, 2012). Oft unzureichende Schutzmaßnahmen werden als ausreichend interpretiert und erzeugen Sorglosigkeit.
 
-Paradoxerweise führen (oft unzureichende) Schutzmaßnahmen zu mehr Sorglosigkeit.
-
-**Direkte Erfahrung schwächt den Bias – temporär**:
-- Opfer von Identitätsdiebstahl: -45% Optimismus (für 2-4 Monate)
-- Bekannte als Opfer: -12% Optimismus (für 2-3 Wochen)
-- Medienberichte: -3% Optimismus (für 2-3 Tage)
+**Direkte Erfahrung schwächt den Bias — temporär**:
+- Opfer von Identitätsdiebstahl: deutliche, mehrmonatige Reduktion des Optimismus
+- Bekannte als Opfer: mäßige, wochenlange Reduktion
+- Medienberichte: kurze, wenige Tage dauernde Wirkung
 
 Die Nähe der Erfahrung bestimmt die Wirkung.
 
@@ -143,23 +134,10 @@ Mehrere Faktoren beeinflussen, wie leicht wir uns erinnern:
 **Empirische Studien zur Verfügbarkeitsheuristik**
 
 **Verfügbarkeitsheuristik bei großen Datenskandalen:**
-Empirische Beobachtungen zeigen klassische Verfügbarkeitskurven bei Datenschutz-Ereignissen:
-
-- Baseline: 14% aktive Privacy-Einstellungen
-- Höhepunkt der Berichterstattung: 67% Anpassungen
-- 1 Monat später: 31%
-- 6 Monate später: 17%
-- 1 Jahr später: 15%
-
-Die Grafik zeigt eine klassische Verfügbarkeitskurve: Spitze während medialer Präsenz, rapider Abfall danach.
+Die Reaktionen auf Datenschutz-Ereignisse folgen einem klassischen Verfügbarkeitskurvenmuster: eine Spitze während medialer Präsenz mit deutlich erhöhten Anpassungsraten, gefolgt von einem rapiden Abfall, sobald die Berichterstattung nachlässt. Innerhalb weniger Monate nähert sich das Verhalten wieder dem Baseline-Niveau an.
 
 **Emotionale vs. statistische Information:**
-Experimentelle Studien zur Verfügbarkeitsheuristik zeigen:
-- Statistische Information über Datenmissbrauch: Moderate Risikoeinschätzung (~5.2)
-- Emotionale Einzelfall-Geschichten: Hohe Risikoeinschätzung (~8.7)  
-- Kontrollgruppe (keine Information): Niedrige Risikoeinschätzung (~4.1)
-
-Emotionale Geschichten sind bis zu 68% wirksamer als Statistiken bei der Risikowahrnehmung (klassische Verfügbarkeitsheuristik nach Tversky & Kahneman, 1973).
+Experimentelle Studien zum Identifiable-Victim-Effekt zeigen konsistent: Emotionale Einzelfall-Geschichten erzeugen deutlich höhere Risikoeinschätzungen und stärkere Handlungsreaktionen als aggregierte Statistiken über dasselbe Phänomen (Small, Loewenstein & Slovic, 2007; Slovic, 2007). Das Phänomen des „psychic numbing" beschreibt, dass sich die Empathie mit wachsender Opferzahl paradoxerweise verringert — eine einzige identifizierbare Person bewegt stärker als eine anonyme Masse.
 
 > **Infobox: Die Datenschutz-Aufmerksamkeits-Kurve**
 > Mediale Großereignisse folgen einem vorhersagbaren Muster:
@@ -223,31 +201,11 @@ Amos Tversky und Daniel Kahneman demonstrierten 1974 die Robustheit des Anchorin
 
 **Empirische Evidenz für Anchoring im Datenschutz**
 
-**Experiment 1: Preis der Privatsphäre** (Acquisti et al., 2013)
-Studierende wurden gefragt, für welchen Betrag sie ihre Browsing-Historie verkaufen würden:
+Acquisti, John und Loewenstein (2013) demonstrierten in Feldexperimenten, dass Probanden den Wert ihrer persönlichen Daten stark kontextabhängig bewerten. Ob sie gefragt werden, wie viel sie für die Offenlegung fordern oder wie viel sie für den Schutz zahlen würden, ändert den genannten Betrag um ein Vielfaches, und die Reihenfolge verschiedener Preisanker beeinflusst nachfolgende Schätzungen systematisch.
 
-- Gruppe A: "Würden Sie Ihre Daten für 100€ verkaufen?" → Dann: "Für wieviel?"
-- Gruppe B: "Würden Sie Ihre Daten für 10€ verkaufen?" → Dann: "Für wieviel?"
-- Gruppe C: Keine Vorgabe, direkte Preisnennung
+Almuhimedi et al. (2015) zeigten in einer Feldstudie mit App-Berechtigungs-Nudges, dass allein die Sichtbarmachung der tatsächlichen Datenzugriffe 95% der Nutzer zur Überprüfung ihrer Berechtigungen veranlasste und 58% Berechtigungen einschränkten. Die Nudges setzten dabei implizite Anker: Wer erfährt, wie oft seine Daten geteilt werden, rekalibriert seine Erwartung, was „normal" ist.
 
-Ergebnisse:
-- Gruppe A: Durchschnittspreis 73€
-- Gruppe B: Durchschnittspreis 28€
-- Gruppe C: Durchschnittspreis 41€
-
-Der Anker beeinflusste die Bewertung um bis zu 260%.
-
-**Experiment 2: Datenschutz-Einstellungen** (Almuhimedi et al., 2015)
-App-Berechtigungen mit verschiedenen Ankern:
-
-Szenario: "Diese App benötigt Zugriff auf X Funktionen"
-- Niedriger Anker: "Vergleichbare Apps nutzen durchschnittlich 3 Berechtigungen"
-- Hoher Anker: "Vergleichbare Apps nutzen durchschnittlich 15 Berechtigungen"
-
-Akzeptanz von 8 Berechtigungen:
-- Niedriger Anker: 23% Akzeptanz
-- Hoher Anker: 81% Akzeptanz
-- Kontrollgruppe: 52% Akzeptanz
+Beide Studien belegen: Der Kontext, in dem Datenschutzentscheidungen getroffen werden, beeinflusst sie massiv. Anker sind nur einer von mehreren kontextuellen Hebeln.
 
 > **Infobox: Anchoring-Formel im Datenschutz**
 > Finale Einschätzung = Anker + α × (wahre Präferenz - Anker)
@@ -303,12 +261,11 @@ Option C macht Option A attraktiver, ein klassischer Anker-Trick.
 
 **Anchoring in Datenschutzerklärungen**
 
-Analyse von 500 Datenschutzerklärungen (Chen & Williams, 2023) zeigt systematische Anker:
+Datenschutzerklärungen folgen typischen Anker-Mustern, die die Wahrnehmung des Folgenden positiv prägen:
 
 **Positive Anker zu Beginn**:
-- 89% starten mit "Ihr Datenschutz ist uns wichtig"
-- 76% betonen "Minimal notwendige Daten"
-- 82% verwenden "Sicherheit" in den ersten drei Sätzen
+- Einstiegsformulierungen wie „Ihr Datenschutz ist uns wichtig"
+- Betonungen wie „Minimal notwendige Daten" oder „Sicherheit" in den ersten Sätzen
 
 Diese positiven Anker färben die Wahrnehmung des Folgenden.
 
@@ -391,14 +348,14 @@ Erfolgreiche Ansätze zur Komplexitätsreduktion:
 **1. Progressive Disclosure**:
 - Start: 3-5 Kernentscheidungen
 - Optional: Erweiterte Einstellungen
-- Studien zeigen deutlich höhere Anpassungsraten gegenüber vollständig exponierten Einstellungen
+- Schrittweise Offenlegung reduziert kognitive Last und kann Anpassungsraten erhöhen
 
 **2. Privacy Profiles**:
 - "Maximaler Schutz" (1 Klick)
 - "Balanced" (1 Klick)
 - "Volle Funktionalität" (1 Klick)
 - "Individuell anpassen"
-- Studien zeigen, dass die Mehrheit der Nutzer vordefinierte Profile wählt
+- Vordefinierte Profile nutzen den Default-Effekt konstruktiv: Nutzer wählen sie häufiger als individuelle Einstellungen
 
 **3. Sensible Defaults mit Kontext**:
 - Standort aus, außer bei Navigations-Apps
@@ -498,6 +455,10 @@ Das nächste Kapitel taucht ein in die emotionale Dimension des Datenschutzes. W
 - Sharot, T., Korn, C. W., & Dolan, R. J. (2011): How unrealistic optimism is maintained in the face of reality. *Nature Neuroscience*, 14(11), 1475-1479.
 - Sharot, T., Riccardi, A. M., Raio, C. M., & Phelps, E. A. (2007): Neural mechanisms mediating optimism bias. *Nature*, 450(7166), 102-105.
 
+### Optimismus-Bias im Informationssicherheits-Kontext
+- Rhee, H.-S., Ryu, Y. U., & Kim, C.-T. (2005): I am fine but you are not: Optimistic bias and illusion of control on information security. *ICIS 2005 Proceedings*, 381.
+- Rhee, H.-S., Ryu, Y. U., & Kim, C.-T. (2012): Unrealistic optimism on information security management. *Computers & Security*, 31(2), 221–232. https://doi.org/10.1016/j.cose.2011.12.001
+
 ### Datenschutzverhalten und Entscheidungsforschung
 - Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015): Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
 - Acquisti, A., John, L. K., & Loewenstein, G. (2013): What is privacy worth? *The Journal of Legal Studies*, 42(2), 249-274.
@@ -510,7 +471,10 @@ Das nächste Kapitel taucht ein in die emotionale Dimension des Datenschutzes. W
 - Schwartz, B. (2004): *The Paradox of Choice: Why More Is Less*. Harper Perennial.
 
 ### Medienpsychologie und Risikowahrnehmung
+- Pew Research Center (2018): *Americans are changing their relationship with Facebook*. https://www.pewresearch.org/short-reads/2018/09/05/americans-are-changing-their-relationship-with-facebook/
 - Slovic, P. (2000): *The Perception of Risk*. Earthscan Publications.
+- Slovic, P. (2007): "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79-95.
+- Small, D. A., Loewenstein, G., & Slovic, P. (2007): Sympathy and callousness: The impact of deliberative thought on donations to identifiable and statistical victims. *Organizational Behavior and Human Decision Processes*, 102(2), 143-153.
 - Sunstein, C. R. (2002): Risk and Reason: Safety, Law, and the Environment. Cambridge University Press.
 - Zillmann, D. (2006): Exemplification effects in the promotion of safety and health. *Journal of Communication*, 56(suppl_1), S221-S237.
 
@@ -518,3 +482,7 @@ Das nächste Kapitel taucht ein in die emotionale Dimension des Datenschutzes. W
 - Ariely, D. (2008): *Predictably Irrational*. HarperCollins.
 - Thaler, R. H., & Sunstein, C. R. (2008): *Nudge: Improving Decisions About Health, Wealth, and Happiness*. Yale University Press.
 - Gilovich, T., Griffin, D., & Kahneman, D. (Eds.) (2002): *Heuristics and Biases: The Psychology of Intuitive Judgment*. Cambridge University Press.
+
+### Zero-Sum-Bias und soziale Wahrnehmung
+- Meegan, D. V. (2010): Zero-sum bias: Perceived competition despite unlimited resources. *Frontiers in Psychology*, 1, 191. https://doi.org/10.3389/fpsyg.2010.00191
+- Różycka-Tran, J., Boski, P., & Wojciszke, B. (2015): Belief in a zero-sum game as a social axiom: A 37-nation study. *Journal of Cross-Cultural Psychology*, 46(4), 525–548. https://doi.org/10.1177/0022022115572226

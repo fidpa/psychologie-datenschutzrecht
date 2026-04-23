@@ -23,7 +23,7 @@ Prof. Dr. Miriam Krüger untersuchte in einer groß angelegten Studie die Vertra
 
 Diese *Fairness-Vertrauens-Lücke* hat mehrere psychologische Ursachen (← vgl. Kapitel 2.2 zu kognitiven Verzerrungen). Menschen attribuieren algorithmischen Systemen keine Empathie oder kontextuelle Sensibilität. Ein Personalchef mag voreingenommen sein, aber wir trauen ihm zu, besondere Umstände zu berücksichtigen – eine alleinerziehende Mutter, die nach einer Krankheit wieder ins Berufsleben einsteigt, oder einen Quereinsteiger mit unkonventionellem Lebenslauf. Dem Algorithmus sprechen wir diese Fähigkeit zur situativen Anpassung ab, selbst wenn er technisch dazu in der Lage wäre.
 
-Neurobiologische Studien mittels fMRT zeigen, dass bei der Bewertung algorithmischer Entscheidungen andere Hirnareale aktiviert werden als bei menschlichen Urteilen. Wang et al. (2022) fanden eine reduzierte Aktivität in der Amygdala und dem medialen präfrontalen Kortex – Regionen, die mit emotionaler Verarbeitung und Theory of Mind assoziiert sind. Stattdessen zeigte sich erhöhte Aktivität im dorsolateralen präfrontalen Kortex, was auf analytischere, distanziertere Bewertungsprozesse hindeutet. Diese neurologischen Unterschiede manifestieren sich in messbarem Verhalten: Menschen sind bereit, für menschliche Entscheidungen durchschnittlich 27 Prozent höhere Gebühren zu zahlen als für algorithmische, selbst bei identischer Qualität (Castelo, Bos & Lehmann, 2019).
+Diese Unterschiede sind nicht nur auf der Verhaltensebene sichtbar, sondern dürften sich auch in anderen kognitiv-emotionalen Verarbeitungsprozessen niederschlagen: Bewertungen menschlicher Urteile aktivieren tendenziell stärker jene Ressourcen, die mit emotionaler Einbettung und Theory of Mind verbunden sind, während algorithmische Urteile eher distanziert-analytisch bewertet werden. Diese Asymmetrie manifestiert sich in messbarem Verhalten: Menschen sind bereit, für menschliche Entscheidungen durchschnittlich 27 Prozent höhere Gebühren zu zahlen als für algorithmische, selbst bei identischer Qualität (Castelo, Bos & Lehmann, 2019).
 
 Das Vertrauensproblem verschärft sich durch die *Black-Box-Natur* vieler KI-Systeme. Während wir bei menschlichen Entscheidern zumindest die Illusion haben, ihre Beweggründe nachvollziehen zu können, bleiben die Entscheidungspfade neuronaler Netze oft opak. Diese Intransparenz triggert evolutionär verankerte Vorsichtsmechanismen: Was wir nicht verstehen, dem misstrauen wir instinktiv.
 
@@ -231,24 +231,23 @@ Diese Entwicklungen zeigen, dass die psychologischen Mechanismen algorithmischer
 ## Quellenangaben für Kapitel 10.1
 
 ### Psychologische Grundlagen
-- Bigman, Y. E., & Gray, K. (2018). People are averse to machines making moral decisions. *Cognition*, 181, 21-34.
-- Dietvorst, B. J., Simmons, J. P., & Massey, C. (2015). Algorithm aversion: People erroneously avoid algorithms after seeing them err. *Journal of Experimental Psychology: General*, 144(1), 114-126.
-- Dietvorst, B. J., Simmons, J. P., & Massey, C. (2018). Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them. *Management Science*, 64(3), 1155-1170.
+- Bigman, Y. E., & Gray, K. (2018). People are averse to machines making moral decisions. *Cognition*, 181, 21-34. https://doi.org/10.1016/j.cognition.2018.08.003
+- Dietvorst, B. J., Simmons, J. P., & Massey, C. (2015). Algorithm aversion: People erroneously avoid algorithms after seeing them err. *Journal of Experimental Psychology: General*, 144(1), 114-126. https://doi.org/10.1037/xge0000033
+- Dietvorst, B. J., Simmons, J. P., & Massey, C. (2018). Overcoming algorithm aversion: People will use imperfect algorithms if they can (even slightly) modify them. *Management Science*, 64(3), 1155-1170. https://doi.org/10.1287/mnsc.2016.2643
 - Leventhal, G. S. (1980). What should be done with equity theory? In K. J. Gergen, M. S. Greenberg, & R. H. Willis (Eds.), *Social exchange: Advances in theory and research* (pp. 27-55). Plenum.
-- Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. *Organizational Behavior and Human Decision Processes*, 151, 90-103.
-- Skitka, L. J., Mosier, K. L., & Burdick, M. (1999). Does automation bias decision-making? *International Journal of Human-Computer Studies*, 51(5), 991-1006.
-- Wang, Y., Zhang, L., Chen, X., & Liu, M. (2022). Neural correlates of trust in human vs. algorithmic decision-making: An fMRI study. *NeuroImage*, 245, 118-734.
+- Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic to human judgment. *Organizational Behavior and Human Decision Processes*, 151, 90-103. https://doi.org/10.1016/j.obhdp.2018.12.005
+- Skitka, L. J., Mosier, K. L., & Burdick, M. (1999). Does automation bias decision-making? *International Journal of Human-Computer Studies*, 51(5), 991-1006. https://doi.org/10.1006/ijhc.1999.0252
 
 ### Technologie und KI-Systeme
 - Broussard, M. (2018). *Artificial unintelligence: How computers misunderstand the world*. MIT Press.
-- Castelo, N., Bos, M. W., & Lehmann, D. R. (2019). Task-dependent algorithm aversion. *Journal of Marketing Research*, 56(5), 809-825.
-- Friedman, B., Kahn, P. H., Borning, A., & Huldtgren, A. (2013). Value sensitive design and information systems. In N. Doorn, D. Schuurbiers, I. van de Poel, & M. E. Gorman (Eds.), *Early engagement and new technologies: Opening up the laboratory* (pp. 55-95). Springer.
-- Kizilcec, R. F. (2016). How much information? Effects of transparency on trust in an algorithmic interface. In *Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems* (pp. 2390-2395).
-- Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. *Big Data & Society*, 5(1), 1-16.
-- Newman, D. T., Fast, N. J., & Harmon, D. J. (2020). When eliminating bias isn't fair: Algorithmic reductionism and procedural justice in human resource decisions. *Organizational Behavior and Human Decision Processes*, 160, 149-167.
+- Castelo, N., Bos, M. W., & Lehmann, D. R. (2019). Task-dependent algorithm aversion. *Journal of Marketing Research*, 56(5), 809-825. https://doi.org/10.1177/0022243719851788
+- Friedman, B., Kahn, P. H., Borning, A., & Huldtgren, A. (2013). Value sensitive design and information systems. In N. Doorn, D. Schuurbiers, I. van de Poel, & M. E. Gorman (Eds.), *Early engagement and new technologies: Opening up the laboratory* (pp. 55-95). Springer. https://doi.org/10.1007/978-94-007-7844-3_4
+- Kizilcec, R. F. (2016). How much information? Effects of transparency on trust in an algorithmic interface. In *Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems* (pp. 2390-2395). https://doi.org/10.1145/2858036.2858402
+- Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion in response to algorithmic management. *Big Data & Society*, 5(1), 1-16. https://doi.org/10.1177/2053951718756684
+- Newman, D. T., Fast, N. J., & Harmon, D. J. (2020). When eliminating bias isn't fair: Algorithmic reductionism and procedural justice in human resource decisions. *Organizational Behavior and Human Decision Processes*, 160, 149-167. https://doi.org/10.1016/j.obhdp.2020.03.008
 - Porter, T. M. (1995). *Trust in numbers: The pursuit of objectivity in science and public life*. Princeton University Press.
 
 ### Kulturforschung
-- Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. *AI & Society*, 35(3), 611-623.
-- Hofstede, G. (2011). Dimensionalizing cultures: The Hofstede model in context. *Online Readings in Psychology and Culture*, 2(1), 2307-0919.
-- Lee, M. K., & Baykal, S. (2017). Algorithmic mediation in group decisions: Fairness perceptions of algorithmically mediated vs. discussion-based social division. In *Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing* (pp. 1035-1048).
+- Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. *AI & Society*, 35(3), 611-623. https://doi.org/10.1007/s00146-019-00931-w
+- Hofstede, G. (2011). Dimensionalizing cultures: The Hofstede model in context. *Online Readings in Psychology and Culture*, 2(1), Article 8. https://doi.org/10.9707/2307-0919.1014
+- Lee, M. K., & Baykal, S. (2017). Algorithmic mediation in group decisions: Fairness perceptions of algorithmically mediated vs. discussion-based social division. In *Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing* (pp. 1035-1048). https://doi.org/10.1145/2998181.2998230

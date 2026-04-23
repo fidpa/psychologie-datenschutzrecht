@@ -109,7 +109,7 @@ Felix hatte in seinem Startup lange auf gehashte Nutzer-IDs gesetzt. Bis er beme
 
 Wer ein Pseudonym vergibt, wer es empfängt und wer den Schlüssel hält: Für die juristische Bewertung macht das seit September 2025 einen entscheidenden Unterschied.
 
-Der EuGH hat in einer Grundsatzentscheidung (Rs. C-413/23 P, SRB v EDPS) die Bewertung der Pseudonymisierung verschoben. Pseudonymisierte Daten sind demnach nicht automatisch für jeden Beteiligten personenbezogene Daten. Entscheidend ist die Perspektive des konkreten Akteurs: Wer den Schlüssel zur Re-Identifikation besitzt, verarbeitet personenbezogene Daten. Wer keinen Zugang zum Schlüssel hat und ihn mit vernünftigem Aufwand nicht erlangen kann, verarbeitet möglicherweise keine personenbezogenen Daten im Sinne der DSGVO.
+Der EuGH hat in einer Grundsatzentscheidung (Rs. C-413/23 P, EDPS v SRB, Urteil vom 04.09.2025) die Bewertung der Pseudonymisierung verschoben. Pseudonymisierte Daten sind demnach nicht automatisch für jeden Beteiligten personenbezogene Daten. Entscheidend ist die Perspektive des konkreten Akteurs: Wer den Schlüssel zur Re-Identifikation besitzt, verarbeitet personenbezogene Daten. Wer keinen Zugang zum Schlüssel hat und ihn mit vernünftigem Aufwand nicht erlangen kann, verarbeitet möglicherweise keine personenbezogenen Daten im Sinne der DSGVO.
 
 Psychologisch spiegelt diese Unterscheidung die im Kapitel beschriebene Erkenntnis wider, dass Anonymitätserleben kontextabhängig ist. Dieselben Daten können für verschiedene Akteure unterschiedliche Schutzqualität haben — eine juristische Formalisierung dessen, was Menschen intuitiv erleben, wenn sie sich in der Masse anonym fühlen, obwohl der Plattformbetreiber sie jederzeit identifizieren könnte.
 
@@ -160,7 +160,7 @@ Unter Anonymität verhalten Menschen sich anders — das ist empirisch gut beleg
 
 ### Der Online-Disinhibition-Effect
 
-John Sulers klassische Theorie (2004) unterscheidet benigne und toxische Disinhibition. Meta-Analysen (Postmes & Spears, 1998) bestätigen, dass Anonymität beide Formen deutlich verstärkt:
+John Suler (2004) unterscheidet in seiner klassischen Theorie benigne und toxische Disinhibition. Meta-Analysen (Postmes & Spears, 1998) bestätigen, dass Anonymität beide Formen deutlich verstärkt:
 
 **Benigne Disinhibition** zeigt sich in erhöhter Selbstoffenbarung (ehrliche Ratschläge in Foren), verstärktem Hilfeverhalten (Peer-Support-Gruppen), gesteigerter Kreativität und mehr emotionaler Unterstützung in therapeutischer Kommunikation.
 

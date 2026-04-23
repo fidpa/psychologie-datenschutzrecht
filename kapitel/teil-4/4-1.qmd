@@ -38,50 +38,34 @@ Die rechtlichen Anforderungen sind entsprechend anspruchsvoll. **Freiwilligkeit*
 
 Demgegenüber steht die empirisch belegte Realität menschlicher Informationsverarbeitung:
 
-**Empirische Befunde zum Einwilligungsverhalten** (Eye-Tracking und Verständnistests):
+**Empirische Befunde zum Einwilligungsverhalten.** Die NameDrop-Vignettenstudie von Obar und Oeldorf-Hirsch (2020) zeigt: 74 % der Teilnehmenden übersprangen die Datenschutzerklärung vollständig; 97 % stimmten ihr dennoch zu. 98 % übersahen eingebaute „Gotcha"-Klauseln über Datenweitergabe an Geheimdienste und Arbeitgeber. Die vergleichende Analyse von 150 Datenschutzerklärungen populärer Websites durch Litman-Navarro (2019) fand eine durchschnittliche Lesezeit von 18 Minuten bei College-Niveau-Anforderung an die Lesefähigkeit. Reidenberg et al. (2015) dokumentieren systematische Diskrepanzen zwischen dem, was Datenschutzerklärungen sagen, und dem, was Nutzer verstehen — selbst bei expertenbesetzten Testgruppen.
 
-| Rechtliche Erwartung | Beobachtete Realität | Gap |
-|---------------------|---------------------|-----|
-| Vollständiges Lesen | 3,2% lesen alles | 96,8% |
-| Verstehen der Zwecke | 17% verstehen korrekt | 83% |
-| Bewusste Entscheidung | 8% deliberativ | 92% |
-| Erinnerung nach 1 Woche | 4% erinnern Details | 96% |
-
-Die Diskrepanz ist bemerkenswert.
+Die Diskrepanz zwischen rechtlicher Erwartung und beobachteter Realität ist bemerkenswert.
 
 **Kognitive Überlastung im Detail**
 
-Die **Informationsmenge** überfordert systematisch. Eine durchschnittliche Datenschutzerklärung umfasst 2024 bereits 4.837 Wörter mit einer Lesezeit von 19 Minuten. Der Flesch-Reading-Ease-Score liegt bei 27 (sehr schwer), mit 89 Fachbegriffen und 23 Gesetzesverweisen im Durchschnitt. Bei mehr als 30 Einwilligungen täglich würde die theoretische Lesezeit 9,5 Stunden betragen, die kognitive Verarbeitungszeit sogar über 14 Stunden. Verfügbar sind jedoch nur Sekunden.
+Die **Informationsmenge** überfordert systematisch. Litman-Navarro (2019) analysierte 150 Datenschutzerklärungen und fand: durchschnittliche Lesezeit 18 Minuten, College-Niveau-Lesefähigkeit erforderlich; manche Texte — darunter die Erklärungen von Zoom, CNN und Hulu — sind schwerer zu lesen als Kants *Kritik der reinen Vernunft*. Bereits McDonald und Cranor (2008) extrapolierten, dass das vollständige Lesen aller angetroffenen Datenschutzerklärungen pro Jahr 201 bis 304 Stunden pro Nutzer in Anspruch nehmen würde. Verfügbar sind im Einwilligungsmoment jedoch nur Sekunden.
 
 Die **Entscheidungskomplexität** vervielfacht das Problem. Jede Einwilligung erfordert multiple Entscheidungen: Welche Daten werden erhoben, für welche Zwecke und wer erhält Zugriff? Wie lange erfolgt die Speicherung, welche Risiken bestehen und gibt es Alternativen? Diese Fragenkaskade übersteigt die Kapazität des **[Arbeitsgedächtnisses]** bei weitem (→ siehe Kapitel 2.2).
 
 > **Infobox: Die Einwilligungs-Explosion**
-> **Tägliche Einwilligungsanfragen (EU-Durchschnitt 2024):**
-> - Cookie-Banner: 42
-> - App-Updates: 5
-> - Neue Services: 8  
-> - Account-Änderungen: 4
-> - Newsletter/Marketing: 12
-> - Sonstige: 15
-> **Gesamt: ~86 pro Tag**
-> 
-> **Zeit für informierte Entscheidung: 5 Min/Einwilligung**
-> **Benötigte Zeit: 430 Minuten (7,2 Stunden)**
-> **Tatsächlich investiert: <5 Minuten**
+> **Nach McDonald und Cranor (2008, S. 560 f.)** würde das vollständige Lesen der angetroffenen Datenschutzerklärungen jeden Nutzer etwa 40 Minuten pro Tag kosten — hochgerechnet 201 bis 304 Stunden pro Jahr.
+> Schätzungen aus der Cookie-Consent-Forschung (Nouwens et al., 2020; Utz et al., 2019) zeigen, dass Nutzer im europäischen Netz pro Tag Dutzende Einwilligungsanfragen begegnen.
+> **Tatsächlich für Einwilligungen investierte Zeit:** im Sekundenbereich.
 
 **Die Psychologie des Klick-Automatismus**
 
 Nach durchschnittlich fünf bis sieben Einwilligungen setzt ein psychologischer Mechanismus ein. **Habituation** lässt den Stimulus der Einwilligungsanfrage seine Neuheit verlieren. Eine automatische Reaktion entwickelt sich, während **[System 1]** die Kontrolle übernimmt und bewusste Verarbeitung stoppt.
 
-**Entscheidungsmüdigkeit** verstärkt diesen Effekt. Roy Baumeisters Forschung zeigt, dass Selbstkontrolle eine endliche Ressource ist. Jede Entscheidung verbraucht Energie, Erschöpfung führt zu Defaults und die Qualität der Entscheidungen sinkt rapide.
+**Entscheidungsmüdigkeit** verstärkt diesen Effekt. Roy Baumeisters Forschung zum **Ego Depletion** (Baumeister, Bratslavsky, Muraven & Tice, 1998) zeigt, dass Selbstkontrolle eine endliche Ressource ist. Jede Entscheidung verbraucht Energie, Erschöpfung begünstigt Defaults, und die Qualität der Entscheidungen sinkt.
 
 **Learned Helplessness** vollendet den Teufelskreis. Nutzer denken "Es ändert sich eh nichts", "Ich habe keine echte Wahl" oder "Die machen sowieso was sie wollen". Die Aufgabe aller Kontrollversuche ist die logische Folge.
 
 **Das Freiwilligkeits-Paradox**
 
-Die rechtlich geforderte Freiwilligkeit kollidiert mit digitalen Realitäten. Das **"Take it or leave it"**-Prinzip dominiert: 91% der Services ermöglichen keine Nutzung ohne Einwilligung. Die Alternative ist oft kompletter Verzicht, während Netzwerkeffekte die Teilnahme erzwingen und Quasi-Monopole in vielen Bereichen bestehen.
+Die rechtlich geforderte Freiwilligkeit kollidiert mit digitalen Realitäten. Das **„Take it or leave it"**-Prinzip dominiert. Nouwens et al. (2020) scrapten die fünf verbreitetsten Consent-Management-Plattformen auf den 10.000 reichweitenstärksten UK-Websites und fanden: Nur 11,8 % der Banner erfüllten die Minimalanforderungen des europäischen Rechts; „Dark Patterns" und implizite Einwilligung sind allgegenwärtig. Utz et al. (2019) dokumentieren in GDPR-Consent-Notice-Feldstudien vergleichbare Befunde. Die Alternative zur Einwilligung ist häufig kompletter Verzicht, während Netzwerkeffekte die Teilnahme erzwingen und Quasi-Monopole in vielen Bereichen bestehen.
 
-Befragungen zum Freiwilligkeitserleben zeigen konsistent: Nur ein kleiner Teil der Nutzer empfindet Einwilligungen als wirklich freiwillig. Die überwiegende Mehrheit fühlt sich eher oder vollständig gezwungen. Die gefühlte Freiwilligkeit ist marginal.
+Umfragedaten aus dem Eurobarometer zum Thema ePrivacy und zu Datenschutzeinstellungen in Europa (Europäische Kommission, 2016, 2019) zeigen konsistent: Nur eine Minderheit der Nutzer empfindet digitale Einwilligungen als wirklich freiwillig; eine deutliche Mehrheit fühlt sich eher oder vollständig gezwungen. Die gefühlte Freiwilligkeit ist marginal.
 
 **Das Nicht-Koppelungsgebot: Wann Kopplung die Freiwilligkeit nicht aufhebt**
 
@@ -101,32 +85,24 @@ Um zu verstehen, warum informierte Einwilligung scheitert, müssen wir die biolo
 
 **Arbeitsgedächtnis: Der Flaschenhals**
 
-George Millers "Magical Number Seven" (1956) bleibt relevant: Die Kapazität beträgt 7±2 Informationseinheiten, bei komplexen Informationen eher 4±1, mit einer Speicherdauer ohne Rehearsal von nur 15-30 Sekunden.
+George Millers „Magical Number Seven" (Miller, 1956) bleibt relevant: Die Kapazität des Kurzzeitgedächtnisses beträgt rund 7±2 Informationseinheiten. Cowan (2001) argumentiert auf Basis verschärfter Messverfahren für einen engeren Kapazitätsrahmen von etwa vier „Chunks" im Fokus der Aufmerksamkeit. Speicherdauer ohne Rehearsal: im Sekundenbereich.
 
-Die **Anwendung auf Datenschutzerklärungen** zeigt sofortige Überforderung. Eine typische Erklärung enthält Verantwortlicher plus Kontaktdaten (zwei Einheiten), fünf bis zehn Zwecke, drei bis fünf Rechtsgrundlagen, fünf bis acht Empfängerkategorien, Speicherdauer (eine Einheit) und Betroffenenrechte (sechs Einheiten). Gesamt ergeben sich 22-32 Einheiten - das entspricht einer 300-400%igen Überlastung der kognitiven Kapazität.
+Die **Anwendung auf Datenschutzerklärungen** zeigt sofortige Überforderung. Eine typische Erklärung enthält Verantwortlicher plus Kontaktdaten, fünf bis zehn Zwecke, drei bis fünf Rechtsgrundlagen, fünf bis acht Empfängerkategorien, Speicherdauer und sechs Betroffenenrechte — zusammen deutlich mehr als zwanzig Informationseinheiten. Bezogen auf Cowans Schätzung einer Arbeitsgedächtniskapazität von rund vier Chunks ist das eine strukturelle Überlastung.
 
 **Verarbeitungsgeschwindigkeit**
 
-Die **Lesegeschwindigkeit** Erwachsener liegt bei 200-250 Wörtern pro Minute, bei komplexen Texten nur noch bei 100-150 Wörtern und bei juristischen Texten bei lediglich 50-100 Wörtern pro Minute. Die **Verstehensgeschwindigkeit** ist deutlich langsamer als das reine Lesen, da Fachbegriffe Zusatzverarbeitung erfordern und abstrakte Konzepte mehr Zeit brauchen.
-
-Die **Realität der Einwilligungssituation** entlarvt die Illusion: Verfügbare Zeit beträgt Sekunden bis maximal eine Minute, lesbar sind etwa 100 Wörter pro Minute, während typische Datenschutzerklärungen über 4.000 Wörter umfassen. Die theoretisch nötige Zeit würde über 40 Minuten betragen.
+Die Lesegeschwindigkeit Erwachsener bewegt sich bei Standardtexten im Bereich von 200 bis 250 Wörtern pro Minute; bei komplexen Fachtexten deutlich darunter. Obar und Oeldorf-Hirsch (2020, S. 136) verweisen auf eine durchschnittliche Erwachsenen-Lesegeschwindigkeit von 250 bis 280 Wörtern pro Minute — rechnerisch bräuchte die typische Datenschutzerklärung dort 29 bis 32 Minuten, die Nutzungsbedingungen zusätzliche 15 bis 17 Minuten. Tatsächlich investiert wird ein Bruchteil davon.
 
 > **Infobox: Das Gehirn im Einwilligungsstress**
-> **Neurobiologische Messungen während Einwilligungen:**
-> - Präfrontaler Kortex (rationales Denken): Minimale Aktivität
-> - Amygdala (Emotion/Stress): Erhöhte Aktivität bei Zeitdruck
-> - Default Mode Network: Aktiv (Autopilot)
-> - Pupillenerweiterung: Zeichen kognitiver Überlastung
-> 
-> **Fazit**: Das Gehirn schaltet auf Energiesparmodus
+> Einwilligungen treffen das Gehirn typischerweise in Zuständen, in denen es ohnehin wenig Ressourcen für rationale Abwägung erübrigt: unter Zeitdruck, zwischen anderen Aufgaben, im Autopiloten. Die Konsequenz ist keine neurowissenschaftliche Besonderheit, sondern eine vorhersehbare Folge der Bedingungen, unter denen heute Einwilligung verlangt wird (→ Kapitel 2.2 zum Zusammenspiel von System 1 und System 2).
 
 **Aufmerksamkeit als knappe Ressource**
 
-Herbert Simon (1971): "Information consumes attention. Hence a wealth of information creates a poverty of attention."
+Herbert Simon (1971, S. 40-41): „Information consumes attention. Hence a wealth of information creates a poverty of attention."
 
-Die **Aufmerksamkeitsspanne** ist begrenzt: Sustained Attention hält maximal 20 Minuten bei optimalen Bedingungen, bei Bildschirmarbeit nur drei bis fünf Minuten und bei uninteressanten Texten unter einer Minute. Nach Unterbrechung braucht es 23 Minuten bis zur vollen Konzentration.
+Die Aufmerksamkeitsspanne ist begrenzt, und Unterbrechungen kosten. Mark, Gudith und Klocke (2008) dokumentieren in einer Laborstudie zu Büroarbeit, dass Menschen nach Unterbrechungen schneller arbeiten, aber mehr Stress, höhere Frustration und höheren Zeitdruck empfinden — Qualitätseinbußen im kognitiven Aufwand sind die Kehrseite dieser Kompensation.
 
-**Konkurrierende Aufmerksamkeitsdemands** verschärfen das Problem: Smartphone-Notifications alle sechs bis zwölf Minuten, Multitasking-Norm mit zwei bis drei parallelen Aktivitäten und Einwilligungen als Unterbrechung des eigentlichen Ziels. Das Resultat ist minimale Aufmerksamkeit für Datenschutz.
+**Konkurrierende Aufmerksamkeitsdemands** verschärfen das Problem: Smartphone-Notifications unterbrechen in dichter Taktung; Multitasking ist Norm geworden; Einwilligungsaufforderungen erscheinen fast immer als Unterbrechung eines anderen, aus Nutzersicht wichtigeren Ziels. Das Resultat ist minimale Aufmerksamkeit für Datenschutzinformationen.
 
 **Kognitive Entwicklung über die Lebensspanne**
 
@@ -147,81 +123,49 @@ Keine Altersgruppe erreicht auch nur annähernd "informiert".
 
 **Multitasking-Illusion**
 
-Menschen glauben, sie könnten mehrere Dinge gleichzeitig. Die **Realität** zeigt Task-Switching mit 25% Leistungsverlust, keine echte Parallelverarbeitung komplexer Aufgaben und 50% höhere Fehlerrate.
-
-**Einwilligungen im Multitasking-Kontext** erfolgen zu 67% während der Arbeit, 23% beim Essen, 34% im Transport und 41% vor dem Einschlafen. Fokussierte Aufmerksamkeit gibt es in unter fünf Prozent der Fälle.
+Menschen glauben, sie könnten mehrere Dinge gleichzeitig. Rubinstein, Meyer und Evans (2001) zeigen experimentell: Task-Switching erzeugt Umstellungskosten, die mit Regelkomplexität steigen; komplexe Aufgaben werden nicht wirklich parallel, sondern seriell mit Umschaltverlusten bearbeitet. Einwilligungen laufen praktisch ausnahmslos im Multitasking-Kontext — zwischen Arbeit, Kommunikation, Fortbewegung oder vor dem Einschlafen. Fokussierte Aufmerksamkeit für Datenschutzfragen ist der Ausnahmefall, nicht der Regelfall.
 
 ## 4.1.3 Empirische Studien zur Wirksamkeit von Einwilligungen {#4-1-3-empirische-studien-zur-wirksamkeit-von-einwilligungen}
 
 Die Forschung zur Wirksamkeit von Einwilligungen zeichnet ein ernüchterndes Bild. Studien aus verschiedenen Ländern und Kontexten kommen zu ähnlichen Ergebnissen: Die informierte Einwilligung funktioniert nicht wie intendiert.
 
-**Meta-Analyse: 20 Jahre Einwilligungsforschung**
+**Die „biggest lie"-Studie: NameDrop als kontrolliertes Experiment**
 
-Obar & Oeldorf-Hirsch (2020) analysierten in ihrer Metaanalyse umfangreich Studien zum Einwilligungsverhalten. Die **zentralen Befunde** sind auffällig: Durchschnittliche Lesezeit beträgt 13,7 Sekunden, nur 1,4% lesen vollständig, 16,3% lesen teilweise, 31,2% nur die Überschrift und 51,1% akzeptieren direkt.
+Obar und Oeldorf-Hirsch (2020) entwickelten für ihre experimentelle Vignettenstudie das fiktive soziale Netzwerk NameDrop und beobachteten das Einwilligungsverhalten von 543 Studierenden. Die zentralen Befunde:
 
-Das **Verständnis** bei denen die lasen ist minimal: 34% verstehen Hauptzwecke, 19% identifizieren Empfänger, 11% erinnern Speicherdauer und 23% kennen das Widerrufsrecht.
+- 74 % der Teilnehmenden übersprangen die Datenschutzerklärung vollständig per „Quick-Join"-Klick.
+- 97 % stimmten der Datenschutzerklärung zu, 93 % den Nutzungsbedingungen — unabhängig davon, ob sie sie gelesen hatten.
+- 98 % übersahen deliberativ eingebaute „Gotcha"-Klauseln: Datenweitergabe an die NSA und Arbeitgeber sowie Abtretung des erstgeborenen Kindes als Entgelt.
+
+Zum **Verständnis** der Erklärungen liegen systematische Belege von Reidenberg et al. (2015) vor: Selbst in expertenbesetzten Testgruppen weichen Interpretationen von Datenschutzerklärungen deutlich voneinander ab, mit besonders großen Divergenzen bei Aussagen zur Datenweitergabe. Das Lesen der Texte reicht nicht für belastbares Verstehen.
 
 > **Infobox: Der "Biggest Lie" Award**
 > **Satirische Einwilligungs-Experimente:**
 > 
-> **GameStation (2010)**: "Seele an uns übertragen" - 88% stimmten zu
-> **Purple (2017)**: "Erstgeborenes als Zahlung" - 76% akzeptierten
-> **Namecheck (2023)**: "IQ-Test-Ergebnisse öffentlich" - 93% einverstanden
+> **GameStation (April 2010)**: „Immortal-Soul-Klausel" — 7.500 Online-Käufer, keiner klickte den Opt-Out-Link (Pinsent Masons, 2010).
+> **Purple WiFi (Juli 2017)**: „Community-Service-Klausel" — rund 22.000 akzeptierten, nur eine Person (etwa 0,000045 %) erkannte die Klausel innerhalb von zwei Wochen (The Register, 2017).
 > 
 > Diese Experimente zeigen: Menschen lesen nicht, was sie unterschreiben.
 
-**Längsschnittstudie: Einwilligungsverhalten über Zeit**
+**Consent Fatigue und Habituation über die Zeit**
 
-Eine Längsschnittstudie begleitete Teilnehmer über fünf Jahre. **Phase 1** (0-6 Monate) zeigte moderate Aufmerksamkeit mit 34% die zumindest teilweise lesen und einigen Anpassungen der Einstellungen. **Phase 2** (6-18 Monate) brachte rapiden Aufmerksamkeitsrückgang auf 12% die noch teilweise lesen, während automatisches Akzeptieren sich etablierte. **Phase 3** (18+ Monate) erreichte vollständige Habituation mit unter drei Prozent die überhaupt noch lesen und voll ausgeprägter "Consent Fatigue".
+Schermer, Custers und van der Hof (2014) argumentieren in ihrer viel zitierten Analyse „The crisis of consent": Strengere rechtliche Einwilligungsanforderungen führen paradoxerweise zu schwächerem tatsächlichem Einwilligungsschutz, weil sie die Frequenz und Komplexität der Einwilligungsaufforderungen erhöhen und damit **Consent Desensitisation** befördern. Das Ergebnis ist Habituation: Einwilligungsklicks werden automatisiert, ohne dass Nutzer Inhalt oder Tragweite registrieren. Öffentlichkeitswirksame Datenskandale erzeugen kurzzeitig erhöhte Aufmerksamkeit, führen aber nicht zu nachhaltiger Verhaltensänderung — die Baseline stellt sich binnen weniger Wochen wieder her.
 
-**Nach Datenskandalen** stieg die Aufmerksamkeit kurzfristig auf 41% Leser, kehrte aber nach drei bis vier Wochen zur Baseline zurück. Nachhaltige Verhaltensänderung trat nicht ein.
+**Experimentelle Befunde zu Design-Variationen**
 
-**Experimentelle Manipulationen**
+Die Notice-Design-Forschung hat seit über einem Jahrzehnt konsistente Befunde dazu erbracht, welche Gestaltungsvarianten das Leseverhalten wie beeinflussen. Schaub, Balebako, Durity und Cranor (2015) systematisieren in ihrem „Design Space for Effective Privacy Notices" die relevanten Dimensionen: Zeitpunkt (at-setup vs. just-in-time), Kanal, Modalität (Text, visuell, Audio, maschinenlesbar), Kontrolloptionen. Kelley, Bresee, Reeder und Cranor (2009) zeigten mit dem „Nutrition Label"-Ansatz, dass standardisierte visuelle Privacy-Labels das Auffinden von Informationen signifikant beschleunigen und die Verständnisquote erhöhen. Nouwens et al. (2020) wiesen im Cookie-Consent-Kontext nach: Wird der „Reject all"-Button gleichrangig neben „Accept all" platziert, sinkt die Akzeptanzrate substantiell; werden „Reject"-Optionen hinter einen „More options"-Klick versteckt, steigt sie. Selbst die besten in diesen Studien getesteten Interventionen erreichen jedoch keine flächendeckende informierte Einwilligung; sie verschieben Verteilungen, sie lösen das strukturelle Problem nicht.
 
-Das Stanford HCI Lab (2023) testete verschiedene **Design-Variationen und ihre Effekte**:
+**Kontextuelle und kulturelle Faktoren**
 
-| Intervention | Baseline | Lesezeit | Verständnis | Ablehnung |
-|--------------|----------|----------|-------------|-----------|
-| Standard | - | 11 Sek | 14% | 4% |
-| Vereinfachte Sprache | +2% | 18 Sek | 31% | 7% |
-| Visuelle Elemente | +5% | 24 Sek | 43% | 12% |
-| Forced Delay (10 Sek) | +8% | 37 Sek | 38% | 19% |
-| Gamification | +11% | 52 Sek | 56% | 23% |
-| Video-Erklärung | +14% | 2:34 Min | 67% | 31% |
-
-Selbst beste Interventionen erreichen keine Mehrheit.
-
-**Kulturelle Unterschiede**
-
-Die **Global Privacy Consent Study** des Oxford Internet Institute (2024) zeigt erhebliche kulturelle Variation:
-
-| Land | Lesezeit | Partial Reading | Verständnis | Trust in Consent |
-|------|----------|-----------------|-------------|------------------|
-| Deutschland | 19 Sek | 23% | 28% | 34% |
-| USA | 8 Sek | 11% | 16% | 51% |
-| Japan | 14 Sek | 31% | 22% | 43% |
-| Brasilien | 6 Sek | 7% | 9% | 67% |
-| Indien | 4 Sek | 4% | 6% | 78% |
-
-Deutsche lesen länger, verstehen aber trotzdem wenig.
-
-**Kontextuelle Faktoren**
-
-Das Behavioral Privacy Lab (2024) untersuchte **situative Einflüsse auf Einwilligungsqualität**. **Zeitdruck** reduziert informierte Entscheidungen deutlich: ohne Zeitdruck 29%, bei moderatem Zeitdruck 11% und bei hohem Zeitdruck nur zwei Prozent.
-
-Der **Gerätetyp** beeinflusst das Leseverhalten: Desktop 21% lesen teilweise, Tablet 14%, Smartphone sechs Prozent und Smartwatch 0,3%. Die **Tageszeit** spielt ebenfalls eine Rolle: Morgens (6-10 Uhr) 18% Aufmerksamkeit, mittags (11-14 Uhr) 23%, nachmittags (15-18 Uhr) 19%, abends (19-23 Uhr) 11% und nachts (23-6 Uhr) drei Prozent.
+Privacy-Einstellungen variieren systematisch mit Kontext und Kultur. Das Eurobarometer (Europäische Kommission, 2019) dokumentiert für die EU-27 erhebliche Unterschiede in Vertrauen, Kontrollempfinden und Datenschutz-Wissen. Pew Research Center (2019; 2023) zeigt für die USA ein konsistentes Muster hoher Besorgnis bei gleichzeitig geringem Kontrollempfinden. Situative Faktoren wie Zeitdruck, Gerätetyp (Smartphone-Einwilligungen haben deutlich niedrigere Leseraten als Desktop-Einwilligungen) und Kontext der Aufforderung modulieren die Einwilligungsqualität substanziell; Acquisti, Brandimarte und Loewenstein (2015) sowie Brandimarte, Acquisti und Loewenstein (2013) beschreiben das zugrundeliegende „Control Paradox". Eine belastbare globale Metrik der kulturellen Variation fehlt allerdings bis heute.
 
 **Die Wirksamkeitsillusion**
 
-Trotz nachweislicher Unwirksamkeit halten viele am Einwilligungsmodell fest. Eine **Interview-Studie** (n=150) zu **Stakeholder-Perspektiven** zeigt unterschiedliche Wahrnehmungen. **Regulierer** (n=30) glauben zu 87% dass "Einwilligung Autonomie stärkt", 73% sagen "Besser als keine Kontrolle" und 81% meinen "Mit Verbesserungen funktioniert es".
-
-**Unternehmen** (n=60) sehen zu 94% "Rechtliche Absicherung wichtig", nur 43% glauben "Nutzer wollen Transparenz" und 76% beklagen "Alternatives Modell unklar". **Nutzer** (n=60) fühlen sich zu 89% "nicht informiert", 84% haben "keine echte Wahl" und 71% finden "System ist kaputt".
-
-Die Diskrepanz zwischen Ideal und Realität wird von allen erkannt, aber unterschiedlich bewertet.
+Trotz nachweislicher struktureller Mängel halten viele Akteure am Einwilligungsmodell fest — aus unterschiedlichen Gründen. Für **Aufsichtsbehörden und Gesetzgeber** bleibt die Einwilligung das normative Leitbild autonomer Selbstbestimmung und zugleich die am leichtesten justiziable Rechtsgrundlage. Für **Verantwortliche** bietet sie Rechtssicherheit und Haftungsverlagerung auf die Betroffenen. Für **Nutzer** dagegen bedeutet sie in ihrer praktischen Ausgestaltung häufig Überforderung, das Gefühl fehlender echter Wahl und die Wahrnehmung, das System funktioniere nicht wie versprochen. Die Diskrepanz zwischen Ideal und Realität wird von allen Seiten wahrgenommen — aber unterschiedlich bewertet und unterschiedlich zugeschrieben (Schermer et al., 2014).
 
 ## 4.1.4 Das Konzept der "bounded rationality" im Datenschutzkontext {#4-1-4-das-konzept-der-bounded-rationality-im-datenschutzkontext}
 
-Herbert Simons Konzept der **[begrenzten Rationalität]** (→ siehe Kapitel 2.2) bietet einen theoretischen Rahmen, um das Scheitern der informierten Einwilligung zu verstehen. Menschen sind keine perfekten Informationsverarbeiter, sondern "satisficer" mit kognitiven Grenzen.
+Herbert Simons Konzept der **[begrenzten Rationalität]** (Simon, 1971; → siehe Kapitel 2.2) bietet einen theoretischen Rahmen, um das Scheitern der informierten Einwilligung zu verstehen. Menschen sind keine perfekten Informationsverarbeiter, sondern „satisficer" mit kognitiven Grenzen.
 
 **Grundannahmen der Bounded Rationality**
 
@@ -231,36 +175,34 @@ Die **ersten Grundannahmen** betreffen begrenzte Informationsverarbeitungskapazi
 
 **Anwendung auf Datenschutz-Einwilligungen**
 
-**Informationsüberlastung** kennzeichnet die durchschnittliche Einwilligungssituation: Verfügbare Informationen umfassen über 4.000 Wörter, verarbeitbare etwa 200 Wörter, tatsächlich verarbeitet werden circa 50 Wörter. Das entspricht einer Ratio von 1,25% der verfügbaren Information.
+**Informationsüberlastung** kennzeichnet die durchschnittliche Einwilligungssituation: Datenschutzerklärungen umfassen typischerweise mehrere Tausend Wörter (Litman-Navarro, 2019), während im Einwilligungsmoment nur Sekunden verfügbar sind. Die tatsächliche Verarbeitungsratio bleibt im niedrigen einstelligen Prozentbereich.
 
-**Satisficing statt Maximizing**: Menschen suchen nicht die optimale, sondern eine "ausreichend gute" Lösung. Typische **Satisficing-Strategien bei Einwilligungen** sind Markenvertrauen ("Große Firma = sicher genug"), soziale Bewährtheit ("Andere nutzen es auch"), Funktionalitätsfokus ("Hauptsache es funktioniert") und Default-Akzeptanz ("Voreinstellung wird schon passen").
+**Satisficing statt Maximizing**: Menschen suchen nicht die optimale, sondern eine „ausreichend gute" Lösung. Typische Satisficing-Strategien bei Einwilligungen sind Markenvertrauen („Große Firma = sicher genug"), soziale Bewährtheit („Andere nutzen es auch"), Funktionalitätsfokus („Hauptsache es funktioniert") und Default-Akzeptanz („Voreinstellung wird schon passen").
 
-> **Infobox: Die Rationalitäts-Pyramide im Datenschutz**
+> **Infobox: Die Rationalitäts-Pyramide im Datenschutz (Illustration)**
+> Eine idealtypische Hierarchie von Entscheidungsmodi in Einwilligungssituationen:
 > ```
 >          Vollständige Rationalität
->               (Theoretisches Ideal)
->                      0,1%
->                    /     \
+>               (Theoretisches Ideal, praktisch vernachlässigbar)
+>                    ↓
 >           Begrenzte Rationalität
->          (Beste machbare Lösung)
->                    5%
->                 /       \
+>          (Beste machbare Lösung, Ausnahmefall)
+>                    ↓
 >            Heuristiken & Biases
->          (Schnelle Faustregeln)
->                  70%
->              /         \
+>          (Schnelle Faustregeln, Regelfall)
+>                    ↓
 >          Automatisches Verhalten
->            (System 1 dominiert)
->                 94,9%
+>            (System 1 dominiert, Alltag)
 > ```
+> Anteile sind nicht empirisch kalibriert, sondern illustrieren die relative Häufigkeit typischer Entscheidungsmodi im Alltag.
 
 **Ökologische Rationalität**
 
-Gerd Gigerenzers Konzept der ökologischen Rationalität argumentiert: Heuristiken können in bestimmten Umgebungen rational sein.
+Gerd Gigerenzers Konzept der ökologischen Rationalität (Gigerenzer & Todd, 1999) argumentiert: Heuristiken können in bestimmten Umgebungen rational sein — sie sind nicht zweiter Klasse, sondern domänen-adaptiert.
 
-Die **"Vertrauens-Heuristik"** illustriert das Problem: Die Regel "Vertraue etablierten Marken" ist in stabiler Umgebung oft erfolgreich, im digitalen Kontext jedoch problematisch, da große Unternehmen nicht automatisch besseren Datenschutz bieten.
+Die **„Vertrauens-Heuristik"** illustriert das Problem: Die Regel „Vertraue etablierten Marken" ist in stabilen Umgebungen oft erfolgreich, im digitalen Kontext jedoch problematisch, da Größe und Bekanntheit eines Anbieters nicht automatisch mit besserem Datenschutz korrelieren.
 
-Menschen entwickeln eine **adaptive Toolbox für Datenschutz** mit verschiedenen Heuristiken: Recognition Heuristic (bekannte Services bevorzugen), Social Proof (tun was andere tun), Minimalist Approach (so wenig Daten wie möglich) und Avoidance (neue Services meiden). Verlässlich schützen sie nicht.
+Menschen entwickeln eine **adaptive Toolbox für Datenschutz** (Gigerenzer & Todd, 1999) mit verschiedenen Heuristiken: Recognition Heuristic (bekannte Services bevorzugen), Social Proof (tun, was andere tun), Minimalist Approach (so wenig Daten wie möglich) und Avoidance (neue Services meiden). Verlässlich schützen sie nicht.
 
 **Die Rationalitätsfalle der DSGVO**
 
@@ -268,7 +210,7 @@ Die DSGVO basiert implizit auf Annahmen unbegrenzter Rationalität mit unrealist
 
 Die **realistische bounded rationality** sieht anders aus: Nutzer überfliegen bestenfalls, verstehen nur Grundzüge, satisficen statt optimieren und vergessen sofort wieder.
 
-**Empirische Validierung** durch das Bounded Rationality Lab (2024) testete ein Experiment mit "idealen Bedingungen": keine Zeitbeschränkung, finanzielle Anreize für gute Entscheidungen, vereinfachte Sprache und nur eine Einwilligung. Das Ergebnis war ernüchternd: 43% trafen "rationale" Entscheidung (vs. 7% normal), 57% fielen trotzdem auf **[Dark Patterns]** rein und die durchschnittliche Zeit betrug zwölf Minuten (unrealistisch im Alltag).
+**Empirische Validierung** zeigt konsistent: Selbst unter vergleichsweise günstigen Bedingungen — vereinfachte Sprache, keine Zeitbeschränkung, einzelne statt serielle Einwilligungen — bleibt die Rate wirklich informierter Entscheidungen deutlich unter einer Mehrheit. Die Dark-Pattern-Wirksamkeitsforschung (Nouwens et al., 2020) zeigt, dass selbst motivierte Nutzer bei manipulativen Designs häufig gegen die eigenen Präferenzen handeln. Das bestätigt die These: Rationalität ist nicht Charakterfrage der Nutzer, sondern Funktion der Entscheidungsumgebung.
 
 **Implikationen für Systemdesign**
 
@@ -286,24 +228,25 @@ Art. 6 DSGVO nennt sechs Rechtsgrundlagen: Einwilligung, Vertrag, rechtliche Ver
 
 **Vertragserfüllung (Art. 6 Abs. 1 lit. b)**
 
-Die **psychologischen Vorteile** sind erheblich: klarerer Zusammenhang zwischen Daten und Leistung, weniger Entscheidungen nötig und höhere Erwartungskonformität. Empirische Befunde einer Contract vs. Consent Study (2023) zeigen deutliche Unterschiede: Verständnis bei Vertrag erreicht 67% (vs. 19% bei Einwilligung), Akzeptanz 81% (vs. 71%) und das Gefühl der Fairness 73% (vs. 42%).
+Die **psychologischen Vorteile** sind erheblich: ein klarerer Zusammenhang zwischen Daten und Leistung, weniger Entscheidungen und höhere Erwartungskonformität. Schermer et al. (2014) argumentieren, dass Vertragskonstruktionen und „Fair Transaction"-Modelle in vielen Kontexten besser zur tatsächlichen Nutzererwartung passen als die rechtsfiktion-geladene Einwilligung. Empirisch belegt ist dies für Modelle transparenter Datenleistungs-Austauschverhältnisse (→ § 4.1.1 zum Nicht-Koppelungsgebot und zu distributiver/prozeduraler Fairness).
 
-**Probleme** bestehen dennoch: "Erforderlichkeit" wird oft überdehnt, Nutzer verstehen Vertragsinhalte auch nicht vollständig und Pseudo-Vertragskonstruktionen unterminieren das Konzept.
+**Probleme** bestehen dennoch: „Erforderlichkeit" wird oft überdehnt, Nutzer verstehen Vertragsinhalte auch nicht vollständig, und Pseudo-Vertragskonstruktionen unterminieren das Konzept.
 
 **Berechtigte Interessen (Art. 6 Abs. 1 lit. f)**
 
 Diese Rechtsgrundlage verschiebt die Verantwortung vom Nutzer zum Verantwortlichen. Die **psychologische Analyse** zeigt Ambivalenz: Einerseits Entlastung der Nutzer von Entscheidungen, andererseits Kontrollverlust-Gefühle und Misstrauen bei vager Formulierung.
 
-**Nutzerreaktionen** einer Umfrage (n=2.000) auf die Frage "Wie fühlen Sie sich bei 'berechtigte Interessen'?" sind überwiegend negativ: 67% fühlen sich unwohl oder misstrauisch, 24% neutral und nur neun Prozent vertrauensvoll. **Best Practice** erfordert konkrete, nachvollziehbare Interessensbenennung.
+Empirisch zeigen **Umfragedaten** aus Eurobarometer-Erhebungen (Europäische Kommission, 2019) und Pew Research Surveys (2019; 2023), dass die Rechtsgrundlage „berechtigte Interessen" in der Bevölkerung überwiegend mit Unbehagen verbunden ist: Die Formulierung signalisiert Vagheit, macht das Interessengeflecht aus Nutzersicht nicht sichtbar und erzeugt Misstrauen, wo konkrete Zweckangaben Vertrauen stiften würden. **Best Practice** erfordert daher konkrete, nachvollziehbare Interessensbenennung statt generischer Formeln.
 
-> **Infobox: Die Legitimations-Hierarchie aus Nutzersicht**
-> **Akzeptanz verschiedener Rechtsgrundlagen:**
-> 1. **Gesetzliche Pflicht** (89%): "Muss sein"
-> 2. **Vertrag** (78%): "Fair Trade"
-> 3. **Lebenswichtige Interessen** (76%): "Vernünftig"
-> 4. **Öffentliche Aufgabe** (61%): "Kommt drauf an"
-> 5. **Einwilligung** (43%): "Nervt"
-> 6. **Berechtigte Interessen** (31%): "Suspekt"
+> **Infobox: Die Legitimations-Hierarchie aus Nutzersicht (Tendenzdarstellung)**
+> Typische Akzeptanz-Muster aus Umfragen zu Datenschutz-Rechtsgrundlagen (Europäische Kommission, 2019; Pew Research Center, 2019):
+> - **Gesetzliche Pflicht** — hohe Akzeptanz: „Muss sein."
+> - **Vertrag** — hohe Akzeptanz bei klarem Austausch: „Fair Trade."
+> - **Lebenswichtige Interessen** — hohe Akzeptanz: „Vernünftig."
+> - **Öffentliche Aufgabe** — mittlere Akzeptanz: „Kommt drauf an."
+> - **Einwilligung** — ambivalent: „Nervt, aber bekannt."
+> - **Berechtigte Interessen** — niedrige Akzeptanz: „Suspekt."
+> Die Rangfolge variiert nach Land, Altersgruppe und Kontext; die relative Position der berechtigten Interessen am unteren Ende bleibt stabil.
 
 **Die Psychologie der Interessenabwägung**
 
@@ -325,16 +268,9 @@ Die psychologischen Hürden der Interessenabwägung werden durch die EuGH-Rechts
 
 **Hybride Modelle: Der Weg nach vorn?**
 
-**Kontextuelle Legitimation** bedeutet differenzierte Rechtsgrundlagen statt einer für alles: Kernfunktionen basieren auf Vertrag, Zusatzfeatures auf Einwilligung, Sicherheit auf berechtigten Interessen und Steuern auf gesetzlicher Pflicht.
+**Kontextuelle Legitimation** bedeutet differenzierte Rechtsgrundlagen statt einer für alles: Kernfunktionen basieren auf Vertrag, Zusatzfeatures auf Einwilligung, Sicherheit auf berechtigten Interessen und Steuerpflichten auf gesetzlicher Verpflichtung. Ein **hybrides Modell** reduziert die Zahl aktiver Einwilligungsentscheidungen auf jene Bereiche, in denen Autonomie substantiell Sinn macht, und entlastet Nutzer in Bereichen, in denen Einwilligung ohnehin Fiktion bleibt.
 
-Ein **empirisches Experiment** (Hybrid Model Test, 2024) verglich Einheits-Einwilligung vs. Hybrid-Modell:
-
-| Metrik | Einwilligung only | Hybrid-Modell | Verbesserung |
-|--------|------------------|---------------|--------------|
-| Verständnis | 19% | 54% | +184% |
-| Entscheidungszeit | 341 Sek | 89 Sek | -74% |
-| Zufriedenheit | 3.1/10 | 6.8/10 | +119% |
-| Compliance | 71% | 86% | +21% |
+Die Dark-Pattern- und Notice-Design-Forschung (Nouwens et al., 2020; Schaub et al., 2015) zeigt konsistent, dass Entscheidungszeit, Verständnis und wahrgenommene Fairness von der Anzahl und Granularität der Entscheidungen abhängen. Bündelung in wenige, kontextuell sinnvolle Entscheidungspunkte ist empirisch überlegen gegenüber der Flutung mit Einzel-Einwilligungen.
 
 **Privacy as Expected**
 
@@ -344,13 +280,11 @@ Die **Vorteile** sind erheblich: reduzierte kognitive Last, Entsprechung mentale
 
 **Technologische Unterstützung**
 
-**Personal Information Management Systems (PIMS)** bieten zentrale Verwaltung aller Datenflüsse, automatisierte Entscheidungen basierend auf Präferenzen und ermöglichen Nutzern, ihre Policy einmalig zu definieren.
-
-Eine **empirische Evaluation** des PIMS Pilot Berlin (2024) zeigt vielversprechende Ergebnisse: 34% Adoptionsrate in sechs Monaten, 67% aktive Nutzung der Adopter, 56% Steigerung des Kontrollgefühls und 234% Zunahme tatsächlicher Kontrolle.
+**Personal Information Management Systems (PIMS)** bieten zentrale Verwaltung aller Datenflüsse, automatisierte Entscheidungen auf Basis individueller Präferenzen und die Möglichkeit, eine persönliche Policy einmalig zu definieren statt für jeden Service erneut. Konzeptuell beschreibt der Europäische Datenschutzbeauftragte (2020) PIMS als zentralen Baustein einer nutzerzentrierten Dateninfrastruktur; konkrete Implementierungen reichen von Solid (Tim Berners-Lee) über MyData Global bis zu Nextcloud. Eine umfassende konzeptuelle Aufarbeitung liefern Janssen und Singh (2022). Die Adoptionsraten bleiben bislang niedrig — PIMS konkurrieren gegen etablierte Plattformen mit massiven Netzwerkeffekten.
 
 **Kollektive Governance**
 
-**Datentreuhänder** ermöglichen professionelle Verwaltung von Einwilligungen, kollektive Verhandlungsmacht und Expertise statt Überforderung. Ein **Modellprojekt** in Finnland (2023-2024) mit 10.000 Teilnehmern und einem Gesundheitsdaten-Treuhänder erreichte 91% Zufriedenheit, 340% mehr Datennutzung für Forschung und null Missbrauchsfälle.
+**Datentreuhänder** ermöglichen professionelle Verwaltung von Einwilligungen, kollektive Verhandlungsmacht und Expertise statt individueller Überforderung. Delacroix und Lawrence (2019) entwickeln das Konzept „Bottom-up Data Trusts" als Pluralitätsmodell, in dem Nutzer zwischen Trusts wählen können, die ihren Werten entsprechen. In Finnland existiert mit **Findata** — dem Social and Health Data Permit Authority auf Basis des Gesetzes 552/2019 über die Sekundärnutzung von Gesundheits- und Sozialdaten — seit 2020 ein praktischer Datentreuhänder für Gesundheitsdaten. Der Findata Annual Report 2024 berichtet 113 positive Datenzugangsentscheidungen, 170 gelieferte Datenpakete, einen Net Promoter Score von 93 für den Beratungsdienst und ein Anwachsen der Erweiterungsgenehmigungen um rund 20 Prozent gegenüber dem Vorjahr (Findata, 2025). Missbrauchsfälle wurden öffentlich nicht bekannt. Die Erfahrung zeigt: Ein institutionalisierter, fachlich besetzter Treuhänder kann Einwilligungs-Individualentscheidungen teilweise ersetzen, wenn ein klarer gesetzlicher Rahmen und unabhängige Aufsicht bestehen.
 
 **Regulatorische Sandboxes**
 
@@ -403,15 +337,29 @@ Das nächste Kapitel wird zeigen, wie manche Akteure diese Überforderung geziel
 ## Quellenangaben für Kapitel 4.1
 
 ### Kognitionspsychologie
-- Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? *Journal of Personality and Social Psychology*, 74(5), 1252-1265.
+- Baumeister, R. F., Bratslavsky, E., Muraven, M., & Tice, D. M. (1998). Ego depletion: Is the active self a limited resource? *Journal of Personality and Social Psychology*, 74(5), 1252-1265. https://doi.org/10.1037/0022-3514.74.5.1252
+- Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
+- Mark, G., Gudith, D., & Klocke, U. (2008). The cost of interrupted work: More speed and stress. In *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '08)* (pp. 107-110). ACM. https://doi.org/10.1145/1357054.1357072
 - Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
+- Rubinstein, J. S., Meyer, D. E., & Evans, J. E. (2001). Executive control of cognitive processes in task switching. *Journal of Experimental Psychology: Human Perception and Performance*, 27(4), 763-797.
 - Simon, H. A. (1971). Designing organizations for an information-rich world. In M. Greenberger (Ed.), *Computers, communications, and the public interest* (pp. 37-72). Johns Hopkins Press.
 - Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
 
 ### Datenschutzempirie
 - Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
+- Brandimarte, L., Acquisti, A., & Loewenstein, G. (2013). Misplaced confidences: Privacy and the control paradox. *Social Psychological and Personality Science*, 4(3), 340-347. https://doi.org/10.1177/1948550612455931
+- Europäische Kommission. (2019). *Special Eurobarometer 487a: The General Data Protection Regulation*. https://europa.eu/eurobarometer/surveys/detail/2222
+- Kelley, P. G., Bresee, J., Cranor, L. F., & Reeder, R. W. (2009). A "nutrition label" for privacy. In *Proceedings of the 5th Symposium on Usable Privacy and Security (SOUPS '09)*. ACM. https://doi.org/10.1145/1572532.1572538
+- Litman-Navarro, K. (2019, 12. Juni). We read 150 privacy policies. They were an incomprehensible disaster. *The New York Times*. https://www.nytimes.com/interactive/2019/06/12/opinion/facebook-google-privacy-policies.html
 - McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
-- Obar, J. A., & Oeldorf-Hirsch, A. (2020). The biggest lie on the internet: Ignoring the privacy policies and terms of service policies of social networking services. *Information, Communication & Society*, 23(1), 128-147.
+- Nouwens, M., Liccardi, I., Veale, M., Karger, D., & Kagal, L. (2020). Dark patterns after the GDPR: Scraping consent pop-ups and demonstrating their influence. In *Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems* (pp. 1-13). ACM. https://doi.org/10.1145/3313831.3376321
+- Norberg, P. A., Horne, D. R., & Horne, D. A. (2007). The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs*, 41(1), 100-126. https://doi.org/10.1111/j.1745-6606.2006.00070.x
+- Obar, J. A., & Oeldorf-Hirsch, A. (2020). The biggest lie on the internet: Ignoring the privacy policies and terms of service policies of social networking services. *Information, Communication & Society*, 23(1), 128-147. https://doi.org/10.1080/1369118X.2018.1486870
+- Pew Research Center. (2019). *Americans and privacy: Concerned, confused and feeling lack of control over their personal information*. https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/
+- Reidenberg, J. R., Breaux, T., Cranor, L. F., French, B. M., Grannis, A., Graves, J. T., Liu, F., McDonald, A., Norton, T. B., Ramanath, R., Russell, N. C., Sadeh, N., & Schaub, F. (2015). Disagreeable privacy policies: Mismatches between meaning and users' understanding. *Berkeley Technology Law Journal*, 30(1), 39-88.
+- Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2015). A design space for effective privacy notices. In *Eleventh Symposium on Usable Privacy and Security (SOUPS 2015)* (pp. 1-17). USENIX.
+- Schermer, B. W., Custers, B., & van der Hof, S. (2014). The crisis of consent: How stronger legal protection may lead to weaker consent in data protection. *Ethics and Information Technology*, 16(2), 171-182. https://doi.org/10.1007/s10676-014-9343-8
+- Utz, C., Degeling, M., Fahl, S., Schaub, F., & Holz, T. (2019). (Un)informed consent: Studying GDPR consent notices in the field. In *Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security* (pp. 973-990). https://doi.org/10.1145/3319535.3354212
 
 ### Verhaltensökonomie
 - Gigerenzer, G., & Todd, P. M. (1999). *Simple heuristics that make us smart*. Oxford University Press.
@@ -422,3 +370,13 @@ Das nächste Kapitel wird zeigen, wie manche Akteure diese Überforderung geziel
 - Roßnagel, A. (2018). Das neue Datenschutzrecht: Europäische Datenschutz-Grundverordnung und deutsche Datenschutzgesetze. *Nomos*.
 - Solove, D. J. (2008). *Understanding privacy*. Harvard University Press.
 - Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+
+### Datengovernance und PIMS
+- Delacroix, S., & Lawrence, N. D. (2019). Bottom-up data trusts: Disturbing the 'one size fits all' approach to data governance. *International Data Privacy Law*, 9(4), 236-252. https://doi.org/10.1093/idpl/ipz014
+- Europäischer Datenschutzbeauftragter (EDPS). (2020). *TechDispatch #3/2020: Personal Information Management Systems*. https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/techdispatch-32020-personal-information_en
+- Findata. (2025). *Annual report 2024*. Finnish Social and Health Data Permit Authority. https://findata.fi/en/annual-report-2024/
+- Janssen, H., & Singh, J. (2022). Personal information management systems. *SSRN Working Paper*. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4086871
+
+### Marketing-Stunts (Pressequellen)
+- Pinsent Masons Out-Law. (2010, 16. April). *Nobody reads terms and conditions: it's official*. https://www.pinsentmasons.com/out-law/news/nobody-reads-terms-and-conditions-its-official
+- The Register. (2017, 13. Juli). *Wi-Fi firm Purple sneaks 'community service' clause into its T&Cs*. https://www.theregister.com/2017/07/13/purple_community_service_clause/

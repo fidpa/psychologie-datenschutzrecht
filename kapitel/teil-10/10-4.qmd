@@ -140,7 +140,7 @@ Systeme sollten so gestaltet sein, dass sie menschliche Fähigkeiten erweitern, 
 
 Der AI Act fordert umfassende Transparenz. Diese reicht von der Kennzeichnung KI-generierter Inhalte über die Information bei KI-Interaktionen bis zur Bereitstellung verständlicher Informationen über Hochrisiko-Systeme. Diese Transparenzpflichten basieren auf der Annahme, dass Information zu informierten Entscheidungen führt (← vgl. Kapitel 4.4). Die psychologische Realität ist komplexer.
 
-These 13 warnt vor dem exponentiellen Transparenz- und Kontrollproblem bei KI-Systemen. Die schiere Menge an Information, die für echte Transparenz nötig ist, übersteigt menschliche Verarbeitungskapazitäten bei weitem. Prof. Krüger's Forschung zu Transparenz-Effekten zeigt paradoxe Ergebnisse:
+These 13 warnt vor dem exponentiellen Transparenz- und Kontrollproblem bei KI-Systemen. Die schiere Menge an Information, die für echte Transparenz nötig ist, übersteigt menschliche Verarbeitungskapazitäten bei weitem. Prof. Miriam Krügers Forschung zu Transparenz-Effekten zeigt paradoxe Ergebnisse:
 
 "Wir testeten verschiedene Transparenzniveaus bei KI-Systemen. Minimale Transparenz führte zu Misstrauen. Moderate Transparenz erhöhte Vertrauen und Verständnis. Aber maximale Transparenz – alle technischen Details offengelegt – führte zu Überforderung, Verwirrung und letztlich wieder zu sinkendem Vertrauen. Es gibt ein Transparenz-Optimum, das die Regulierung nicht erfasst."
 
@@ -307,52 +307,28 @@ Die nächste Generation der KI-Regulierung wird stärker psychologisch fundiert 
 
 ## Quellenangaben für Kapitel 10.4
 
-Acquisti, A., Brandimarte, L., & Loewenstein, G. (2020). Secrets and likes: The drive for privacy and the difficulty of achieving it in the digital age. *Journal of Consumer Psychology*, 30(4), 736-758.
-
-Bradford, A. (2023). Digital empires: The global battle to regulate technology. Oxford University Press.
-
-Busch, C. (2021). Algorithmic accountability in the European Union. *European Journal of Risk Regulation*, 12(2), 344-366.
-
-Cialdini, R. B. (2021). *Influence: The psychology of persuasion* (Revised edition). Harper Business.
-
-De Gregorio, G., & Dunn, P. (2022). The European risk-based approaches: Connecting constitutional dots in the digital age. *Common Market Law Review*, 59(2), 473-500.
-
-Edwards, L., & Veale, M. (2018). Enslaving the algorithm: From a 'right to an explanation' to a 'right to better decisions'? *IEEE Security & Privacy*, 16(3), 46-54.
-
-Enarsson, T., Enqvist, L., & Naarttijärvi, M. (2022). Approaching the human in the loop – legal perspectives on hybrid human/algorithmic decision-making in three contexts. *Information & Communications Technology Law*, 31(1), 123-153.
-
-Floridi, L., Holweg, M., Taddeo, M., Amaya Silva, J., Mökander, J., & Wen, Y. (2022). capAI - A procedure for conducting conformity assessment of AI systems in line with the EU artificial intelligence act. *SSRN Electronic Journal*.
-
-Hacker, P. (2023). The European AI liability directives – Critique of a half-hearted approach and lessons for the future. *Computer Law & Security Review*, 51, 105871.
-
-Helberger, N., Lynskey, O., Micklitz, H. W., Rott, P., Sax, M., & Strycharz, J. (2021). EU consumer protection 2.0: Structural asymmetries in digital consumer markets. *BEUC Report*.
-
-Kaminski, M. E. (2019). The right to explanation, explained. *Berkeley Technology Law Journal*, 34(1), 189-218.
-
-Krafft, T. D., Zweig, K. A., & König, P. D. (2022). How to regulate algorithmic decision-making: A framework of regulatory requirements for different applications. *Regulation & Governance*, 16(1), 119-136.
-
-Mantelero, A. (2022). Beyond data protection: The broader scope of the EU's regulatory approach to AI. *Computer Law & Security Review*, 45, 105667.
-
-Mökander, J., Juneja, P., Watson, D. S., & Floridi, L. (2022). The US algorithmic accountability act of 2022 vs. the EU artificial intelligence act: What can they learn from each other? *Minds and Machines*, 32(4), 751-758.
-
-Müller, V. C. (2020). Ethics of artificial intelligence and robotics. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. Stanford University.
-
-Novelli, C., Taddeo, M., & Floridi, L. (2023). Accountability in artificial intelligence: What it is and how it works. *AI & Society*, 1-12.
-
-Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency* (pp. 33-44).
-
-Sætra, H. S. (2023). The AI act and the problem of law. *AI and Ethics*, 3(1), 153-163.
-
-Smuha, N. A. (2021). From a 'race to AI' to a 'race to AI regulation': Regulatory competition for artificial intelligence. *Law, Innovation and Technology*, 13(1), 57-84.
-
-Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G. (2004). Risk as analysis and risk as feelings: Some thoughts about affect, reason, risk, and rationality. *Risk Analysis*, 24(2), 311-322.
-
-Stahl, B. C., & Wright, D. (2018). Ethics and privacy in AI and big data: Implementing responsible research and innovation. *IEEE Security & Privacy*, 16(3), 26-33.
-
-Veale, M., & Borgesius, F. Z. (2021). Demystifying the draft EU artificial intelligence act. *Computer Law Review International*, 22(4), 97-112.
-
-Wachter, S., Mittelstadt, B., & Russell, C. (2021). Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI. *Computer Law & Security Review*, 41, 105567.
-
-Wagner, B. (2019). Liable, but not in control? Ensuring meaningful human agency in automated decision-making systems. *Policy & Internet*, 11(1), 104-122.
-
-Yeung, K. (2020). Recommendation of the council on artificial intelligence (OECD). *International Legal Materials*, 59(1), 27-34.
+- **Acquisti, A., Brandimarte, L., & Loewenstein, G.** (2020). Secrets and likes: The drive for privacy and the difficulty of achieving it in the digital age. *Journal of Consumer Psychology, 30*(4), 736-758.
+- **Bradford, A.** (2023). *Digital empires: The global battle to regulate technology*. Oxford University Press.
+- **Busch, C.** (2021). Algorithmic accountability in the European Union. *European Journal of Risk Regulation, 12*(2), 344-366.
+- **Cialdini, R. B.** (2021). *Influence: The psychology of persuasion* (Revised edition). Harper Business.
+- **De Gregorio, G., & Dunn, P.** (2022). The European risk-based approaches: Connecting constitutional dots in the digital age. *Common Market Law Review, 59*(2), 473-500.
+- **Edwards, L., & Veale, M.** (2018). Enslaving the algorithm: From a 'right to an explanation' to a 'right to better decisions'? *IEEE Security & Privacy, 16*(3), 46-54.
+- **Enarsson, T., Enqvist, L., & Naarttijärvi, M.** (2022). Approaching the human in the loop – legal perspectives on hybrid human/algorithmic decision-making in three contexts. *Information & Communications Technology Law, 31*(1), 123-153.
+- **Floridi, L., Holweg, M., Taddeo, M., Amaya Silva, J., Mökander, J., & Wen, Y.** (2022). capAI - A procedure for conducting conformity assessment of AI systems in line with the EU artificial intelligence act. *SSRN Electronic Journal*.
+- **Hacker, P.** (2023). The European AI liability directives – Critique of a half-hearted approach and lessons for the future. *Computer Law & Security Review, 51*, 105871.
+- **Helberger, N., Lynskey, O., Micklitz, H. W., Rott, P., Sax, M., & Strycharz, J.** (2021). EU consumer protection 2.0: Structural asymmetries in digital consumer markets. *BEUC Report*.
+- **Kaminski, M. E.** (2019). The right to explanation, explained. *Berkeley Technology Law Journal, 34*(1), 189-218.
+- **Krafft, T. D., Zweig, K. A., & König, P. D.** (2022). How to regulate algorithmic decision-making: A framework of regulatory requirements for different applications. *Regulation & Governance, 16*(1), 119-136.
+- **Mantelero, A.** (2022). Beyond data protection: The broader scope of the EU's regulatory approach to AI. *Computer Law & Security Review, 45*, 105667.
+- **Mökander, J., Juneja, P., Watson, D. S., & Floridi, L.** (2022). The US algorithmic accountability act of 2022 vs. the EU artificial intelligence act: What can they learn from each other? *Minds and Machines, 32*(4), 751-758.
+- **Müller, V. C.** (2020). Ethics of artificial intelligence and robotics. In E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy*. Stanford University.
+- **Novelli, C., Taddeo, M., & Floridi, L.** (2023). Accountability in artificial intelligence: What it is and how it works. *AI & Society*, 1-12.
+- **Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... & Barnes, P.** (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency* (pp. 33-44).
+- **Sætra, H. S.** (2023). The AI act and the problem of law. *AI and Ethics, 3*(1), 153-163.
+- **Smuha, N. A.** (2021). From a 'race to AI' to a 'race to AI regulation': Regulatory competition for artificial intelligence. *Law, Innovation and Technology, 13*(1), 57-84.
+- **Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G.** (2004). Risk as analysis and risk as feelings: Some thoughts about affect, reason, risk, and rationality. *Risk Analysis, 24*(2), 311-322.
+- **Stahl, B. C., & Wright, D.** (2018). Ethics and privacy in AI and big data: Implementing responsible research and innovation. *IEEE Security & Privacy, 16*(3), 26-33.
+- **Veale, M., & Borgesius, F. Z.** (2021). Demystifying the draft EU artificial intelligence act. *Computer Law Review International, 22*(4), 97-112.
+- **Wachter, S., Mittelstadt, B., & Russell, C.** (2021). Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI. *Computer Law & Security Review, 41*, 105567.
+- **Wagner, B.** (2019). Liable, but not in control? Ensuring meaningful human agency in automated decision-making systems. *Policy & Internet, 11*(1), 104-122.
+- **Yeung, K.** (2020). Recommendation of the council on artificial intelligence (OECD). *International Legal Materials, 59*(1), 27-34.

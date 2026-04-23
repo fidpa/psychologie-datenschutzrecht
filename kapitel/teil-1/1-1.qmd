@@ -63,7 +63,7 @@ Der **[Status-quo-Bias]** verstärkt die Tendenz, bei Standardeinstellungen zu b
 
 **Das Paradox der Wahl**
 
-Barry Schwartz' "Paradox of Choice" manifestiert sich auch im Datenschutz. Die schiere Anzahl an Optionen, Einstellungen und Entscheidungen führt zu **[Choice Overload]** (Entscheidungsüberlastung). Die Reaktion? Nutzer wählen den Standardweg, meist zugunsten maximaler Datensammlung.
+Barry Schwartz' „Paradox of Choice" (Schwartz, 2004) manifestiert sich auch im Datenschutz. Die schiere Anzahl an Optionen, Einstellungen und Entscheidungen führt zu **[Choice Overload]** (Entscheidungsüberlastung). Die Reaktion? Nutzer wählen den Standardweg, meist zugunsten maximaler Datensammlung.
 
 Ein aufschlussreiches Experiment: Forscher boten Testpersonen eine App mit entweder 3 oder 30 Datenschutzoptionen an. Bei 3 Optionen passten 67% ihre Einstellungen an, bei 30 Optionen nur noch 12% (Choe et al., 2013). Mehr Wahlmöglichkeiten führten paradoxerweise zu weniger Privatsphäre.
 
@@ -111,7 +111,7 @@ Die mangelnde **[Interdisziplinarität]** führte zu zahlreichen Fehlentwicklung
 3. **Komplexitätsfalle**: Juristische Präzision erzeugte immer detailliertere Regelungen. Die psychologische Realität: Menschen schalten bei Komplexität ab.
 
 > **Infobox: Die Kosten der Disziplintrennung**
-> Eine Metaanalyse von 2023 schätzt: Hätte man psychologische Erkenntnisse von Anfang an in die Datenschutzregulierung integriert, ließen sich jährlich Schäden von 4,2 Milliarden Euro durch Datenmissbrauch vermeiden (Acquisti et al., 2023). Die "Reibungsverluste" durch unwirksame Schutzmaßnahmen werden auf weitere 2,8 Milliarden Euro geschätzt.
+> Wie teuer der Bruch zwischen rechtlicher Pflicht und psychologischer Realität ist, lässt sich beispielhaft an Datenschutzerklärungen zeigen. McDonald und Cranor (2008) hochgerechnet: Würde jede:r US-Nutzer:in alle im Jahr begegneten Datenschutzerklärungen einmal vollständig lesen, summierte sich der volkswirtschaftliche Opportunitätskostenwert auf rund 781 Milliarden US-Dollar pro Jahr. Obar und Oeldorf-Hirsch (2020) dokumentierten das korrespondierende Verhalten: In ihrem Experiment akzeptierten 97,7 % der Teilnehmer:innen die fiktiven Nutzungsbedingungen einer Social-Network-Attrappe, die unter anderem die Überlassung des erstgeborenen Kindes verlangten; 74 % überblätterten die Texte ganz. Rechtliche Pflichten ohne psychologische Passung erzeugen also nicht Selbstbestimmung, sondern teure Dokumentationsfassaden.
 
 **Erste Brückenschläge**
 
@@ -123,7 +123,7 @@ Erst in den letzten Jahren entstehen zaghafte Verbindungen:
 | **[Privacy by Design]** (→ siehe Kapitel 13.1) | Ann Cavoukian's Konzept berücksichtigt menschliche Faktoren |
 | **DSGVO-Evaluierung** | Erste Stimmen fordern verhaltenspsychologische Anpassungen |
 
-Ein Hoffnungsschimmer: Die Artikel-29-Datenschutzgruppe empfahl 2018 erstmals explizit die Berücksichtigung von "Erkenntnissen aus der Verhaltensforschung" bei der Gestaltung von Einwilligungsmechanismen. Ein später, aber wichtiger Schritt.
+Ein Hoffnungsschimmer: Die Artikel-29-Datenschutzgruppe empfahl 2018 erstmals explizit die Berücksichtigung von „Erkenntnissen aus der Verhaltensforschung" bei der Gestaltung von Einwilligungsmechanismen (Artikel-29-Datenschutzgruppe, 2018). Ein später, aber wichtiger Schritt.
 
 **Internationale Perspektiven**
 
@@ -145,7 +145,7 @@ Datenschutzskandale sind nicht nur technische oder rechtliche Versagen – sie s
 
 Die Methode war perfide einfach: Ein Persönlichkeitstest ("This Is Your Digital Life") lockte Nutzer mit dem Versprechen, etwas über sich selbst zu erfahren. Die **Selbstoffenbarungstendenz**, ein gut dokumentiertes psychologisches Phänomen, wurde ausgenutzt. Menschen teilen bereitwillig persönliche Informationen, wenn sie dafür Einblicke in ihre Persönlichkeit erhalten.
 
-Nur 270.000 Personen nahmen direkt teil, doch durch die Netzwerkeffekte wurden Daten von 87 Millionen Menschen abgegriffen. Die psychologische Erklärung: **Soziale Ansteckung** (*social contagion*). Wenn Freunde an etwas teilnehmen, sinkt die eigene Skepsis.
+Nur 270.000 Personen nahmen direkt teil (Cadwalladr & Graham-Harrison, 2018), doch durch die Netzwerkeffekte wurden Daten von 87 Millionen Menschen abgegriffen (Reuters, 2018). Die psychologische Erklärung: **Soziale Ansteckung** (*social contagion*). Wenn Freunde an etwas teilnehmen, sinkt die eigene Skepsis.
 
 Entscheidend war die psychografische Analyse. Durch die Kombination von Facebook-Likes mit Persönlichkeitsmodellen konnten präzise psychologische Profile erstellt werden. Diese ermöglichten **[Mikrotargeting]**, maßgeschneiderte Manipulation basierend auf individuellen psychologischen Schwachstellen.
 
@@ -192,7 +192,7 @@ Die Dualität des Menschen im Datenschutz ist unauflösbar: Wir sind gleichzeiti
 
 In der IT-Sicherheit gilt: Die größte Schwachstelle sitzt vor dem Bildschirm. Diese Erkenntnis trifft besonders auf den Datenschutz zu:
 
-**[Social Engineering]** nutzt menschliche Schwächen systematisch aus. Kevin Mitnick, berühmtester Social Engineer, betonte stets: "Der Mensch ist das schwächste Glied. Man kann noch so viel Technologie, Firewalls und Verschlüsselung haben – wenn man einen Mitarbeiter anruft und nach seinem Passwort fragt, war alles umsonst."
+**[Social Engineering]** nutzt menschliche Schwächen systematisch aus. Kevin Mitnick, berühmtester Social Engineer, betonte stets, der Mensch sei das schwächste Glied: Selbst perfekte Technologie, Firewalls und Verschlüsselung helfen nicht, wenn ein Mitarbeiter am Telefon sein Passwort herausgibt (Mitnick & Simon, 2002, Kap. 1).
 
 Die psychologischen Angriffsvektoren sind vielfältig:
 | Item | Beschreibung |
@@ -226,13 +226,13 @@ Jede Ebene bietet Angriffsflächen für Datensammlung. Unternehmen, die diese Be
 
 Gleichzeitig ist der Mensch das zentrale Schutzobjekt des Datenschutzes. Aber was genau schützen wir?
 
-**Psychologische Integrität**: Datenschutz schützt nicht nur Daten, sondern psychisches Wohlbefinden. Studien zeigen klare Zusammenhänge zwischen Datenschutzverletzungen und:
+**Psychologische Integrität**: Datenschutz schützt nicht nur Daten, sondern psychisches Wohlbefinden. Studien zeigen klare Zusammenhänge zwischen Datenschutzverletzungen und psychologischen Folgen (Acquisti et al., 2015; Kilovaty, 2021; Solove & Citron, 2017):
 - Erhöhtem Stresslevel
 - Vertrauensverlust in digitale Systeme
 - Gefühlen von Machtlosigkeit
 - Identitätskrisen bei Datenmissbrauch
 
-**Autonomie und Selbstbestimmung**: Die Möglichkeit, selbst zu entscheiden, welche Aspekte der eigenen Person man preisgibt, ist unverzichtbar für psychische Gesundheit. Der Verlust dieser Kontrolle führt zu **erlernter Hilflosigkeit**, einem Zustand, in dem Menschen aufgeben, ihre Situation zu beeinflussen.
+**Autonomie und Selbstbestimmung**: Die Möglichkeit, selbst zu entscheiden, welche Aspekte der eigenen Person man preisgibt, ist unverzichtbar für psychische Gesundheit. Der Verlust dieser Kontrolle führt zu **erlernter Hilflosigkeit** (Seligman, 1975), einem Zustand, in dem Menschen aufgeben, ihre Situation zu beeinflussen.
 
 **Entwicklungsräume**: Besonders für junge Menschen sind geschützte Räume essentiell. Die Möglichkeit, Fehler zu machen, verschiedene Identitäten auszuprobieren und sich zu entwickeln, erfordert ein gewisses Maß an Privatheit. Totale Transparenz verhindert gesunde Entwicklung.
 
@@ -303,13 +303,22 @@ Der Weg zu einem menschenzentrierten Datenschutz beginnt mit der Erkenntnis: Wir
 
 ## Quellenangaben für Kapitel 1.1
 
-- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2023). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
+- Artikel-29-Datenschutzgruppe. (2018). *Leitlinien zur Einwilligung gemäß Verordnung 2016/679*, WP 259 rev.01. Europäische Kommission.
+- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514. https://doi.org/10.1126/science.aaa1394
 - Bitkom. (2023). *Digitale Sicherheit und Datenschutz: Ergebnisse der repräsentativen Bevölkerungsumfrage 2023*. Bitkom Research.
+- Cadwalladr, C., & Graham-Harrison, E. (2018). Revealed: 50 million Facebook profiles harvested for Cambridge Analytica in major data breach. *The Guardian*, March 17, 2018.
 - Choe, E. K., Jung, J., Lee, B., & Fisher, K. (2013). Nudging people away from privacy-invasive mobile apps through visual framing. In *Human-Computer Interaction – INTERACT 2013* (pp. 74-91). Springer.
 - Datatilsynet. (2016). *Privacy notices: A usability study of privacy notices in mobile apps*. Norwegian Data Protection Authority.
 - Degeling, M., Utz, C., Lentzsch, C., Hosseini, H., Schaub, F., & Holz, T. (2018). We value your privacy ... now take some cookies: Measuring the GDPR's impact on web privacy. In *Proceedings of the 2018 Network and Distributed System Security Symposium*.
 - FBI IC3. (2022). *Internet Crime Report 2022*. FBI Internet Crime Complaint Center.
+- Kilovaty, I. (2021). Psychological data breach harms. *North Carolina Journal of Law & Technology, 23*(1). https://doi.org/10.2139/ssrn.3785734
+- Kosinski, M., Stillwell, D., & Graepel, T. (2013). Private traits and attributes are predictable from digital records of human behavior. *Proceedings of the National Academy of Sciences, 110*(15), 5802-5805. https://doi.org/10.1073/pnas.1218772110
 - McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy*, 4(3), 543-568.
+- Mitnick, K. D., & Simon, W. L. (2002). *The art of deception: Controlling the human element of security*. Wiley.
 - Obar, J. A., & Oeldorf-Hirsch, A. (2020). The biggest lie on the internet: Ignoring the privacy policies and terms of service policies of social networking services. *Information, Communication & Society*, 23(1), 128-147.
 - PDPC Singapore. (2019). *Privacy Trust Mark: Implementation Guide*. Personal Data Protection Commission Singapore.
+- Reuters. (2018). Facebook says data leak hits 87 million users, widening privacy scandal. https://www.reuters.com/article/us-facebook-privacy/facebook-says-cambridge-analytica-may-have-had-data-on-87-million-people-idUSKCN1HB2CM/
 - Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2020). A design space for effective privacy notices. In *Proceedings of the 11th Symposium on Usable Privacy and Security* (pp. 1-17).
+- Schwartz, B. (2004). *The paradox of choice: Why more is less*. HarperCollins.
+- Seligman, M. E. P. (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
+- Solove, D. J., & Citron, D. K. (2017). Risk and anxiety: A theory of data breach harms. *Texas Law Review, 96*(4), 737-786.

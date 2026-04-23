@@ -45,13 +45,13 @@ Felix Hartmann, der als Data Analyst die Bedeutung von Datenkompetenz täglich e
 
 Die Verfügbarkeit nutzerfreundlicher Tools ist ein Gamechanger für Datenschutz-Empowerment. Wo früher technische Expertise nötig war, ermöglichen moderne Privacy-Tools auch Laien effektiven Selbstschutz. Der Schlüssel liegt in der Gestaltung: Tools müssen die **kognitiven Grenzen** der Nutzer respektieren (→ siehe Kapitel 2.2) und gleichzeitig echte Kontrolle ermöglichen.
 
-Die Evolution der Privacy-Tools zeigt einen klaren Trend: Von komplex zu einfach, von reaktiv zu proaktiv, von isoliert zu integriert. Frühe Tools wie PGP-Verschlüsselung scheiterten an der Komplexität. Studien zeigen, dass selbst IT-Experten bei der Einrichtung Fehler machten. Moderne Tools wie Signal oder ProtonMail haben Verschlüsselung so vereinfacht, dass sie "einfach funktioniert", ohne dass Nutzer kryptografische Details verstehen müssen.
+Die Evolution der Privacy-Tools zeigt einen klaren Trend: Von komplex zu einfach, von reaktiv zu proaktiv, von isoliert zu integriert. Frühe Tools wie PGP-Verschlüsselung scheiterten an der Komplexität. Bereits die klassische Usability-Evaluation von PGP 5.0 zeigte, dass selbst computertechnisch versierte Nutzer in einem kontrollierten Test mit typischen Aufgaben wie Schlüsselaustausch und Signaturprüfung reihenweise scheiterten (Whitten & Tygar, 1999). Moderne Tools wie Signal oder ProtonMail haben Verschlüsselung so vereinfacht, dass sie unsichtbar im Hintergrund läuft, ohne dass Nutzer kryptografische Details verstehen müssen.
 
 Besonders erfolgreich sind Tools, die **Privacy Nudges** implementieren (Thaler & Sunstein, 2008). Die App "Jumbo" beispielsweise scannt automatisch die Privacy-Einstellungen verschiedener Dienste und schlägt Verbesserungen vor. Mit einem Klick können Nutzer alte Tweets löschen, Facebook-Privatsphäre erhöhen oder Tracker blockieren. Die überwiegende Mehrheit der Nutzer nimmt vorgeschlagene Änderungen vor und verbessert damit ihren Datenschutz messbar — ein deutlicher Beleg für die Wirksamkeit gut gestalteter Entscheidungsarchitekturen.
 
 Browser-Erweiterungen wie Privacy Badger oder uBlock Origin demokratisieren den Tracking-Schutz. Sie arbeiten im Hintergrund, lernen aus dem Nutzerverhalten und blockieren invasive Tracker automatisch. Die psychologische Wirkung ist bedeutsam: Nutzer sehen in Echtzeit, wie viele Tracker blockiert werden, was das Bewusstsein für die Allgegenwärtigkeit des Trackings schärft und gleichzeitig ein Gefühl der Kontrolle vermittelt. Dieses sichtbare Feedback ist kein Beiwerk, sondern der eigentliche Empowerment-Mechanismus. Wer erlebt, dass sein Handeln messbare Wirkung hat, handelt öfter.
 
-**Personal Information Management Systems (PIMS)** repräsentieren die nächste Evolutionsstufe. Diese Tools geben Nutzern eine zentrale Kontrolle über alle ihre Daten. Sie können sehen, wer welche Daten hat, Berechtigungen verwalten und Löschanfragen automatisiert versenden. Die EU fördert solche Systeme als Teil ihrer Datenstrategie – mit gutem Grund. Untersuchungen zeigen, dass PIMS-Nutzer ihre Datenschutzrechte deutlich häufiger wahrnehmen als Nutzer ohne solche Systeme (Europäische Kommission, 2024). Der Unterschied liegt in der Sichtbarkeit: Wer weiß, was mit seinen Daten geschieht, fragt auch öfter nach und setzt das Recht auf Auskunft, Berichtigung und Löschung tatsächlich um.
+**Personal Information Management Systems (PIMS)** repräsentieren die nächste Evolutionsstufe. Diese Tools geben Nutzern eine zentrale Kontrolle über alle ihre Daten. Sie können sehen, wer welche Daten hat, Berechtigungen verwalten und Löschanfragen automatisiert versenden. Die EU fördert solche Systeme als Teil ihrer Datenstrategie – mit gutem Grund. Konzeptionelle Analysen legen nahe, dass PIMS das Potenzial haben, die aktive Wahrnehmung von Datenschutzrechten strukturell zu erleichtern, weil sie Transparenz und Zugriff bündeln (Janssen & Singh, 2022). Der Unterschied liegt in der Sichtbarkeit: Wer weiß, was mit seinen Daten geschieht, fragt auch öfter nach und setzt das Recht auf Auskunft, Berichtigung und Löschung eher tatsächlich um.
 
 > **Infobox: Progressive Disclosure**
 >
@@ -67,7 +67,7 @@ Die rechtlichen Grundlagen existieren: Die **[DSGVO]** ermöglicht in Artikel 80
 
 **Fallbeispiel**: NOYB — Kollektive Macht in Aktion
 
-Die österreichische Organisation NOYB (None Of Your Business) hat mit strategischen Klagen Datenschutzgeschichte geschrieben. Durch die Bündelung tausender Einzelbeschwerden zwangen sie Tech-Giganten in die Knie. Der psychologische Effekt ist enorm: Aus ohnmächtigen Einzelnen werden mächtige Kollektive. Koordiniertes Vorgehen steigert die Erfolgsaussichten gegenüber isolierten Einzelklagen erheblich — ein Muster, das der NOYB Collective Actions Report (2024) dokumentiert und das die EDPB in ihrem Annual Report (2024) bestätigt.
+Die österreichische Organisation NOYB (None Of Your Business) hat mit strategischen Klagen Datenschutzgeschichte geschrieben. Durch die Bündelung tausender Einzelbeschwerden zwangen sie Tech-Giganten in die Knie. Der psychologische Effekt ist enorm: Aus ohnmächtigen Einzelnen werden mächtige Kollektive. Koordiniertes Vorgehen kann die Erfolgsaussichten gegenüber isolierten Einzelklagen erheblich steigern — ein Muster, das NOYB in seinem Jahresbericht für 2024 (36 neue Beschwerden, kumuliert €1,69 Mrd. GDPR-Bußgelder seit 2018) und mit der Qualifizierung als Collective-Redress-Entity in Österreich und Irland illustriert (NOYB, 2024).
 
 Die Digitalisierung ermöglicht neue Formen kollektiver Organisation. Plattformen wie "Privacy Collective" in den Niederlanden nutzen Smart Contracts, um Betroffene automatisch zu vernetzen. Erreicht eine Beschwerde kritische Masse, wird automatisch rechtlicher Beistand organisiert. Die Transaktionskosten sinken erheblich, die Erfolgsaussichten steigen.
 
@@ -104,7 +104,7 @@ Besonders effektiv sind soziale Spielelemente. Team-Challenges ("Welche Abteilun
 
 Menschen lernen am besten von Menschen. Diese uralte Weisheit gilt besonders im Datenschutz. Peer-to-Peer-Unterstützung überwindet Barrieren, die formelle Bildung nicht durchdringen kann: Misstrauen gegenüber Autoritäten, Scham über eigene "Dummheit", Angst vor Blamage. In der Peer-Group werden aus diesen Barrieren Brücken.
 
-Die Wirksamkeit von Peer-Learning im Datenschutz ist empirisch belegt. Menschen, die Datenschutztipps von Freunden erhalten, setzen diese deutlich häufiger um als bei Expertentipps. Der Grund liegt in der **[sozialen Bewährtheit]** (→ siehe Kapitel 2.5), wenn "jemand wie ich" etwas schafft, glaube ich, es auch zu können. Die parasoziale Distanz zu Experten entfällt, Identifikation wird möglich.
+Die Wirksamkeit von Peer-Learning ist in der Bildungsforschung breit belegt: Eine große Review-Arbeit fasst mehr als zwei Jahrzehnte Forschung zusammen und zeigt, dass Peer-Tutoring, Cooperative Learning und Peer-Assessment unter günstigen Bedingungen robust lernwirksam sind (Topping, 2005). Übertragen auf den Datenschutz bedeutet das: Menschen, die Datenschutztipps von Freunden erhalten, setzen diese tendenziell eher um als Tipps aus anonymen Experten-Quellen. Der Grund liegt in der **[sozialen Bewährtheit]** (→ siehe Kapitel 2.5), wenn "jemand wie ich" etwas schafft, glaube ich, es auch zu können. Die parasoziale Distanz zu Experten entfällt, Identifikation wird möglich.
 
 Erfolgreiche Peer-Communities folgen bestimmten Prinzipien:
 
@@ -151,20 +151,17 @@ Das Zeitalter der digitalen Unmündigkeit kann enden, wenn wir Empowerment ernst
 
 ### Digitale Kompetenzen und Bildung
 
-Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.
-
-Deterding, S., Dixon, D., Khaled, R., & Nacke, L. (2011). From game design elements to gamefulness: Defining "gamification". In *Proceedings of the 15th International Academic MindTrek Conference* (pp. 9-15).
-
-Eurostat (2023). *Digital Skills Statistics 2023*. Luxemburg: Amt für Veröffentlichungen der Europäischen Union.
-
-Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
+- **Deci, E. L., & Ryan, R. M.** (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. https://doi.org/10.1207/s15327965pli1104_01
+- **Deterding, S., Dixon, D., Khaled, R., & Nacke, L.** (2011). From game design elements to gamefulness: Defining "gamification". In *Proceedings of the 15th International Academic MindTrek Conference* (pp. 9–15). ACM. https://doi.org/10.1145/2181037.2181040
+- **Eurostat.** (2023). *Digital skills in 2023: impact of education and age* [Eurostat News, 22.02.2024]. https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20240222-1
+- **Thaler, R. H., & Sunstein, C. R.** (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
+- **Topping, K. J.** (2005). Trends in peer learning. *Educational Psychology, 25*(6), 631–645. https://doi.org/10.1080/01443410500345172
 
 ### Rechtsdurchsetzung und Kollektive Maßnahmen
 
-Europäische Datenschutzbehörde (2024). *Annual Report on Collective Privacy Actions*. Brüssel: EDPB.
-
-NOYB (2024). *Collective Actions Report 2024*. Wien: None of Your Business.
+- **NOYB.** (2024). *Annual Report 2024*. Wien: None of Your Business. https://noyb.eu/sites/default/files/2025-07/Annual_Report_2024_EN.pdf
 
 ### Technologie und Privacy Tools
 
-Europäische Kommission (2024). *Personal Information Management Systems: Adoption and Impact Study*. Brüssel: Europäische Kommission.
+- **Janssen, H., & Singh, J.** (2022). Personal information management systems. *Internet Policy Review, 11*(2). https://policyreview.info/glossary/personal-information-management-systems
+- **Whitten, A., & Tygar, J. D.** (1999). Why Johnny can't encrypt: A usability evaluation of PGP 5.0. In *Proceedings of the 8th USENIX Security Symposium* (Vol. 8, p. 14). https://www.usenix.org/conference/8th-usenix-security-symposium/why-johnny-cant-encrypt-usability-evaluation-pgp-50

@@ -9,7 +9,7 @@
 - [9.2.5 Storytelling im Datenschutz](#9-2-5-storytelling-im-datenschutz)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-"Die Zahlen sprechen für sich", beginnt Dr. Annika Sommer ihre Präsentation vor dem Vorstand des Universitätsklinikums Hamburg. Doch schon nach zwei Minuten sieht sie die vertrauten Anzeichen: Der CFO schaut auf sein Smartphone, die Leiterin der Chirurgie unterdrückt ein Gähnen. Ihre detaillierte Analyse der [**DSGVO**]-Anforderungen verfehlt ihr Ziel. Nach zehn Jahren als DSB weiß sie: Fakten allein bewegen niemanden. Als sie stattdessen erzählt, wie ein Krankenhaus in Bayern nach einem Datenleck 40% seiner Privatpatienten verlor, sind plötzlich alle Augen auf sie gerichtet.
+"Die Zahlen sprechen für sich", beginnt Dr. Annika Sommer ihre Präsentation vor dem Vorstand des Universitätsklinikums Hamburg. Doch schon nach zwei Minuten sieht sie die vertrauten Anzeichen: Der CFO schaut auf sein Smartphone, die Leiterin der Chirurgie unterdrückt ein Gähnen. Ihre detaillierte Analyse der [**DSGVO**]-Anforderungen verfehlt ihr Ziel. Nach zehn Jahren als DSB weiß sie: Fakten allein bewegen niemanden. Als sie stattdessen erzählt, wie ein Krankenhaus in Bayern nach einem Datenleck einen erheblichen Teil seiner Privatpatienten verlor, sind plötzlich alle Augen auf sie gerichtet.
 
 Kommunikation ist die Achillesferse des Datenschutzes. Während juristische Expertise und technisches Verständnis als Kernkompetenzen gelten, scheitern die meisten Datenschutzinitiativen an ineffektiver Kommunikation. Die Fähigkeit, komplexe Sachverhalte zielgruppengerecht zu übersetzen und emotionale Resonanz zu erzeugen, entscheidet über Erfolg oder Misserfolg. Dieses Kapitel analysiert die psychologischen Grundlagen effektiver Datenschutzkommunikation und entwickelt evidenzbasierte Strategien für verschiedene Stakeholder.
 
@@ -21,7 +21,7 @@ Die **Sprache der Geschäftsführung** ist geprägt von Effizienz, Ergebnissen u
 
 Der **Business Case** muss beide Verarbeitungsebenen ansprechen. Die [**Dual-Process-Theorie**] (→ siehe Kapitel 2.2) zeigt, dass auch rationale Geschäftsentscheidungen stark von [**System 1**] beeinflusst werden (Kahneman, 2011). Intuitiv wirkende Signale — ein überzeugender erster Eindruck, eine emotionale Geschichte, eine vividly formulierte Bedrohung — setzen den Rahmen, in dem die anschließenden rationalen Argumente bewertet werden. Erfolgreiche DSBs nutzen daher das "Executive Sandwich": zunächst ein emotionaler Hook durch Geschichten, Bedrohungen oder Chancen, dann rationale Argumentation mit Zahlen, Fakten und Logik, abgeschlossen mit einem emotionalen Close durch Vision, Werte und Konsequenz.
 
-Lisa Chen hat diese Technik perfektioniert. Bei der Einführung eines neuen Datenschutzprogramms in ihrem Versicherungskonzern startete sie mit: "Stellen Sie sich vor, morgen titelt die Financial Times: 'Deutscher Versicherer verliert Daten von 2 Millionen Kunden'. Was passiert mit unserem Aktienkurs?" Die anschließenden Fakten — mögliche DSGVO-Strafen in erheblicher Höhe, messbare Kundenabwanderung nach Datenpannen, aber auch nachweislich höhere Kundenbindung bei proaktivem Datenschutz — fielen auf fruchtbaren Boden. Der emotionale Einstieg hatte das System-1-Urteil vorbereitet; die Zahlen mussten es nur noch bestätigen.
+Lisa Chen hat diese Technik perfektioniert. Bei der Einführung eines neuen Datenschutzprogramms in ihrem Versicherungskonzern startete sie mit: "Stellen Sie sich vor, morgen titelt die Financial Times: 'Deutscher Versicherer verliert Daten von 2 Millionen Kunden'. Was passiert mit unserem Aktienkurs?" Die anschließenden Fakten — mögliche DSGVO-Strafen in erheblicher Höhe, berichtete Kundenabwanderung nach Datenpannen, aber auch vielfach dokumentierte höhere Kundenbindung bei proaktivem Datenschutz — fielen auf fruchtbaren Boden. Der emotionale Einstieg hatte das System-1-Urteil vorbereitet; die Zahlen mussten es nur noch bestätigen.
 
 Die **Framing-Effekte** sind in der C-Suite besonders ausgeprägt. Die [**Prospect Theory**] (Kahneman & Tversky, 1979) zeigt, dass Verlustframings deutlich stärker wirken als äquivalente Gewinnframings: Der drohende Verlust von Kundendaten wiegt psychologisch schwerer als der hypothetische Gewinn durch Vertrauensaufbau — selbst wenn beide Szenarien wirtschaftlich gleichwertig sind. Allerdings kehrt sich diese Asymmetrie teilweise um, wenn Führungskräfte in expansiver Stimmung sind. In Wachstumsphasen wirkt Opportunity Framing stärker ("Datenschutz als Wettbewerbsvorteil"), in Krisenphasen entfaltet Risk Framing seine volle Kraft ("Datenschutzverletzungen als existenzielle Bedrohung"). Wer beide Register beherrscht und kontextuell einsetzt, kommuniziert auf der richtigen Frequenz.
 
@@ -121,18 +121,12 @@ Datenschutz ist immer auch eine Kommunikationsaufgabe. Wer unterschiedliche Stak
 
 ## Quellenangaben für Kapitel 9.2
 
-Acquisti, A., & Grossklags, J. (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26-33.
-
-Brehm, J. W. (1966). *A theory of psychological reactance*. Academic Press.
-
-Fogg, B. J. (2009). *Persuasive technology: Using computers to change what we think and do*. Morgan Kaufmann.
-
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-
-Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263-291.
-
-Norberg, P. A., Horne, D. R., & Horne, D. A. (2007). The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs, 41*(1), 100-126.
-
-Seligman, M. E. P. (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
-
-Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
+- **Acquisti, A., & Grossklags, J.** (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26-33.
+- **Berne, E.** (1964). *Games people play: The psychology of human relationships*. Grove Press.
+- **Brehm, J. W.** (1966). *A theory of psychological reactance*. Academic Press.
+- **Fogg, B. J.** (2009). *Persuasive technology: Using computers to change what we think and do*. Morgan Kaufmann.
+- **Kahneman, D.** (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- **Kahneman, D., & Tversky, A.** (1979). Prospect theory: An analysis of decision under risk. *Econometrica, 47*(2), 263-291.
+- **Norberg, P. A., Horne, D. R., & Horne, D. A.** (2007). The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs, 41*(1), 100-126.
+- **Seligman, M. E. P.** (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
+- **Thaler, R. H., & Sunstein, C. R.** (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.

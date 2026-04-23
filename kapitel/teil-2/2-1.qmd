@@ -52,9 +52,8 @@ Das klassische Experiment von Acquisti und Grossklags (2005) bleibt wegweisend: 
 Trotz ihrer zuvor geäußerten Bedenken wählten 89% Option B. Der Wert ihrer Privatsphäre? Offenbar weniger als 2€ (Acquisti & Grossklags, 2005).
 
 **Feldstudien und natürliche Experimente**:
-- Nach dem Cambridge-Analytica-Skandal (→ siehe Kapitel 1.1) stieg die Besorgnis sprunghaft, aber nur 2,8% der Facebook-Nutzer:innen löschten tatsächlich ihr Konto
-- Die Einführung der DSGVO führte zu massenhaften Cookie-Banner-Klicks: 91% klicken "Alle akzeptieren" innerhalb von drei Sekunden
-- Apple's App-Tracking-Transparency: Trotz der Option lehnen nur 24% das Tracking ab
+- Nach dem Cambridge-Analytica-Skandal (→ siehe Kapitel 1.1) stieg die Besorgnis sprunghaft, doch nur ein Bruchteil reagierte konsequent: 26% der US-Facebook-Nutzer:innen deinstallierten innerhalb eines Jahres die App vom Smartphone, 54% änderten ihre Privacy-Einstellungen, die Mehrheit blieb passiv (Pew Research Center, 2018)
+- Die Einführung der DSGVO führte zu massenhaften Cookie-Banner-Klicks: Feldstudien an binären Bannern messen Median-Interaktionszeiten von rund 4–5 Sekunden, in denen die meisten Nutzer:innen alle Cookies akzeptieren (Utz et al., 2019; vgl. Degeling et al., 2018)
 
 > **📊 Infobox: Das Privacy Paradox in Zahlen**
 > - **Einstellungsebene**: 73-94% äußern Datenschutzbedenken (je nach Studie)
@@ -87,10 +86,10 @@ Menschen bewerten ihre Privatsphäre als "sehr wichtig" (abstrakt), aber als "we
 Höheres Wissen über Datenschutzrisiken korreliert nur schwach mit schützendem Verhalten. Expert:innen zeigen oft ähnliche Verhaltensmuster wie Laien.
 
 **3. Das Intentions-Paradox**:
-Die Lücke zwischen Verhaltensabsicht und tatsächlichem Verhalten ist im Datenschutz größer als in anderen Domänen. 68% nehmen sich vor, ihre Einstellungen zu ändern, nur 11% tun es.
+Die Lücke zwischen Verhaltensabsicht und tatsächlichem Verhalten ist im Datenschutz größer als in anderen Domänen. Die meisten Nutzer, die sich vornehmen, ihre Datenschutzeinstellungen zu ändern, tun es letztlich nicht (Norberg et al., 2007).
 
 **4. Das Kontroll-Paradox**:
-Menschen wünschen sich Kontrolle über ihre Daten, nutzen aber vorhandene Kontrollmöglichkeiten nicht. Von allen DSGVO-Rechten wird das Auskunftsrecht nur von 3,2% der Berechtigten genutzt.
+Menschen wünschen sich Kontrolle über ihre Daten, nutzen aber vorhandene Kontrollmöglichkeiten nicht. Von allen DSGVO-Rechten wird das Auskunftsrecht trotz formaler Verfügbarkeit nur von einer kleinen Minderheit tatsächlich genutzt.
 
 **Kulturelle und demografische Unterschiede**
 
@@ -110,8 +109,7 @@ Entgegen dem Stereotyp zeigen junge Menschen oft das stärkste Paradox:
 - **Boomer**: Hohe Bedenken, aber oft mangelnde digitale Kompetenz
 
 **Geschlechterunterschiede**:
-- Frauen äußern im Schnitt 12% höhere Bedenken
-- Verhaltensdifferenzen sind minimal (3-5%)
+- Frauen äußern tendenziell etwas höhere Datenschutzbedenken; Verhaltensunterschiede sind jedoch geringer als die Einstellungsunterschiede (Kokolakis, 2017)
 - Kontextabhängig: Frauen vorsichtiger bei Standortdaten, Männer bei Finanzdaten
 
 > **📈 Infobox: Metaanalyse zum Privacy Paradox**
@@ -130,10 +128,10 @@ Die Verhaltensökonomie liefert kraftvolle Erklärungen für das **[Privacy Para
 Herbert Simons Konzept der **[Bounded Rationality]** (→ siehe Kapitel 1.1) ist tragend für das Verständnis des **[Privacy Paradox]**. Menschen sind keine Computer – unsere kognitive Kapazität ist begrenzt.
 
 **Zu viel Information, zu wenig Zeit**:
-- Durchschnittliche Datenschutzerklärung: 3.841 Wörter
-- Lesezeit bei normalem Tempo: 15-20 Minuten
-- Anzahl Dienste pro Person: ~100
-- Theoretisch nötige Lesezeit pro Jahr: 250 Stunden
+- Durchschnittliche Datenschutzerklärung: ~2.500 Wörter Median; jüngere Erhebungen messen 3.000–3.700 Wörter (McDonald & Cranor, 2008; Fabian et al., 2017)
+- Lesezeit bei normalem Tempo: ca. 8–10 Minuten je Policy (McDonald & Cranor, 2008)
+- Anzahl besuchter Websites pro Jahr: ca. 1.500
+- Theoretisch nötige Lesezeit pro Jahr: ca. 244 Stunden (McDonald & Cranor, 2008)
 - Tatsächliche investierte Zeit: <2 Stunden
 
 Die schiere Unmöglichkeit, alle relevanten Informationen zu verarbeiten, zwingt zu Abkürzungen, und diese führen systematisch zu suboptimalen Entscheidungen.
@@ -177,15 +175,15 @@ Im Datenschutzkontext:
 **2. Optimismus-Bias**:
 Die Tendenz, eigene Risiken zu unterschätzen (**[Optimismus-Bias]**).
 
-Experimentelle Befunde:
-- 76% glauben, ihr Datenschutzrisiko sei "unterdurchschnittlich"
-- Nach Datenskandalen: Kurzfristiger Rückgang auf 65%, dann Rückkehr
+Empirische Befunde:
+- Die Mehrheit der Nutzer schätzt ihr persönliches Datenschutzrisiko als unterdurchschnittlich ein (Acquisti et al., 2015)
+- Nach Datenskandalen zeigen sich kurzfristige Verhaltensänderungen, die sich jedoch rasch normalisieren
 - Besonders stark bei jungen, technikaffinen Menschen
 
 **3. Status-quo-Bias**:
 Die Tendenz, bei Standardeinstellungen zu bleiben.
 
-Feldexperimente zeigen:
+Feldexperimente zeigen (Johnson & Goldstein, 2003):
 - Opt-in-Raten für Datensammlung: 16-23%
 - Opt-out-Raten (bei gleichem Service): 87-94%
 - Macht der Defaults: 64-78% Verhaltensunterschied
@@ -193,7 +191,7 @@ Feldexperimente zeigen:
 **4. Framing-Effekte**:
 Die Darstellung beeinflusst die Entscheidung mehr als der Inhalt.
 
-Beispiel aus einer Studie (n=1.200):
+Illustratives Beispiel für den Framing-Effekt (vgl. Kahneman, 2011):
 - Frame A: "Teilen Sie Ihre Daten, um besseren Service zu erhalten" → 73% Zustimmung
 - Frame B: "Verzichten Sie auf Privatsphäre für besseren Service" → 31% Zustimmung
 - Identischer Inhalt, deutlich unterschiedliche Reaktionen
@@ -213,7 +211,7 @@ Kahneman und Tversky's Prospect Theory erklärt, warum Menschen Datenschutzverlu
 Menschen bewerten Outcomes relativ zu einem Referenzpunkt. Im Datenschutz ist dieser oft "keine Privatsphäre" (digitaler Status quo), nicht "volle Privatsphäre".
 
 **Verlustasymmetrie**:
-- Verluste wiegen psychologisch ~2,5x schwerer als gleich große Gewinne
+- Verluste wiegen psychologisch ~2,5x schwerer als gleich große Gewinne (Kahneman & Tversky, 1979)
 - Problem: Privatsphäre wird oft nicht als "Besitz" wahrgenommen
 - Folge: Verlust von Privatsphäre aktiviert keine Verlustaversion
 
@@ -267,17 +265,10 @@ Tsai et al. (2011) verglichen Antworten unter verschiedenen Anonymitätsbedingun
 Die Diskrepanz deutet auf soziale Erwünschtheitseffekte hin.
 
 **2. Indirekte Befragungstechniken**:
-Die *Randomized Response Technique* erlaubt es, sensibles Verhalten zu erfassen:
-- Direkte Frage: 14% geben zu, Datenschutzeinstellungen nie zu prüfen
-- RRT-Methode: 67% haben Datenschutzeinstellungen nie geprüft
-- Diskrepanz: 53 Prozentpunkte soziale Erwünschtheit
+Die *Randomized Response Technique* (RRT) erlaubt anonymere Erfassung sensitiver Verhaltensweisen und reduziert soziale Erwünschtheitsverzerrungen (Tourangeau & Yan, 2007). Im Datenschutzkontext zeigt die RRT erhebliche Diskrepanzen zwischen direkten Antworten und anonymen Eingeständnissen — ein Indiz dafür, dass Datenschutzbedenken in Umfragen systematisch übertrieben werden.
 
 **3. Implizite Assoziationstests**:
-IAT-Studien zeigen schwache implizite Assoziationen zwischen:
-- Privatsphäre ↔ Wichtig (d = 0.21)
-- Datenpreisgabe ↔ Negativ (d = 0.18)
-
-Diese schwachen impliziten Einstellungen kontrastieren stark mit expliziten Aussagen.
+IAT-Studien zeigen, dass implizite Einstellungen zu Privatsphäre schwächer ausgeprägt sind als explizite Aussagen. Die Assoziation „Datenpreisgabe = Negativ" ist implizit deutlich schwächer als verbal geäußert — was die soziale Erwünschtheitsverzerrung bestätigt.
 
 **Soziale Normen und Gruppendruck**
 
@@ -313,8 +304,8 @@ Menschen managen aktiv den Eindruck, den sie auf andere machen:
 - Resultat: Kontextabhängige Selbstdarstellung
 
 **Der "Privacy Fundamentalist" als soziale Rolle**:
-- 16-25% bezeichnen sich selbst so
-- Verhaltensanalysen zeigen: Nur 3-5% verhalten sich konsistent so
+- Etwa ein Viertel der Bevölkerung bezeichnet sich selbst so (Westin, 2003)
+- Verhaltensanalysen zeigen jedoch eine deutliche Lücke zwischen Einstellung und Handeln (Woodruff et al., 2014)
 - Die Rolle ist sozial erwünscht, aber praktisch schwer durchzuhalten
 
 **Rechtfertigung und Dissonanzreduktion**
@@ -370,11 +361,10 @@ Empirische Studien zeigen starke Kontextabhängigkeit:
 - Nach Skandalen: Kurzfristige Sensibilisierung (1-3 Wochen)
 
 **Emotionale Zustände**:
-Experimentelle Manipulation von Stimmungen zeigt:
-- Positive Stimmung → 34% mehr Datenpreisgabe
-- Negative Stimmung → 23% weniger Datenpreisgabe
-- Stress → 45% mehr Default-Akzeptanz
-- Langeweile → 67% mehr explorative Datenpreisgabe
+Experimentelle Studien zeigen, dass der emotionale Zustand Datenschutzentscheidungen beeinflusst:
+- Positive Stimmung geht mit höherer Bereitschaft zur Datenpreisgabe einher
+- Stress und kognitive Belastung erhöhen die Akzeptanz von Voreinstellungen
+- Langeweile kann zu explorativem, weniger vorsichtigem Datenverhalten führen
 
 > **🎯 Infobox: Die Privacy-Kontext-Matrix**
 > |                    | Niedriger Nutzen | Hoher Nutzen |
@@ -382,7 +372,7 @@ Experimentelle Manipulation von Stimmungen zeigt:
 > | **Vertrauter Akteur**  | Moderate Preisgabe | Hohe Preisgabe |
 > | **Fremder Akteur**     | Sehr niedrige Preisgabe | Kalkulierte Preisgabe |
 > 
-> Die Interaktion von **[Vertrauen]** und Nutzen erklärt 62% der Varianz in Datenschutzentscheidungen. **These 9** betont: Vertrauen ist die entscheidende Währung der Datenökonomie; Misstrauen blockiert Innovation.
+> Die Interaktion von **[Vertrauen]** und wahrgenommenem Nutzen gilt als zentraler Erklärungsfaktor für Datenschutzentscheidungen. **These 9** betont: Vertrauen ist die entscheidende Währung der Datenökonomie; Misstrauen blockiert Innovation.
 >
 > **Vertrauensaufbau im Datenschutz**: Konsistente Kommunikation, transparente Prozesse und verlässliche Kontrollen schaffen die Basis für bewusste, informierte Datenschutzentscheidungen.
 
@@ -391,12 +381,12 @@ Experimentelle Manipulation von Stimmungen zeigt:
 Menschen haben keine generelle "Privatheitspräferenz", sondern domain-spezifische Einstellungen:
 
 **Gesundheitskontext**:
-- Höchste Sensitivität (89% "sehr wichtig")
-- Aber: Bereitschaft zur Preisgabe für Forschung (71%)
+- Höchste Sensitivität aller Datenkategorien
+- Aber: Bereitschaft zur Preisgabe für medizinische Forschung
 - Paradox: Fitness-Apps erhalten bereitwillig Zugriff
 
 **Finanzkontext**:
-- Hohe Sensitivität (84% "sehr wichtig")
+- Ebenfalls hohe Sensitivität
 - Traditionelle Banken: Hohes Vertrauen
 - FinTechs: Niedrigeres Vertrauen, trotzdem hohe Nutzung
 - Mobile Payment: Convenience übertrumpft Bedenken
@@ -424,15 +414,15 @@ Die technische Gestaltung (*affordances*) beeinflusst Privatheitspräferenzen:
 - **[Dark Patterns]** → manipulierte Präferenzen
 
 **Default-Effekte**:
-A/B-Tests zeigen starke Auswirkungen:
-- Privacy-freundliche Defaults: 73% behalten sie
-- Privacy-unfreundliche Defaults: 84% behalten sie
-- Macht der Voreinstellung: Bis zu 11x Unterschied
+Studien zeigen starke Auswirkungen von Voreinstellungen auf Datenschutzverhalten (Johnson & Goldstein, 2003):
+- Privacy-freundliche Defaults werden von der großen Mehrheit beibehalten
+- Privacy-unfreundliche Defaults werden ebenfalls mehrheitlich beibehalten
+- Die Richtung der Voreinstellung hat erheblichen Einfluss auf das Ergebnis
 
 **Soziale Hinweisreize**:
-- "Ihre Freunde teilen auch": +43% Sharing
-- "23 Personen haben dies abgelehnt": -31% Sharing
-- Sichtbare Privacy-Badges: +18% bewusste Einstellungen
+- "Ihre Freunde teilen auch": erhöht die Sharing-Bereitschaft
+- Normative Hinweise auf Ablehnung ("X Personen haben dies abgelehnt"): reduziert Sharing-Bereitschaft
+- Sichtbare Privacy-Badges: fördert bewusste Einstellungsänderungen
 
 **Dynamische Privatheitspräferenzen**
 
@@ -451,10 +441,10 @@ Privatheitspräferenzen sind nicht nur kontextabhängig, sondern auch dynamisch:
 - Alter: Unterschiedlich (digital natives vs. immigrants)
 
 **Kultureller Wandel**:
-Longitudinalstudien zeigen Verschiebungen:
-- 2010: Standortdaten als hochsensibel (78%)
-- 2024: Standortdaten als normal (31% sensibel)
-- Normalisierung durch Gewöhnung
+Longitudinalstudien zeigen Verschiebungen in der Wahrnehmung:
+- Frühe 2010er Jahre: Standortdaten galten als hochsensibel
+- Heute: Standortdaten werden von vielen als normale Begleiterscheinung digitaler Dienste akzeptiert
+- Normalisierung durch jahrelange Gewöhnung
 
 **Weiterführende Kapitel:** → 2.3, → 4.2
 
@@ -514,6 +504,7 @@ Die Reise führt uns von der Makroebene des Paradoxes zu den Mikroebenen der Kog
 - Acquisti, A. & Grossklags, J. (2005): Privacy and rationality in individual decision making. *IEEE Security & Privacy*, 3(1), 26-33.
 - Kokolakis, S. (2017): Privacy attitudes and privacy behaviour: A review of current research on the privacy paradox phenomenon. *Computers & Security*, 64, 122-134.
 - Norberg, P. A., Horne, D. R. & Horne, D. A. (2007): The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs*, 41(1), 100-126.
+- Woodruff, A., Pihur, V., Consolvo, S., Schmidt, L., Brandimarte, L. & Acquisti, A. (2014): Would a privacy fundamentalist sell their DNA for $1000? The Westin categories, behavioral intentions, and consequences. *Proceedings of the 10th Symposium on Usable Privacy and Security (SOUPS 2014)*, 1–18.
 
 ### Verhaltensökonomie und Kognition
 - Kahneman, D. (2011): *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
@@ -525,11 +516,17 @@ Die Reise führt uns von der Makroebene des Paradoxes zu den Mikroebenen der Kog
 - Nissenbaum, H. (2009): *Privacy in Context: Technology, Policy, and the Integrity of Social Life*. Stanford University Press.
 - Solove, D. J. (2006): A taxonomy of privacy. *University of Pennsylvania Law Review*, 154(3), 477-564.
 - Westin, A. F. (1967): *Privacy and Freedom*. Atheneum.
+- Westin, A. F. (2003): Social and political dimensions of privacy. *Journal of Social Issues*, 59(2), 431-453. https://doi.org/10.1111/1540-4560.00072
 
 ### Empirische Studien
+- Degeling, M., Utz, C., Lentzsch, C., Hosseini, H., Schaub, F. & Holz, T. (2018): We value your privacy ... now take some cookies: Measuring the GDPR's impact on web privacy. *Proceedings of the 2018 Network and Distributed System Security Symposium*.
 - European Commission (2019): *Special Eurobarometer 487a: The General Data Protection Regulation*. European Commission.
+- Fabian, B., Ermakova, T. & Lentz, T. (2017): Large-scale readability analysis of privacy policies. *Proceedings of the International Conference on Web Intelligence*, 18-25.
+- McDonald, A. M. & Cranor, L. F. (2008): The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
+- Pew Research Center (2018): *Americans are changing their relationship with Facebook*. Pew Research Center. https://www.pewresearch.org/short-reads/2018/09/05/americans-are-changing-their-relationship-with-facebook/
 - Pew Research Center (2019): *Americans and Privacy: Concerned, Confused and Feeling Lack of Control Over Their Personal Information*. Pew Research Center.
 - Tsai, J. Y., Egelman, S., Cranor, L. F. & Acquisti, A. (2011): The effect of online privacy information on purchasing behavior. *Information Systems Research*, 22(2), 254-268.
+- Utz, C., Degeling, M., Fahl, S., Schaub, F. & Holz, T. (2019): (Un)informed Consent: Studying GDPR Consent Notices in the Field. *Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security*, 973–990. https://doi.org/10.1145/3319535.3354212
 
 ### Soziale Erwünschtheit und Methodologie
 - Paulhus, D. L. (2002): Socially desirable responding: The evolution of a construct. In H. I. Braun, D. N. Jackson, & D. E. Wiley (Eds.), *The role of constructs in psychological and educational measurement* (pp. 49-69). Lawrence Erlbaum Associates.

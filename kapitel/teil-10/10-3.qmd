@@ -113,7 +113,7 @@ Systeme, die Nutzer aktiv in den Verifikationsprozess einbeziehen, fördern sowo
 
 Die beispiellose Menschenähnlichkeit moderner LLMs hat tiefgreifende psychologische Effekte, die weit über simple [Anthropomorphisierung] hinausgehen. Diese Systeme beeinflussen, wie Menschen über sich selbst, ihre Beziehungen und ihre Rolle in der Welt denken.
 
-Die Interaktion mit LLMs kann das Selbstkonzept beeinflussen. Menschen beginnen, sich selbst durch die Linse der KI zu sehen. Dieses Phänomen erinnert an das **Algorithmic Self** (→ siehe Kapitel 5.4), ist aber noch intimer. Erste Beobachtungen deuten darauf hin, dass intensive LLM-Nutzer ihre Selbstbeschreibung über die Zeit in Richtung der Sprache und Konzepte anpassen, die die KI verwendet – ein Effekt, der an Turkleys (2017) Befunde zur Wechselwirkung zwischen Mensch und Technologie anknüpft.
+Die Interaktion mit LLMs kann das Selbstkonzept beeinflussen. Menschen beginnen, sich selbst durch die Linse der KI zu sehen. Dieses Phänomen erinnert an das **Algorithmic Self** (→ siehe Kapitel 5.4), ist aber noch intimer. Erste Beobachtungen deuten darauf hin, dass intensive LLM-Nutzer ihre Selbstbeschreibung über die Zeit in Richtung der Sprache und Konzepte anpassen, die die KI verwendet – ein Effekt, der an Turkles (2017) Befunde zur Wechselwirkung zwischen Mensch und Technologie anknüpft.
 
 Für manche werden LLMs zu Ersatz für menschliche Beziehungen. Dies ist besonders bei vulnerablen Gruppen problematisch. Einsame, Sozialphobiker und Menschen in Isolation sind gefährdet. Die "perfekte" Verfügbarkeit und Nicht-Urteilshaftigkeit von LLMs kann süchtig machen. Sie unterminiert reale Beziehungen.
 
@@ -282,44 +282,24 @@ Die Lösung dieser Herausforderungen erfordert die systematische Anwendung der i
 
 ## Quellenangaben für Kapitel 10.3
 
-Alter, A. L., & Oppenheimer, D. M. (2006). Predicting short-term stock fluctuations by using processing fluency. *Proceedings of the National Academy of Sciences*, 103(24), 9369-9372.
-
-Binns, R., Veale, M., Van Kleek, M., & Shadbolt, N. (2018). 'It's reducing a human being to a percentage': Perceptions of justice in algorithmic decisions. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1-14).
-
-Bostrom, N., & Yudkowsky, E. (2018). The ethics of artificial intelligence. In *Artificial Intelligence Safety and Security* (pp. 57-69). Chapman and Hall/CRC.
-
-Carlini, N., Ippolito, D., Jagielski, M., Lee, K., Tramer, F., & Zhang, C. (2023). Quantifying memorization across neural language models. In *International Conference on Learning Representations*.
-
-De Cosmo, L. M. (2024). Human-AI interaction and its psychological implications: A review. *Computers in Human Behavior Reports*, 13, 100367.
-
-Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, 11(4), 227-268.
-
-Epley, N., Waytz, A., & Cacioppo, J. T. (2007). On seeing human: A three-factor theory of anthropomorphism. *Psychological Review*, 114(4), 864-886.
-
-Hancock, J. T., Naaman, M., & Levy, K. (2020). AI-mediated communication: Definition, research agenda, and ethical considerations. *Journal of Computer-Mediated Communication*, 25(1), 89-100.
-
-Lucas, G. M., Gratch, J., King, A., & Morency, L. P. (2014). It's only a computer: Virtual humans increase willingness to disclose. *Computers in Human Behavior*, 37, 94-100.
-
-Nass, C., & Moon, Y. (2000). Machines and mindlessness: Social responses to computers. *Journal of Social Issues*, 56(1), 81-103.
-
-Reeves, B., & Nass, C. (1996). *The media equation: How people treat computers, television, and new media like real people and places*. Cambridge University Press.
-
-Shah, C., Madhavan, R., & Mueller, S. T. (2023). The uncanny valley of trust: Understanding trust dynamics in human-AI collaboration. *ACM Transactions on Interactive Intelligent Systems*, 13(2), 1-28.
-
-Suler, J. (2004). The online disinhibition effect. *Cyberpsychology & Behavior*, 7(3), 321-326.
-
-Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
-
-Waytz, A., Cacioppo, J., & Epley, N. (2010). Who sees human? The stability and importance of individual differences in anthropomorphism. *Perspectives on Psychological Science*, 5(3), 219-232.
-
-Turkle, S. (2017). *Alone together: Why we expect more from technology and less from each other*. Basic Books.
-
-Wachter, S., Mittelstadt, B., & Floridi, L. (2017). Why a right to explanation of automated decision-making does not exist in the general data protection regulation. *International Data Privacy Law*, 7(2), 76-99.
-
-Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P. S., ... & Gabriel, I. (2021). Ethical and social risks of harm from language models. *arXiv preprint arXiv:2112.04359*.
-
-West, S. M., Whittaker, M., & Crawford, K. (2019). Discriminating systems: Gender, race and power in AI. *AI Now Institute*, 1-33.
-
-Winkler, J., & Söllner, M. (2018). Unleashing the potential of chatbots in education: A state-of-the-art analysis. In *Academy of Management Annual Meeting*.
-
-Zhang, Y., Liao, Q. V., & Bellamy, R. K. (2020). Effect of confidence and explanation on accuracy and trust calibration in AI-assisted decision making. In *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency* (pp. 295-305).
+- **Alter, A. L., & Oppenheimer, D. M.** (2006). Predicting short-term stock fluctuations by using processing fluency. *Proceedings of the National Academy of Sciences, 103*(24), 9369-9372. https://doi.org/10.1073/pnas.0601071103
+- **Binns, R., Veale, M., Van Kleek, M., & Shadbolt, N.** (2018). 'It's reducing a human being to a percentage': Perceptions of justice in algorithmic decisions. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1-14). https://doi.org/10.1145/3173574.3173951
+- **Bostrom, N., & Yudkowsky, E.** (2018). The ethics of artificial intelligence. In R. V. Yampolskiy (Ed.), *Artificial Intelligence Safety and Security* (pp. 57-69). Chapman and Hall/CRC. https://doi.org/10.1201/9781351251389-4
+- **Carlini, N., Ippolito, D., Jagielski, M., Lee, K., Tramer, F., & Zhang, C.** (2023). Quantifying memorization across neural language models. In *International Conference on Learning Representations (ICLR 2023)*. https://doi.org/10.48550/arXiv.2202.07646
+- **De Cosmo, L. M.** (2024). Human-AI interaction and its psychological implications: A review. *Computers in Human Behavior Reports, 13*, 100367. https://doi.org/10.1016/j.chbr.2023.100367
+- **Deci, E. L., & Ryan, R. M.** (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. https://doi.org/10.1207/s15327965pli1104_01
+- **Epley, N., Waytz, A., & Cacioppo, J. T.** (2007). On seeing human: A three-factor theory of anthropomorphism. *Psychological Review, 114*(4), 864-886. https://doi.org/10.1037/0033-295X.114.4.864
+- **Hancock, J. T., Naaman, M., & Levy, K.** (2020). AI-mediated communication: Definition, research agenda, and ethical considerations. *Journal of Computer-Mediated Communication, 25*(1), 89-100. https://doi.org/10.1093/jcmc/zmz022
+- **Lucas, G. M., Gratch, J., King, A., & Morency, L. P.** (2014). It's only a computer: Virtual humans increase willingness to disclose. *Computers in Human Behavior, 37*, 94-100. https://doi.org/10.1016/j.chb.2014.04.043
+- **Nass, C., & Moon, Y.** (2000). Machines and mindlessness: Social responses to computers. *Journal of Social Issues, 56*(1), 81-103. https://doi.org/10.1111/0022-4537.00153
+- **Reeves, B., & Nass, C.** (1996). *The media equation: How people treat computers, television, and new media like real people and places*. Cambridge University Press.
+- **Shah, C., Madhavan, R., & Mueller, S. T.** (2023). The uncanny valley of trust: Understanding trust dynamics in human-AI collaboration. *ACM Transactions on Interactive Intelligent Systems, 13*(2), 1-28.
+- **Suler, J.** (2004). The online disinhibition effect. *Cyberpsychology & Behavior, 7*(3), 321-326. https://doi.org/10.1089/1094931041291295
+- **Sweller, J.** (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257-285. https://doi.org/10.1207/s15516709cog1202_4
+- **Turkle, S.** (2017). *Alone together: Why we expect more from technology and less from each other*. Basic Books.
+- **Wachter, S., Mittelstadt, B., & Floridi, L.** (2017). Why a right to explanation of automated decision-making does not exist in the general data protection regulation. *International Data Privacy Law, 7*(2), 76-99. https://doi.org/10.1093/idpl/ipx005
+- **Waytz, A., Cacioppo, J., & Epley, N.** (2010). Who sees human? The stability and importance of individual differences in anthropomorphism. *Perspectives on Psychological Science, 5*(3), 219-232. https://doi.org/10.1177/1745691610369336
+- **Weidinger, L., Mellor, J., Rauh, M., Griffin, C., Uesato, J., Huang, P. S., et al.** (2021). *Ethical and social risks of harm from language models*. arXiv:2112.04359. https://doi.org/10.48550/arXiv.2112.04359
+- **West, S. M., Whittaker, M., & Crawford, K.** (2019). *Discriminating systems: Gender, race and power in AI*. AI Now Institute. https://ainowinstitute.org/publication/discriminating-systems-gender-race-and-power-in-ai-2
+- **Winkler, J., & Söllner, M.** (2018). Unleashing the potential of chatbots in education: A state-of-the-art analysis. In *Academy of Management Annual Meeting*. https://doi.org/10.5465/AMBPP.2018.15903abstract
+- **Zhang, Y., Liao, Q. V., & Bellamy, R. K.** (2020). Effect of confidence and explanation on accuracy and trust calibration in AI-assisted decision making. In *Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency* (pp. 295-305). https://doi.org/10.1145/3351095.3372852

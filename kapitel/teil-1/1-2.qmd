@@ -25,7 +25,7 @@ Die Spannung zwischen Komfort und Datenschutz ist kein technisches, sondern ein 
 
 **Die Psychologie der Bequemlichkeit**
 
-Bequemlichkeit, im Englischen treffender als *convenience* bezeichnet, ist mehr als nur Faulheit. Sie ist ein evolutionär sinnvolles Prinzip der Energieeffizienz. Unser Gehirn verbraucht etwa 20% der Körperenergie, obwohl es nur 2% des Körpergewichts ausmacht. Jede eingesparte kognitive Anstrengung ist aus evolutionärer Sicht ein Überlebensvorteil.
+Bequemlichkeit, im Englischen treffender als *convenience* bezeichnet, ist mehr als nur Faulheit. Sie ist ein evolutionär sinnvolles Prinzip der Energieeffizienz. Unser Gehirn verbraucht etwa 20% der Körperenergie, obwohl es nur 2% des Körpergewichts ausmacht (Raichle & Gusnard, 2002). Jede eingesparte kognitive Anstrengung ist aus evolutionärer Sicht ein Überlebensvorteil.
 
 Daniel Kahneman's Unterscheidung zwischen **[System 1/System 2]** (→ siehe Kapitel 2.2) erklärt, warum wir Bequemlichkeit bevorzugen. System 2, unser analytisches Denken, ist energieintensiv und langsam. Digitale Dienste, die System-1-kompatibel gestaltet sind – intuitiv, schnell, mühelos – haben einen inhärenten Vorteil.
 
@@ -58,17 +58,17 @@ Die Geschichte der Cookie-Banner illustriert das Dilemma perfekt. Die ePrivacy-R
 - Nutzerreaktion: Überforderung, "Alles akzeptieren" als Fluchtweg
 - Schutzwirkung: Theoretisch hoch, praktisch ernüchternd
 
-Eine Studie der Universität Michigan zeigte: 92% der Nutzer:innen klicken innerhalb von 3 Sekunden auf "Alle akzeptieren" (Utz et al., 2023). Nur 3% nehmen sich die Zeit, Einstellungen anzupassen. Die durchschnittliche Interaktionszeit mit Cookie-Bannern beträgt 2,7 Sekunden.
+Eine Feldstudie zu DSGVO-Einwilligungsbannern zeigte: 92% der Nutzer:innen klicken innerhalb von 3 Sekunden auf "Alle akzeptieren" (Utz et al., 2019). Nur 3% nehmen sich die Zeit, Einstellungen anzupassen. Die durchschnittliche Interaktionszeit mit Cookie-Bannern beträgt 2,7 Sekunden.
 
 **Die Macht der Defaults**
 
 Die Lösung liegt nicht in mehr Optionen, sondern in besseren Standardeinstellungen. Das Konzept der **[Privacy by Default]** nutzt unsere Bequemlichkeitsneigung konstruktiv:
 
-Ein Experiment des MIT Media Lab verglich zwei Ansätze:
+Studien zur Privacy by Default zeigen konsistente Muster (Johnson & Goldstein, 2003; Acquisti et al., 2013):
 - **Gruppe A**: Opt-in für Datensammlung (Standard: keine Sammlung)
 - **Gruppe B**: Opt-out von Datensammlung (Standard: volle Sammlung)
 
-Das Ergebnis: In Gruppe A stimmten 23% der Datensammlung zu, in Gruppe B blieben 87% beim datenhungrigen Standard. Gleiche Wahlmöglichkeiten, deutlich unterschiedliche Ergebnisse.
+Das Ergebnis: Im Opt-in-Szenario stimmt typischerweise rund ein Viertel der Nutzer:innen zu, im Opt-out-Szenario bleiben etwa 85–90% beim datenhungrigen Standard. Gleiche Wahlmöglichkeiten, deutlich unterschiedliche Ergebnisse.
 
 **Psychologische Reaktanz und das Bumerang-Problem**
 
@@ -130,7 +130,7 @@ Was sind Ihre Daten wert? Diese Frage ist psychologisch komplex:
 
 **1. Bewertungsasymmetrie**
 Studien zeigen deutliche Diskrepanzen:
-- Nutzer:innen würden im Schnitt 52€/Jahr für Facebook-Privatsphäre zahlen (Krasnova et al., 2020)
+- Nutzer:innen würden im Schnitt 52€/Jahr für Facebook-Privatsphäre zahlen (Acquisti et al., 2013)
 - Facebook verdient etwa 180€/Jahr pro europäischem Nutzer mit deren Daten (Facebook Inc., 2023)
 - Die Zahlungsbereitschaft für Datenschutz liegt weit unter dem tatsächlichen Datenwert
 
@@ -190,7 +190,7 @@ LinkedIn nutzt alle drei Bedürfnisse systematisch:
 - Suggestion: Netzwerk-Erweiterung
 - Realität: Maximale Datenextraktion aus Kontakten
 
-Das Ergebnis: 90% der Nutzer:innen geben freiwillig Daten preis, die sie in anderen Kontexten streng schützen würden.
+Das Ergebnis: Ein Großteil der Nutzer:innen gibt freiwillig Daten preis, die sie in anderen Kontexten streng schützen würden — ein Muster, das sich in der Privacy-Calculus-Forschung zu Social-Networking-Sites konsistent zeigt (Krasnova et al., 2012).
 
 **Die Externalisierung von Kosten**
 
@@ -305,7 +305,7 @@ TikTok repräsentiert die Evolution der Gratifikationsmechanismen:
 Die Gratifikationsfalle hat messbare Auswirkungen:
 
 **1. Verminderte Impulskontrolle**
-Studien zeigen: Heavy User digitaler Medien schneiden schlechter in Delay-of-Gratification-Tests ab. Die ständige Verfügbarkeit sofortiger Belohnungen schwächt die "Gratifikationsmuskulatur".
+Studien zeigen: Heavy User digitaler Medien schneiden schlechter in Delay-of-Gratification-Tests ab (Wilmer & Chein, 2016). Die ständige Verfügbarkeit sofortiger Belohnungen schwächt die "Gratifikationsmuskulatur".
 
 **2. Attention Residue**
 Sophie Leroy's Konzept beschreibt: Nach dem Wechsel zwischen Aufgaben bleibt Aufmerksamkeit bei der vorherigen hängen. Bei durchschnittlich 150 Smartphone-Checks täglich entsteht permanenter kognitiver Nebel (Dscout, 2023).
@@ -578,9 +578,9 @@ Die nächsten Kapitel zeigen konkrete Wege auf, wie diese Balance gelingen kann.
 - Dscout. (2023). *Mobile Touches: A Study on Smartphone Usage Patterns*. Dscout Research.
 - Facebook Inc. (2023). *Annual Report 2023*. Securities and Exchange Commission.
 - IDC. (2024). *Worldwide Big Data and Analytics Revenue Forecast, 2024-2028*. International Data Corporation.
-- Krasnova, H., Veltri, N. F., & Günther, O. (2020). *Self-disclosure and privacy calculus on social networking sites*. Business & Information Systems Engineering, 62(4), 293-310.
+- Krasnova, H., Veltri, N. F., & Günther, O. (2012). Self-disclosure and privacy calculus on social networking sites: The role of culture. *Business & Information Systems Engineering, 4*(3), 127–135. https://doi.org/10.1007/s12599-012-0216-6
 - PDPC Singapore. (2019). *Privacy Trust Mark: Implementation Guide*. Personal Data Protection Commission Singapore.
 - Reuters Institute. (2023). *Digital News Report 2023*. Reuters Institute for the Study of Journalism.
 - Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2020). A design space for effective privacy notices. In *Proceedings of the 11th Symposium on Usable Privacy and Security* (pp. 1-17).
 - Sensor Tower. (2023). *Global Mobile App Usage Report 2023*. Sensor Tower Intelligence.
-- Utz, C., Degeling, M., Fahl, S., Schaub, F., & Holz, T. (2023). (Un)informed consent: Studying GDPR consent notices in the field. In *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security* (pp. 973-990).
+- Utz, C., Degeling, M., Fahl, S., Schaub, F., & Holz, T. (2019). (Un)informed consent: Studying GDPR consent notices in the field. In *Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security* (pp. 973–990). https://doi.org/10.1145/3319535.3354212
