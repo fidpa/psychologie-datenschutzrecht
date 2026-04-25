@@ -41,7 +41,7 @@ Die Illusion der Wahl ist ein zentrales Element moderner Manipulation. Nutzer gl
 
 Das Konzept der **Hypernudges** geht noch weiter. Während traditionelle **Nudges** zumindest theoretisch das Wohl des Nutzers im Sinn haben, sind **Hypernudges** rein auf kommerzielle Ziele ausgerichtet. Sie nutzen Big Data und KI, um personalisierte Beeinflussungsstrategien zu entwickeln. Yeung (2017) warnt vor der "algorithmischen Gouvernementalität", bei der unsere Entscheidungen unmerklich in vorgegebene Bahnen gelenkt werden.
 
-Die zeitliche Dimension ist besonders perfide. Algorithmen lernen nicht nur, was wir mögen, sondern auch wann wir am vulnerabelsten sind. Sie erkennen Muster: Wann neigen wir zu Impulskäufen? Wann sind unsere Abwehrmechanismen am schwächsten? Eine Studie von Chen et al. (2021) zeigte, dass Targeting-Algorithmen mit 73% Genauigkeit vorhersagen können, wann Nutzer am ehesten auf Werbung reagieren.
+Die zeitliche Dimension ist besonders perfide. Algorithmen lernen nicht nur, was wir mögen, sondern auch wann wir am vulnerabelsten sind. Sie erkennen Muster: Wann neigen wir zu Impulskäufen? Wann sind unsere Abwehrmechanismen am schwächsten? Studien zum psychologischen Targeting belegen, dass Algorithmen auf Basis individueller Persönlichkeitsprofile gezielt Reaktionszeitpunkte und Kaufbereitschaft vorhersagen können — Matz et al. (2017) zeigten, dass psychografisch zugeschnittene Werbung die Konversionsraten substantiell erhöht.
 
 Felix Hartmann hat die technische Seite analysiert: "Die Systeme nutzen Reinforcement Learning. Sie experimentieren ständig: Welche Formulierung funktioniert? Welche Farbe? Welcher Zeitpunkt? Und sie werden immer besser. Ein System, das ich analysiert habe, konnte die Klickrate um 340% steigern, nur durch Optimierung des Timings und der Formulierung."
 
@@ -72,7 +72,7 @@ Felix Hartmann hat an der Entwicklung eines solchen Systems mitgearbeitet und be
 
 Die Emotionserkennung durch Gesichtsanalyse ist besonders bedenklich. Kameras in Geschäften, in Werbedisplays, sogar in unseren eigenen Geräten können Mikroexpressionen analysieren. Paul Ekmans Facial Action Coding System, ursprünglich für die Psychologie entwickelt, wird nun kommerziell genutzt. Die Software kann Freude, Überraschung, Angst, Ekel, Wut und Trauer in Millisekunden erkennen - schneller als wir selbst unsere Emotionen wahrnehmen.
 
-Die "Neuro-Pricing" Strategien nutzen Erkenntnisse über die Schmerzverarbeitung im Gehirn. Studien zeigen, dass Preise in bestimmten Formaten weniger "Schmerz" verursachen. "$19" aktiviert die Schmerzregionen weniger als "$20", obwohl der Unterschied minimal ist. Die Position des Währungszeichens, die Größe der Zahlen, sogar die Schriftart beeinflussen unbewusst unsere Wahrnehmung.
+Die "Neuro-Pricing" Strategien nutzen Erkenntnisse über die neuronale Verarbeitung von Preisen im Gehirn. Unterschiedliche Preisformate können die affektive Reaktion auf eine Kaufentscheidung modulieren — "$19" wird anders wahrgenommen als "$20", obwohl der Unterschied minimal ist. Die Position des Währungszeichens, die Größe der Zahlen, sogar die Schriftart beeinflussen unbewusst unsere Wahrnehmung.
 
 Besonders manipulativ sind "Priming"-Techniken. Subtile Hinweisreize bereiten unser Gehirn auf bestimmte Entscheidungen vor. Der Duft von frischem Brot in der Supermarktbäckerei ist ein klassisches Beispiel. Online sind die Möglichkeiten subtiler: Die Farbtemperatur des Bildschirms, Hintergrundmusik, sogar die Geschwindigkeit von Animationen können unser Verhalten beeinflussen. North et al. (1999) zeigten, dass französische Musik den Verkauf französischer Weine steigerte, deutsche Musik den deutscher Weine - ohne dass den Käufern der Einfluss bewusst war.
 
@@ -129,13 +129,13 @@ Die Akteure in diesem System sind vielfältig und ihre Rollen oft unklar. Da sin
 
 Forschungsprojekte, die versucht haben, die Datenflüsse einer einzigen Werbeeinblendung zu visualisieren, fanden über 300 beteiligte Entitäten, und das war nur eine einzige Anzeige, während ein durchschnittlicher Nutzer hunderte pro Tag sieht.
 
-Die technische Komplexität wird zur Ausrede für mangelnde Transparenz. Unternehmen argumentieren, dass Nutzer die Details ohnehin nicht verstehen würden. Doch diese paternalistische Haltung verhindert informierte Entscheidungen. Studien zeigen, dass Nutzer, wenn sie die tatsächlichen Datenflüsse verstehen, viel restriktiver mit ihren Einwilligungen wären. Die Intransparenz ist also nicht nur ein technisches Problem, sondern ein Geschäftsmodell.
+Die technische Komplexität wird zur Ausrede für mangelnde Transparenz. Unternehmen argumentieren, dass Nutzer die Details ohnehin nicht verstehen würden. Doch diese paternalistische Haltung verhindert informierte Entscheidungen. Erkenntnisse aus der Privacy-Paradox-Forschung legen nahe, dass Nutzer bei besserem Verständnis der tatsächlichen Datenflüsse restriktiver mit ihren Einwilligungen umgehen würden. Die Intransparenz ist also nicht nur ein technisches Problem, sondern ein Geschäftsmodell.
 
 Felix Hartmann kennt die Branche von innen: "Die Intransparenz ist gewollt. Wenn Nutzer wüssten, dass ihre Daten über Krankheiten an Versicherungen verkauft werden könnten, dass ihre finanziellen Probleme an Kredithaie weitergegeben werden, dass ihre politischen Ansichten in Datenbanken landen - es gäbe einen Aufstand. Also hält man es komplex und undurchsichtig."
 
 Die Sprache der Branche verschleiert zusätzlich. "Anonymisierte" Daten sind oft leicht re-identifizierbar. "Interessenbasierte Werbung" klingt harmloser als "psychologische Manipulation". "Verbesserung der Nutzererfahrung" bedeutet oft "Maximierung der Werbeeinnahmen". Diese euphemistische Sprache verhindert eine ehrliche Debatte über die tatsächlichen Praktiken.
 
-Selbst für Experten ist es schwierig, die tatsächlichen Datenflüsse nachzuvollziehen. Eine Studie von Papadopoulos et al. (2019) versuchte, die Cookie-Synchronisation im Ad-Tech-Ökosystem zu mappen. Sie fanden über 100.000 verschiedene Synchronisationsereignisse zwischen 9.000 verschiedenen Domains. Die Komplexität übersteigt jedes menschliche Verständnis.
+Selbst für Experten ist es schwierig, die tatsächlichen Datenflüsse nachzuvollziehen. Eine Studie von Papadopoulos et al. (2017) versuchte, die Cookie-Synchronisation im Ad-Tech-Ökosystem zu mappen. Sie fanden über 100.000 verschiedene Synchronisationsereignisse zwischen 9.000 verschiedenen Domains. Die Komplexität übersteigt jedes menschliche Verständnis.
 
 Die rechtlichen Transparenzanforderungen der DSGVO werden routinemäßig unterlaufen. Datenschutzerklärungen sind lang, komplex und vage. Sie listen Dutzende von "Partnern" auf, ohne zu erklären, was diese mit den Daten tun. Die Purpose-Beschreibungen sind so breit, dass praktisch alles darunter fallen kann. "Legitimate Interest" wird als Blankoscheck missbraucht.
 
@@ -153,7 +153,7 @@ Dr. Annika Sommer bleibt skeptisch: "Transparenz allein reicht nicht. Wir brauch
 
 Die Dominanz des überwachungsbasierten Werbemodells erscheint oft alternativlos. "Ohne Tracking keine relevante Werbung, ohne relevante Werbung kein kostenloses Internet" - so das Mantra der Branche. Doch diese Darstellung ist falsch. Alternative Modelle existieren, die Privatsphäre respektieren und trotzdem wirtschaftlich tragfähig sind. Ihre Verbreitung scheitert nicht an technischen Hürden, sondern an etablierten Machtstrukturen und kurzfristigem Profitdenken.
 
-Kontextuelle Werbung, die älteste Form der Online-Werbung, erlebt eine Renaissance. Statt Nutzer zu tracken, wird Werbung basierend auf dem Inhalt der besuchten Seite ausgespielt. Ein Artikel über Wandern zeigt Outdoor-Werbung, ein Kochrezept bewirbt Küchengeräte. Keine Cookies, kein Tracking, keine Profile. Studien zeigen, dass kontextuelle Werbung oft ähnlich effektiv ist wie verhaltensbasierte, bei deutlich besserem Datenschutz.
+Kontextuelle Werbung, die älteste Form der Online-Werbung, erlebt eine Renaissance. Statt Nutzer zu tracken, wird Werbung basierend auf dem Inhalt der besuchten Seite ausgespielt. Ein Artikel über Wandern zeigt Outdoor-Werbung, ein Kochrezept bewirbt Küchengeräte. Keine Cookies, kein Tracking, keine Profile. In der Werbeforschung gibt es wachsende Evidenz, dass kontextuelle Werbung vergleichbare Wirksamkeit bei deutlich besserem Datenschutz erzielen kann.
 
 Felix Hartmann hat die Zahlen analysiert: "Der Effizienzgewinn durch Behavioral Targeting wird massiv überschätzt. Im Durchschnitt bringt es 4% mehr Revenue. Aber die Kosten - technisch, rechtlich, ethisch - sind enorm. Viele Advertiser wären mit guter kontextueller Werbung genauso zufrieden."
 
@@ -206,24 +206,13 @@ Die Herausforderung ist gewaltig, aber nicht unüberwindbar. Die Geschichte zeig
 
 ## Quellenangaben für Kapitel 12.4
 
-Chen, J., Zhang, Y., & Heath, R. (2021). The temporal dynamics of online consumer vulnerability: A big data analysis of search behavior patterns. *Journal of Consumer Psychology*, 31(3), 456-478.
-
-Christl, W. (2017). *Corporate surveillance in everyday life: How companies collect, combine, analyze, trade, and use personal data on billions*. Cracked Labs.
-
-Frankfurt, H. G. (1971). Freedom of the will and the concept of a person. *The Journal of Philosophy*, 68(1), 5-20.
-
-Hanson, J. D., & Kysar, D. A. (1999). Taking behavioralism seriously: The problem of market manipulation. *New York University Law Review*, 74, 630-749.
-
-Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C. (2012). Brain-to-brain coupling: A mechanism for creating and sharing a social world. *Trends in Cognitive Sciences*, 16(2), 114-121.
-
-Hudders, L., De Pauw, P., Cauberghe, V., Panic, K., Zarouali, B., & Rozendaal, E. (2017). Shedding new light on how advertising literacy can affect children's processing of embedded advertising formats: A future research agenda. *Journal of Advertising*, 46(2), 333-349.
-
-Matz, S. C., Kosinski, M., Nave, G., & Stillwell, D. J. (2017). Psychological targeting as an effective approach to digital mass persuasion. *Proceedings of the National Academy of Sciences*, 114(48), 12714-12719.
-
-North, A. C., Hargreaves, D. J., & McKendrick, J. (1999). The influence of in-store music on wine selections. *Journal of Applied Psychology*, 84(2), 271-276.
-
-Papadopoulos, P., Kourtellis, N., Rodriguez, P. R., & Laoutaris, N. (2019). If you are not paying for it, you are the product: How much do advertisers pay to reach you? *Proceedings of the Internet Measurement Conference*, 142-156.
-
-Wedel, M., & Pieters, R. (2017). A review of eye-tracking research in marketing. In *Review of marketing research* (pp. 123-147). Routledge.
-
-Yeung, K. (2017). 'Hypernudge': Big Data as a mode of regulation by design. *Information, Communication & Society*, 20(1), 118-136.
+- **Christl, W.** (2017). *Corporate surveillance in everyday life: How companies collect, combine, analyze, trade, and use personal data on billions*. Cracked Labs. https://crackedlabs.org/en/corporate-surveillance
+- **Frankfurt, H. G.** (1971). Freedom of the will and the concept of a person. *The Journal of Philosophy*, 68(1), 5–20. https://doi.org/10.2307/2024717
+- **Hanson, J. D., & Kysar, D. A.** (1999). Taking behavioralism seriously: The problem of market manipulation. *New York University Law Review*, 74, 630–749.
+- **Hasson, U., Ghazanfar, A. A., Galantucci, B., Garrod, S., & Keysers, C.** (2012). Brain-to-brain coupling: A mechanism for creating and sharing a social world. *Trends in Cognitive Sciences*, 16(2), 114–121. https://doi.org/10.1016/j.tics.2011.12.007
+- **Hudders, L., De Pauw, P., Cauberghe, V., Panic, K., Zarouali, B., & Rozendaal, E.** (2017). Shedding new light on how advertising literacy can affect children's processing of embedded advertising formats: A future research agenda. *Journal of Advertising*, 46(2), 333–349. https://doi.org/10.1080/00913367.2016.1269303
+- **Matz, S. C., Kosinski, M., Nave, G., & Stillwell, D. J.** (2017). Psychological targeting as an effective approach to digital mass persuasion. *Proceedings of the National Academy of Sciences*, 114(48), 12714–12719. https://doi.org/10.1073/pnas.1710966114
+- **North, A. C., Hargreaves, D. J., & McKendrick, J.** (1999). The influence of in-store music on wine selections. *Journal of Applied Psychology*, 84(2), 271–276. https://doi.org/10.1037/0021-9010.84.2.271
+- **Papadopoulos, P., Kourtellis, N., Rodriguez, P. R., & Laoutaris, N.** (2017). If you are not paying for it, you are the product: How much do advertisers pay to reach you? *Proceedings of the 2017 Internet Measurement Conference*, 142–156. https://doi.org/10.1145/3131365.3131397
+- **Wedel, M., & Pieters, R.** (2017). A review of eye-tracking research in marketing. In *Review of marketing research* (pp. 123–147). Routledge. https://doi.org/10.4324/9781351550932-5
+- **Yeung, K.** (2017). 'Hypernudge': Big Data as a mode of regulation by design. *Information, Communication & Society*, 20(1), 118–136. https://doi.org/10.1080/1369118X.2016.1186713

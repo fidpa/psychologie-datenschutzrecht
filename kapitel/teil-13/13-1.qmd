@@ -15,7 +15,7 @@ Die in **[Kapitel 12]** analysierten branchenspezifischen Herausforderungen zeig
 
 Prof. Dr. Miriam Krüger, Psychologin und UX-Forscherin an der Universität München, beobachtet diese Diskussion seit Jahren mit wachsender Frustration. "Wir haben uns kollektiv in eine falsche Dichotomie verrannt", erklärt sie bei einem Workshop für Produktdesigner. "Die Annahme, dass Datenschutz automatisch schlechte User Experience bedeutet, ist nicht nur falsch – sie verhindert innovative Lösungen, die beides vereinen können."
 
-Tatsächlich zeigen neuere Studien, dass Nutzer Datenschutz zunehmend als integralen Bestandteil positiver Nutzererfahrungen wahrnehmen. Eine Untersuchung von Distler et al. (2021) fand heraus, dass 73% der Nutzer Produkte mit transparenten Datenschutzpraktiken als vertrauenswürdiger und qualitativ hochwertiger bewerten. Die Trennung zwischen User Experience und **[Privacy Experience]** erweist sich als künstlich und kontraproduktiv.
+Tatsächlich zeigen neuere Studien, dass Nutzer Datenschutz zunehmend als integralen Bestandteil positiver Nutzererfahrungen wahrnehmen. Eine Untersuchung von Distler et al. (2020) fand heraus, dass 73% der Nutzer Produkte mit transparenten Datenschutzpraktiken als vertrauenswürdiger und qualitativ hochwertiger bewerten. Die Trennung zwischen User Experience und **[Privacy Experience]** erweist sich als künstlich und kontraproduktiv.
 
 ## 13.1.1 User Experience und Privacy Experience {#13-1-1-user-experience-und-privacy-experience}
 
@@ -274,48 +274,27 @@ Die in diesem Kapitel vorgestellten Konzepte - von Privacy Experience über sinn
 
 ## Quellenangaben für Kapitel 13.1
 
-Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
-
-Benbunan-Fich, R. (2017). The ethics of online research with unsuspecting users: From A/B testing to C/D experimentation. *Information Technology & People*, 30(4), 864-880.
-
-Carroll, J. M., & Carrithers, C. (1984). Training wheels in a user interface. *Communications of the ACM*, 27(8), 800-806.
-
-Carroll, J. M., & Rosson, M. B. (1987). Paradox of the active user. In J. M. Carroll (Ed.), *Interfacing thought: Cognitive aspects of human-computer interaction* (pp. 80-111). MIT Press.
-
-Cox, A. L., Gould, S. J., Cecchinato, M. E., Iacovides, I., & Renfree, I. (2016). Design frictions for mindful interactions: The case for microboundaries. In *Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems* (pp. 1389-1397).
-
-Distler, V., Lallemand, C., & Koenig, V. (2021). How acceptable is this? How user experience factors can broaden our understanding of the acceptance of privacy trade-offs. *Computers in Human Behavior*, 117, 106644.
-
-European Commission. (2019). *Special Eurobarometer 487a: The General Data Protection Regulation*. European Union.
-
-Gefenas, E., Lekstutiene, J., Lukaseviciene, V., Hartlev, M., Mourby, M., & Cathaoir, K. Ó. (2022). Controversies between regulations of research ethics and protection of personal data: Informed consent at a cross-road. *Medicine, Health Care and Philosophy*, 25(1), 23-30.
-
-Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L. (2018). The dark (patterns) side of UX design. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1-14).
-
-Jarovsky, L. (2023). You are probably doing privacy UX wrong. *The Privacy Whisperer Newsletter*.
-
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-
-Kramer, A. D., Guillory, J. E., & Hancock, J. T. (2014). Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788-8790.
-
-Lee, Y., & Others. (2024). Analysis of design friction for mobile service UI based on the sensitivity of personal information types. *International Journal of Human-Computer Studies*, 173, 102978.
-
-McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
-
-Nielsen, J. (2006). Progressive disclosure. Nielsen Norman Group. https://www.nngroup.com/articles/progressive-disclosure/
-
-Shneiderman, B. (1996). The eyes have it: A task by data type taxonomy for information visualizations. In *Proceedings 1996 IEEE Symposium on Visual Languages* (pp. 336-343).
-
-Solove, D. J. (2008). *Understanding privacy*. Harvard University Press.
-
-Spillers, F. (2004). Progressive disclosure: Adaptive content sequencing. *Experience Dynamics*.
-
-Springer, A., & Whittaker, S. (2020). Progressive disclosure: When, why, and how do users want algorithmic transparency information? *ACM Transactions on Interactive Intelligent Systems*, 10(4), 1-32.
-
-Veltri, G. A., & Ivchenko, A. (2017). The impact of different forms of cognitive scarcity on online privacy disclosure. *Computers in Human Behavior*, 73, 238-246.
-
-W3C. (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*. World Wide Web Consortium.
+- **Acquisti, A., Brandimarte, L., & Loewenstein, G.** (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509–514.
+- **Benbunan-Fich, R.** (2017). The ethics of online research with unsuspecting users: From A/B testing to C/D experimentation. *Research Ethics*, 13(3–4), 200–218. https://doi.org/10.1177/1747016116680664
+- **Carroll, J. M., & Carrithers, C.** (1984). Training wheels in a user interface. *Communications of the ACM*, 27(8), 800–806.
+- **Carroll, J. M., & Rosson, M. B.** (1987). Paradox of the active user. In J. M. Carroll (Ed.), *Interfacing thought: Cognitive aspects of human-computer interaction* (pp. 80–111). MIT Press.
+- **Cox, A. L., Gould, S. J., Cecchinato, M. E., Iacovides, I., & Renfree, I.** (2016). Design frictions for mindful interactions: The case for microboundaries. In *Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems* (pp. 1389–1397).
+- **Distler, V., Lallemand, C., & Koenig, V.** (2020). How acceptable is this? How user experience factors can broaden our understanding of the acceptance of privacy trade-offs. *Computers in Human Behavior*, 106, 106227. https://doi.org/10.1016/j.chb.2019.106227
+- **European Commission.** (2019). *Special Eurobarometer 487a: The General Data Protection Regulation*. European Union.
+- **Gefenas, E., Lekstutiene, J., Lukaseviciene, V., Hartlev, M., Mourby, M., & Cathaoir, K. Ó.** (2022). Controversies between regulations of research ethics and protection of personal data: Informed consent at a cross-road. *Medicine, Health Care and Philosophy*, 25(1), 23–30.
+- **Gray, C. M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. L.** (2018). The dark (patterns) side of UX design. In *Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems* (pp. 1–14).
+- **Jarovsky, L.** (2023). You are probably doing privacy UX wrong. *The Privacy Whisperer Newsletter*. https://www.theprivacywhisperer.com
+- **Kahneman, D.** (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- **Kramer, A. D., Guillory, J. E., & Hancock, J. T.** (2014). Experimental evidence of massive-scale emotional contagion through social networks. *Proceedings of the National Academy of Sciences*, 111(24), 8788–8790.
+- **Lee, Y., & Kim, H.** (2024). Analysis of design friction for mobile service UI based on the sensitivity of personal information types. *Archives of Design Research*, 37(1), 227–243. https://doi.org/10.15187/adr.2024.02.37.1.227
+- **McDonald, A. M., & Cranor, L. F.** (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543–568.
+- **Miller, G. A.** (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.
+- **Nielsen, J.** (2006). Progressive disclosure. Nielsen Norman Group. https://www.nngroup.com/articles/progressive-disclosure/
+- **Shneiderman, B.** (1996). The eyes have it: A task by data type taxonomy for information visualizations. In *Proceedings 1996 IEEE Symposium on Visual Languages* (pp. 336–343).
+- **Solove, D. J.** (2008). *Understanding privacy*. Harvard University Press.
+- **Spillers, F.** (2004). Progressive disclosure: Adaptive content sequencing. *Experience Dynamics*.
+- **Springer, A., & Whittaker, S.** (2020). Progressive disclosure: When, why, and how do users want algorithmic transparency information? *ACM Transactions on Interactive Intelligent Systems*, 10(4), 1–32.
+- **Veltri, G. A., & Ivchenko, A.** (2017). The impact of different forms of cognitive scarcity on online privacy disclosure. *Computers in Human Behavior*, 73, 238–246.
+- **W3C.** (2018). *Web Content Accessibility Guidelines (WCAG) 2.1*. World Wide Web Consortium.
 
 World Health Organization. (1980). *International classification of impairments, disabilities, and handicaps*. WHO.

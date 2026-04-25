@@ -17,7 +17,7 @@ Datenvisualisierung steht vor einem Dilemma. Sie muss rechtliche Anforderungen e
 
 Die Wahl der richtigen Metapher entscheidet maßgeblich darüber, wie Menschen Datenverarbeitung verstehen und bewerten. Lakoff und Johnson (1980) zeigten in ihrer bahnbrechenden Arbeit "Metaphors We Live By", dass Metaphern nicht nur sprachliche Ornamente sind, sondern unser Denken von Grund auf strukturieren (← vgl. Kapitel 2.1 zu mentalen Modellen). Im Kontext des Datenschutzes prägen Metaphern, wie Nutzer über ihre Daten denken, welche Risiken sie wahrnehmen und welche Schutzmaßnahmen sie für angemessen halten.
 
-Oeldorf-Hirsch und Sundar (2015) identifizierten vier dominante Metaphernfamilien für Datenverarbeitung. Die **[Behälter-Metapher]** ("Daten werden gespeichert") suggeriert statische Aufbewahrung und führt dazu, dass Nutzer die dynamische Natur der Datenverarbeitung unterschätzen. Die Fluss-Metapher ("Datenströme") vermittelt Bewegung, kann aber das Gefühl von Kontrollverlust verstärken. Die Ressourcen-Metapher ("Daten als Öl des 21. Jahrhunderts") betont wirtschaftlichen Wert, vernachlässigt jedoch persönliche Aspekte. Die Organismus-Metapher ("lebendige Daten") erfasst die evolutionäre Natur von Datenprofilen, wirkt aber auf viele Nutzer befremdlich.
+Im Anschluss an Lakoff und Johnson lassen sich im Datenschutz-Diskurs vier dominante Metaphernfamilien unterscheiden. Die **[Behälter-Metapher]** ("Daten werden gespeichert") suggeriert statische Aufbewahrung und führt dazu, dass Nutzer die dynamische Natur der Datenverarbeitung unterschätzen. Die Fluss-Metapher ("Datenströme") vermittelt Bewegung, kann aber das Gefühl von Kontrollverlust verstärken. Die Ressourcen-Metapher ("Daten als Öl des 21. Jahrhunderts") betont wirtschaftlichen Wert, vernachlässigt jedoch persönliche Aspekte. Die Organismus-Metapher ("lebendige Daten") erfasst die evolutionäre Natur von Datenprofilen, wirkt aber auf viele Nutzer befremdlich.
 
 Eye-Tracking-Studien zeigen, wie verschiedene visuelle Metaphern die Risikowahrnehmung beeinflussen. Datenflüsse, die als Wasserleitungen mit Ventilen dargestellt werden, erzeugen ein deutlich höheres Kontrollgefühl als abstrakte Netzwerkdiagramme. Gleichzeitig führt die Pipeline-Metapher dazu, dass Nutzer die Möglichkeit von Datenlecks intuitiver erfassen. Die Fixationsdauer auf potenzielle Schwachstellen steigt messbar an.
 
@@ -90,7 +90,7 @@ Die rechtliche Validität interaktiver Datenschutzerklärungen war lange umstrit
 
 **[Augmented Reality]** (AR) verspricht einen Paradigmenwechsel in der Datenschutzkommunikation. Statt Datenflüsse auf abstrakten Diagrammen darzustellen, können AR-Anwendungen sie direkt in der physischen Umgebung visualisieren. Diese Verschmelzung von digitaler und physischer Realität macht unsichtbare Datenströme buchstäblich sichtbar.
 
-Das MIT Media Lab demonstrierte mit dem Projekt "Invisible Bits" das Potenzial dieser Technologie (MIT Media Lab, 2022). Nutzer können durch ihre Smartphone-Kamera sehen, welche Daten Geräte in ihrer Umgebung sammeln und übertragen. Ein Smart-TV wird von bunten Datenpaketen umgeben, die zu verschiedenen Servern fließen. WLAN-Router zeigen Verbindungen zu allen angeschlossenen Geräten. Diese Visualisierung transformiert abstrakte Konzepte in greifbare Erfahrungen.
+Forschungsprototypen aus der HCI- und AR-Community deuten das Potenzial dieser Technologie an. In einer typischen Umsetzung können Nutzer durch ihre Smartphone-Kamera sehen, welche Daten Geräte in ihrer Umgebung sammeln und übertragen. Ein Smart-TV wird von bunten Datenpaketen umgeben, die zu verschiedenen Servern fließen. WLAN-Router zeigen Verbindungen zu allen angeschlossenen Geräten. Solche Visualisierungen transformieren abstrakte Konzepte in greifbare Erfahrungen.
 
 Lisa Chen leitete ein Pilotprojekt, das AR für Datenschutzschulungen in Unternehmen einsetzte. Mitarbeiter konnten durch AR-Brillen sehen, wie ihre Aktionen Datenspuren erzeugen. Das Öffnen einer E-Mail löste eine visuelle Kaskade aus: Tracking-Pixel sendeten Informationen an Server, Metadaten wurden extrahiert, Verhaltensmuster analysiert. "Der Aha-Moment war unbezahlbar", berichtet Chen. "Plötzlich verstanden auch technikferne Kollegen, was 'digitaler Fußabdruck' wirklich bedeutet."
 
@@ -127,34 +127,17 @@ Die Visualisierung von Datenflüssen und Risiken steht erst am Anfang ihrer Entw
 
 ## Quellenangaben für Kapitel 13.2
 
-Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
-
-Kang, R., Dabbish, L., Fruchter, N., & Kiesler, S. (2015). "My data just goes everywhere": User mental models of the internet and implications for privacy and security. In *Proceedings of the Eleventh USENIX Conference on Usable Privacy and Security (SOUPS 2015)* (pp. 39-52). USENIX Association.
-
-Lakoff, G., & Johnson, M. (1980). *Metaphors we live by*. University of Chicago Press.
-
-McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
-
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
-
-MIT Media Lab (2022). *Invisible bits: Augmented reality for privacy awareness*. MIT Press.
-
-Oeldorf-Hirsch, A., & Sundar, S. S. (2015). Posting, commenting, and tagging: Effects of sharing news stories on Facebook. *Computers in Human Behavior*, 44, 240-249.
-
-Polst, S., Kelbert, P., & Feth, D. (2019). Company privacy dashboards: Employee needs and requirements. In A. Moallem (Ed.), *HCI for Cybersecurity, Privacy and Trust. HCII 2019. Lecture Notes in Computer Science* (Vol. 11594, pp. 429-440). Springer.
-
-Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F. (2015). A design space for effective privacy notices. In *Proceedings of the Eleventh Symposium on Usable Privacy and Security (SOUPS 2015)* (pp. 1-17). USENIX Association.
-
-Schaub, F., Marella, A., Kalvani, P., Ur, B., Pan, C., Forney, E., & Cranor, L. F. (2016). Watching them watching me: Browser extensions' impact on user privacy awareness and concern. In *Proceedings of the NDSS Workshop on Usable Security* (Vol. 10). Internet Society.
-
-Slovic, P. (1987). Perception of risk. *Science*, 236(4799), 280-285.
-
-Slovic, P. (2000). *The perception of risk*. Earthscan.
-
-Slovic, P., Fischhoff, B., & Lichtenstein, S. (1978). How safe is safe enough? A psychometric study of attitudes towards technological risks and benefits. *Policy Sciences*, 9(2), 127-152.
-
-Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G. (2007). The affect heuristic. *European Journal of Operational Research*, 177(3), 1333-1352.
-
-Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257-285.
-
-Sweller, J. (1994). Cognitive load theory, learning difficulty, and instructional design. *Learning and Instruction*, 4(4), 295-312.
+- **Acquisti, A., Brandimarte, L., & Loewenstein, G.** (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509–514. https://doi.org/10.1126/science.aaa1465
+- **Kang, R., Dabbish, L., Fruchter, N., & Kiesler, S.** (2015). "My Data Just Goes Everywhere": User mental models of the Internet and implications for privacy and security. In *Proceedings of the Eleventh Symposium on Usable Privacy and Security (SOUPS 2015)* (pp. 39–52). USENIX Association.
+- **Lakoff, G., & Johnson, M.** (1980). *Metaphors we live by*. University of Chicago Press.
+- **McDonald, A. M., & Cranor, L. F.** (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543–568.
+- **Miller, G. A.** (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.
+- **Polst, S., Kelbert, P., & Feth, D.** (2019). Company privacy dashboards: Employee needs and requirements. In A. Moallem (Ed.), *HCI for Cybersecurity, Privacy and Trust. HCII 2019. Lecture Notes in Computer Science* (Vol. 11594, pp. 429–440). Springer. https://doi.org/10.1007/978-3-030-22351-9_29
+- **Schaub, F., Balebako, R., Durity, A. L., & Cranor, L. F.** (2015). A design space for effective privacy notices. In *Proceedings of the Eleventh Symposium on Usable Privacy and Security (SOUPS 2015)* (pp. 1–17). USENIX Association.
+- **Schaub, F., Marella, A., Kalvani, P., Ur, B., Pan, C., Forney, E., & Cranor, L. F.** (2016). Watching them watching me: Browser extensions' impact on user privacy awareness and concern. In *Proceedings of the NDSS Workshop on Usable Security (USEC 2016)*. Internet Society. https://doi.org/10.14722/usec.2016.23017
+- **Slovic, P.** (1987). Perception of risk. *Science*, 236(4799), 280–285. https://doi.org/10.1126/science.3563507
+- **Slovic, P.** (2000). *The perception of risk*. Earthscan.
+- **Slovic, P., Fischhoff, B., & Lichtenstein, S.** (1978). How safe is safe enough? A psychometric study of attitudes towards technological risks and benefits. *Policy Sciences*, 9(2), 127–152. https://doi.org/10.1007/BF00143739
+- **Slovic, P., Finucane, M. L., Peters, E., & MacGregor, D. G.** (2007). The affect heuristic. *European Journal of Operational Research*, 177(3), 1333–1352. https://doi.org/10.1016/j.ejor.2005.04.006
+- **Sweller, J.** (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285. https://doi.org/10.1207/s15516709cog1202_4
+- **Sweller, J.** (1994). Cognitive load theory, learning difficulty, and instructional design. *Learning and Instruction*, 4(4), 295–312. https://doi.org/10.1016/0959-4752(94)90003-5

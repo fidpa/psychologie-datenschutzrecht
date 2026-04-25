@@ -35,7 +35,7 @@ Nissenbaum (2019) argumentiert, dass traditionelle Verantwortungskonzepte hier v
 
 Dr. Annika Sommer erlebt diese Herausforderung täglich: „Als Datenschutzbeauftragte eines Universitätsklinikums jongliere ich zwischen dutzenden Systemen. Jeder Anbieter verweist auf den anderen, wenn Probleme auftreten." Ihre Lösung ist ein **Verantwortungsmatrix-System**, das für jeden Datenfluss klare Zuständigkeiten auf drei Ebenen definiert: technische Zuständigkeit (wer betreibt das System?), rechtliche Verantwortung (wer ist Verantwortlicher im Sinne der DSGVO?) und operative Handlungsfähigkeit (wer kann im Ernstfall eingreifen?). „Es geht nicht darum, Schuldige zu finden. Es geht darum, Handlungsfähigkeit herzustellen."
 
-Die psychologischen Mechanismen der [Verantwortungsdiffusion] manifestieren sich auf mehreren Ebenen. Auf technischer Ebene sehen sich Entwickler als neutrale Werkzeugbauer. „Code is law" (Lessig, 1999) wird zur Ausrede für ethische Abstinenz. Die Forschung belegt: Bereits die Wahl von Default-Einstellungen hat starke Verhaltenseffekte (→ siehe Kapitel 4.3 zu **[Nudging]**). Auf organisationaler Ebene führt die Fragmentierung in Abteilungen zu **[Silo-Denken]**: Die IT verweist auf Legal, Legal auf Compliance, Compliance auf die Geschäftsführung. Cram et al. (2017) identifizierten in ihrer Analyse, dass fehlende Verantwortlichkeiten ein Hauptfaktor bei Sicherheitsvorfällen sind. In besonders hierarchischen Organisationen kann diese Diffusion eine Sündenbock-Dynamik erzeugen, bei der Datenschutzversäumnisse des Managements an die operative Ebene delegiert werden, während Datenschutzargumente gleichzeitig als intraorganisationales Machtinstrument dienen (→ siehe Kapitel 8.5 zur Mikropolitik des Datenschutzes).
+Die psychologischen Mechanismen der [Verantwortungsdiffusion] manifestieren sich auf mehreren Ebenen. Auf technischer Ebene sehen sich Entwickler als neutrale Werkzeugbauer. „Code is law" (Lessig, 1999) wird zur Ausrede für ethische Abstinenz. Die Forschung belegt: Bereits die Wahl von Default-Einstellungen hat starke Verhaltenseffekte (Thaler & Sunstein, 2008; → siehe Kapitel 4.3 zu **[Nudging]**). Auf organisationaler Ebene führt die Fragmentierung in Abteilungen zu **[Silo-Denken]**: Die IT verweist auf Legal, Legal auf Compliance, Compliance auf die Geschäftsführung. Cram et al. (2017) identifizierten in ihrer Analyse, dass fehlende Verantwortlichkeiten ein Hauptfaktor bei Sicherheitsvorfällen sind. In besonders hierarchischen Organisationen kann diese Diffusion eine Sündenbock-Dynamik erzeugen, bei der Datenschutzversäumnisse des Managements an die operative Ebene delegiert werden, während Datenschutzargumente gleichzeitig als intraorganisationales Machtinstrument dienen (→ siehe Kapitel 8.5 zur Mikropolitik des Datenschutzes).
 
 Auf gesellschaftlicher Ebene entsteht ein besonders folgenreiches Muster: Bürger fühlen sich machtlos gegenüber Tech-Giganten. „Was kann ich als Einzelner schon ausrichten?" Diese **[erlernte Hilflosigkeit]**, von Seligman (1975) ursprünglich in Laborexperimenten beschrieben und später auf gesellschaftliche Kontexte übertragen, führt zu Resignation statt Engagement. Wer wiederholt erlebt, dass Datenschutzbeschwerden ins Leere laufen oder Betroffenenrechte faktisch nicht durchsetzbar sind, stellt das Engagement irgendwann ein. Konkret äußert sich das in charakteristischen Verhaltensweisen: Cookie-Banner werden reflexartig weggeklickt, Datenschutzerklärungen ungelesen akzeptiert, Auskunftsrechte nie wahrgenommen — nicht weil die Rechte unbekannt wären, sondern weil die subjektive Erfolgserwartung gegen null tendiert. Datenschutzrechtlich relevante Chilling Effects sind die unmittelbare Folge (← vgl. Kapitel 2.3 zu Kontrollillusionen).
 
@@ -79,7 +79,7 @@ Algorithmische Diskriminierung manifestiert sich in verschiedenen Formen. **[His
 
 Felix Hartmann reflektiert seine Erfahrungen: „Wir dachten, mathematische Modelle seien neutral. Dann merkten wir: Jede Variable-Auswahl, jede Gewichtung ist eine ethische Entscheidung." Sein Team entwickelte einen **Fairness-Check-Prozess**: Vor jedem Modell-Deployment werden Auswirkungen auf verschiedene Nutzergruppen systematisch getestet — aufgeschlüsselt nach Herkunft, Altersgruppe und sozioökonomischem Status. Nur wenn alle Subgruppen vergleichbare Fehlerquoten aufweisen, gilt das Modell als einsatzbereit. Diese Hürde verlangsamt die Entwicklung, macht Diskriminierungsmuster aber sichtbar, bevor sie Schaden anrichten.
 
-Die psychologischen Mechanismen hinter [algorithmischer Diskriminierung] verdienen besondere Aufmerksamkeit. **[Automation Bias]** veranlasst Menschen dazu, algorithmischen Entscheidungen zu vertrauen, was es schwerer macht, Diskriminierung zu erkennen und anzufechten. **[Objectivity Illusion]**: Die mathematische Natur von Algorithmen suggeriert Neutralität. Doch wie Boyd und Crawford (2012) betonen: „Claims to objectivity and accuracy are misleading." Hinzu kommt die Diffusion der Verantwortung: Wenn „der Algorithmus" entscheidet, fühlt sich niemand persönlich verantwortlich für diskriminierende Ergebnisse.
+Die psychologischen Mechanismen hinter [algorithmischer Diskriminierung] verdienen besondere Aufmerksamkeit. **[Automation Bias]** veranlasst Menschen dazu, algorithmischen Entscheidungen zu vertrauen, was es schwerer macht, Diskriminierung zu erkennen und anzufechten. **[Objectivity Illusion]**: Die mathematische Natur von Algorithmen suggeriert Neutralität. Doch wie Boyd und Crawford (2012, S. 667) betonen: „Claims to objectivity and accuracy are misleading." Hinzu kommt die Diffusion der Verantwortung: Wenn „der Algorithmus" entscheidet, fühlt sich niemand persönlich verantwortlich für diskriminierende Ergebnisse.
 
 Wirksame Gegenstrategien erfordern interdisziplinäre Ansätze, die auf mehreren Ebenen gleichzeitig ansetzen. Diversität in Entwicklungsteams ist ein erster Schritt. Unterschiedliche Lebensrealitäten schärfen den Blick für Diskriminierungsrisiken, die homogene Teams übersehen. Partizipative Entwicklung geht weiter und bezieht betroffene Gemeinschaften direkt in Designentscheidungen ein; Felix' Erfahrungen zeigen, wie externe Perspektiven blinde Flecken aufdecken, die intern nicht sichtbar waren. Kontinuierliches Monitoring nach dem Deployment, nicht nur ein einmaliger Pre-Release-Test, überwacht Algorithmen im realen Einsatz und registriert Verzerrungen, die erst im Betrieb entstehen. Transparenz und Erklärbarkeit machen Entscheidungswege für Betroffene nachvollziehbar und sind eine Grundvoraussetzung für Rechtsschutz. Rechtliche Rahmenbedingungen wie der AI Act adressieren diese Herausforderungen zunehmend strukturell (→ siehe Kapitel 10.1 zur KI-Regulierung, Kapitel 10.2 zu erklärbarer KI sowie Kapitel 10.4 zur KI-Governance).
 
@@ -99,52 +99,29 @@ Diese gesellschaftlichen Herausforderungen erfordern eine solide wissenschaftlic
 
 ## Quellenangaben für Kapitel 15.1
 
-Acquisti, A., John, L. K., & Loewenstein, G. (2017). The impact of relative standards on the propensity to disclose. *Journal of Marketing Research*, 49(2), 160-174.
-
-Barocas, S., & Selbst, A. D. (2016). Big data's disparate impact. *California Law Review*, 104(3), 671-732.
-
-Boyd, D., & Crawford, K. (2012). Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon. *Information, Communication & Society*, 15(5), 662-679.
-
-Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of Machine Learning Research*, 81, 77-91.
-
-Couldry, N., & Mejias, U. A. (2019). *The costs of connection: How data is colonizing human life and appropriating it for capitalism*. Stanford University Press.
-
-Cram, W. A., Proudfoot, J. G., & D'Arcy, J. (2017). Organizational information security policies: A review and research framework. *European Journal of Information Systems*, 26(6), 605-641.
-
-Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology*, 8(4), 377-383.
-
-Fairfield, J., & Engel, C. (2015). Privacy as a public good. *Duke Law Journal*, 65(3), 385-457.
-
-Floridi, L. (2013). *The ethics of information*. Oxford University Press.
-
-Floridi, L. (2018). Soft ethics, the governance of the digital and the General Data Protection Regulation. *Philosophical Transactions of the Royal Society A*, 376(2133), 20180081.
-
-Fraser, N. (2000). Rethinking recognition. *New Left Review*, 3, 107-120.
-
-Hardin, G. (1968). The tragedy of the commons. *Science*, 162(3859), 1243-1248.
-
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-
-Kosinski, M., Stillwell, D., & Graepel, T. (2013). Private traits and attributes are predictable from digital records of human behavior. *Proceedings of the National Academy of Sciences*, 110(15), 5802-5805.
-
-Lessig, L. (1999). *Code and other laws of cyberspace*. Basic Books.
-
-Machuletz, D., & Böhme, R. (2020). Multiple purposes, multiple problems: A user study of consent dialogs after GDPR. *Proceedings on Privacy Enhancing Technologies*, 2020(2), 481-498.
-
-Marwick, A. E., & boyd, d. (2014). Networked privacy: How teenagers negotiate context in social media. *New Media & Society*, 16(7), 1051-1067.
-
-McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
-
-Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
-
-Nissenbaum, H. (2019). Contextual integrity up and down the data food chain. *Theoretical Inquiries in Law*, 20(1), 221-256.
-
-O'Neil, C. (2016). *Weapons of math destruction: How big data increases inequality and threatens democracy*. Crown Publishing.
-
-Ostrom, E. (1990). *Governing the commons: The evolution of institutions for collective action*. Cambridge University Press.
-
-Seligman, M. E. P. (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
-
-Sen, A. (1999). *Development as freedom*. Oxford University Press.
-
-Taylor, L. (2017). What is data justice? The case for connecting digital rights and freedoms globally. *Big Data & Society*, 4(2), 1-14.
+- **Acquisti, A., John, L. K., & Loewenstein, G.** (2017). The impact of relative standards on the propensity to disclose. *Journal of Marketing Research*, 49(2), 160-174.
+- **Barocas, S., & Selbst, A. D.** (2016). Big data's disparate impact. *California Law Review*, 104(3), 671-732.
+- **Boyd, D., & Crawford, K.** (2012). Critical questions for big data: Provocations for a cultural, technological, and scholarly phenomenon. *Information, Communication & Society*, 15(5), 662-679.
+- **Buolamwini, J., & Gebru, T.** (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. *Proceedings of Machine Learning Research*, 81, 77-91.
+- **Couldry, N., & Mejias, U. A.** (2019). *The costs of connection: How data is colonizing human life and appropriating it for capitalism*. Stanford University Press.
+- **Cram, W. A., Proudfoot, J. G., & D'Arcy, J.** (2017). Organizational information security policies: A review and research framework. *European Journal of Information Systems*, 26(6), 605-641.
+- **Darley, J. M., & Latané, B.** (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology*, 8(4), 377-383.
+- **Fairfield, J., & Engel, C.** (2015). Privacy as a public good. *Duke Law Journal*, 65(3), 385-457.
+- **Floridi, L.** (2013). *The ethics of information*. Oxford University Press.
+- **Floridi, L.** (2018). Soft ethics, the governance of the digital and the General Data Protection Regulation. *Philosophical Transactions of the Royal Society A*, 376(2133), 20180081.
+- **Fraser, N.** (2000). Rethinking recognition. *New Left Review*, 3, 107-120.
+- **Hardin, G.** (1968). The tragedy of the commons. *Science*, 162(3859), 1243-1248.
+- **Kahneman, D.** (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- **Kosinski, M., Stillwell, D., & Graepel, T.** (2013). Private traits and attributes are predictable from digital records of human behavior. *Proceedings of the National Academy of Sciences*, 110(15), 5802-5805.
+- **Lessig, L.** (1999). *Code and other laws of cyberspace*. Basic Books.
+- **Machuletz, D., & Böhme, R.** (2020). Multiple purposes, multiple problems: A user study of consent dialogs after GDPR. *Proceedings on Privacy Enhancing Technologies*, 2020(2), 481-498.
+- **Marwick, A. E., & boyd, d.** (2014). Networked privacy: How teenagers negotiate context in social media. *New Media & Society*, 16(7), 1051-1067.
+- **McDonald, A. M., & Cranor, L. F.** (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society*, 4(3), 543-568.
+- **Nissenbaum, H.** (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+- **Nissenbaum, H.** (2019). Contextual integrity up and down the data food chain. *Theoretical Inquiries in Law*, 20(1), 221-256.
+- **O'Neil, C.** (2016). *Weapons of math destruction: How big data increases inequality and threatens democracy*. Crown Publishing.
+- **Ostrom, E.** (1990). *Governing the commons: The evolution of institutions for collective action*. Cambridge University Press.
+- **Seligman, M. E. P.** (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
+- **Sen, A.** (1999). *Development as freedom*. Oxford University Press.
+- **Taylor, L.** (2017). What is data justice? The case for connecting digital rights and freedoms globally. *Big Data & Society*, 4(2), 1-14.
+- **Thaler, R. H., & Sunstein, C. R.** (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.

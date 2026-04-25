@@ -11,13 +11,13 @@
 
 Felix Hartmann betrachtete frustriert die Statistiken auf seinem Bildschirm. Trotz drei Datenschutzschulungen im letzten Jahr nutzten immer noch 67% seiner Entwickler unverschlüsselte Kommunikationskanäle für sensible Kundendaten. Das Wissen war vorhanden, in den Abschlusstests erreichten alle über 90%, aber das Verhalten änderte sich nicht. Diese Diskrepanz zwischen Wissen und Handeln, das sogenannte **[Awareness-Action-Gap]**, ist eines der hartnäckigsten Probleme im Datenschutz.
 
-Die Forschung zeigt ein ernüchterndes Bild: Während 89% der Mitarbeiter nach Schulungen angeben, die Bedeutung von Datenschutz zu verstehen, zeigen nur 23% tatsächliche Verhaltensänderungen nach sechs Monaten (Bauer et al., 2021). Diese Kluft zwischen Bewusstsein und Aktion kostet Unternehmen Millionen durch Datenschutzverletzungen, die trotz besserem Wissen auftreten. Die Lösung liegt nicht in mehr Information, sondern in der systematischen Anwendung verhaltenspsychologischer Erkenntnisse.
+Die Forschung zeigt ein ernüchterndes Bild: Während 89% der Mitarbeiter nach Schulungen angeben, die Bedeutung von Datenschutz zu verstehen, zeigen nur 23% tatsächliche Verhaltensänderungen nach sechs Monaten (Bauer et al., 2017). Diese Kluft zwischen Bewusstsein und Aktion kostet Unternehmen Millionen durch Datenschutzverletzungen, die trotz besserem Wissen auftreten. Die Lösung liegt nicht in mehr Information, sondern in der systematischen Anwendung verhaltenspsychologischer Erkenntnisse.
 
 ## 14.3.1 Das Awareness-Action-Gap {#14-3-1-das-awareness-action-gap}
 
 Das **[Awareness-Action-Gap]** ist kein spezifisches Datenschutz-Phänomen, sondern ein universelles menschliches Verhaltensmuster. Menschen wissen, dass Rauchen schädlich ist, rauchen aber trotzdem. Sie kennen die Vorteile von Sport, bleiben aber auf der Couch. Im Datenschutzkontext manifestiert sich dies besonders deutlich: 94% wissen, dass starke Passwörter wichtig sind, aber 78% nutzen weiterhin simple Kombinationen (Ur et al., 2022).
 
-Die **[Theory of Planned Behavior]** (← vgl. Kapitel 2.1) (Ajzen, 1991) erklärt diese Diskrepanz durch drei Faktoren: Einstellung, subjektive Norm und wahrgenommene **[Verhaltenskontrolle]**. Prof. Miriam Krüger untersuchte diese Faktoren im Datenschutzkontext: "Mitarbeiter haben oft positive Einstellungen zum Datenschutz, aber die subjektive Norm – was Kollegen tun – und die wahrgenommene Kontrolle – kann ich das überhaupt umsetzen – sabotieren die guten Absichten."
+Die **[Theory of Planned Behavior]** (← vgl. Kapitel 2.1) (Ajzen, 1991) erklärt diese Diskrepanz durch drei Faktoren: Einstellung, subjektive Norm und wahrgenommene **[Verhaltenskontrolle]**. Prof. Dr. Miriam Krüger untersuchte diese Faktoren im Datenschutzkontext: "Mitarbeiter haben oft positive Einstellungen zum Datenschutz, aber die subjektive Norm – was Kollegen tun – und die wahrgenommene Kontrolle – kann ich das überhaupt umsetzen – sabotieren die guten Absichten."
 
 Das **[COM-B Modell]** (Michie et al., 2011) bietet einen praktischeren Rahmen:
 - **Capability** (Fähigkeit): Physische und psychologische Kapazität
@@ -30,18 +30,18 @@ Die **[Intention-Action-Gap]** wird durch multiple psychologische Mechanismen ve
 
 **[Present Bias]** (→ siehe Kapitel 2.2): Der Aufwand für Datenschutzmaßnahmen ist sofort spürbar, der Nutzen liegt in einer ungewissen Zukunft. Eine Eye-Tracking-Studie zeigte: Nutzer fixieren Datenschutz-Warnungen durchschnittlich nur 247 Millisekunden, bevor sie wegklicken (Cranor et al., 2020).
 
-**[Optimismus-Bias]**: "Mir passiert schon nichts" ist die häufigste Rationalisierung. 73% der Befragten schätzen ihr persönliches Risiko einer Datenschutzverletzung als unterdurchschnittlich ein, obwohl statistisch jeder Dritte betroffen ist (Baek et al., 2021).
+**[Optimismus-Bias]**: "Mir passiert schon nichts" ist die häufigste Rationalisierung. 73% der Befragten schätzen ihr persönliches Risiko einer Datenschutzverletzung als unterdurchschnittlich ein, obwohl statistisch jeder Dritte betroffen ist (Baek et al., 2014).
 
 **[Cognitive Overload]**: In modernen Arbeitsumgebungen konkurrieren durchschnittlich 127 verschiedene Sicherheitsrichtlinien um Aufmerksamkeit. Das menschliche Gehirn kann maximal 7±2 Handlungsregeln aktiv halten (Miller, 1956). Die Folge: Regelignoranz aus Selbstschutz.
 
 **[Social Proof]** wirkt oft kontraproduktiv: Wenn niemand im Team Datenschutzmaßnahmen ernst nimmt, sinkt die individuelle Compliance rapide. Sobald der erste Mitarbeiter anfängt, Testdaten über unsichere Kanäle zu teilen, folgen binnen weniger Wochen die anderen. Das Fehlverhalten wird zur informellen Norm.
 
-Eine Meta-Analyse von 42 Studien identifizierte die stärksten Barrieren für Datenschutzverhalten (Wang et al., 2021). An erster Stelle steht mit 87% der Nennungen der Zeitaufwand, gefolgt von der Komplexität der Maßnahmen mit 76%. Fehlende soziale Unterstützung stellt für 65% der Befragten eine bedeutende Barriere dar, während 59% einen unklaren persönlichen Nutzen als Hindernis sehen. Technische Hürden werden von 52% als problematisch empfunden.
+Eine Meta-Analyse der Antezedenzien von Information-Security-Policy-Compliance identifiziert wiederkehrende Barrieren-Cluster für Datenschutzverhalten (Cram et al., 2019): Zeitaufwand und wahrgenommene Komplexität dominieren, gefolgt von fehlender sozialer Unterstützung, unklarem persönlichem Nutzen und technischen Hürden. Die relative Gewichtung variiert zwischen Studien und Organisationskontexten.
 
 > **Methodische Reflexion: Evidence-based Privacy**
 > Diese empirischen Erkenntnisse zeigen die Notwendigkeit für **[Evidence-based Privacy]** – die systematische Verankerung wissenschaftlicher Erkenntnisse in Recht und Unternehmenspraxis. Nur durch evidenzbasierte Herangehensweisen können wir die Kluft zwischen Awareness und Action effektiv überbrücken (→ für methodische Vertiefung siehe Kapitel 16.1 zu Forschungsmethoden).
 
-Das **[Knowing-Doing-Gap]** hat auch neurobiologische Grundlagen. fMRT-Studien zeigen: Bei Datenschutzentscheidungen ist der präfrontale Kortex (rationales Denken) aktiv, aber die **[Amygdala]** (emotionale Bewertung) dominiert oft die finale Handlung. Stress verstärkt diesen Effekt. Unter Zeitdruck fallen 89% in unsichere Gewohnheiten zurück (Vance et al., 2022).
+Das **[Knowing-Doing-Gap]** hat auch neurobiologische Grundlagen. fMRT-Studien zeigen: Bei Datenschutzentscheidungen ist der präfrontale Kortex (rationales Denken) aktiv, aber die **[Amygdala]** (emotionale Bewertung) dominiert oft die finale Handlung. Stress verstärkt diesen Effekt. Unter Zeitdruck fallen 89% in unsichere Gewohnheiten zurück (Vance et al., 2018).
 
 ## 14.3.2 Verhaltensänderungsmodelle anwenden {#14-3-2-verhaltensaenderungsmodelle-anwenden}
 
@@ -53,13 +53,13 @@ Felix Hartmann kartierte sein Team entlang dieser Stufen: "30% waren noch in Pre
 
 **Stufengerechte Interventionen** zeigen deutlich höhere Erfolgsraten:
 
-*Precontemplation → Contemplation*: Bewusstsein schaffen durch emotionale Ansprache. Ein Video über reale Datenschutzopfer bewegte 67% zur nächsten Stufe.
+*Precontemplation → Contemplation*: Bewusstsein schaffen durch emotionale Ansprache. Ein Video über reale Datenschutzopfer kann einen spürbaren Teil der Belegschaft zur nächsten Stufe bewegen.
 
-*Contemplation → Preparation*: **[Selbstwirksamkeit]** stärken. Micro-Commitments ("Ich werde diese Woche ein sicheres Passwort erstellen") erhöhen Übergangswahrscheinlichkeit um 45%.
+*Contemplation → Preparation*: **[Selbstwirksamkeit]** stärken. Micro-Commitments ("Ich werde diese Woche ein sicheres Passwort erstellen") erhöhen die Übergangswahrscheinlichkeit merklich.
 
 *Preparation → Action*: Konkrete Unterstützung bieten. Step-by-Step-Anleitungen und technische Hilfe sind essentiell.
 
-*Action → Maintenance*: Positive Verstärkung und soziale Unterstützung. Peer Recognition erhöht Durchhalterate um 78%.
+*Action → Maintenance*: Positive Verstärkung und soziale Unterstützung. Peer Recognition erhöht die Durchhalterate deutlich.
 
 Das **[Fogg Behavior Model]** (B = MAT) postuliert, dass Verhalten das Produkt von Motivation, Ability (Fähigkeit) und Trigger ist. Alle drei müssen gleichzeitig vorliegen:
 
@@ -88,13 +88,13 @@ Das **[MINDSPACE Framework]** nutzt verhaltensökonomische Erkenntnisse:
 - **Commitments**: Welche Selbstverpflichtungen existieren?
 - **Ego**: Wie wirkt es auf das Selbstbild?
 
-In der Praxis hat sich bewährt, **[MINDSPACE]** (← vgl. Kapitel 4.3) systematisch einzusetzen: den CISO als Messenger (Autorität) zu positionieren, Team-Dashboards für soziale Normen zu nutzen, sichere Defaults zu setzen und **[Privacy Champions]** (← vgl. Kapitel 14.1) öffentlich zu würdigen. Organisationen, die mehrere MINDSPACE-Hebel gleichzeitig aktivieren, berichten Compliance-Steigerungen von über 100%.
+In der Praxis hat sich bewährt, **[MINDSPACE]** (← vgl. Kapitel 4.3) systematisch einzusetzen: den CISO als Messenger (Autorität) zu positionieren, Team-Dashboards für soziale Normen zu nutzen, sichere Defaults zu setzen und **[Privacy Champions]** (← vgl. Kapitel 14.1) öffentlich zu würdigen. Organisationen, die mehrere MINDSPACE-Hebel gleichzeitig aktivieren, berichten von überdurchschnittlich hohen Compliance-Steigerungen.
 
 ## 14.3.3 Habit Formation für Datenschutz {#14-3-3-habit-formation-fuer-datenschutz}
 
 Nachhaltiger Datenschutz entsteht nicht durch einmalige Entscheidungen, sondern durch Gewohnheiten. Die **[Habit Loop Theory]** (Duhigg, 2012) beschreibt Gewohnheiten als Kreislauf aus Cue (Auslöser), Routine (Verhalten) und Reward (Belohnung).
 
-Prof. Miriam Krüger erforschte Datenschutz-Gewohnheiten: "Im Durchschnitt dauert es 66 Tage, bis eine neue Datenschutzpraxis zur Automatik wird. Einfache Handlungen wie Bildschirmsperren etablieren sich nach 18 Tagen, komplexe wie Verschlüsselungsroutinen brauchen bis zu 254 Tage."
+Prof. Dr. Miriam Krüger erforschte Datenschutz-Gewohnheiten: "Im Durchschnitt dauert es 66 Tage, bis eine neue Datenschutzpraxis zur Automatik wird. Einfache Handlungen wie Bildschirmsperren etablieren sich nach 18 Tagen, komplexe wie Verschlüsselungsroutinen brauchen bis zu 254 Tage."
 
 > **Infobox: Neurobiologische Grundlagen von Gewohnheiten**
 > 
@@ -128,11 +128,11 @@ Die **21-Tage-Mythos** ist widerlegt. Lally et al. (2010) zeigten: Gewohnheitsbi
 
 **[Habit Stacking]** nutzt das Momentum bestehender Routinen: Wer Datenschutz-Checks an bereits etablierte Übergabe- oder Abschlussprozesse koppelt, erlebt, wie die neue Praxis innerhalb weniger Wochen zur Selbstverständlichkeit wird.
 
-**[Temptation Bundling]** kombiniert notwendige mit angenehmen Aktivitäten. Ein innovatives Beispiel: Spotify-Zugang nur während Datenschutz-Dokumentation. Compliance stieg um 67%, Zufriedenheit blieb hoch.
+**[Temptation Bundling]** kombiniert notwendige mit angenehmen Aktivitäten. Ein innovatives Beispiel: Spotify-Zugang nur während Datenschutz-Dokumentation. Compliance stieg merklich, Zufriedenheit blieb hoch.
 
 Die **Four Laws of Behavior Change** (Clear, 2018) bieten praktische Gestaltungsprinzipien für Datenschutzgewohnheiten. Das erste Gesetz "Make it Obvious" empfiehlt visuelle Cues für Datenschutzverhalten zu implementieren. Das zweite Prinzip "Make it Attractive" zielt darauf ab, positive Assoziationen mit Datenschutzmaßnahmen zu schaffen. "Make it Easy" als drittes Gesetz fokussiert auf die Reduktion von Friktion und Hürden bei der Ausführung. Schließlich sorgt "Make it Satisfying" durch sofortige Belohnungen dafür, dass das Verhalten wiederholt wird.
 
-**[Keystone Habits]** haben Dominoeffekte. Eine Studie identifizierte "täglicher Security-Check" als **[Keystone Habit]**: Mitarbeiter, die diese Gewohnheit etablierten, zeigten Verbesserungen in sieben weiteren Sicherheitsbereichen ohne zusätzliches Training (Thompson et al., 2021).
+**[Keystone Habits]** haben laut Duhiggs Habit-Loop-Konzept Dominoeffekte auf angrenzende Verhaltensbereiche (Duhigg, 2012). Ein plausibles Beispiel im Datenschutz-Kontext ist der "tägliche Security-Check": Wer diese Routine etabliert, berichtet häufig von positiven Spillover-Effekten auf weitere Sicherheitspraktiken – ohne dass dafür zusätzliches Training nötig wäre.
 
 ## 14.3.4 Rückfallprävention und Nachhaltigkeit {#14-3-4-rueckfallpraevention-und-nachhaltigkeit}
 
@@ -140,7 +140,7 @@ Verhaltensänderung ist kein linearer Prozess. Die **[Relapse Prevention Theory]
 
 Lisa Chen erlebte dies hautnah: "Nach der initialen Begeisterung für unser neues Verschlüsselungssystem nutzten es nach drei Monaten nur noch 34%. Wir hatten Rückfallprävention vernachlässigt."
 
-**High-Risk-Situationen** für Datenschutz-Rückfälle zeigen deutliche Muster. Zeitdruck führt mit einer Rückfallrate von 89% die Liste an und kann durch Quick-Encrypt-Buttons und bessere Priorisierung adressiert werden. Technische Probleme verursachen bei 76% der Nutzer Rückfälle, weshalb 24/7-Support und alternative Tools essentiell sind. Müdigkeit und Stress führen bei 72% zu unsicherem Verhalten, was durch Automatisierung und regelmäßige Pausen gemildert werden kann. Soziale Pression bewirkt bei 67% einen Rückfall in alte Muster. Hier helfen klare Team-Vereinbarungen und Führungsvorbilder. Neue Systeme oder Updates destabilisieren 58% der Nutzer, was durch Vorab-Schulungen und Pilotphasen abgefangen werden kann.
+**High-Risk-Situationen** für Datenschutz-Rückfälle folgen wiederkehrenden Mustern. Zeitdruck ist der dominante Auslöser und lässt sich durch Quick-Encrypt-Buttons und bessere Priorisierung adressieren. Technische Probleme sind der zweitstärkste Faktor, weshalb 24/7-Support und alternative Tools essentiell sind. Müdigkeit und Stress führen häufig zu unsicherem Verhalten, was durch Automatisierung und regelmäßige Pausen gemildert werden kann. Soziale Pression begünstigt Rückfälle in alte Muster; hier helfen klare Team-Vereinbarungen und Führungsvorbilder. Neue Systeme oder Updates destabilisieren einen erheblichen Teil der Nutzer, was durch Vorab-Schulungen und Pilotphasen abgefangen werden kann.
 
 Das **[Abstinence Violation Effect]** beschreibt, wie ein kleiner Ausrutscher zur völligen Aufgabe führt. "Ich habe einmal unverschlüsselt gemailt, jetzt ist eh alles egal." Erfolgreiche Prävention normalisiert Ausrutscher als Lernchance.
 
@@ -169,16 +169,16 @@ Dr. Annika Sommer entwickelte ein **SARAH-Protokoll** für Rückfälle:
 - **Act**: Korrekturmaßnahme ergreifen
 - **Help**: Unterstützung suchen
 
-Eine Langzeitstudie über 18 Monate zeigte: Teams mit strukturierter Rückfallprävention hielten 78% ihrer Datenschutzpraktiken aufrecht vs. 31% ohne Prävention (Martinez et al., 2022).
+Praxisberichte aus strukturierter Rückfallprävention deuten darauf hin, dass Teams mit explizitem Relapse-Prevention-Protokoll ihre Datenschutzpraktiken deutlich länger aufrechterhalten als Teams ohne solche Unterstützung – eine direkte Anwendung des Relapse-Prevention-Ansatzes (Marlatt & Gordon, 1985) auf den Datenschutzkontext.
 
 **Habit Sustainability** erfordert kontinuierliche Aufmerksamkeit:
 
-- **[Habit Tracking]**: Visualisierung der Streak-Länge erhöht Durchhaltevermögen um 62%
+- **[Habit Tracking]**: Visualisierung der Streak-Länge erhöht das Durchhaltevermögen spürbar
 - **Flexibility**: Starre Regeln führen zu mehr Abbrüchen als flexible Systeme
 - **Community**: Peer-Support verdreifacht Erfolgswahrscheinlichkeit
 - **Evolution**: Gewohnheiten an veränderte Umstände anpassen
 
-Das **[Fresh Start Effect]** nutzt natürliche Zeitmarker für Neuanfänge: Montage, Monatsanfänge, nach Urlaub. Teams, die diese Momente für Datenschutz-Resets nutzen, zeigen 45% bessere Langzeit-Compliance.
+Das **[Fresh Start Effect]** nutzt natürliche Zeitmarker für Neuanfänge: Montage, Monatsanfänge, nach Urlaub. Teams, die diese Momente für Datenschutz-Resets nutzen, zeigen deutlich bessere Langzeit-Compliance.
 
 **Behavioral Maintenance** unterscheidet sich von initialer Änderung:
 - Weniger externe Motivation nötig
@@ -216,10 +216,10 @@ Felix Hartmann's Team implementierte "Privacy-Enhancing Defaults": "Entwickler m
 - Transparente Fortschrittskommunikation
 - **[No-Blame-Kultur]** für Fehler
 
-**Kulturelle Einbettung** ist der wichtigste Faktor (→ siehe Kapitel 8.1). Organisationen mit starker Datenschutzkultur zeigen:
-- 87% niedrigere Incident-Rate
-- 3,4x höhere Mitarbeiter-Compliance
-- 92% schnellere Adoption neuer Sicherheitsmaßnahmen
+**Kulturelle Einbettung** ist der wichtigste Faktor (→ siehe Kapitel 8.1). Organisationen mit starker Datenschutzkultur zeigen typischerweise:
+- deutlich niedrigere Incident-Raten
+- vielfach höhere Mitarbeiter-Compliance
+- spürbar schnellere Adoption neuer Sicherheitsmaßnahmen
 
 Kurze "Privacy Moments", Erfolgsgeschichten am Beginn jedes Meetings, haben sich bewährt, um Datenschutz von einer lästigen Pflicht zum gemeinsamen Wert zu machen.
 
@@ -229,7 +229,7 @@ Kurze "Privacy Moments", Erfolgsgeschichten am Beginn jedes Meetings, haben sich
 - Just-in-Time-Unterstützung
 - Gamifizierte Auffrischungen
 
-**Leadership Support** ist kritisch. Studien zeigen: Sichtbares Engagement der Führungsebene korreliert stark mit Mitarbeiter-Compliance.
+**Leadership Support** ist kritisch. Die ISP-Compliance-Meta-Analyse von Cram et al. (2019) identifiziert sichtbares Management-Engagement als einen der stärksten Prädiktoren für Mitarbeiter-Compliance im Sicherheits- und Datenschutzkontext.
 
 **[Nudging]**-Infrastruktur integriert verhaltenspsychologische Interventionen:
 - Farbcodierung für Datensensitivität
@@ -275,47 +275,44 @@ Der Weg von der Awareness zur Verhaltensänderung ist kein gerader, aber ein gan
 
 ## Quellenangaben für Kapitel 14.3
 
-Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes*, 50(2), 179-211.
+- **Ajzen, I.** (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes*, 50(2), 179-211.
 
-Baek, Y. M., Kim, E. M., & Bae, Y. (2021). My privacy is okay, but theirs is endangered: Why comparative optimism matters in online privacy concerns. *Computers in Human Behavior*, 31, 48-56.
+- **Baek, Y. M., Kim, E. M., & Bae, Y.** (2014). My privacy is okay, but theirs is endangered: Why comparative optimism matters in online privacy concerns. *Computers in Human Behavior*, 31, 48-56.
 
-Bauer, S., Bernroider, E. W., & Chudzikowski, K. (2021). Prevention is better than cure! Designing information security awareness programs to overcome users' non-compliance with information security policies in banks. *Computers & Security*, 68, 145-159.
+- **Bauer, S., Bernroider, E. W., & Chudzikowski, K.** (2017). Prevention is better than cure! Designing information security awareness programs to overcome users' non-compliance with information security policies in banks. *Computers & Security*, 68, 145-159.
 
-Bronfenbrenner, U. (1979). *The ecology of human development*. Harvard University Press.
+- **Bronfenbrenner, U.** (1979). *The ecology of human development*. Harvard University Press.
 
-Clear, J. (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Penguin Random House.
+- **Clear, J.** (2018). *Atomic habits: An easy & proven way to build good habits & break bad ones*. Penguin Random House.
 
-Cranor, L. F., Durity, A. L., Marsh, A., & Ur, B. (2020). Parents' and teens' perspectives on privacy in a technology-filled world. *Proceedings of the Tenth USENIX Conference on Usable Privacy and Security*, 19-35.
+- **Cranor, L. F., Durity, A. L., Marsh, A., & Ur, B.** (2020). Parents' and teens' perspectives on privacy in a technology-filled world. *Proceedings of the Tenth USENIX Conference on Usable Privacy and Security*, 19-35.
 
-Duhigg, C. (2012). *The power of habit: Why we do what we do in life and business*. Random House.
+- **Duhigg, C.** (2012). *The power of habit: Why we do what we do in life and business*. Random House.
 
-Gollwitzer, P. M., & Sheeran, P. (2006). Implementation intentions and goal achievement: A meta‐analysis of effects and processes. *Advances in Experimental Social Psychology*, 38, 69-119.
+- **Gollwitzer, P. M., & Sheeran, P.** (2006). Implementation intentions and goal achievement: A meta‐analysis of effects and processes. *Advances in Experimental Social Psychology*, 38, 69-119.
 
-Lally, P., Van Jaarsveld, C. H., Potts, H. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998-1009.
+- **Lally, P., Van Jaarsveld, C. H., Potts, H. W., & Wardle, J.** (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998-1009.
 
-Marlatt, G. A., & Gordon, J. R. (1985). *Relapse prevention: Maintenance strategies in the treatment of addictive behaviors*. Guilford Press.
+- **Marlatt, G. A., & Gordon, J. R.** (1985). *Relapse prevention: Maintenance strategies in the treatment of addictive behaviors*. Guilford Press.
 
-Martinez, L., Chen, S., & Johnson, R. (2022). Long-term sustainability of privacy behaviors: A longitudinal study of relapse prevention strategies. *Journal of Cybersecurity Behavior*, 8(2), 234-251.
 
-Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., ... & Wood, C. E. (2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques. *Annals of Behavioral Medicine*, 46(1), 81-95.
+- **Michie, S., Richardson, M., Johnston, M., Abraham, C., Francis, J., Hardeman, W., ... & Wood, C. E.** (2013). The behavior change technique taxonomy (v1) of 93 hierarchically clustered techniques. *Annals of Behavioral Medicine*, 46(1), 81-95.
 
-Michie, S., Van Stralen, M. M., & West, R. (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions. *Implementation Science*, 6(1), 1-12.
+- **Michie, S., Van Stralen, M. M., & West, R.** (2011). The behaviour change wheel: a new method for characterising and designing behaviour change interventions. *Implementation Science*, 6(1), 1-12.
 
-Miller, G. A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
+- **Miller, G. A.** (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 
-Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390-395.
+- **Prochaska, J. O., & DiClemente, C. C.** (1983). Stages and processes of self-change of smoking: toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390-395.
 
-Roberts, K., Anderson, M., & Thompson, D. (2023). Leadership engagement and information security compliance: A multi-level analysis. *Information Systems Research*, 34(1), 156-178.
 
-Thompson, N., Ravindran, R., & Nicosia, S. (2021). Government data management: Privacy and security considerations. *Government Information Quarterly*, 32(4), 456-467.
 
-Ur, B., Bees, J., Segreti, S. M., Bauer, L., Christin, N., & Cranor, L. F. (2022). Do users' perceptions of password security match reality? *Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems*, 1-17.
+- **Ur, B., Bees, J., Segreti, S. M., Bauer, L., Christin, N., & Cranor, L. F.** (2022). Do users' perceptions of password security match reality? *Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems*, 1-17.
 
-Vance, A., Jenkins, J. L., Anderson, B. B., Bjornn, D. K., & Kirwan, C. B. (2022). Tuning out security warnings: A longitudinal examination of habituation through fMRI, eye tracking, and field experiments. *MIS Quarterly*, 42(2), 355-380.
+- **Vance, A., Jenkins, J. L., Anderson, B. B., Bjornn, D. K., & Kirwan, C. B.** (2018). Tuning out security warnings: A longitudinal examination of habituation through fMRI, eye tracking, and field experiments. *MIS Quarterly*, 42(2), 355-380.
 
-Wang, Y., Chen, H., & Liu, X. (2021). Understanding the awareness-action gap in information privacy: A meta-analysis. *Information & Management*, 58(7), 103-134.
+- **Cram, W. A., D'Arcy, J., & Proudfoot, J. G.** (2019). Seeing the forest and the trees: A meta-analysis of the antecedents to information security policy compliance. *MIS Quarterly*, 43(2), 525-554. https://doi.org/10.25300/MISQ/2019/15117
 
-Yin, H. H., & Knowlton, B. J. (2006). The role of the basal ganglia in habit formation. *Nature Reviews Neuroscience*, 7(6), 464-476.
+- **Yin, H. H., & Knowlton, B. J.** (2006). The role of the basal ganglia in habit formation. *Nature Reviews Neuroscience*, 7(6), 464-476.
 
 ---
 

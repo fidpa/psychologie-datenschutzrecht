@@ -26,7 +26,7 @@ Die Risikowahrnehmung bei Quantenbedrohungen folgt einem bekannten Muster. Slovi
 
 Die zeitliche Dimension verstärkt das Problem zusätzlich. Das Konzept „Harvest now, decrypt later" zwingt Menschen zu einem Entscheidungsproblem: Sie müssen heute Daten schützen, deren Bedrohung erst in zehn Jahren eintreten wird. Loewenstein und Prelec (1992) haben gezeigt, dass Menschen zukünftige Risiken systematisch diskontieren — umso stärker, je weiter sie in der Zeit entfernt liegen. Diese **[zeitliche Diskontierung]** erklärt, warum Investitionen in Post-Quantum-Sicherheit so schwer durchzusetzen sind. Das Muster ist aus anderen Kontexten bekannt: Klimaschutz, Altersvorsorge, Prävention. Bei Quantenbedrohungen trifft es auf eine besondere Erschwernis — die Bedrohung ist technisch komplex und damit kaum intuitiv greifbar (→ These 13: KI-Transparenz und Kontrollproblem gilt analog für jede schwer verständliche Technologie).
 
-Die Entwicklung quantensicherer Kryptographie wirft eigene psychologische Fragen auf. Diese Verfahren sind mathematisch noch komplexer als klassische Kryptographie. Prof. Miriam Krüger untersucht, wie Menschen Vertrauen in unverständliche Systeme entwickeln: „Wir beobachten ‚magisches Denken' — Menschen verlassen sich auf Autoritäten und Symbole statt auf Verständnis. Das macht sie anfällig für Manipulation." Die Konsequenz für Unternehmen ist eine doppelte Aufgabe: technisch umrüsten und psychologisch kommunizieren. Wie vermittelt man Investitionsbedarf für eine Bedrohung, die vielleicht erst in zehn Jahren real wird? Die psychologische Hürde der zeitlichen Distanz ist dabei so groß wie die technische Aufgabe selbst.
+Die Entwicklung quantensicherer Kryptographie wirft eigene psychologische Fragen auf. Diese Verfahren sind mathematisch noch komplexer als klassische Kryptographie. Prof. Dr. Miriam Krüger untersucht, wie Menschen Vertrauen in unverständliche Systeme entwickeln: „Wir beobachten ‚magisches Denken' — Menschen verlassen sich auf Autoritäten und Symbole statt auf Verständnis. Das macht sie anfällig für Manipulation." Die Konsequenz für Unternehmen ist eine doppelte Aufgabe: technisch umrüsten und psychologisch kommunizieren. Wie vermittelt man Investitionsbedarf für eine Bedrohung, die vielleicht erst in zehn Jahren real wird? Die psychologische Hürde der zeitlichen Distanz ist dabei so groß wie die technische Aufgabe selbst.
 
 **Weiterführende Kapitel:** → 2.2, → 9.3: Autoritätsvertrauen
 
@@ -72,7 +72,7 @@ Die nächste Generation mobiler Netzwerke verspricht mehr als Geschwindigkeit. *
 
 Allgegenwärtige Vernetzung erzeugt sozialen Druck. Alles kann vernetzt sein, also entsteht die Erwartung, vernetzt zu sein. Early Adopters von 5G zeigen entsprechende Muster: Sie fühlen sich unwohl, wenn sie auch kurze Zeit „offline" sind (Zhang et al., 2024).
 
-Prof. Miriam Krüger beschreibt eine neue Abhängigkeitsform: „Es ist nicht mehr nur **[FOMO]** — die Angst, etwas zu verpassen. Manche Menschen fürchten inzwischen die Trennung von vernetzten Systemen selbst." Diese konzeptuelle Beobachtung, explorativ als *Fear of Not Connecting* (FONC) formuliert, könnte auf psychologische Reaktanzprozesse zurückgehen: Wenn Konnektivität zur gesellschaftlichen Norm wird, erlebt man ihre Abwesenheit als Freiheitseinschränkung (Brehm, 1966). Empirisch belastbare Studien zu FONC als eigenständigem Konstrukt stehen noch aus; es handelt sich um ein konzeptuelles Framing, keine validierte Störungskategorie.
+Prof. Dr. Miriam Krüger beschreibt eine neue Abhängigkeitsform: „Es ist nicht mehr nur **[FOMO]** — die Angst, etwas zu verpassen. Manche Menschen fürchten inzwischen die Trennung von vernetzten Systemen selbst." Diese konzeptuelle Beobachtung, explorativ als *Fear of Not Connecting* (FONC) formuliert, könnte auf psychologische Reaktanzprozesse zurückgehen: Wenn Konnektivität zur gesellschaftlichen Norm wird, erlebt man ihre Abwesenheit als Freiheitseinschränkung (Brehm, 1966). Empirisch belastbare Studien zu FONC als eigenständigem Konstrukt stehen noch aus; es handelt sich um ein konzeptuelles Framing, keine validierte Störungskategorie.
 
 > **Infobox: FONC — Fear of Not Connecting**
 > Ein exploratives konzeptuelles Framing für die Angst vor der Trennung von vernetzten Systemen. Reaktanztheoretisch lässt sich die Erfahrung als wahrgenommene Freiheitseinschränkung durch Normerwartung erklären (Brehm, 1966). Empirische Validierung als eigenständiges Konstrukt steht aus.
@@ -104,7 +104,7 @@ Drei Primitive erweisen sich als besonders stabil: **Kontrolle** (das Bedürfnis
 
 **Frühwarnsysteme und regulatorische Vorbereitung**
 
-Prof. Krüger leitet ein internationales Konsortium, das psychologische Frühwarnindikatoren für Technologiemissbrauch identifiziert: „Bestimmte Muster wiederholen sich: Technologien manipulieren grundlegende psychologische Bedürfnisse. Dann sehen wir charakteristische Warnsignale in Nutzungsmustern und Beschwerden — erhöhte Angstwerte, Kontrollverlusterfahrungen, Rückzugsverhalten." Solche Frühwarnsysteme sind eine Form von Evidence-based Privacy (→ These 19): Sie übersetzen wissenschaftliche Erkenntnisse über menschliche Psychologie in regulatorische und unternehmerische Handlungsimpulse, bevor Schaden entsteht.
+Prof. Dr. Miriam Krüger leitet ein internationales Konsortium, das psychologische Frühwarnindikatoren für Technologiemissbrauch identifiziert: „Bestimmte Muster wiederholen sich: Technologien manipulieren grundlegende psychologische Bedürfnisse. Dann sehen wir charakteristische Warnsignale in Nutzungsmustern und Beschwerden — erhöhte Angstwerte, Kontrollverlusterfahrungen, Rückzugsverhalten." Solche Frühwarnsysteme sind eine Form von Evidence-based Privacy (→ These 19): Sie übersetzen wissenschaftliche Erkenntnisse über menschliche Psychologie in regulatorische und unternehmerische Handlungsimpulse, bevor Schaden entsteht.
 
 Dr. Annika Sommer entwickelt Schulungsprogramme, die kritisches Denken über Technologie vermitteln, nicht technisches Detailwissen: „Wir müssen Menschen befähigen, die richtigen Fragen zu stellen. Welche meiner Bedürfnisse berührt diese Technologie? Wer hat Zugriff auf was? Wer profitiert? Das sind Fragen, die funktionieren — ob man über BCIs spricht, über 6G oder über Technologien, die noch keinen Namen haben."
 
@@ -128,30 +128,17 @@ Emerging Technologies sind kein reines Informatikproblem. Sie sind ein Problem m
 
 ## Quellenangaben für Kapitel 16.2
 
-Brehm, J. W. (1966). *A theory of psychological reactance*. Academic Press.
-
-Cavoukian, A. (2009). *Privacy by design: The 7 foundational principles*. Information and Privacy Commissioner of Ontario.
-
-Church, G., & Regis, E. (2012). *Regenesis: How synthetic biology will reinvent nature and ourselves*. Basic Books.
-
-Ienca, M., & Andorno, R. (2017). Towards new human rights in the age of neuroscience and neurotechnology. *Life Sciences, Society and Policy*, 13(5), 1–27.
-
-Li, S., Chen, Y., & Zhang, W. (2024). 6G networks and the psychology of hyperconnectivity. *IEEE Network*, 38(2), 45–52.
-
-Loewenstein, G., & Prelec, D. (1992). Anomalies in intertemporal choice: Evidence and an interpretation. *The Quarterly Journal of Economics*, 107(2), 573–597.
-
-Niemiec, R., & Howard, H. (2024). Ethical, legal and social implications of genomic data sharing: A psychological perspective. *Nature Reviews Genetics*, 25(3), 189–204.
-
-Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
-
-Schurger, A., Hu, P., Pak, J., & Roskies, A. (2024). What is the readiness potential? *Trends in Cognitive Sciences*, 28(4), 302–315.
-
-Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79–95.
-
-Wang, X., & Liu, J. (2024). Spatial privacy in the age of centimeter-accurate positioning. *Proceedings on Privacy Enhancing Technologies*, 2024(1), 234–251.
-
-Wolpaw, J., & Wolpaw, E. (Eds.). (2012). *Brain-computer interfaces: Principles and practice*. Oxford University Press.
-
-Yuste, R., Goering, S., Arcas, B., Bi, G., Carmena, J., Carter, A., ... & Wolpaw, J. (2017). Four ethical priorities for neurotechnologies and AI. *Nature*, 551(7679), 159–163.
-
-Zhang, H., Wang, Y., & Li, M. (2024). The psychology of 5G adoption: Early insights and future implications. *Cyberpsychology, Behavior, and Social Networking*, 27(3), 178–189.
+- **Brehm, J. W.** (1966). *A theory of psychological reactance*. Academic Press.
+- **Cavoukian, A.** (2009). *Privacy by design: The 7 foundational principles*. Information and Privacy Commissioner of Ontario.
+- **Church, G., & Regis, E.** (2012). *Regenesis: How synthetic biology will reinvent nature and ourselves*. Basic Books.
+- **Ienca, M., & Andorno, R.** (2017). Towards new human rights in the age of neuroscience and neurotechnology. *Life Sciences, Society and Policy*, 13(5), 1–27.
+- **Li, S., Chen, Y., & Zhang, W.** (2024). 6G networks and the psychology of hyperconnectivity. *IEEE Network*, 38(2), 45–52.
+- **Loewenstein, G., & Prelec, D.** (1992). Anomalies in intertemporal choice: Evidence and an interpretation. *The Quarterly Journal of Economics*, 107(2), 573–597.
+- **Niemiec, R., & Howard, H.** (2024). Ethical, legal and social implications of genomic data sharing: A psychological perspective. *Nature Reviews Genetics*, 25(3), 189–204.
+- **Nissenbaum, H.** (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+- **Schurger, A., Hu, P., Pak, J., & Roskies, A.** (2024). What is the readiness potential? *Trends in Cognitive Sciences*, 28(4), 302–315.
+- **Slovic, P.** (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making*, 2(2), 79–95.
+- **Wang, X., & Liu, J.** (2024). Spatial privacy in the age of centimeter-accurate positioning. *Proceedings on Privacy Enhancing Technologies*, 2024(1), 234–251.
+- **Wolpaw, J., & Wolpaw, E.** (Eds.). (2012). *Brain-computer interfaces: Principles and practice*. Oxford University Press.
+- **Yuste, R., Goering, S., Arcas, B., Bi, G., Carmena, J., Carter, A., ... & Wolpaw, J.** (2017). Four ethical priorities for neurotechnologies and AI. *Nature*, 551(7679), 159–163.
+- **Zhang, H., Wang, Y., & Li, M.** (2024). The psychology of 5G adoption: Early insights and future implications. *Cyberpsychology, Behavior, and Social Networking*, 27(3), 178–189.

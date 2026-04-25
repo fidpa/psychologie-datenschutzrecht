@@ -31,7 +31,7 @@ Die Digitalisierung verspricht Patienten mehr Kontrolle über ihre Gesundheit. E
 
 **Empowerment durch Information** manifestiert sich in messbaren Verhaltensänderungen. Patienten mit Zugang zu ihrer elektronischen Gesundheitsakte berichten höhere Bereitschaft, Therapievorgaben einzuhalten, und entwickeln ein ausgeprägteres Gefühl der Mitverantwortung für ihre Genesung. Die Selbstbestimmungstheorie (Deci & Ryan, 2000) liefert dafür die theoretische Grundlage: Wer eigene Daten einsehen und nachvollziehen kann, erlebt Autonomie als gelebte Realität statt als formale Garantie. Das Gefühl der Kontrolle aktiviert intrinsische Motivation und stärkt die **[Selbstwirksamkeitserwartung]** (→ Kapitel 2.4 zu Persönlichkeitsfaktoren). Dieser Effekt tritt allerdings nur dann ein, wenn die Information auch verständlich aufbereitet ist.
 
-Gleichzeitig führt die **Informationsflut zu kognitiver Überlastung**. Die durchschnittliche Patientenakte umfasst umfangreiche medizinische Dokumentation, die von den meisten Patienten ohne fachkundige Erklärung kaum erschlossen werden kann. Swellers (1988) Cognitive Load Theory erklärt, warum dieser Zustand paradox ist: Wenn die Verarbeitungskapazität des Arbeitsgedächtnisses durch schiere Datenmenge überfordert wird, entsteht kein Empowerment, sondern das Gegenteil, Überwältigung und ein schwindendes Kontrollgefühl. Umfangreiche digitale Dokumentation mindert das Kontrollerleben der Patienten, weil Informationszugang und Informationsverständnis auseinanderfallen. Dieser Befund hat unmittelbare Konsequenzen für die Gestaltung von Patientenportalen: Mehr Daten zu zeigen bedeutet nicht automatisch, mehr Kontrolle zu geben (→ Kapitel 13.1 zu Privacy by Design).
+Gleichzeitig führt die **Informationsflut zu kognitiver Überlastung**. Die durchschnittliche Patientenakte umfasst umfangreiche medizinische Dokumentation, die von den meisten Patienten ohne fachkundige Erklärung kaum erschlossen werden kann. Sweller (1988) Cognitive Load Theory erklärt, warum dieser Zustand paradox ist: Wenn die Verarbeitungskapazität des Arbeitsgedächtnisses durch schiere Datenmenge überfordert wird, entsteht kein Empowerment, sondern das Gegenteil, Überwältigung und ein schwindendes Kontrollgefühl. Umfangreiche digitale Dokumentation mindert das Kontrollerleben der Patienten, weil Informationszugang und Informationsverständnis auseinanderfallen. Dieser Befund hat unmittelbare Konsequenzen für die Gestaltung von Patientenportalen: Mehr Daten zu zeigen bedeutet nicht automatisch, mehr Kontrolle zu geben (→ Kapitel 13.1 zu Privacy by Design).
 
 Die **Quantified-Self-Bewegung** im Gesundheitsbereich zeigt die Ambivalenz digitaler Selbstvermessung. Fitness-Tracker und Gesundheits-Apps sammeln kontinuierlich Vitaldaten. Prof. Dr. Miriam Krüger, die an der LMU München zu den psychologischen Effekten digitaler Selbstbeobachtung forscht, beschreibt dabei einen wiederkehrenden Verlauf in ihrer Nutzerbefragung: Viele Nutzer erleben zunächst echte Motivation und positive Selbstwahrnehmung. Im weiteren Verlauf kann aus diesem selbstbestimmten Impuls eine zwanghafte Selbstoptimierungslogik entstehen, in der Abweichungen von Zielwerten als persönliches Versagen erlebt werden, mit messbaren Stressfolgen. Was als Instrument der Selbstfürsorge begann, verwandelt sich dann in eine Form externer Kontrolle durch Datenpunkte.
 
@@ -48,7 +48,7 @@ Die medizinische Forschung steht vor einem unauflösbaren Dilemma: Große Datenm
 > **Definition: Solidaritätsprinzip**
 > Das ethische Prinzip, dass Individuen durch Datenpreisgabe zur Forschung künftigen Patienten helfen – konkurriert mit dem Recht auf informationelle Selbstbestimmung.
 
-Das **Solidaritätsprinzip** konkurriert mit individueller Autonomie. Die COVID-19-Pandemie veranschaulichte diese Dynamik exemplarisch: Ein Großteil der Bevölkerung befürwortete Datenspenden für die Impfstoffentwicklung, während die tatsächliche Nutzung von Contact-Tracing-Apps deutlich dahinter zurückblieb (RKI, 2021). Die abstrakte Solidarität weicht konkreten Datenschutzbedenken, sobald persönliche Daten unmittelbar involviert sind – ein Muster, das in der Literatur zum Privacy Paradox gut dokumentiert ist. Betroffene mit schweren Erkrankungen zeigen dabei eine deutlich höhere Bereitschaft zur Datenspende: Die Identifikation mit zukünftigen Patienten aktiviert empathische Reaktionen, bei denen Sinnstiftung die Datenschutzbedenken überwiegt.
+Das **Solidaritätsprinzip** konkurriert mit individueller Autonomie. Die COVID-19-Pandemie veranschaulichte diese Dynamik exemplarisch: Ein Großteil der Bevölkerung befürwortete Datenspenden für die Impfstoffentwicklung, während die tatsächliche Nutzung von Contact-Tracing-Apps deutlich dahinter zurückblieb (Robert Koch-Institut, 2021). Die abstrakte Solidarität weicht konkreten Datenschutzbedenken, sobald persönliche Daten unmittelbar involviert sind – ein Muster, das in der Literatur zum Privacy Paradox gut dokumentiert ist. Betroffene mit schweren Erkrankungen zeigen dabei eine deutlich höhere Bereitschaft zur Datenspende: Die Identifikation mit zukünftigen Patienten aktiviert empathische Reaktionen, bei denen Sinnstiftung die Datenschutzbedenken überwiegt.
 
 Annika Sommer erklärt: „Krebspatienten sagen oft: ‚Wenn meine Daten nur einem Menschen helfen, hat sich mein Leiden gelohnt.' Diese Sinnstiftung ist psychologisch essentiell für die Krankheitsbewältigung."
 
@@ -103,7 +103,7 @@ Die Besonderheiten von Gesundheitsdaten erfordern angepasste Strategien aller be
 
 Für **Gesetzgeber und Forschungseinrichtungen** ergibt sich die Notwendigkeit, die psychologische Realität des Gesundheitswesens stärker in Regulierung und Forschungsdesign einzubeziehen. Starre Einwilligungskonzepte sollten durch dynamische, kontextabhängige Modelle ersetzt werden, die Soloves (2013) Befund zum Privacy Self-Management ernstnehmen: Betroffene können die langfristigen Konsequenzen einer breiten Einwilligung kognitiv nicht erfassen, weshalb Forschungspraktiken nicht auf diese Illusion informierter Zustimmung bauen dürfen. Die Forschungsförderung sollte sichere Datenräume ausbauen und Anti-Diskriminierungsgesetze, die genetische Information und psychische Diagnosen explizit schützen, präventiv verankern. Das Default-Design in Forschungssettings sollte Thaler & Sunstein (2008) folgend transparent kommuniziert werden: Opt-out-Voreinstellungen erhöhen die Teilnahme, verpflichten aber zur öffentlichen Begründung.
 
-**Gesundheitseinrichtungen, Entwickler und Datenschutzbeauftragte** stehen vor der Herausforderung, **[Privacy by Design]** konsequent umzusetzen, ohne die medizinische Versorgung zu beeinträchtigen. Swellers (1988) Cognitive Load Theory verweist darauf, dass Patientenportale nicht maximale Datenmenge, sondern maximale Verständlichkeit anstreben sollten: Kontrolle entsteht durch Nachvollziehbarkeit, nicht durch Datenvolumen. Empowerment erfordert verständliche Informationen, nicht nur Zugang zu Rohdaten. Technologie-Entwickler müssen kognitive Grenzen respektieren und Privacy-Preserving Technologies wie **[Föderiertes Lernen]** oder **[Differential Privacy]** als Standard verankern. Datenschutzbeauftragte benötigen medizinische Grundkenntnisse, um die existenzielle Dimension ihrer Beratungsarbeit gerecht zu werden. Technische Compliance allein schützt nicht vor psychischen Schäden durch schlechte Datenpraktiken.
+**Gesundheitseinrichtungen, Entwickler und Datenschutzbeauftragte** stehen vor der Herausforderung, **[Privacy by Design]** konsequent umzusetzen, ohne die medizinische Versorgung zu beeinträchtigen. Sweller (1988) Cognitive Load Theory verweist darauf, dass Patientenportale nicht maximale Datenmenge, sondern maximale Verständlichkeit anstreben sollten: Kontrolle entsteht durch Nachvollziehbarkeit, nicht durch Datenvolumen. Empowerment erfordert verständliche Informationen, nicht nur Zugang zu Rohdaten. Technologie-Entwickler müssen kognitive Grenzen respektieren und Privacy-Preserving Technologies wie **[Föderiertes Lernen]** oder **[Differential Privacy]** als Standard verankern. Datenschutzbeauftragte benötigen medizinische Grundkenntnisse, um die existenzielle Dimension ihrer Beratungsarbeit gerecht zu werden. Technische Compliance allein schützt nicht vor psychischen Schäden durch schlechte Datenpraktiken.
 
 Für **Patienten, Nutzer und die Zivilgesellschaft** gilt: Digitale Gesundheitskompetenz wird zur Überlebensfähigkeit in der modernen Medizin. Das Recht auf Nichtwissen ist ebenso schützenswert wie das Recht auf vollständige Information. Deci & Ryan (2000) erinnern daran, dass echte Autonomie von innerer Motivation getragen werden muss: Wer Datenschutzentscheidungen im Gesundheitsbereich trifft, weil er muss – aus Angst vor Prämienerhöhungen oder Versorgungsausschluss –, handelt nicht selbstbestimmt. Patientenorganisationen können kollektive Interessen wirksamer vertreten als Einzelne, und die Balance zwischen Datenschutz und Behandlungsqualität lässt sich nicht pauschal vorgeben. Sie erfordert kontinuierlichen gesellschaftlichen Dialog, empirische Evidenz und vor allem: Respekt vor der Verletzlichkeit derer, deren intimste Daten geschützt werden sollen.
 
@@ -113,24 +113,15 @@ Die Zukunft des Gesundheitswesens wird digital sein. Die Frage ist nicht ob, son
 
 ## Quellenangaben für Kapitel 12.1
 
-Acquisti, A., & Grossklags, J. (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26–33.
-
-Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268.
-
-Eurobarometer. (2019). *Special Eurobarometer 487a: The General Data Protection Regulation*. European Commission.
-
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-
-Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
-
-Norberg, P. A., Horne, D. R., & Horne, D. A. (2007). The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs, 41*(1), 100–126.
-
-Robert Koch-Institut. (2021). *Corona-Datenspende und Contact-Tracing: Akzeptanz und Nutzung in der deutschen Bevölkerung*. RKI.
-
-Seligman, M. E. P. (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
-
-Slovic, P. (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making, 2*(2), 79–95.
-
-Solove, D. J. (2013). Introduction: Privacy self-management and the consent dilemma. *Harvard Law Review, 126*(7), 1880–1903.
-
-Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
+- **Acquisti, A., & Grossklags, J.** (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26–33. https://doi.org/10.1109/msp.2005.22
+- **Deci, E. L., & Ryan, R. M.** (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227–268. https://doi.org/10.1207/s15327965pli1104_01
+- **Eurobarometer.** (2019, Juni). *Special Eurobarometer 487a: The General Data Protection Regulation*. European Commission. https://europa.eu/eurobarometer/surveys/detail/2222
+- **Kahneman, D.** (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- **Nissenbaum, H.** (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+- **Norberg, P. A., Horne, D. R., & Horne, D. A.** (2007). The privacy paradox: Personal information disclosure intentions versus behaviors. *Journal of Consumer Affairs, 41*(1), 100–126. https://doi.org/10.1111/j.1745-6606.2006.00070.x
+- **Robert Koch-Institut.** (2021). *Corona-Datenspende und Contact-Tracing: Akzeptanz und Nutzung in der deutschen Bevölkerung*. RKI. https://www.rki.de/DE/Themen/Infektionskrankheiten/Infektionskrankheiten-A-Z/C/COVID-19-Pandemie/Datenspende/Corona-Datenspende-allgemein.html
+- **Seligman, M. E. P.** (1975). *Helplessness: On depression, development, and death*. W. H. Freeman.
+- **Slovic, P.** (2007). "If I look at the mass I will never act": Psychic numbing and genocide. *Judgment and Decision Making, 2*(2), 79–95.
+- **Solove, D. J.** (2013). Introduction: Privacy self-management and the consent dilemma. *Harvard Law Review, 126*(7), 1880–1903.
+- **Sweller, J.** (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science, 12*(2), 257–285. https://doi.org/10.1207/s15516709cog1202_4
+- **Thaler, R. H., & Sunstein, C. R.** (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.

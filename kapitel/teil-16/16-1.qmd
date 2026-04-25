@@ -21,7 +21,7 @@ Der aktuelle Stand der Privacy-Forschung lässt sich als Konvergenz verschiedene
 
 Die empirische Basis der modernen Privacy-Forschung ruht auf mehreren Säulen. Großangelegte Längsschnittstudien verfolgen Studienteilnehmer über mehrere Jahre und dokumentieren die Evolution ihrer Datenschutzeinstellungen und -verhaltensweisen über die Zeit. Solche Studien zeigen konsistent, dass das **[Privacy Paradox]** (→ siehe Kapitel 2.1) kein statisches Phänomen ist, sondern sich dynamisch mit technologischen Entwicklungen und gesellschaftlichen Diskursen verändert (Baruh et al., 2017). Die Diskrepanz zwischen Einstellung und Verhalten nimmt nicht ab. Sie verlagert sich lediglich auf neue Kontexte.
 
-Besonders aufschlussreich sind die Erkenntnisse zu den psychologischen Mechanismen hinter Datenschutzentscheidungen. Prof. Krüger beobachtet in ihren Studien immer wieder dasselbe Muster: Die Zeit, die Nutzer tatsächlich auf Cookie-Banner und Datenschutzhinweise verwenden, bevor sie eine Entscheidung treffen, ist so gering, dass von einer **[informierten Einwilligung]** in der Praxis kaum gesprochen werden kann. Dieser Befund ist durch umfangreiche Forschung zur kognitiven Last von Datenschutzinformationen gut belegt: McDonald und Cranor (2008) haben gezeigt, dass das vollständige Lesen aller Datenschutzerklärungen eines durchschnittlichen Nutzers Dutzende von Arbeitstagen pro Jahr erfordern würde — eine strukturelle Überforderung, die keine individuelle Sorgfalt lösen kann.
+Besonders aufschlussreich sind die Erkenntnisse zu den psychologischen Mechanismen hinter Datenschutzentscheidungen. Prof. Dr. Miriam Krüger beobachtet in ihren Studien immer wieder dasselbe Muster: Die Zeit, die Nutzer tatsächlich auf Cookie-Banner und Datenschutzhinweise verwenden, bevor sie eine Entscheidung treffen, ist so gering, dass von einer **[informierten Einwilligung]** in der Praxis kaum gesprochen werden kann. Dieser Befund ist durch umfangreiche Forschung zur kognitiven Last von Datenschutzinformationen gut belegt: McDonald und Cranor (2008) haben gezeigt, dass das vollständige Lesen aller Datenschutzerklärungen eines durchschnittlichen Nutzers Dutzende von Arbeitstagen pro Jahr erfordern würde — eine strukturelle Überforderung, die keine individuelle Sorgfalt lösen kann.
 
 Die theoretische Fundierung der Privacy-Forschung hat sich erheblich weiterentwickelt. Während frühe Modelle oft eindimensional waren und Privatheit als binäres Konzept verstanden, arbeitet die moderne Forschung mit multidimensionalen Frameworks. Das **[Contextual Integrity Framework]** von Helen Nissenbaum analysiert Privatheitsverletzungen nicht als absolutes Phänomen, sondern als kontextabhängige Norm: Informationsflüsse werden dann als problematisch erlebt, wenn sie die impliziten Regeln eines sozialen Kontexts verletzen (Nissenbaum, 2009). Medizinische Daten, die im Arztgespräch angemessen sind, gelten im Werbekontext als Verletzung — unabhängig davon, ob sie technisch geschützt sind. Dieser Ansatz ermöglicht präzisere Vorhersagen darüber, wann Menschen Datenpraktiken als unangemessen empfinden.
 
@@ -55,7 +55,7 @@ Valide und reliable Messinstrumente zu entwickeln stellt Privacy-Forscher vor ze
 
 Moderne Messinstrumente nutzen daher einen Multi-Method-Ansatz. Die "Privacy Behavior Scale" (PBS-R) kombiniert Selbstberichte mit Verhaltensbeobachtungen und physiologischen Messungen (Dienlin & Masur, 2023). Die Skala erfasst fünf Dimensionen des Datenschutzverhaltens: Informationskontrolle, soziale Privatheit, psychologische Privatheit, physische Privatheit und temporale Privatheit. Dieser mehrdimensionale Ansatz spiegelt wider, wie vielschichtig Datenschutzverhalten im Alltag tatsächlich ist.
 
-Prof. Krüger beschreibt aus ihrer Forschungspraxis eine grundlegende methodische Herausforderung: "Wir nutzen Reaktionszeitmessungen und implizite Assoziationstests, um unbewusste Einstellungen zu erfassen. Oft zeigt sich hier ein ganz anderes Bild als bei expliziten Befragungen." Diese Beobachtung deckt sich mit einem robusten Befund: Was Menschen über ihre Datenschutzpräferenzen berichten und wie sie tatsächlich entscheiden, divergiert erheblich, und dieser Gap lässt sich nur durch Messung beider Ebenen sichtbar machen (Jensen et al., 2005). Explizite Befragungen messen das, was Menschen für sozial erwünscht halten; implizite Methoden erfassen die zugrundeliegenden Dispositionen.
+Prof. Dr. Miriam Krüger beschreibt aus ihrer Forschungspraxis eine grundlegende methodische Herausforderung: "Wir nutzen Reaktionszeitmessungen und implizite Assoziationstests, um unbewusste Einstellungen zu erfassen. Oft zeigt sich hier ein ganz anderes Bild als bei expliziten Befragungen." Diese Beobachtung deckt sich mit einem robusten Befund: Was Menschen über ihre Datenschutzpräferenzen berichten und wie sie tatsächlich entscheiden, divergiert erheblich, und dieser Gap lässt sich nur durch Messung beider Ebenen sichtbar machen (Jensen et al., 2005). Explizite Befragungen messen das, was Menschen für sozial erwünscht halten; implizite Methoden erfassen die zugrundeliegenden Dispositionen.
 
 Die Entwicklung ökologisch valider Messinstrumente hat erhebliche Fortschritte gemacht. Mobile Experience Sampling ermöglicht es, Datenschutzentscheidungen in Echtzeit und im natürlichen Kontext zu erfassen. Teilnehmer erhalten mehrmals täglich kurze Befragungen auf ihrem Smartphone, direkt nachdem sie Datenschutzentscheidungen getroffen haben. Diese Methode reduziert **[Erinnerungsverzerrungen]** und erfasst die Kontextabhängigkeit von Datenschutzverhalten präziser als retrospektive Erhebungen (Dienlin & Masur, 2023). Der Kontext, in dem eine Entscheidung fällt, beeinflusst die Entscheidung selbst, und dieser Einfluss ist in Labordaten systematisch unterrepräsentiert.
 
@@ -85,7 +85,7 @@ Forscher tragen auch nach der Datenerhebung Verantwortung. Wenn Forschungsergebn
 
 Die Open-Science-Bewegung, die auf Transparenz und Reproduzierbarkeit wissenschaftlicher Forschung abzielt, steht in einem natürlichen Spannungsverhältnis zum Datenschutz (→ Kapitel 16.3). Wie können Forschungsdaten offen geteilt werden, ohne die Privatheit der Studienteilnehmer zu gefährden?
 
-Innovative technische Lösungen ermöglichen zunehmend einen Ausgleich zwischen diesen konkurrierenden Zielen. Synthetische Datensätze, die mittels generativer Modelle erstellt werden, bewahren die statistischen Eigenschaften der Originaldaten, ohne individuelle Datenpunkte zu enthalten. Prof. Krüger nutzt diese Technik regelmäßig: "Wir können nun komplette Datensätze teilen, die sich statistisch wie unsere Originaldaten verhalten, aber keine echten Personendaten enthalten. Das revolutioniert die Reproduzierbarkeit unserer Forschung."
+Innovative technische Lösungen ermöglichen zunehmend einen Ausgleich zwischen diesen konkurrierenden Zielen. Synthetische Datensätze, die mittels generativer Modelle erstellt werden, bewahren die statistischen Eigenschaften der Originaldaten, ohne individuelle Datenpunkte zu enthalten. Prof. Dr. Miriam Krüger nutzt diese Technik regelmäßig: "Wir können nun komplette Datensätze teilen, die sich statistisch wie unsere Originaldaten verhalten, aber keine echten Personendaten enthalten. Das revolutioniert die Reproduzierbarkeit unserer Forschung."
 
 **[Föderiertes Lernen]** ermöglicht es, Forschung über mehrere Datensätze hinweg durchzuführen, ohne dass die Daten selbst geteilt werden müssen. Die Analyse läuft dezentral auf den jeweiligen Servern; nur die aggregierten Ergebnisse werden zusammengeführt. Diese Methode hat sich besonders in der internationalen Forschungskooperation bewährt, wo unterschiedliche Datenschutzregime eine direkte Datenteilung verhindern. Sie zeigt exemplarisch, dass Datenschutz und Wissenschaftsfortschritt keine prinzipiellen Gegensätze sind, wenn methodische Kreativität gefragt ist.
 
@@ -129,30 +129,17 @@ Die Privacy-Forschung steht an einem Wendepunkt. Die methodischen und theoretisc
 
 ## Quellenangaben für Kapitel 16.1
 
-Acquisti, A. (2009). Nudging privacy: The behavioral economics of personal information. *IEEE Security & Privacy, 7*(6), 82–85.
-
-Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science, 347*(6221), 509–514.
-
-Acquisti, A., & Grossklags, J. (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26–33.
-
-Baruh, L., Secinti, E., & Cemalcilar, Z. (2017). Online privacy concerns and privacy management: A meta-analytical review. *Journal of Communication, 67*(1), 26–53.
-
-Caraban, A., Karapanos, E., Gonçalves, D., & Campos, P. (2019). 23 ways to nudge: A review of technology-mediated nudging in human-computer interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*, 1–15.
-
-Dienlin, T., & Masur, P. K. (2023). A longitudinal analysis of the privacy paradox. *New Media & Society, 25*(4), 892–912.
-
-Dwork, C. (2008). Differential privacy: A survey of results. In *International conference on theory and applications of models of computation* (pp. 1–19). Springer.
-
-Jensen, C., Potts, C., & Jensen, C. (2005). Privacy practices of Internet users: Self-reports versus observed behavior. *International Journal of Human-Computer Studies, 63*(1–2), 203–227.
-
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
-
-McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society, 4*(3), 543–568.
-
-Nissenbaum, H. (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
-
-Simon, H. A. (1972). Theories of bounded rationality. *Decision and Organization, 1*(1), 161–176.
-
-Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
-
-Westin, A. F. (1967). *Privacy and freedom*. Atheneum.
+- **Acquisti, A.** (2009). Nudging privacy: The behavioral economics of personal information. *IEEE Security & Privacy, 7*(6), 82–85.
+- **Acquisti, A., Brandimarte, L., & Loewenstein, G.** (2015). Privacy and human behavior in the age of information. *Science, 347*(6221), 509–514.
+- **Acquisti, A., & Grossklags, J.** (2005). Privacy and rationality in individual decision making. *IEEE Security & Privacy, 3*(1), 26–33.
+- **Baruh, L., Secinti, E., & Cemalcilar, Z.** (2017). Online privacy concerns and privacy management: A meta-analytical review. *Journal of Communication, 67*(1), 26–53.
+- **Caraban, A., Karapanos, E., Gonçalves, D., & Campos, P.** (2019). 23 ways to nudge: A review of technology-mediated nudging in human-computer interaction. *Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems*, 1–15.
+- **Dienlin, T., & Masur, P. K.** (2023). A longitudinal analysis of the privacy paradox. *New Media & Society, 25*(4), 892–912.
+- **Dwork, C.** (2008). Differential privacy: A survey of results. In *International conference on theory and applications of models of computation* (pp. 1–19). Springer.
+- **Jensen, C., Potts, C., & Jensen, C.** (2005). Privacy practices of Internet users: Self-reports versus observed behavior. *International Journal of Human-Computer Studies, 63*(1–2), 203–227.
+- **Kahneman, D.** (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- **McDonald, A. M., & Cranor, L. F.** (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy for the Information Society, 4*(3), 543–568.
+- **Nissenbaum, H.** (2009). *Privacy in context: Technology, policy, and the integrity of social life*. Stanford University Press.
+- **Simon, H. A.** (1972). Theories of bounded rationality. *Decision and Organization, 1*(1), 161–176.
+- **Thaler, R. H., & Sunstein, C. R.** (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
+- **Westin, A. F.** (1967). *Privacy and freedom*. Atheneum.
