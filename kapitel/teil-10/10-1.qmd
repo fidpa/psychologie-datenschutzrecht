@@ -47,6 +47,12 @@ Eine weitere erfolgreiche Strategie ist die dosierte Anthropomorphisierung. Die 
 
 Das Expertise-Framing nutzt die psychologische **[Reaktanztheorie]** konstruktiv. Die Positionierung von Algorithmen als "Assistenten" statt "Entscheider" reduziert Widerstand. Lisa Chen implementierte diesen Ansatz in ihrem Versicherungskonzern: "Wir sprechen nie davon, dass die KI entscheidet. Stattdessen 'analysiert' sie, 'identifiziert Muster' oder 'unterstützt'. Diese semantische Verschiebung erhöhte die Nutzungsrate von 34 auf 78 Prozent."
 
+Lisa Chens Beobachtung legt eine doppelte Schicht frei. Auf der Oberfläche reduziert die semantische Verschiebung Widerstand; unter der Oberfläche adressiert sie ein psychologisches Problem mit datenschutzrechtlicher Tiefenwirkung. Die Formulierung "die KI entscheidet" verschleiert nicht etwa eine offene rechtliche Frage, sondern die ohnehin klare Lage unter Art. 4 Nr. 7 DSGVO: Verantwortlicher ist immer eine natürliche oder juristische Person, niemals ein Modell. Wer dem System diskursiv Agency zuschreibt, verschiebt die Verantwortlichkeit nicht juristisch, aber wahrnehmungsmäßig. Genau diese Wahrnehmungsverzerrung untergräbt informierte Compliance in Organisationen.
+
+Floridi (2023) liefert dafür den konzeptionellen Apparat. Sein Begriff der "Agency without Intelligence" trennt drei Ebenen, die in der Alltagssprache regelmäßig kollabieren: das **Modell** als zustandslose Funktion ohne Bewusstsein oder Verstehen, das **System** als Software-Architektur mit funktionaler Agency (Tool-Aufrufe, Datenflüsse, Aktionen in der Welt) und den **Verantwortlichen**, der DSGVO-rechtlich immer eine Person oder Organisation bleibt. Lisas Sprach-Hygiene fängt diese Dreiteilung intuitiv ein: Die KI "analysiert", die Organisation entscheidet.
+
+Diese Lesart erweitert den Befund. **Sprach-Hygiene ist nicht nur UX-Strategie, sondern Compliance-Hygiene.** Wer in Organisationen anthropomorphe Sprache zulässt, lässt die Wahrnehmung dafür verschwimmen, wer eigentlich verantwortlich handelt — lange bevor ein konkreter Datenschutzvorfall die juristische Lage testet (→ siehe Kapitel 10.3 zur architektonischen Konkretion dieser Unterscheidung bei Sprachmodellen).
+
 **Weiterführende Kapitel:** → 2.3
 
 ## 10.1.3 Die Illusion der Objektivität {#10-1-3-die-illusion-der-objektivitaet}
