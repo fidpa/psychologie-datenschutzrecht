@@ -9,7 +9,7 @@
 - [Checklisten und Assessment-Tools für die Praxis](#checklisten-und-assessment-tools-fuer-die-praxis)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Felix Hartmann sitzt an seinem Schreibtisch im Berliner Fintech-Startup und scrollt durch ein Dashboard. Die überwältigende Mehrheit der Nutzer hat ihre Datenschutzeinstellungen seit der Registrierung nie angepasst. Vor zwei Jahren hätte ihn das frustriert, heute versteht er die Gründe. Kognitive Überlastung, die Macht der Standardeinstellungen, der Sog sofortiger Belohnung: alles psychologische Mechanismen, die vorhersagbar wirken und sich gezielt adressieren lassen. Als sein Team die Cookie-Optionen von zwölf auf drei Kategorien reduzierte, stiegen die bewussten Entscheidungen deutlich und die Ablehnung nicht-essentieller Cookies nahm spürbar zu. Nicht mehr Information hatte den Unterschied gemacht, sondern bessere Architektur.
+Felix Hartmann sitzt an seinem Schreibtisch im Berliner Fintech-Start-up und scrollt durch ein Dashboard. Die überwältigende Mehrheit der Nutzer hat ihre Datenschutzeinstellungen seit der Registrierung nie angepasst. Vor zwei Jahren hätte ihn das frustriert, heute versteht er die Gründe. Kognitive Überlastung, die Macht der Standardeinstellungen, der Sog sofortiger Belohnung: alles psychologische Mechanismen, die vorhersagbar wirken und sich gezielt adressieren lassen. Als sein Team die Cookie-Optionen von zwölf auf drei Kategorien reduzierte, stiegen die bewussten Entscheidungen deutlich und die Ablehnung nicht-essenzieller Cookies nahm spürbar zu. Nicht mehr Information hatte den Unterschied gemacht, sondern bessere Architektur.
 
 Was Felix im Kleinen erlebt, spiegelt eine umfassendere Erkenntnis wider: Wirksamer Datenschutz beginnt nicht beim Paragraphen und nicht beim Algorithmus, sondern beim Menschen. Prof. Dr. Miriam Krüger bringt diese Einsicht aus ihrer Perspektive als Privacy-UX-Forscherin auf den Punkt: „Wir wissen längst, was funktioniert — wir setzen es nur nicht konsequent um." Die Kluft zwischen Wissen und Handeln zu schließen, erfordert konkrete, evidenzbasierte Werkzeuge, und genau diese liefert dieses Kapitel.
 
@@ -57,13 +57,13 @@ Die empirische Forschung der letzten Jahre hat mehrere Interventionstypen identi
 
 Die wirksamste Intervention ist die radikale Vereinfachung von Datenschutzentscheidungen. Studien zeigen konsistent, dass binäre oder wenige klar strukturierte Entscheidungen zu bewussteren Wahlen führen als komplexe Einstellungsmenüs (Acquisti et al., 2017). Das Muster entspricht dem klassischen Choice-Overload-Effekt: Zu viele Optionen lähmen die Entscheidungsfähigkeit und führen zu Defaults-Akzeptanz statt bewusster Auswahl (Iyengar & Lepper, 2000; Schwartz, 2004).
 
-> **Forschungsbefund:** Feldexperimente mit Cookie-Bannern zeigen, dass die Reduktion der Kategorienzahl die Ablehnungsrate nicht-essentieller Cookies spürbar erhöht und die Anteile bewusster Entscheidungen steigert (Acquisti et al., 2017).
+> **Forschungsbefund:** Feldexperimente mit Cookie-Bannern zeigen, dass die Reduktion der Kategorienzahl die Ablehnungsrate nicht-essenzieller Cookies spürbar erhöht und die Anteile bewusster Entscheidungen steigert (Acquisti et al., 2017).
 
 ### Privacy-by-Default mit Easy-Opt-In
 
 Die Umkehrung der Standardeinstellungen bei gleichzeitiger Vereinfachung der Aktivierung zeigt robuste Effekte. Default-Einstellungen wirken als starke implizite Empfehlung, der die meisten Nutzer folgen — ein Grundbefund der Verhaltensökonomie, den Thaler und Sunstein (2008) in ihrer Nudge-Theorie ausführlich belegen.
 
-> **Forschungsbefund:** Wird Datenschutz zum Standard gemacht, bleibt die deutliche Mehrheit der Nutzer bei dieser Einstellung — selbst wenn die Aktivierung von Zusatzfunktionen mit geringem Aufwand verbunden wäre (Acquisti et al., 2017; Thaler & Sunstein, 2008).
+> **Forschungsbefund:** Wird Datenschutz zum Standard gemacht, bleibt die deutliche Mehrheit der Nutzer bei dieser Einstellung, selbst wenn die Aktivierung von Zusatzfunktionen mit geringem Aufwand verbunden wäre (Acquisti et al., 2017; Thaler & Sunstein, 2008).
 
 ### Just-in-Time-Notifications
 
@@ -105,7 +105,7 @@ Weil die Rolle sich vom Compliance-Wächter zum Verhaltensarchitekten wandelt, m
 
 ### Für Designer und Entwickler
 
-Weil jedes Interface-Element eine Datenschutzentscheidung beeinflusst, benötigen Designer und Entwickler standardisierte, getestete Privacy Patterns Libraries — vergleichbar mit Barrierefreiheits-Standards, die konsistente Lösungen über Produkte hinweg ermöglichen. Sie müssen kognitive Belastung kalkulieren und ein kognitives Budget einhalten, weil jede zusätzliche Option die Wahrscheinlichkeit senkt, dass Nutzer überhaupt eine bewusste Wahl treffen. Emotionales Design, das Gefühle wie Kontrolle und Sicherheit auslöst statt Angst zu schüren, wirkt, weil Menschen Dienste meiden, die ihnen ein schlechtes Gefühl geben, selbst wenn der Datenschutz dort besser wäre. Kontinuierliches Monitoring des tatsächlichen Nutzerverhaltens schließlich zeigt, wo Gestaltung in der Praxis versagt, und ermöglicht iterative Verbesserung.
+Weil jedes Interface-Element eine Datenschutzentscheidung beeinflusst, benötigen Designer und Entwickler standardisierte, getestete Privacy Patterns Libraries — vergleichbar mit Barrierefreiheits-Standards, die konsistente Lösungen über Produkte hinweg ermöglichen. Sie müssen kognitive Belastung kalkulieren und ein kognitives Budget einhalten, weil jede zusätzliche Option die Wahrscheinlichkeit senkt, dass Nutzer überhaupt eine bewusste Wahl treffen. Emotionales Design, das Gefühle wie Kontrolle und Sicherheit auslöst, statt Angst zu schüren, wirkt, weil Menschen Dienste meiden, die ihnen ein schlechtes Gefühl geben, selbst wenn der Datenschutz dort besser wäre. Kontinuierliches Monitoring des tatsächlichen Nutzerverhaltens schließlich zeigt, wo Gestaltung in der Praxis versagt, und ermöglicht iterative Verbesserung.
 
 ### Für Bildungseinrichtungen
 
@@ -153,7 +153,7 @@ Die Transformation zu menschenzentriertem Datenschutz erfordert sowohl schnell u
 
 **Verhaltensbasierte Regulierung:** Gesetze, die von tatsächlichem menschlichem Verhalten ausgehen, nicht von Idealvorstellungen.
 
-**Datenschutz-Kultur:** Gesellschaftlicher Wandel, bei dem Datenschutz als selbstverständlicher Teil digitaler Interaktion gilt.
+**Datenschutzkultur:** Gesellschaftlicher Wandel, bei dem Datenschutz als selbstverständlicher Teil digitaler Interaktion gilt.
 
 ## Checklisten und Assessment-Tools für die Praxis {#checklisten-und-assessment-tools-fuer-die-praxis}
 
@@ -206,7 +206,7 @@ Ein schnelles Scoring-System (0–100 Punkte) basierend auf:
 | **Transparenz** | 20 Punkte | Datenfluss-Visualisierung, Just-in-Time-Info |
 | **Support und Bildung** | 20 Punkte | Hilfestellungen, Bildungsressourcen |
 
-Felix Hartmann entwickelte für sein Fintech-Startup ein automatisiertes Tool, das diese Bewertung in Echtzeit durchführt: „Wir tracken nicht nur technische KPIs, sondern auch Privacy-UX-Metriken. Die Nutzerretention hat sich seitdem spürbar verbessert."
+Felix Hartmann entwickelte für sein Fintech-Start-up ein automatisiertes Tool, das diese Bewertung in Echtzeit durchführt: „Wir tracken nicht nur technische KPIs, sondern auch Privacy-UX-Metriken. Die Nutzerretention hat sich seitdem spürbar verbessert."
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 

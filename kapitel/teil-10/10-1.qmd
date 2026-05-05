@@ -69,7 +69,7 @@ Die Komplexitäts-Heuristik verstärkt diesen Effekt zusätzlich. Je undurchscha
 
 Besonders problematisch ist der **[Automation Bias]**. Diese Tendenz, automatisierten Systemen unkritisch zu folgen, zeigt sich selbst bei offensichtlichen Fehlern. Skitka et al. (1999) dokumentierten diesen Effekt eindrücklich in der Luftfahrt, wo Piloten fehlerhafte Autopilot-Anweisungen befolgten, obwohl ihre Instrumente Widersprüche zeigten.
 
-Die Konsequenzen der Objektivitätsillusion sind erheblich. Sie führt zu dem, was These 13 als "Scheinprüfung" bezeichnet – oberflächliche Kontrollmechanismen, die der kognitiven Überlastung nicht standhalten. Prof. Krüger's Forschung zeigt: "Wenn Menschen glauben, ein System sei objektiv, sinkt ihre Prüfintensität um durchschnittlich 64 Prozent. Sie werden zu passiven Abzeichnern algorithmischer Entscheidungen."
+Die Konsequenzen der Objektivitätsillusion sind erheblich. Sie führt zu dem, was These 13 als "Scheinprüfung" bezeichnet – oberflächliche Kontrollmechanismen, die der kognitiven Überlastung nicht standhalten. Prof. Krügers Forschung zeigt: "Wenn Menschen glauben, ein System sei objektiv, sinkt ihre Prüfintensität um durchschnittlich 64 Prozent. Sie werden zu passiven Abzeichnern algorithmischer Entscheidungen."
 
 Die Dekonstruktion der Objektivitätsillusion erfordert **[Algorithm Literacy]** – ein Verständnis dafür, wie Algorithmen funktionieren, wo ihre Grenzen liegen und welche Wertentscheidungen in sie eingeflossen sind. Das Value Sensitive Design thematisiert explizit die Werte, die in algorithmische Systeme eingebettet sind. Friedman et al. (2013) entwickelten Methoden, um Stakeholder daran zu beteiligen, diese Werte zu identifizieren und zu priorisieren.
 
@@ -77,7 +77,7 @@ Bias Bounties machen die Fehlbarkeit von Systemen sichtbar und normal. Analog zu
 
 ## 10.1.4 Fairness-Wahrnehmungen bei KI-Entscheidungen {#10-1-4-fairness-wahrnehmungen-bei-ki-entscheidungen}
 
-Fairness ist kein objektives Konzept, sondern eine zutiefst subjektive, kulturell geprägte Wahrnehmung. Diese psychologische Realität kollidiert mit dem technischen Anspruch, "faire" Algorithmen zu entwickeln. Die Forschung zu *Algorithmic Fairness* zeigt: Es gibt nicht eine Fairness, sondern multiple, oft widersprüchliche Fairnesskonzeptionen, die unterschiedliche psychologische Bedürfnisse bedienen.
+Fairness ist kein objektives Konzept, sondern eine zutiefst subjektive, kulturell geprägte Wahrnehmung. Diese psychologische Realität kollidiert mit dem technischen Anspruch, "faire" Algorithmen zu entwickeln. Die Forschung zu *Algorithmic Fairness* zeigt: Es gibt nicht eine Fairness, sondern multiple, oft widersprüchliche Fairness-Konzeptionen, die unterschiedliche psychologische Bedürfnisse bedienen.
 
 Felix Hartmann stieß auf dieses Dilemma bei der Entwicklung eines Kreditvergabe-Algorithmus: "Wir hatten drei Fairness-Metriken implementiert: gleiche Genehmigungsraten über Gruppen, gleiche Falsch-Positiv-Raten und Kalibrierung. Mathematisch sind diese Ziele inkompatibel – man kann nicht alle gleichzeitig erfüllen. Aber psychologisch erwarten Menschen genau das: eine Fairness, die alle ihre intuitiven Gerechtigkeitsvorstellungen befriedigt."
 
@@ -105,7 +105,7 @@ Entscheidend ist die Anerkennung kontextualisierter Fairness. Verschiedene Domä
 
 ## 10.1.5 Kulturelle Unterschiede in der KI-Akzeptanz {#10-1-5-kulturelle-unterschiede-in-der-ki-akzeptanz}
 
-Die Akzeptanz algorithmischer Entscheidungen variiert stark zwischen Kulturen. Diese Unterschiede reflektieren tieferliegende kulturelle Werte, historische Erfahrungen und divergierende Konzeptionen von Mensch, Maschine und Gesellschaft. Das Verständnis dieser kulturellen Dimension ist essentiell für die globale Governance von KI-Systemen.
+Die Akzeptanz algorithmischer Entscheidungen variiert stark zwischen Kulturen. Diese Unterschiede reflektieren tieferliegende kulturelle Werte, historische Erfahrungen und divergierende Konzeptionen von Mensch, Maschine und Gesellschaft. Das Verständnis dieser kulturellen Dimension ist essenziell für die globale Governance von KI-Systemen.
 
 Lisa Chen erlebte diese Unterschiede hautnah, als ihr Versicherungskonzern ein globales KI-System ausrollen wollte: "Was in Deutschland auf Skepsis stieß, wurde in Singapur begeistert aufgenommen. In den USA fokussierten sich die Bedenken auf individuelle Diskriminierung, in Japan auf die Störung sozialer Harmonie. Wir mussten lernen: Es gibt keine universelle KI-Akzeptanz."
 
@@ -147,12 +147,12 @@ Diese kulturellen Unterschiede haben praktische Implikationen. Prof. Krüger ber
 >
 > **Langzeit- ↔ Kurzzeitorientierung**:
 > - Langzeit: Akzeptanz kurzfristiger Nachteile für langfristige Gewinne
-> - Kurzzeit: Immediate Benefits und aktuelle Fairness essentiell
+> - Kurzzeit: Immediate Benefits und aktuelle Fairness essenziell
 >
 > **Praktische Implikationen:**  
 > Kultursensible KI-Interfaces mit angepassten Erklärungstiefen, Kontrollmöglichkeiten und Legitimationsnarrativen entwickeln.
 
-Erfolgreiche Strategien für kultursensible KI-Implementierung nutzen lokale Vertrauensanker. Die Einbindung lokal respektierter Institutionen oder Personen als "Vertrauensintermediäre" erhöht die Akzeptanz. In Deutschland könnten das Datenschutzbeauftragte sein, in Japan respektierte Senioren, in Indien Community Leaders.
+Erfolgreiche Strategien für kultursensible KI-Implementierung nutzen lokale Vertrauensanker. Die Einbindung lokal respektierter Institutionen oder Personen als "Vertrauensintermediäre" erhöht die Akzeptanz. In Deutschland könnten das die Datenschutzbeauftragten sein, in Japan respektierte Senioren, in Indien Community Leaders.
 
 Die narrative Anpassung rahmt algorithmische Systeme in kulturell resonanten Narrativen. In den USA als "Fair Playing Field", in Japan als "Wa" (Harmonie), in Deutschland als "Ordnung und Transparenz". Der graduelle Rollout ermöglicht schrittweise Einführung mit kulturspezifischen Pilot-Programmen, die lokales Feedback integrieren und Anpassungen ermöglichen.
 

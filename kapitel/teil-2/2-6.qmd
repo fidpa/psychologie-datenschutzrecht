@@ -11,23 +11,35 @@
 
 **Das Puzzle zusammenfügen**
 
-Prof. Dr. Miriam Krüger steht vor einer riesigen Pinnwand in ihrem Forschungslabor an der Universität München. Darauf: Hunderte von Post-its, Pfeile, Diagramme – das Ergebnis von fünf Jahren Forschung zur Psychologie des Datenschutzverhaltens, die sie in ihrer interdisziplinären Arbeit zwischen UX-Forschung und Privacy-Psychologie durchgeführt hat. Ihre Doktorandin Lisa schaut skeptisch.
+Prof. Dr. Miriam Krüger steht vor einer riesigen Pinnwand in ihrem Forschungslabor an der Universität München.
+Darauf: Hunderte von Post-its, Pfeile, Diagramme – das Ergebnis von fünf Jahren Forschung zur Psychologie des Datenschutzverhaltens, die sie in ihrer interdisziplinären Arbeit zwischen UX-Forschung und Privacy-Psychologie durchgeführt hat.
+Ihre Doktorandin Lena schaut skeptisch.
 
-"Wir haben alles", sagt Lisa. "Kognitive Verzerrungen, Emotionen, Persönlichkeit, soziale Einflüsse. Aber wie hängt das zusammen? Wenn ich vorhersagen will, ob jemand seine Daten schützt oder nicht – welches Modell nehme ich?"
+"Wir haben alles", sagt Lena.
+"Kognitive Verzerrungen, Emotionen, Persönlichkeit, soziale Einflüsse. Aber wie hängt das zusammen? Wenn ich vorhersagen will,
+ob jemand seine Daten schützt oder nicht – welches Modell nehme ich?"
 
-Miriam lächelt. Das ist die Millionen-Euro-Frage. "Einzelne Faktoren erklären 10-30% der Varianz. Aber Menschen sind keine eindimensionalen Wesen. Wir brauchen ein Modell, das alles integriert."
+Miriam lächelt.
+Das ist die Millionen-Euro-Frage.
+"Einzelne Faktoren erklären 10-30 % der Varianz. Aber Menschen sind keine eindimensionalen Wesen. Wir brauchen ein Modell, das alles integriert."
 
-Sie nimmt einen roten Marker und beginnt, Verbindungen zu zeichnen. "Theory of Planned Behavior erklärt die Intentionsbildung. Protection Motivation Theory zeigt, wie Bedrohungen wirken. Dual-Process-Modelle erklären automatische versus überlegte Entscheidungen. Privacy Calculus beschreibt die Abwägung..."
+Sie nimmt einen roten Marker und beginnt, Verbindungen zu zeichnen.
+"Theory of Planned Behavior erklärt die Intentionsbildung. Protection Motivation Theory zeigt, wie Bedrohungen wirken. Dual-Process-Modelle erklären automatische versus überlegte Entscheidungen. Privacy Calculus beschreibt die Abwägung..."
 
-"Aber das sind vier verschiedene Modelle!", unterbricht Lisa.
+"Aber das sind vier verschiedene Modelle!", unterbricht Lena.
 
-"Genau. Und jedes erfasst einen Teil der Wahrheit. Die Kunst ist, sie so zu kombinieren, dass ein Gesamtbild entsteht. Ein Modell, das nicht nur erklärt, warum Menschen tun, was sie tun – sondern auch, wie wir ihnen helfen können, bessere Entscheidungen zu treffen."
+"Genau. Und jedes erfasst einen Teil der Wahrheit. Die Kunst ist, sie so zu kombinieren,
+dass ein Gesamtbild entsteht. Ein Modell, das nicht nur erklärt, warum Menschen tun, was sie tun – sondern auch, wie wir ihnen helfen können, bessere Entscheidungen zu treffen."
 
-Miriam tritt zurück. Auf der Pinnwand entsteht langsam ein komplexes, aber elegantes Diagramm. "Das", sagt sie, "ist die Zukunft der Datenschutzpsychologie. Nicht mehr Faktoren isoliert betrachten, sondern verstehen, wie alles zusammenwirkt."
+Miriam tritt zurück.
+Auf der Pinnwand entsteht langsam ein komplexes, aber elegantes Diagramm.
+"Das", sagt sie, "ist die Zukunft der Datenschutzpsychologie. Nicht mehr Faktoren isoliert betrachten, sondern verstehen, wie alles zusammenwirkt."
 
 ## 2.6.1 Theory of Planned Behavior im Datenschutzkontext {#2-6-1-theory-of-planned-behavior-im-datenschutzkontext}
 
-Die Theory of Planned Behavior (TPB) von Icek Ajzen (1991) ist eines der einflussreichsten Modelle zur Vorhersage menschlichen Verhaltens. Sie erweitert den früheren Reasoned Action Approach (Fishbein & Ajzen, 2010). Im Datenschutzkontext bietet die TPB einen strukturierten Rahmen, der viele der in den Kapiteln 2.1–2.5 diskutierten psychologischen Faktoren integriert.
+Die Theory of Planned Behavior (TPB) von Icek Ajzen (1991) ist eines der einflussreichsten Modelle zur Vorhersage menschlichen Verhaltens.
+Sie erweitert den früheren Reasoned Action Approach (Fishbein & Ajzen, 2010).
+Im Datenschutzkontext bietet die TPB einen strukturierten Rahmen, der viele der in den Kapiteln 2.1–2.5 diskutierten psychologischen Faktoren integriert.
 
 **Grundkomponenten der TPB**
 
@@ -47,23 +59,27 @@ Die Einstellung hat drei Komponenten:
 - Affektive Komponente: „Datenschutz fühlt sich gut/lästig an"
 - Verhaltenserfahrung: Frühere positive/negative Erlebnisse
 
-Diese Komponenten verknüpfen sich mit zentralen Themen der vorherigen Kapitel. Das **Privacy Paradox** verdeutlicht die Diskrepanz zwischen Einstellung und tatsächlichem Verhalten. Kognitive Verzerrungen verfälschen die Einstellungsbildung systematisch, während Emotionen die affektive Komponente maßgeblich prägen.
-
-Diese Diskrepanz zwischen Einstellung und Verhalten ist der Kern von These 2: Das Privacy Paradox lässt sich weitgehend durch etablierte kognitive, affektive und soziale Theorien erklären, wie die TPB zeigt.
+Diese Komponenten verknüpfen sich mit zentralen Themen der vorherigen Kapitel.
+Das **Privacy Paradox** verdeutlicht die Diskrepanz zwischen Einstellung und tatsächlichem Verhalten.
+Kognitive Verzerrungen verfälschen die Einstellungsbildung systematisch, während Emotionen die affektive Komponente maßgeblich prägen.
+Diese Diskrepanz ist der Kern von These 2:
+Das Privacy Paradox lässt sich weitgehend durch etablierte kognitive, affektive und soziale Theorien erklären, wie die TPB zeigt.
 
 **Subjektive Norm:**
 - Deskriptive Norm: Was tun relevante andere?
 - Injunktive Norm: Was erwarten relevante andere?
 - Motivation zur Compliance: Wie wichtig ist Konformität?
 
-Soziale Normen dominieren oft individuelle Einstellungen, wobei Referenzgruppen unterschiedlichen Einfluss haben. FOMO (Fear of Missing Out) verstärkt den Normendruck zusätzlich.
+Soziale Normen dominieren oft individuelle Einstellungen, wobei Referenzgruppen unterschiedlichen Einfluss haben.
+FOMO (Fear of Missing Out) verstärkt den Normendruck zusätzlich.
 
 **Wahrgenommene Verhaltenskontrolle:**
 - **Selbstwirksamkeit**: „Kann ich meine Daten schützen?"
 - Kontrollierbarkeit: „Habe ich die Mittel dazu?"
 - Barrieren: Zeit, Wissen, Ressourcen
 
-Kontrollillusion und tatsächliche Kontrolle klaffen häufig auseinander. Digitale Kompetenz moderiert den Effekt, während technische Barrieren ihn einschränken.
+Kontrollillusion und tatsächliche Kontrolle klaffen häufig auseinander.
+Digitale Kompetenz moderiert den Effekt, während technische Barrieren ihn einschränken.
 
 > **Infobox: Die Privacy-TPB-Formel**
 > Verhaltensintention = β₁(Einstellung) + β₂(Subjektive Norm) + β₃(PBC) + ε
@@ -72,18 +88,28 @@ Kontrollillusion und tatsächliche Kontrolle klaffen häufig auseinander. Digita
 
 **Empirische Validierung der Privacy-TPB**
 
-In der allgemeinen Verhaltensforschung erklärt die TPB laut Meta-Analyse von Armitage und Conner (2001, 185 Studien, *British Journal of Social Psychology*) im Mittel rund 39 % der Varianz in der Intention und 27 % der Varianz im Verhalten. Die Intentions-Verhaltens-Lücke bleibt erheblich: Sheerans (2002) Meta-Analyse der Meta-Analysen beziffert die durchschnittliche Korrelation zwischen Absicht und Handeln mit etwa r = .53 — Intention erklärt somit nur rund die Hälfte der Verhaltensvarianz. Für Privacy-Kontexte zeigen Studien tendenziell ähnliche Größenordnungen, wobei spezialisierte Erweiterungen (etwa integrierte Ansätze mit Privacy Calculus; Dinev & Hart, 2006) die Aufklärung erhöhen.
+In der allgemeinen Verhaltensforschung erklärt die TPB laut Meta-Analyse von Armitage und Conner (2001, 185 Studien, *British Journal of Social Psychology*) im Mittel rund 39 % der Varianz in der Intention und 27 % der Varianz im Verhalten.
+Die Intentions-Verhaltens-Lücke bleibt erheblich.
+Sheerans (2002) Meta-Analyse der Meta-Analysen beziffert die durchschnittliche Korrelation zwischen Absicht und Handeln mit etwa r = .53.
+Intention erklärt somit nur rund die Hälfte der Verhaltensvarianz.
+Für Privacy-Kontexte zeigen Studien ähnliche Größenordnungen.
+Spezialisierte Erweiterungen, etwa integrierte Ansätze mit Privacy Calculus (Dinev & Hart, 2006), erhöhen die Aufklärung.
 
 **Moderatoren der TPB-Komponenten**:
 
 **Kulturelle Moderation**:
-In kollektivistischen Kulturen dominiert die subjektive Norm und erklärt den Löwenanteil der Verhaltensvarianz. Individualistische Kulturen zeigen einen stärkeren Einfluss der persönlichen Einstellung. Die Machtdistanz moderiert den Effekt der wahrgenommenen Verhaltenskontrolle.
+In kollektivistischen Kulturen dominiert die subjektive Norm und erklärt den Löwenanteil der Verhaltensvarianz.
+Individualistische Kulturen zeigen einen stärkeren Einfluss der persönlichen Einstellung.
+Die Machtdistanz moderiert den Effekt der wahrgenommenen Verhaltenskontrolle.
 
 **Persönlichkeitsmoderation**:
-Menschen mit hoher Gewissenhaftigkeit zeigen einen stärkeren Einstellungs-Verhaltens-Link. Bei hohem Neurotizismus wird die wahrgenommene Verhaltenskontrolle wichtiger, während hohe Verträglichkeit den Einfluss sozialer Normen verstärkt.
+Menschen mit hoher Gewissenhaftigkeit zeigen einen stärkeren Einstellungs-Verhaltens-Link.
+Bei hohem Neurotizismus wird die wahrgenommene Verhaltenskontrolle wichtiger, während hohe Verträglichkeit den Einfluss sozialer Normen verstärkt.
 
 **Kontextuelle Moderation**:
-Bei sensitiven Daten dominiert die persönliche Einstellung. In sozialen Netzwerken spielen Normen die Hauptrolle. Im beruflichen Kontext ist die wahrgenommene Verhaltenskontrolle entscheidend.
+Bei sensitiven Daten dominiert die persönliche Einstellung.
+In sozialen Netzwerken spielen Normen die Hauptrolle.
+Im beruflichen Kontext ist die wahrgenommene Verhaltenskontrolle entscheidend.
 
 **Grenzen der TPB im Datenschutzkontext**
 
@@ -116,29 +142,41 @@ PMT postuliert zwei parallele kognitive Prozesse:
 
 **PMT im digitalen Datenschutz**
 
-Floyds, Prentice-Dunns und Rogers' (2000) Meta-Analyse von 65 Studien über 20 Gesundheits- und Schutzverhaltensfelder zeigt einen moderaten mittleren Effekt (d⁺ ≈ 0,52): Wenn Bedrohungs- und Bewältigungseinschätzung gemeinsam adressiert werden, steigt die Wahrscheinlichkeit von Schutzverhalten deutlich. Für den digitalen Datenschutz lassen sich die sechs PMT-Variablen qualitativ wie folgt interpretieren:
+Floyds, Prentice-Dunns und Rogers' (2000) Meta-Analyse umfasst 65 Studien aus 20 Gesundheits- und Schutzverhaltensfeldern.
+Sie zeigt einen moderaten mittleren Effekt (d⁺ ≈ 0,52).
+Werden Bedrohungs- und Bewältigungseinschätzung gemeinsam adressiert, steigt die Wahrscheinlichkeit von Schutzverhalten deutlich.
+Für den digitalen Datenschutz lassen sich die sechs PMT-Variablen qualitativ wie folgt interpretieren:
 
 **Bedrohungseinschätzung**:
 
 *Wahrgenommene Schwere*:
-Wie schlimm wäre ein Datenverlust? Diese zentrale Frage steht im Mittelpunkt der Bedrohungseinschätzung. Der Optimismus-Bias moderiert die Wahrnehmung erheblich, und kulturelle Unterschiede beeinflussen die Schwere-Bewertung zusätzlich.
+Wie schlimm wäre ein Datenverlust?
+Diese zentrale Frage steht im Mittelpunkt der Bedrohungseinschätzung.
+Der Optimismus-Bias moderiert die Wahrnehmung erheblich, und kulturelle Unterschiede beeinflussen die Schwere-Bewertung zusätzlich.
 
 *Wahrgenommene Verwundbarkeit*:
-Wie wahrscheinlich bin ich betroffen? Die Verfügbarkeitsheuristik verzerrt diese Einschätzung stark — wer kürzlich von einem Datenleck gehört hat, überschätzt das Risiko. Die Persönlichkeit moderiert den Effekt zusätzlich.
+Wie wahrscheinlich bin ich betroffen?
+Die Verfügbarkeitsheuristik verzerrt diese Einschätzung stark, denn wer kürzlich von einem Datenleck gehört hat, überschätzt das Risiko.
+Die Persönlichkeit moderiert den Effekt zusätzlich.
 
 *Belohnungen des Nicht-Schutzes*:
-Bequemlichkeit und soziale Integration locken. Die Gratifikation digitaler Dienste wirkt als ständiger Anreiz gegen Schutzverhalten.
+Bequemlichkeit und soziale Integration locken.
+Die Gratifikation digitaler Dienste wirkt als ständiger Anreiz gegen Schutzverhalten.
 
 **Bewältigungseinschätzung**:
 
 *Selbstwirksamkeit*:
-Kann ich mich effektiv schützen? Diese Frage gilt empirisch als einer der stärksten Prädiktoren für Schutzverhalten (Floyd et al., 2000). Die digitale Kompetenz spielt dabei eine zentrale Rolle.
+Kann ich mich effektiv schützen?
+Diese Frage gilt empirisch als einer der stärksten Prädiktoren für Schutzverhalten (Floyd et al., 2000).
+Die digitale Kompetenz spielt dabei eine zentrale Rolle.
 
 *Reaktionswirksamkeit*:
-Helfen Schutzmaßnahmen wirklich? Medienberichte über Hacks schüren die Skepsis und untergraben das Vertrauen in Schutzmaßnahmen.
+Helfen Schutzmaßnahmen wirklich?
+Medienberichte über Hacks schüren die Skepsis und untergraben das Vertrauen in Schutzmaßnahmen.
 
 *Reaktionskosten*:
-Zeit, Aufwand und Komfortverlust schrecken ab. Der Choice Overload — die Überforderung durch zu viele Optionen — verstärkt das Problem.
+Zeit, Aufwand und Komfortverlust schrecken ab.
+Der Choice Overload, also die Überforderung durch zu viele Optionen, verstärkt das Problem.
 
 > **Infobox: Die PMT-Schutzformel**
 > Schutzmotivation = (Schwere × Vulnerabilität − Belohnungen) +
@@ -148,7 +186,10 @@ Zeit, Aufwand und Komfortverlust schrecken ab. Der Choice Overload — die Über
 
 **Fear Appeals und ihre Wirkung**
 
-PMT erklärt, warum reine Angstappelle oft scheitern: Bedrohungskommunikation ohne gleichzeitige Stärkung der Bewältigungsressourcen erzeugt Reaktanz oder Resignation statt Schutzverhalten. Die Meta-Analyse von Floyd et al. (2000) bestätigt den schon früh von Rogers und Maddux formulierten Grundsatz, dass Interventionen dann am wirksamsten sind, wenn sie beide Einschätzungs-Routen adressieren:
+PMT erklärt, warum reine Angstappelle oft scheitern.
+Bedrohungskommunikation ohne gleichzeitige Stärkung der Bewältigungsressourcen erzeugt Reaktanz oder Resignation statt Schutzverhalten.
+Die Meta-Analyse von Floyd et al. (2000) bestätigt einen Grundsatz, den schon Rogers und Maddux früh formulierten.
+Interventionen wirken am stärksten, wenn sie beide Einschätzungs-Routen adressieren:
 
 - Reine Bedrohung (hoch) ohne Bewältigung (niedrig) → Reaktanz, Verdrängung, Hilflosigkeit.
 - Balancierte Kommunikation (Bedrohung + Bewältigung) → deutlich erhöhte Schutzmotivation.
@@ -158,11 +199,16 @@ Erkenntnis: Bedrohung ohne Bewältigungsmöglichkeit → Hilflosigkeit.
 
 **Integration mit anderen Modellen**
 
-PMT ergänzt TPB: Während die TPB generelles Verhalten vorhersagt, fokussiert PMT auf Schutzverhalten unter Bedrohung. Integrative Modelle, die beide Theoriestränge verbinden (z. B. Privacy-Calculus-Erweiterungen im Sinne von Dinev & Hart, 2006), verbessern die Verhaltensvorhersage gegenüber Einzelmodellen — die genauen Zuwächse variieren mit Kontext, Stichprobe und Messung.
+PMT ergänzt TPB.
+Während die TPB generelles Verhalten vorhersagt, fokussiert PMT auf Schutzverhalten unter Bedrohung.
+Integrative Modelle verbinden beide Theoriestränge (etwa Privacy-Calculus-Erweiterungen im Sinne von Dinev & Hart, 2006).
+Sie verbessern die Verhaltensvorhersage gegenüber Einzelmodellen.
+Die genauen Zuwächse variieren mit Kontext, Stichprobe und Messung.
 
 **Entwicklungspfade der Schutzmotivation**
 
-Schutzverhalten entwickelt sich nicht als einmalige Entscheidung, sondern als Prozess über die Zeit. Qualitative Verlaufsmuster, die in Längsschnittstudien zur Technologienutzung wiederkehren, lassen sich in drei Phasen gliedern:
+Schutzverhalten entwickelt sich nicht als einmalige Entscheidung, sondern als Prozess über die Zeit.
+Qualitative Verlaufsmuster, die in Längsschnittstudien zur Technologienutzung wiederkehren, lassen sich in drei Phasen gliedern:
 
 **Phase 1: Initiale Sensibilisierung**
 - Trigger: Medienbericht oder persönliche Erfahrung
@@ -204,7 +250,10 @@ Nach Kahneman (2011), Stanovich (2011) und Evans (2008):
 
 **Datenschutzentscheidungen durch die Dual-Process-Linse**
 
-Die qualitative Befundlage aus Laborstudien, Feldbeobachtungen und Interface-Forschung (vgl. Acquisti, Brandimarte & Loewenstein, 2015) ist eindeutig: Die große Mehrheit alltäglicher Datenschutzentscheidungen fällt im System-1-Modus — schnell, automatisch, ohne bewusste Abwägung. Cookie-Banner, App-Berechtigungsdialoge, Opt-in-Prompts in sozialen Medien werden typischerweise in wenigen Sekunden „weggeklickt"; habituelle Muster und Default-Einstellungen bestimmen den Ausgang.
+Die qualitative Befundlage aus Laborstudien, Feldbeobachtungen und Interface-Forschung (vgl. Acquisti, Brandimarte & Loewenstein, 2015) ist eindeutig.
+Die große Mehrheit alltäglicher Datenschutzentscheidungen fällt im System-1-Modus, also schnell, automatisch und ohne bewusste Abwägung.
+Cookie-Banner, App-Berechtigungsdialoge und Opt-in-Prompts in sozialen Medien werden typischerweise in wenigen Sekunden „weggeklickt".
+Habituelle Muster und Default-Einstellungen bestimmen den Ausgang.
 
 **System 1 dominiert typischerweise bei**:
 - Cookie-Bannern (Standard-Bestätigung in Bruchteilen einer Minute)
@@ -221,7 +270,7 @@ Die qualitative Befundlage aus Laborstudien, Feldbeobachtungen und Interface-For
 > **Infobox: Die Sekunden-Regel der Privatheit**
 > Je kürzer die Entscheidungsdauer, desto wahrscheinlicher ist eine reine System-1-Antwort. Friktion und bewusste Verzögerung sind daher zentrale Design-Hebel für die Aktivierung von System 2.
 >
-> Das praktische Problem: Die große Mehrheit der Entscheidungen fällt in wenigen Sekunden — genau in jenem Zeitfenster, in dem System 1 dominiert.
+> Das praktische Problem: Die große Mehrheit der Entscheidungen fällt in wenigen Sekunden, also genau in jenem Zeitfenster, in dem System 1 dominiert.
 
 **Interaktion der Systeme**
 
@@ -234,7 +283,13 @@ Nicht entweder-oder, sondern dynamisches Zusammenspiel:
 4. Intervention nur bei Konfliktdetektion
 
 **Neurokognitive Hinweise**:
-Die neurowissenschaftliche Forschung zu sozialer und emotionaler Entscheidung (u. a. Rilling & Sanfey, 2011; Rilling et al., 2022) zeigt konsistent, dass System-1-Prozesse eher mit limbischen und ventral-striatalen Strukturen (Amygdala, Nucleus accumbens) assoziiert sind, während System-2-Prozesse mit präfrontalen Kontroll- und Konfliktregionen (dlPFC, ACC) zusammenhängen. Unter kognitiver Müdigkeit oder Stress sinkt die präfrontale Kontrollleistung, und System-1-Reaktionen dominieren stärker — eine der Erklärungen, warum Cookie-Banner am Abend regelmäßiger „weggeklickt" werden als morgens.
+Die neurowissenschaftliche Forschung zu sozialer und emotionaler Entscheidung (u. a.
+Rilling & Sanfey, 2011; Rilling et al., 2022) zeigt konsistente Muster.
+System-1-Prozesse sind eher mit limbischen und ventral-striatalen Strukturen assoziiert, etwa der Amygdala und dem Nucleus accumbens.
+System-2-Prozesse hängen dagegen mit präfrontalen Kontroll- und Konfliktregionen wie dem dlPFC und dem ACC zusammen.
+Unter kognitiver Müdigkeit oder Stress sinkt die präfrontale Kontrollleistung.
+System-1-Reaktionen dominieren dann stärker.
+Das erklärt unter anderem, warum Cookie-Banner am Abend regelmäßiger „weggeklickt" werden als morgens.
 
 **Faktoren der Systemaktivierung**
 
@@ -268,7 +323,11 @@ Die neurowissenschaftliche Forschung zu sozialer und emotionaler Entscheidung (u
 
 ## 2.6.4 Privacy Calculus: Kosten-Nutzen-Abwägungen {#2-6-4-privacy-calculus-kosten-nutzen-abwaegungen}
 
-Das Privacy-Calculus-Modell konzeptualisiert Datenschutzentscheidungen als Kosten-Nutzen-Abwägung. Dinev und Hart (2006) erweitern das klassische Modell um Vertrauens- und Risikowahrnehmungen und legten damit einen der am häufigsten replizierten Rahmen der Privacy-Forschung vor. Die zentrale Annahme — dass Nutzerinnen und Nutzer rational abwägen — ist psychologisch zu hinterfragen und bestätigt These 1: Datenschutz scheitert primär an psychologischen, nicht technischen Barrieren.
+Das Privacy-Calculus-Modell konzeptualisiert Datenschutzentscheidungen als Kosten-Nutzen-Abwägung.
+Dinev und Hart (2006) erweitern das klassische Modell um Vertrauens- und Risikowahrnehmungen.
+Sie legten damit einen der am häufigsten replizierten Rahmen der Privacy-Forschung vor.
+Die zentrale Annahme, dass Nutzerinnen und Nutzer rational abwägen, ist psychologisch zu hinterfragen.
+Sie bestätigt These 1: Datenschutz scheitert primär an psychologischen, nicht an technischen Barrieren.
 
 **Klassisches Privacy Calculus Modell**
 
@@ -291,10 +350,15 @@ Grundformel:
 
 **Psychologische Verzerrungen im Calculus**
 
-Das rationale Modell trifft auf irrationale Akteure. Acquisti, Brandimarte und Loewenstein (2015) zeigen in ihrer einflussreichen *Science*-Übersicht, dass Menschen Privacy-Entscheidungen systematisch verzerrt treffen: Kosten des Datenpreisgebens werden unterschätzt, Kurzfrist-Nutzen überschätzt, Risiko-Wahrscheinlichkeiten ausgeblendet. Kokolakis' (2017) Review des *Privacy Paradox* kommt zum gleichen Befund. Typische Verzerrungen:
+Das rationale Modell trifft auf irrationale Akteure.
+Acquisti, Brandimarte und Loewenstein (2015) zeigen in ihrer einflussreichen *Science*-Übersicht,
+dass Menschen Privacy-Entscheidungen systematisch verzerrt treffen.
+Kosten des Datenpreisgebens werden unterschätzt, Kurzfrist-Nutzen überschätzt, Risiko-Wahrscheinlichkeiten ausgeblendet.
+Kokolakis' (2017) Review des *Privacy Paradox* kommt zum gleichen Befund.
+Typische Verzerrungen:
 
 - **Systematische Unterschätzung der Datenkosten**: Der ökonomische und soziale Wert der eigenen Daten wird konsistent niedriger eingeschätzt als der objektive Marktwert.
-- **Systematische Überschätzung des Komfortnutzens**: Zeitersparnis durch Personalisierung wird dramatisch überschätzt; empirisch ist der tatsächliche Mehrwert meist marginal.
+- **Systematische Überschätzung des Komfortnutzens**: Zeitersparnis durch Personalisierung wird dramatisch überschätzt, während der tatsächliche Mehrwert empirisch meist marginal bleibt.
 - **Missbrauchsrisiken werden verdrängt**: Die Eintrittswahrscheinlichkeit seltener, aber schwerer Schäden (Datenleck, Identitätsdiebstahl) wird durch die Verfügbarkeitsheuristik nach unten korrigiert.
 
 **Verzerrungsmechanismen** (→ siehe Kapitel 2.2):
@@ -309,7 +373,7 @@ Das rationale Modell trifft auf irrationale Akteure. Acquisti, Brandimarte und L
 > (Unterschätzte Kosten × Zukunftsdiskontierung) +
 > Soziale Einflüsse + Emotionen + Defaults
 >
-> Die rationale Kernkomponente erklärt in empirischen Studien nur einen Teil der Entscheidungsvarianz — der Rest geht auf heuristische, affektive und situative Faktoren zurück (Acquisti et al., 2015).
+> Die rationale Kernkomponente erklärt in empirischen Studien nur einen Teil der Entscheidungsvarianz. Der Rest geht auf heuristische, affektive und situative Faktoren zurück (Acquisti et al., 2015).
 
 **[Bounded Rationality] im Privacy Calculus**
 
@@ -325,37 +389,58 @@ Herbert Simons (1956) Konzept der begrenzten Rationalität liefert den theoretis
 - Erste akzeptable Option wird gewählt
 - Erschöpfende Suche zu kostspielig
 
-Schwartz und Kollegen (2002) haben mit der *Maximization Scale* gezeigt, dass Menschen sich systematisch darin unterscheiden, wie konsequent sie nach der „besten" Option suchen. Maximizer erleben Entscheidungsprozesse oft als belastender und sind nach der Wahl weniger zufrieden; Satisficer treffen schneller Entscheidungen, akzeptieren aber auch eher suboptimale Defaults. Im Privacy-Kontext begünstigt Satisficing die Akzeptanz voreingestellter Datenfreigaben; Impulsentscheidungen (unter Zeitdruck, Affektlast oder kognitiver Müdigkeit) umgehen die Abwägung ganz.
+Schwartz und Kollegen (2002) haben mit der *Maximization Scale* gezeigt,
+dass Menschen sich systematisch darin unterscheiden, wie konsequent sie nach der „besten" Option suchen.
+Maximizer erleben Entscheidungsprozesse oft als belastender und sind nach der Wahl weniger zufrieden.
+Satisficer treffen schneller Entscheidungen, akzeptieren aber auch eher suboptimale Defaults.
+Im Privacy-Kontext begünstigt Satisficing die Akzeptanz voreingestellter Datenfreigaben.
+Impulsentscheidungen unter Zeitdruck, Affektlast oder kognitiver Müdigkeit umgehen die Abwägung ganz.
 
 **Kontextuelle Privacy Calculus**
 
-Der Calculus variiert systematisch nach Kontext. Nissenbaums (2009) Konzept der *contextual integrity* formuliert den Grundsatz: Welche Datenflüsse als „angemessen" empfunden werden, hängt von den Normen des jeweiligen Kontexts ab — Gesundheitsdaten unterliegen anderen Erwartungen als Marketingdaten, Arbeitskontexte anderen als Freundeskreise. Typisches Muster:
+Der Calculus variiert systematisch nach Kontext.
+Nissenbaums (2009) Konzept der *contextual integrity* formuliert den Grundsatz,
+dass die Angemessenheit von Datenflüssen von den Normen des jeweiligen Kontexts abhängt.
+Gesundheitsdaten unterliegen anderen Erwartungen als Marketingdaten, Arbeitskontexte anderen als Freundeskreise.
+Typisches Muster:
 
-- In sozialen und Unterhaltungskontexten dominiert die Nutzen-Seite — Menschen teilen großzügiger, weil der soziale Gewinn greifbar und sofort ist.
-- In sensiblen Kontexten (Gesundheit, Finanzen, berufliche Daten) verschiebt sich die Gewichtung deutlich Richtung Kosten; das Abwägen wird langsamer, die Bereitschaft zur Datenpreisgabe sinkt.
-- Pragmatische Alltagskontexte (Online-Shopping, allgemeine Services) liegen dazwischen und sind besonders anfällig für Defaults und Framing.
+- In sozialen und Unterhaltungskontexten dominiert die Nutzen-Seite. Menschen teilen großzügiger, weil der soziale Gewinn greifbar und sofort ist.
+- In sensiblen Kontexten wie Gesundheit, Finanzen oder beruflichen Daten verschiebt sich die Gewichtung deutlich Richtung Kosten. Das Abwägen wird langsamer, die Bereitschaft zur Datenpreisgabe sinkt.
+- Pragmatische Alltagskontexte wie Online-Shopping oder allgemeine Services liegen dazwischen. Sie sind besonders anfällig für Defaults und Framing.
 
-Je sensibler der Kontext, desto stärker verschiebt sich die Gewichtung Richtung Kosten — eine robuste qualitative Regelmäßigkeit, die sich in zahlreichen Studien wiederfindet.
+Je sensibler der Kontext, desto stärker verschiebt sich die Gewichtung Richtung Kosten.
+Diese qualitative Regelmäßigkeit findet sich robust in zahlreichen Studien.
 
 **Temporale Dynamik des Calculus**
 
-Petronios (2002) *Communication Privacy Management Theory* betont, dass Privacy-Abwägungen nicht einmalig getroffen, sondern kontinuierlich rekalibriert werden. Qualitative Verlaufsmuster zeigen sich in der Nutzung digitaler Dienste wiederkehrend:
+Petronios (2002) *Communication Privacy Management Theory* betont,
+dass Privacy-Abwägungen nicht einmalig getroffen, sondern kontinuierlich rekalibriert werden.
+Qualitative Verlaufsmuster zeigen sich in der Nutzung digitaler Dienste wiederkehrend:
 
-**Installation / Onboarding**: Nutzen wird überschätzt, Kosten werden unterschätzt — der Neuigkeits- und Konformitätsdruck dominiert.
-**Erste Nutzungsphase**: Realistischere Einschätzung, wenn erste Reibungen auftreten.
-**Habituation**: Der Calculus wird irrelevant — die Nutzung ist zur Gewohnheit geworden.
-**Incident**: Plötzliche Neubewertung nach Datenleck, Missbrauchsfall oder Medienberichten.
-**Post-Incident**: Neue Baseline, oft resignativ („digital privacy fatigue").
+**Installation / Onboarding**: Nutzen wird überschätzt, Kosten werden unterschätzt.
+Der Neuigkeits- und Konformitätsdruck dominiert. **Erste Nutzungsphase**:
+Realistischere Einschätzung, wenn erste Reibungen auftreten. **Habituation**: Der Calculus wird irrelevant.
+Die Nutzung ist zur Gewohnheit geworden. **Incident**:
+Plötzliche Neubewertung nach Datenleck, Missbrauchsfall oder Medienberichten. **Post-Incident**:
+Neue Baseline, oft resignativ („digital privacy fatigue").
 
 ## 2.6.5 Ein integratives Rahmenmodell {#2-6-5-ein-integratives-rahmenmodell}
 
-Nach der Analyse einzelner Modelle ist es Zeit für die Synthese. Kein Einzelmodell erfasst die ganze Komplexität menschlichen Datenschutzverhaltens; integrative Ansätze versuchen, die Stärken zu kombinieren und Schwächen zu kompensieren.
+Nach der Analyse einzelner Modelle ist es Zeit für die Synthese.
+Kein Einzelmodell erfasst die ganze Komplexität menschlichen Datenschutzverhaltens.
+Integrative Ansätze versuchen, die Stärken zu kombinieren und Schwächen zu kompensieren.
 
 **Das Integrative Privacy-Behavior-Modell als didaktischer Rahmen**
 
-Das hier entwickelte *Integrative Privacy-Behavior-Modell* ist kein empirisch validierter Einzelprädiktor, sondern ein **pädagogisches Synthese-Diagramm**: Es fasst die vier großen Theoriestränge der Privacy-Psychologie — Theory of Planned Behavior (Ajzen, 1991), Protection Motivation Theory (Rogers, 1975; Maddux & Rogers, 1983), Dual-Process-Modelle (Kahneman, 2011; Evans, 2008; Stanovich, 2011) und Privacy Calculus (Dinev & Hart, 2006) — in einem mehrstufigen Rahmen zusammen. Vorbild ist Fishbein und Ajzens (2010) *Integrated Behavior Model*, das für das Gesundheitsverhalten eine vergleichbare Synthese leistet; eine entsprechend formalisierte, empirisch breit validierte Integration speziell für den Privacy-Kontext steht in der Datenschutzpsychologie noch aus und wäre ein lohnendes Forschungsprogramm.
+Das hier entwickelte *Integrative Privacy-Behavior-Modell* ist kein empirisch validierter Einzelprädiktor, sondern ein **pädagogisches Synthese-Diagramm**.
+Es fasst die vier großen Theoriestränge der Privacy-Psychologie in einem mehrstufigen Rahmen zusammen:
+Theory of Planned Behavior (Ajzen, 1991), Protection Motivation Theory (Rogers, 1975; Maddux & Rogers, 1983), Dual-Process-Modelle (Kahneman, 2011; Evans, 2008; Stanovich, 2011) und Privacy Calculus (Dinev & Hart, 2006).
+Vorbild ist Fishbein und Ajzens (2010) *Integrated Behavior Model*, das für das Gesundheitsverhalten eine vergleichbare Synthese leistet.
+Eine formalisierte, empirisch breit validierte Integration speziell für den Privacy-Kontext steht in der Datenschutzpsychologie noch aus.
+Sie wäre ein lohnendes Forschungsprogramm.
 
-Das Modell adressiert These 20: Ein integratives, menschenzentriertes Datenschutz-Rahmenwerk kann Psychologie, Recht und Technik dauerhaft verbinden — auch wenn die Integration zum gegenwärtigen Stand als Orientierung dient, nicht als geschlossener Prädiktor.
+Das Modell adressiert These 20: Ein integratives, menschenzentriertes Datenschutz-Rahmenwerk kann Psychologie, Recht und Technik dauerhaft verbinden.
+Zum gegenwärtigen Stand dient die Integration als Orientierung, nicht als geschlossener Prädiktor.
 
 **Kernprinzipien**:
 1. **Multi-Level**: Individual, sozial, kontextuell
@@ -399,21 +484,27 @@ Das Modell adressiert These 20: Ein integratives, menschenzentriertes Datenschut
 > P(Schutzverhalten) ≈ f(
 >   Distale Faktoren (Persönlichkeit, Kompetenz, Kultur),
 >   Proximale Faktoren (TPB-Einstellung/Norm/Kontrolle, PMT-Bedrohung/Bewältigung, Emotion),
->   Prozessmodus (System 1 vs. System 2; Privacy Calculus verzerrt),
+>   Prozessmodus (System 1 vs. System 2, Privacy Calculus verzerrt),
 >   Kontext und Feedback-Schleifen
 > )
 >
-> Die Notation ist *konzeptuell*, nicht operational: Sie macht sichtbar, welche Faktorklassen zusammenspielen, nicht welche numerischen Gewichte gelten. Eine formalisierte Schätzung aller Parameter steht noch aus.
+> Die Notation ist *konzeptuell*, nicht operational. Sie macht sichtbar, welche Faktorklassen zusammenspielen, nicht welche numerischen Gewichte gelten. Eine formalisierte Schätzung aller Parameter steht noch aus.
 
 **Stand der empirischen Validierung**
 
-Die einzelnen Theoriebausteine des Modells sind breit validiert: Die TPB-Meta-Analyse von Armitage und Conner (2001) und Sheerans (2002) Intention-Verhaltens-Analyse stützen den TPB-Pfad; Floyd, Prentice-Dunn und Rogers (2000) belegen die Wirksamkeit kombinierter Bedrohungs- und Bewältigungskommunikation; Kahneman (2011) und Evans (2008) fundieren den Dual-Process-Pfad; Acquisti, Brandimarte und Loewenstein (2015) sowie Kokolakis (2017) dokumentieren die systematischen Verzerrungen im Privacy Calculus.
+Die einzelnen Theoriebausteine des Modells sind breit validiert.
+Die TPB-Meta-Analyse von Armitage und Conner (2001) und Sheerans (2002) Intention-Verhaltens-Analyse stützen den TPB-Pfad.
+Floyd, Prentice-Dunn und Rogers (2000) belegen die Wirksamkeit kombinierter Bedrohungs- und Bewältigungskommunikation.
+Kahneman (2011) und Evans (2008) fundieren den Dual-Process-Pfad.
+Acquisti, Brandimarte und Loewenstein (2015) sowie Kokolakis (2017) dokumentieren die systematischen Verzerrungen im Privacy Calculus.
 
-Die *integrierte* Variante — also die simultane Schätzung aller Pfade in einem Modell mit Interaktionstermen — ist dagegen **noch nicht geschlossen empirisch validiert**. Einzelne Integrationsansätze liegen vor (etwa Erweiterungen des Privacy Calculus um TPB- oder PMT-Komponenten, vgl. Dinev & Hart, 2006), jedoch ist der vollständige Multi-Level-Rahmen derzeit eher heuristischer Ordnungsvorschlag als getestetes Strukturgleichungsmodell.
+Die *integrierte* Variante, also die simultane Schätzung aller Pfade in einem Modell mit Interaktionstermen, ist dagegen **noch nicht geschlossen empirisch validiert**.
+Einzelne Integrationsansätze liegen vor, etwa Erweiterungen des Privacy Calculus um TPB- oder PMT-Komponenten (vgl. Dinev & Hart, 2006).
+Der vollständige Multi-Level-Rahmen ist derzeit aber eher heuristischer Ordnungsvorschlag als getestetes Strukturgleichungsmodell.
 
 Qualitative Regelmäßigkeiten aus der bisherigen Forschung, die in den integrierten Rahmen einfließen:
 
-- **Kompensatorische Effekte**: Hohe Kompetenz und aktiviertes System 2 wirken protektiv; niedrige Kompetenz und dominantes System 1 begründen Vulnerabilität. Starke Normen können schwache Einstellungen teilweise ausgleichen.
+- **Kompensatorische Effekte**: Hohe Kompetenz und aktiviertes System 2 wirken protektiv. Niedrige Kompetenz und dominantes System 1 begründen Vulnerabilität. Starke Normen können schwache Einstellungen teilweise ausgleichen.
 - **Kontext-Variation**: Die Gewichtung der Pfade verschiebt sich mit Sensibilität der Daten (siehe Nissenbaum, 2009) und Kultur.
 - **Zeitliche Dynamik**: Installation, Habituation, Incident und Post-Incident-Phasen produzieren unterschiedliche Abwägungsmuster (siehe Petronio, 2002).
 
@@ -441,7 +532,7 @@ Das IPBM ermöglicht maßgeschneiderte Ansätze:
 
 *Der Sorglose Extravertierte*:
 - Intervention: Soziale Normen betonen
-- "80% deiner Freunde schützen diese Daten"
+- "80 % deiner Freunde schützen diese Daten"
 - Gamification mit sozialer Komponente
 
 *Die Ängstliche Gewissenhafte*:
@@ -482,13 +573,13 @@ Das IPBM ist kein statisches Modell:
 
 Das hier entwickelte Synthese-Modell verknüpft die zentralen Thesen der Privacy-Psychologie entlang der vier Theoriestränge:
 
-**These 1** (Psychologische Barrieren): Zeigt systematisch, wo psychologische Faktoren dominieren
-**These 2** (Privacy Paradox): Erklärt durch die Einstellungs-Verhaltens-Diskrepanz in der TPB
-**These 3** (Verhaltenspsychologische Regulierung): Dual-Process-Modelle als Regulierungsgrundlage
-**These 9** (Vertrauen): Als emotionale Komponente in Level 2 integriert
-**These 12** (Vulnerable Gruppen): Persönlichkeitsfaktoren in Level 1 berücksichtigt
-**These 17** (Gesellschaftliche Normen): Subjektive Normen als zentraler TPB-Faktor
-**These 20** (Integratives Modell): Als heuristischer Ordnungsrahmen für künftige Forschung und praktische Intervention
+**These 1** (Psychologische Barrieren): Zeigt systematisch, wo psychologische Faktoren dominieren **These 2** (Privacy Paradox):
+Erklärt durch die Einstellungs-Verhaltens-Diskrepanz in der TPB **These 3** (Verhaltenspsychologische Regulierung):
+Dual-Process-Modelle als Regulierungsgrundlage **These 9** (Vertrauen):
+Als emotionale Komponente in Level 2 integriert **These 12** (Vulnerable Gruppen):
+Persönlichkeitsfaktoren in Level 1 berücksichtigt **These 17** (Gesellschaftliche Normen):
+Subjektive Normen als zentraler TPB-Faktor **These 20** (Integratives Modell):
+Als heuristischer Ordnungsrahmen für künftige Forschung und praktische Intervention
 
 Damit bietet das Synthese-Modell keinen geschlossenen Prädiktor, aber einen belastbaren Rahmen, der theoretische Integration und praktische Anwendung eines menschenzentrierten Datenschutz-Ansatzes zusammenführt.
 
@@ -535,15 +626,23 @@ Die integrativen Modelle revolutionieren unser Verständnis und ermöglichen eff
 - **Praktische Übungen**: Lassen Sie Lernende Modelle anwenden
 - **Kritisches Denken**: Diskutieren Sie Modellgrenzen und -annahmen
 
-Die Integration verschiedener theoretischer Ansätze markiert eine Etappe in der Datenschutzpsychologie. Statt isolierte Faktoren zu betrachten, verstehen wir das komplexe Zusammenspiel von Kognition, Emotion, Persönlichkeit und sozialen Einflüssen zunehmend in einem Rahmen. Der hier vorgeschlagene Synthese-Ansatz bietet keinen formal geschlossenen Prädiktor, aber konkrete Ansatzpunkte für wirksame Interventionen — und ein Forschungsprogramm: die empirisch belastbare Integration der vier Theoriestränge.
+Die Integration verschiedener theoretischer Ansätze markiert eine Etappe in der Datenschutzpsychologie.
+Statt isolierte Faktoren zu betrachten, verstehen wir das komplexe Zusammenspiel von Kognition, Emotion, Persönlichkeit und sozialen Einflüssen zunehmend in einem Rahmen.
+Der hier vorgeschlagene Synthese-Ansatz bietet keinen formal geschlossenen Prädiktor, aber konkrete Ansatzpunkte für wirksame Interventionen.
+Zugleich öffnet er ein Forschungsprogramm: die empirisch belastbare Integration der vier Theoriestränge.
 
-Der Weg zu effektivem Datenschutz führt über das Verständnis menschlichen Verhaltens in all seiner Komplexität. Die hier vorgestellten Modelle sind Werkzeuge auf diesem Weg – nicht perfekt, aber unendlich besser als intuitive Annahmen oder eindimensionale Ansätze. Ihre konsequente Anwendung kann den Unterschied machen zwischen Datenschutz, der nur auf dem Papier existiert, und solchem, der im echten Leben funktioniert.
+Der Weg zu effektivem Datenschutz führt über das Verständnis menschlichen Verhaltens in all seiner Komplexität.
+Die hier vorgestellten Modelle sind Werkzeuge auf diesem Weg – nicht perfekt, aber unendlich besser als intuitive Annahmen oder eindimensionale Ansätze.
+Ihre konsequente Anwendung kann den Unterschied machen zwischen Datenschutz, der nur auf dem Papier existiert, und solchem, der im echten Leben funktioniert.
 
 ## Von der Psychologie zum Recht: Implikationen für die Regulierung
 
-Die vorgestellten integrativen Modelle zeigen: Menschliches Datenschutzverhalten ist komplex und multifaktoriell. Diese Erkenntnisse können nicht ignoriert werden, wenn Recht wirksam sein soll. Das **[Privacy Paradox]**, die Grenzen der **[Bounded Rationality]**, die Macht unbewusster **[System 1/System 2]**-Prozesse – all diese psychologischen Realitäten müssen sich in der rechtlichen Architektur widerspiegeln.
+Die vorgestellten integrativen Modelle zeigen: Menschliches Datenschutzverhalten ist komplex und multifaktoriell.
+Diese Erkenntnisse können nicht ignoriert werden, wenn Recht wirksam sein soll.
+Das **[Privacy Paradox]**, die Grenzen der **[Bounded Rationality]**, die Macht unbewusster **[System 1/System 2]**-Prozesse – all diese psychologischen Realitäten müssen sich in der rechtlichen Architektur widerspiegeln.
 
-Die Dual-Process-Modelle verdeutlichen dabei These 3: Wirksamer Datenschutz erfordert verhaltenspsychologisch fundierte Regulierung statt reiner Informationspflichten.
+Die Dual-Process-Modelle verdeutlichen dabei These 3:
+Wirksamer Datenschutz erfordert verhaltenspsychologisch fundierte Regulierung statt reiner Informationspflichten.
 
 **Warum Recht und Psychologie zusammengehören:**
 
@@ -551,21 +650,22 @@ Die Dual-Process-Modelle verdeutlichen dabei These 3: Wirksamer Datenschutz erfo
 
 2. **Compliance ist ein psychologischer Prozess**: Menschen folgen Gesetzen nicht automatisch. Verstehen, Akzeptieren und Umsetzen sind psychologische Vorgänge.
 
-3. **Regulierung formt Verhalten**: Gesetze verändern nicht nur was legal ist, sondern auch was normal erscheint – sie verschieben soziale Normen.
+3. **Regulierung formt Verhalten**: Gesetze verändern nicht nur, was legal ist, sondern auch, was normal erscheint. Sie verschieben soziale Normen.
 
 4. **Enforcement braucht Kooperation**: Datenschutzrecht ist nur durchsetzbar, wenn es psychologisch plausibel ist und gesellschaftliche Akzeptanz findet.
 
-Das nächste Kapitel wird zeigen, wie diese psychologischen Erkenntnisse — zusammengefasst im integrativen Rahmenmodell (These 20) — in die rechtliche Architektur des Datenschutzes übersetzt werden können. Und sollten. Dabei wird deutlich werden: Viele der identifizierten psychologischen Herausforderungen spiegeln sich in der Evolution und aktuellen Ausgestaltung des Datenschutzrechts wider — manchmal als bewusste Antwort, oft aber als blinder Fleck.
+Das nächste Kapitel wird zeigen, wie diese psychologischen Erkenntnisse, zusammengefasst im integrativen Rahmenmodell (These 20), in die rechtliche Architektur des Datenschutzes übersetzt werden können.
+Und sollten.
+Dabei wird deutlich, dass sich viele der identifizierten psychologischen Herausforderungen in der Evolution und aktuellen Ausgestaltung des Datenschutzrechts wiederfinden — manchmal als bewusste Antwort, oft aber als blinder Fleck.
 
 ### Kernthesen-Überblick: Kapitel 2.6
 
-**These 1** ✓✓ (Psychologische Barrieren): Im Privacy Calculus und Dual-Process-Modellen verdeutlicht
-**These 2** ✓✓ (Privacy Paradox): Durch TPB-Einstellungs-Verhaltens-Diskrepanz erklärt
-**These 3** ✓✓ (Verhaltenspsychologische Regulierung): Dual-Process-Grundlage für Regulierung
-**These 9** ✓ (Vertrauen): Als emotionale Komponente im integrativen Modell berücksichtigt
-**These 12** ○ (Vulnerable Gruppen): Persönlichkeitsfaktoren berücksichtigt
-**These 17** ✓ (Gesellschaftliche Normen): Subjektive Normen in TPB zentral
-**These 20** ✓✓ (Integratives Modell): Synthese-Rahmen als Ordnungsvorschlag
+**These 1** ✓✓ (Psychologische Barrieren): Im Privacy Calculus und Dual-Process-Modellen verdeutlicht **These 2** ✓✓ (Privacy Paradox):
+Durch TPB-Einstellungs-Verhaltens-Diskrepanz erklärt **These 3** ✓✓ (Verhaltenspsychologische Regulierung):
+Dual-Process-Grundlage für Regulierung **These 9** ✓ (Vertrauen):
+Als emotionale Komponente im integrativen Modell berücksichtigt **These 12** ○ (Vulnerable Gruppen):
+Persönlichkeitsfaktoren berücksichtigt **These 17** ✓ (Gesellschaftliche Normen):
+Subjektive Normen in TPB zentral **These 20** ✓✓ (Integratives Modell): Synthese-Rahmen als Ordnungsvorschlag
 
 → [Weiter zu Kapitel 3: Rechtliche Architektur des Datenschutzes](#kapitel-3-rechtliche-architektur-des-datenschutzes)
 

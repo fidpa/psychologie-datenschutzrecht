@@ -78,8 +78,8 @@ Statt: "Wir speichern Ihre Daten"
 Typisch: "Die Speicherung der personenbezogenen Daten erfolgt"
 
 Nominalisierungsquote (vgl. Groeben, 1982; Sweller, 1988):
-- Normale Sprache: 10-15%
-- Datenschutzerklärungen: 45-60%
+- Normale Sprache: 10-15 %
+- Datenschutzerklärungen: 45-60 %
 - Kognitive Belastung: erheblich erhöht
 
 **3. Schachtelsätze**:
@@ -157,9 +157,9 @@ Information wird besser behalten, wenn sie sowohl verbal als auch visuell kodier
 
 | Darstellungsform | Retention nach 3 Tagen |
 |------------------|-------------------------|
-| Nur Text | 10% |
-| Nur Bild | 35% |
-| Text + Bild | 65% |
+| Nur Text | 10 % |
+| Nur Bild | 35 % |
+| Text + Bild | 65 % |
 
 Anwendung auf Datenschutz:
 - Datenflüsse als Diagramme
@@ -285,10 +285,10 @@ Die dritte **Schicht** liefert vollständige juristische Details. Sie enthält a
 
 Studien zu geschichteten Datenschutzerklärungen (Cranor, 2012; Schaub et al., 2015) zeigen: Die erste Schicht erreicht den größten Teil der Nutzer mit kurzer Verweildauer und solider Verständnisrate. Weitergehende Schichten werden von immer weniger Nutzern gelesen, erreichen diese aber mit erheblich tieferem Verständnis. Traditionelle Erklärungen erreichen zwar alle Nutzer, erzielen aber die niedrigsten Verständniswerte.
 
-> **Infobox: Die 80-20-Regel der Datenschutz-Information**
-> **80% der Nutzer** brauchen nur **20% der Information**
-> **15% der Nutzer** wollen **60% der Information**
-> **5% der Nutzer** brauchen **100% der Information**
+> **Infobox: Die 80-20-Regel der Datenschutzinformation**
+> **80 % der Nutzer** brauchen nur **20 % der Information**
+> **15 % der Nutzer** wollen **60 % der Information**
+> **5 % der Nutzer** brauchen **100 % der Information**
 > 
 > Layered Notices bedienen alle Gruppen optimal.
 
@@ -547,7 +547,7 @@ Gemessen werden die **Task Completion Rate** (Erfolgsquote), **Time on Task** (b
 - Stress Indicators
 - Trust Metrics
 
-**4. A/B Testing in Production**:
+**4. A/B-Testing in Production**:
 Varianten testen für:
 - Verschiedene Layouts
 - Unterschiedliche Sprache
@@ -557,12 +557,12 @@ Varianten testen für:
 **Statistische Validierung**
 
 **Sample Size Berechnung** (Faustzahlen nach Nielsen, 1994, sowie Standard-Stichproben­formeln):
-Für 95% Konfidenz, 5% Fehlermarge:
+Für 95 % Konfidenz, 5 % Fehlermarge:
 - Qualitative Tests: 15-20 Nutzer
 - Quantitative Tests: 385+ Nutzer
-- A/B Tests: 1000+ pro Variante
+- A/B-Tests: 1000+ pro Variante
 
-Die **Erfolgsmetriken** definieren klare Ziele. Die **Comprehension Rate** soll über 70% liegen. Die **Task Success Rate** muss über 80% erreichen. Die **Time to Understanding** darf nicht über zwei Minuten dauern. Die **Voluntary Exploration** sollte über 30% betragen. Die **Return Rate** muss unter 10% bleiben.
+Die **Erfolgsmetriken** definieren klare Ziele. Die **Comprehension Rate** soll über 70 % liegen. Die **Task Success Rate** muss über 80 % erreichen. Die **Time to Understanding** darf nicht über zwei Minuten dauern. Die **Voluntary Exploration** sollte über 30 % betragen. Die **Return Rate** muss unter 10 % bleiben.
 
 > **Infobox: Die 5-User-Regel**
 > Jakob Nielsens Erkenntnis (Nielsen, 1994): 5 Nutzer finden den Großteil der Usability-Probleme

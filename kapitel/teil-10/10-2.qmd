@@ -17,25 +17,25 @@ Die Herausforderung ist struktureller Natur: Moderne KI-Systeme, insbesondere **
 
 ## 10.2.1 Was bedeutet "Verstehen" im KI-Kontext? {#10-2-1-was-bedeutet-verstehen-im-ki-kontext}
 
-Verstehen ist kein binärer Zustand, sondern ein Kontinuum mit multiplen Dimensionen. Die kognitive Psychologie unterscheidet verschiedene Ebenen des Verstehens, die im Kontext von KI-Erklärungen relevant werden. Diese Differenzierung ist essentiell, denn was Entwickler als "Erklärung" präsentieren und was Nutzer als "Verstehen" erleben, klaffen oft weit auseinander.
+Verstehen ist kein binärer Zustand, sondern ein Kontinuum mit multiplen Dimensionen. Die kognitive Psychologie unterscheidet verschiedene Ebenen des Verstehens, die im Kontext von KI-Erklärungen relevant werden. Diese Differenzierung ist essenziell, denn was Entwickler als "Erklärung" präsentieren und was Nutzer als "Verstehen" erleben, klaffen oft weit auseinander.
 
 Felix Hartmann erlebte diese Diskrepanz hautnah: "Ich präsentierte unserem Vorstand eine detaillierte SHAP-Analyse unseres Betrugerkennungsmodells. Farbkodierte Feature-Importance, Wasserfalldiagramme, sogar interaktive Visualisierungen. Nach 45 Minuten fragte der CEO: 'Aber woher weiß das System, dass das Betrug ist?' Ich realisierte: Wir reden völlig aneinander vorbei."
 
 Die Forschung identifiziert mehrere Verstehensebenen im KI-Kontext (← vgl. Kapitel 2.2 zu kognitiven Prozessen):
 
-**Funktionales Verstehen**: Die Fähigkeit, vorherzusagen, wie das System in verschiedenen Situationen reagieren wird. Dies erfordert kein tiefes technisches Verständnis, sondern die Entwicklung akkurater mentaler Modelle über Input-Output-Beziehungen. Studien zeigen, dass nur 23% der Nutzer diese Ebene erreichen (Nourani et al., 2019).
+**Funktionales Verstehen**: Die Fähigkeit, vorherzusagen, wie das System in verschiedenen Situationen reagieren wird. Dies erfordert kein tiefes technisches Verständnis, sondern die Entwicklung akkurater mentaler Modelle über Input-Output-Beziehungen. Studien zeigen, dass nur 23 % der Nutzer diese Ebene erreichen (Nourani et al., 2019).
 
 **Strukturelles Verstehen**: Das Erfassen der grundlegenden Architektur und Funktionsweise des Systems. Hier geht es um Konzepte wie "Das System vergleicht Muster" oder "Es gewichtet verschiedene Faktoren". Diese Abstraktionsebene ist für die meisten Nutzer zugänglicher als technische Details.
 
 **Kausales Verstehen**: Die Fähigkeit, Ursache-Wirkungs-Beziehungen in den Entscheidungen des Systems zu identifizieren. Dies ist besonders herausfordernd, da viele KI-Systeme Korrelationen nutzen, die keine kausalen Beziehungen darstellen.
 
-**Teleologisches Verstehen**: Das Verstehen der Ziele und Zwecke des Systems. Warum wurde es entwickelt? Welche Probleme soll es lösen? Diese Ebene ist oft vernachlässigt, aber für Vertrauensbildung essentiell.
+**Teleologisches Verstehen**: Das Verstehen der Ziele und Zwecke des Systems. Warum wurde es entwickelt? Welche Probleme soll es lösen? Diese Ebene ist oft vernachlässigt, aber für Vertrauensbildung essenziell.
 
 Die psychologische Forschung zeigt, dass Menschen unterschiedliche Verstehensstrategien anwenden, abhängig von ihrer Expertise und dem Kontext. Reder und Ritter (1992) unterscheiden zwischen *knowing that* (deklaratives Wissen) und *knowing how* (prozedurales Wissen). Im KI-Kontext dominiert oft der Wunsch nach deklarativem Wissen ("Warum diese Entscheidung?"), während prozedurales Wissen ("Wie nutze ich das System effektiv?") vernachlässigt wird.
 
 Ein zentrales Problem ist die **[Illusion des Verstehens]** (Rozenblit & Keil, 2002). Menschen überschätzen systematisch ihr Verständnis komplexer Systeme. Im KI-Kontext manifestiert sich dies als gefährliches Phänomen: Nutzer glauben nach oberflächlichen Erklärungen, das System verstanden zu haben, treffen aber auf Basis dieses Pseudo-Verständnisses kritische Entscheidungen.
 
-Prof. Krüger dokumentierte dieses Phänomen in einer Studie mit 500 Probanden: "Nach einer fünfminütigen Erklärung eines KI-basierten Diagnosesystems bewerteten 78% ihr Verständnis als 'gut' oder 'sehr gut'. Konfrontiert mit konkreten Verständnisfragen, konnten nur 19% grundlegende Funktionsprinzipien korrekt wiedergeben. Noch alarmierender: Die Selbstüberschätzung korrelierte positiv mit riskanten Entscheidungen basierend auf den KI-Empfehlungen."
+Prof. Krüger dokumentierte dieses Phänomen in einer Studie mit 500 Probanden: "Nach einer fünfminütigen Erklärung eines KI-basierten Diagnosesystems bewerteten 78 % ihr Verständnis als 'gut' oder 'sehr gut'. Konfrontiert mit konkreten Verständnisfragen, konnten nur 19 % grundlegende Funktionsprinzipien korrekt wiedergeben. Noch alarmierender: Die Selbstüberschätzung korrelierte positiv mit riskanten Entscheidungen basierend auf den KI-Empfehlungen."
 
 ### Wenn das Recht Verstehen fordert: EuGH zur algorithmischen Transparenz
 
@@ -74,7 +74,7 @@ Lisa Chen stieß bei der Implementierung eines erklärbaren KI-Systems auf diese
 > - **BERT-Vis**: Attention-Visualisierung für Sprachmodelle
 >
 > **Psychologische Herausforderungen:**
-> - **Information Overload**: Zu viele Details überfordern (Miller's 7±2)
+> - **Information Overload**: Zu viele Details überfordern (Millers 7±2)
 > - **Curse of Knowledge**: Technische Erklärungen setzen Expertise voraus
 > - **Confirmation Bias**: Nutzer suchen bestätigende Informationen
 > - **Illusion of Understanding**: Oberflächliche Erklärungen suggerieren Verständnis
@@ -87,16 +87,16 @@ Lisa Chen stieß bei der Implementierung eines erklärbaren KI-Systems auf diese
 
 Die Forschung identifiziert mehrere Mechanismen, durch die Erklärungstiefe zu kognitiver Überlastung führt:
 
-**[Information Overload]**: **[George Miller's 7±2]** gilt auch für KI-Erklärungen. Menschen können nur eine begrenzte Anzahl von Faktoren gleichzeitig berücksichtigen. Erklärungen, die dutzende Features auflisten, überfordern diese Kapazität systematisch.
+**[Information Overload]**: **[George Millers 7±2]** gilt auch für KI-Erklärungen. Menschen können nur eine begrenzte Anzahl von Faktoren gleichzeitig berücksichtigen. Erklärungen, die dutzende Features auflisten, überfordern diese Kapazität systematisch.
 
 **[Curse of Knowledge] im Verstehen**: Während KI-Systeme problemlos in hochdimensionalen Räumen operieren, ist menschliche Kognition auf maximal drei bis vier Dimensionen limitiert. Der Versuch, 50-dimensionale Entscheidungsräume zu visualisieren oder zu erklären, scheitert an dieser kognitiven Grenze.
 
 **Expertise Paradox**: Detaillierte technische Erklärungen setzen Expertise voraus, die sie eigentlich vermitteln sollen. Ein Teufelskreis: Um die Erklärung zu verstehen, müsste man bereits verstehen, was erklärt wird.
 
 Eine Studie von Poursabzi-Sangdeh et al. (2021) demonstrierte diese Effekte eindrücklich. Probanden erhielten unterschiedlich detaillierte Erklärungen für Immobilienpreisvorhersagen:
-- Einfach (3 Hauptfaktoren): 73% korrektes Verständnis, 89% Zufriedenheit
-- Mittel (10 Faktoren): 52% korrektes Verständnis, 71% Zufriedenheit  
-- Komplex (alle 50 Faktoren): 21% korrektes Verständnis, 34% Zufriedenheit
+- Einfach (3 Hauptfaktoren): 73 % korrektes Verständnis, 89 % Zufriedenheit
+- Mittel (10 Faktoren): 52 % korrektes Verständnis, 71 % Zufriedenheit  
+- Komplex (alle 50 Faktoren): 21 % korrektes Verständnis, 34 % Zufriedenheit
 
 Paradoxerweise stieg das Vertrauen in das System mit der Komplexität der Erklärung, während das tatsächliche Verständnis sank – ein gefährliches Muster.
 
@@ -106,7 +106,7 @@ Die optimale Erklärungstiefe variiert mit mehreren Faktoren:
 
 **Entscheidungskontext**: Hochrisiko-Entscheidungen erfordern tiefere Erklärungen als Routine-Entscheidungen. Die Herausforderung liegt in der dynamischen Anpassung der Erklärungstiefe.
 
-**Zeitdruck**: Unter Zeitdruck sinkt die Verarbeitungskapazität stark. Erklärungen müssen sich anpassen – von detailliert in ruhigen Momenten zu essentiell unter Stress.
+**Zeitdruck**: Unter Zeitdruck sinkt die Verarbeitungskapazität stark. Erklärungen müssen sich anpassen – von detailliert in ruhigen Momenten zu essenziell unter Stress.
 
 Erfolgreiche Strategien zur Balancierung von Tiefe und Verständlichkeit:
 
@@ -135,24 +135,24 @@ Empirische Studien zur Wirksamkeit verschiedener Visualisierungsansätze (Lage e
 **Feature Importance Visualisierungen** (Balkendiagramme, die die Wichtigkeit verschiedener Eingabevariablen zeigen):
 - Vorteile: Einfach zu verstehen, klare Hierarchie
 - Nachteile: Suggerieren lineare, additive Beziehungen; ignorieren Interaktionen
-- Verständnisrate: 67% korrekte Interpretation bei Laien
+- Verständnisrate: 67 % korrekte Interpretation bei Laien
 
 **Heatmaps und Saliency Maps** (farbkodierte Überlagerungen, die wichtige Bildbereiche hervorheben):
 - Vorteile: Intuitiv für bildbasierte KI-Systeme, natürliche Aufmerksamkeitslenkung
 - Nachteile: Nur für visuelle Daten anwendbar, Gefahr der Überinterpretation
-- Verständnisrate: 71% bei Bildern, 23% bei abstrakten Daten
+- Verständnisrate: 71 % bei Bildern, 23 % bei abstrakten Daten
 
 **Entscheidungsbäume und Regelvisualisierungen**:
 - Vorteile: Entsprechen menschlicher Wenn-Dann-Logik
 - Nachteile: Werden schnell unübersichtlich, suggerieren diskrete Entscheidungen
-- Verständnisrate: 83% bei <5 Knoten, 31% bei >20 Knoten
+- Verständnisrate: 83 % bei <5 Knoten, 31 % bei >20 Knoten
 
 **Interaktive Visualisierungen**:
 - Vorteile: Ermöglichen Exploration, fördern Engagement
 - Nachteile: Erfordern Motivation und Zeit, können überfordern
-- Verständnisrate: 89% bei geführter Interaktion, 43% bei freier Exploration
+- Verständnisrate: 89 % bei geführter Interaktion, 43 % bei freier Exploration
 
-Dr. Annika Sommer entwickelte für ihr Klinikum einen mehrstufigen Visualisierungsansatz: "Wir starten mit einer Ampel-Metapher – rot, gelb, grün für Risikoeinschätzungen. Interessierte können dann in eine Waage-Visualisierung wechseln, die zeigt, welche Faktoren in welche Richtung 'ziehen'. Für Experten gibt es zusätzlich technische Visualisierungen. Diese Abstufung erreicht 85% Verständnisrate über alle Nutzergruppen."
+Dr. Annika Sommer entwickelte für ihr Klinikum einen mehrstufigen Visualisierungsansatz: "Wir starten mit einer Ampel-Metapher – rot, gelb, grün für Risikoeinschätzungen. Interessierte können dann in eine Waage-Visualisierung wechseln, die zeigt, welche Faktoren in welche Richtung 'ziehen'. Für Experten gibt es zusätzlich technische Visualisierungen. Diese Abstufung erreicht 85 % Verständnisrate über alle Nutzergruppen."
 
 Erfolgreiche Visualisierungsstrategien basieren auf psychologischen Prinzipien:
 
@@ -172,7 +172,7 @@ Felix Hartmann implementierte counterfactual Explanations in seinem Kreditvergab
 
 Die psychologische Kraft von Counterfactuals liegt in mehreren Mechanismen:
 
-**Kontrastives Denken**: Menschen verstehen durch Kontraste besser als durch absolute Aussagen. "Nicht X, sondern Y" ist kognitiv zugänglicher als isolierte Beschreibungen. Kahneman und Tversky's Forschung zur *Simulation Heuristic* zeigt, dass Menschen spontan Counterfactuals generieren, um Ereignisse zu verstehen.
+**Kontrastives Denken**: Menschen verstehen durch Kontraste besser als durch absolute Aussagen. "Nicht X, sondern Y" ist kognitiv zugänglicher als isolierte Beschreibungen. Kahneman und Tverskys Forschung zur *Simulation Heuristic* zeigt, dass Menschen spontan Counterfactuals generieren, um Ereignisse zu verstehen.
 
 **Handlungsorientierung**: Counterfactuals suggerieren Handlungsmöglichkeiten. Sie transformieren passive Ablehnung in aktive Optionen. Diese *Actionability* ist psychologisch ermächtigend und reduziert **[erlernte Hilflosigkeit]** (→ siehe Kapitel 7.2).
 
@@ -184,12 +184,12 @@ Die Forschung zeigt jedoch auch Grenzen und Gefahren von Counterfactual Explanat
 
 **Unrealistische Counterfactuals**: "Mit einem Doktortitel wäre der Job Ihrer gewesen" mag technisch korrekt sein, ist aber nicht actionable. Die psychologische Reaktion ist Frustration, nicht Ermächtigung.
 
-**Fairness-Illusionen**: Counterfactuals können unfaire Systeme fair erscheinen lassen. Wenn einem abgelehnten Bewerber gesagt wird, dass er mit einem anderen Postleitzahl akzeptiert worden wäre, verschleiert das möglicherweise diskriminierende Praktiken.
+**Fairness-Illusionen**: Counterfactuals können unfaire Systeme fair erscheinen lassen. Wenn einem abgelehnten Bewerber gesagt wird, dass er mit einer anderen Postleitzahl akzeptiert worden wäre, verschleiert das möglicherweise diskriminierende Praktiken.
 
 Prof. Krüger untersuchte die Wirkung verschiedener Counterfactual-Typen:
-- **Nearest Counterfactuals** (minimale Änderung): 82% Verständnis, 71% wahrgenommene Fairness
-- **Diverse Counterfactuals** (verschiedene Änderungspfade): 69% Verständnis, 83% wahrgenommene Fairness
-- **Aspirational Counterfactuals** (wünschenswerte Zielzustände): 91% Motivation, aber nur 54% realistisch
+- **Nearest Counterfactuals** (minimale Änderung): 82 % Verständnis, 71 % wahrgenommene Fairness
+- **Diverse Counterfactuals** (verschiedene Änderungspfade): 69 % Verständnis, 83 % wahrgenommene Fairness
+- **Aspirational Counterfactuals** (wünschenswerte Zielzustände): 91 % Motivation, aber nur 54 % realistisch
 
 Die Integration von Counterfactuals in mentale Modelle folgt bestimmten Mustern:
 
@@ -207,13 +207,13 @@ Erfolgreiche Implementierungen von Counterfactual Explanations berücksichtigen 
 
 **Interactive Counterfactual Exploration**: Systeme, die Nutzer eigene "Was wäre wenn"-Szenarien erkunden lassen, fördern tieferes Verständnis als vorgefertigte Counterfactuals.
 
-Lisa Chen's Team entwickelte ein innovatives Interface: "Nutzer können Schieberegler für verschiedene Faktoren bewegen und sehen in Echtzeit, wie sich die KI-Entscheidung ändert. Das ist wie ein Flugssimulator für KI-Entscheidungen. Die mentalen Modelle, die Nutzer dabei entwickeln, sind erstaunlich akkurat."
+Lisa Chens Team entwickelte ein innovatives Interface: "Nutzer können Schieberegler für verschiedene Faktoren bewegen und sehen in Echtzeit, wie sich die KI-Entscheidung ändert. Das ist wie ein Flugssimulator für KI-Entscheidungen. Die mentalen Modelle, die Nutzer dabei entwickeln, sind erstaunlich akkurat."
 
 ## 10.2.5 Diskriminierung und Bias: Psychologische Wahrnehmung {#10-2-5-diskriminierung-und-bias-psychologische-wahrnehmung}
 
 Die Wahrnehmung von Diskriminierung und Bias in KI-Systemen folgt eigenen psychologischen Gesetzmäßigkeiten, die sich oft von objektiven Bias-Metriken unterscheiden. Was technisch als "fair" gilt, kann psychologisch als hochgradig unfair wahrgenommen werden – und umgekehrt. Diese Diskrepanz ist nicht nur ein Kommunikationsproblem, sondern reflektiert tiefgreifende Unterschiede in der Konzeptualisierung von Fairness.
 
-Dr. Annika Sommer stand vor genau diesem Dilemma: "Unser Patientenpriorisierungssystem war nach allen technischen Metriken fair – gleiche False-Positive-Raten über alle demographischen Gruppen. Trotzdem gab es Aufschreie über Diskriminierung. Die Wahrnehmung war eine völlig andere als die Statistik."
+Dr. Annika Sommer stand vor genau diesem Dilemma: "Unser Patientenpriorisierungssystem war nach allen technischen Metriken fair – gleiche False-Positive-Raten über alle demografischen Gruppen. Trotzdem gab es Aufschreie über Diskriminierung. Die Wahrnehmung war eine völlig andere als die Statistik."
 
 Die psychologische Wahrnehmung von Bias wird durch mehrere Faktoren geprägt:
 
@@ -231,15 +231,15 @@ Die Forschung identifiziert verschiedene psychologische Mechanismen der Bias-Wah
 
 **Proxy-Sensitivität**: Menschen sind oft sensibler für Proxy-Diskriminierung als für direkte. Ein System, das Postleitzahl nutzt (was mit Ethnie korreliert), wird als diskriminierender wahrgenommen als eines, das Ethnie direkt (aber fair) berücksichtigt.
 
-Felix Hartmann analysierte die Bias-Wahrnehmung in seinem Kreditvergabesystem: "Wir entfernten alle demographischen Variablen, nutzten nur Finanzdaten. Trotzdem warfen uns Aktivisten Diskriminierung vor – die Finanzdaten korrelierten mit Demographie. Es gibt kein Entkommen aus diesem Dilemma."
+Felix Hartmann analysierte die Bias-Wahrnehmung in seinem Kreditvergabesystem: "Wir entfernten alle demografischen Variablen, nutzten nur Finanzdaten. Trotzdem warfen uns Aktivisten Diskriminierung vor – die Finanzdaten korrelierten mit Demografie. Es gibt kein Entkommen aus diesem Dilemma."
 
-Prof. Krüger's Forschung zur Bias-Kommunikation zeigt verschiedene Strategien und ihre Wirksamkeit:
+Prof. Krügers Forschung zur Bias-Kommunikation zeigt verschiedene Strategien und ihre Wirksamkeit:
 
-**Statistische Aufklärung**: Das Erklären technischer Fairness-Metriken erhöht Verständnis nur bei 31% der Nutzer, verbessert aber Fairness-Wahrnehmung nicht signifikant.
+**Statistische Aufklärung**: Das Erklären technischer Fairness-Metriken erhöht Verständnis nur bei 31 % der Nutzer, verbessert aber Fairness-Wahrnehmung nicht signifikant.
 
-**Narrative Erklärungen**: Geschichten über die Bemühungen, Bias zu reduzieren, erhöhen wahrgenommene Fairness um 47%, auch ohne technische Verbesserungen.
+**Narrative Erklärungen**: Geschichten über die Bemühungen, Bias zu reduzieren, erhöhen wahrgenommene Fairness um 47 %, auch ohne technische Verbesserungen.
 
-**Partizipative Bias-Definition**: Betroffene Gruppen in die Definition von Fairness einzubeziehen erhöht die Akzeptanz deutlich (78% vs. 34% bei Top-Down-Ansätzen).
+**Partizipative Bias-Definition**: Betroffene Gruppen in die Definition von Fairness einzubeziehen erhöht die Akzeptanz deutlich (78 % vs. 34 % bei Top-Down-Ansätzen).
 
 **Trade-off-Transparenz**: Das explizite Diskutieren unvermeidbarer Trade-offs zwischen verschiedenen Fairness-Definitionen erhöht Verständnis für die Komplexität und reduziert simplistische Bias-Vorwürfe.
 
@@ -260,7 +260,7 @@ Ein konkreter Lösungsansatz sind interaktive "Fairness Dashboards", die verschi
 Die psychologischen Aspekte erklärbarer KI haben weitreichende praktische Konsequenzen. Die Kluft zwischen technischer Erklärbarkeit und menschlichem Verstehen erfordert neue Ansätze von allen Beteiligten.
 
 **Für KI-Entwickler und Data Scientists:**
-Die technische Brillanz eines Erklärungsalgorithmus ist bedeutungslos, wenn Menschen ihn nicht verstehen können. Felix Hartmanns Erfahrungen sind lehrreich – selbst die ausgefeiltesten SHAP-Analysen verfehlen ihr Ziel, wenn sie nicht an menschliche Kognition angepasst sind. Entwickler müssen früh im Designprozess psychologische Faktoren berücksichtigen: Wie viel Information kann verarbeitet werden? Welche mentalen Modelle bringen Nutzer mit? Welche Visualisierungen resonieren wirklich? Die Integration von UX-Forschern und Kognitionspsychologen in Entwicklungsteams ist essentiell. A/B-Tests sollten nicht nur technische Performance, sondern auch Verständnismetriken umfassen. Besonders wichtig ist die Entwicklung adaptiver Erklärungssysteme, die sich an Nutzerexpertise und -kontext anpassen.
+Die technische Brillanz eines Erklärungsalgorithmus ist bedeutungslos, wenn Menschen ihn nicht verstehen können. Felix Hartmanns Erfahrungen sind lehrreich – selbst die ausgefeiltesten SHAP-Analysen verfehlen ihr Ziel, wenn sie nicht an menschliche Kognition angepasst sind. Entwickler müssen früh im Designprozess psychologische Faktoren berücksichtigen: Wie viel Information kann verarbeitet werden? Welche mentalen Modelle bringen Nutzer mit? Welche Visualisierungen resonieren wirklich? Die Integration von UX-Forschern und Kognitionspsychologen in Entwicklungsteams ist essenziell. A/B-Tests sollten nicht nur technische Performance, sondern auch Verständnismetriken umfassen. Besonders wichtig ist die Entwicklung adaptiver Erklärungssysteme, die sich an Nutzerexpertise und -kontext anpassen.
 
 **Für Unternehmen und Organisationen:**
 Erklärbare KI zu implementieren ist eine Investition in Vertrauen und Akzeptanz. Dr. Annika Sommers mehrstufiger Ansatz zeigt: One-size-fits-all funktioniert nicht. Unternehmen müssen in die Entwicklung zielgruppenspezifischer Erklärungsstrategien investieren. Dies erfordert nicht nur technische Ressourcen, sondern auch Schulungen für Mitarbeiter, die mit KI-Erklärungen arbeiten. Die Gefahr der Scheinprüfung durch kognitive Überlastung ist real – Qualitätssicherungsprozesse müssen dies berücksichtigen. Besonders kritisch ist die Kommunikation über Bias und Fairness. Transparenz über Bemühungen und Limitationen schafft mehr Vertrauen als Behauptungen perfekter Fairness.
@@ -269,7 +269,7 @@ Erklärbare KI zu implementieren ist eine Investition in Vertrauen und Akzeptanz
 Das "Recht auf Erklärung" in der [DSGVO] (→ siehe Kapitel 3.2) ist gut gemeint, aber psychologisch naiv. Regulierer müssen verstehen, dass mehr Transparenz nicht automatisch zu mehr Verständnis führt. Gesetze sollten nicht maximale, sondern optimale Erklärbarkeit fordern – angepasst an menschliche Verarbeitungskapazitäten. Die Förderung von Forschung zu verständlichen Erklärungsmethoden ist ebenso wichtig wie die Regulierung selbst. Standards für Erklärbarkeit sollten empirisch validiert werden: Verstehen echte Nutzer wirklich, was erklärt wird? Besonders wichtig ist die Berücksichtigung vulnerabler Gruppen – Erklärungen müssen auch für Menschen mit geringerer digitaler Literalität zugänglich sein.
 
 **Für Datenschutzbeauftragte:**
-Erklärbare KI erweitert das Aufgabenspektrum von DSBs erheblich. Zur Prüfung der Rechtmäßigkeit kommt die Bewertung der Verständlichkeit. Dies erfordert neue Kompetenzen: Wie teste ich, ob Erklärungen wirklich verstanden werden? Welche Visualisierungen sind angemessen? Wie balanciere ich Transparenz und kognitive Überlastung? DSBs müssen zu Advokaten nutzergerechter Erklärungen werden. Die Entwicklung von Checklisten und Best Practices für verschiedene Kontexte ist essentiell. Besonders wichtig ist die Sensibilisierung für die [Illusion des Verstehens] – nur weil Nutzer sagen, sie verstünden das System, heißt das nicht, dass sie es wirklich tun.
+Erklärbare KI erweitert das Aufgabenspektrum von DSBs erheblich. Zur Prüfung der Rechtmäßigkeit kommt die Bewertung der Verständlichkeit. Dies erfordert neue Kompetenzen: Wie teste ich, ob Erklärungen wirklich verstanden werden? Welche Visualisierungen sind angemessen? Wie balanciere ich Transparenz und kognitive Überlastung? DSBs müssen zu Advokaten nutzergerechter Erklärungen werden. Die Entwicklung von Checklisten und Best Practices für verschiedene Kontexte ist essenziell. Besonders wichtig ist die Sensibilisierung für die [Illusion des Verstehens] – nur weil Nutzer sagen, sie verstünden das System, heißt das nicht, dass sie es wirklich tun.
 
 **Für Nutzer und Zivilgesellschaft:**
 Das Bewusstsein für die eigenen kognitiven Grenzen ist der erste Schritt zu verantwortungsvollem Umgang mit KI-Erklärungen. Die [Illusion des Verstehens] ist gefährlich – Nutzer sollten kritisch hinterfragen, ob sie wirklich verstehen oder nur glauben zu verstehen. Zivilgesellschaftliche Organisationen können eine wichtige Rolle spielen, indem sie verständliche Erklärungen einfordern und Unternehmen zur Rechenschaft ziehen. Die Entwicklung von "Erklärbarkeits-Audits" analog zu Accessibility-Audits könnte Standards setzen. Besonders wichtig ist die Unterstützung vulnerabler Gruppen – nicht jeder hat die Ressourcen, komplexe KI-Erklärungen zu verstehen.
@@ -301,7 +301,7 @@ Diese Entwicklungen zeigen: Die psychologischen Prinzipien erklärbarer KI werde
 >
 > - **Technische Erklärbarkeit** ist nicht gleich **menschliches Verstehen** – die Kluft zwischen beiden ist erheblich
 > - **Cognitive Load** und **Illusion des Verstehens** sind zentrale Hürden für effektive KI-Erklärungen
-> - **Zielgruppenspezifische Erklärungen** sind essentiell – Experten und Laien brauchen unterschiedliche Ansätze
+> - **Zielgruppenspezifische Erklärungen** sind essenziell – Experten und Laien brauchen unterschiedliche Ansätze
 > - **Visualisierungen** können verstehen fördern, aber auch zu Fehlinterpretationen führen
 > - **Bias-Wahrnehmung** wird durch Transparenz komplex – mehr Information kann bestehende Vorurteile verstärken
 > - **Kontrafaktische Erklärungen** entsprechen menschlichen Denkmustern besser als statistische Analysen

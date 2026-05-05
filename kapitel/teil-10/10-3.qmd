@@ -53,7 +53,7 @@ Erfolgreiche Strategien zum Umgang mit **Anthropomorphisierung** erfordern bewus
 
 Nutzer müssen die Mechanismen hinter LLMs verstehen lernen. Prof. Krüger entwickelte entsprechendes Training: "Wir zeigen, wie LLMs funktionieren – Wahrscheinlichkeitsverteilungen, nicht Verständnis. Das hilft, die Magie zu entzaubern."
 
-Klare ethische Standards für LLM-Persönlichkeiten sind essentiell. Die Simulation von Emotionen oder persönlichen Backstories sollte streng reguliert werden. Dies gilt besonders in sensiblen Kontexten.
+Klare ethische Standards für LLM-Persönlichkeiten sind essenziell. Die Simulation von Emotionen oder persönlichen Backstories sollte streng reguliert werden. Dies gilt besonders in sensiblen Kontexten.
 
 ## 10.3.2 Datenschutz bei Trainingsdaten und Outputs {#10-3-2-datenschutz-bei-trainingsdaten-und-outputs}
 
@@ -65,7 +65,7 @@ Selbst wenn direkte Daten nicht extrahierbar sind, können LLMs indirekt sensibl
 
 Lisa Chen stieß auf diese Herausforderung, als ihr Team einen unternehmensinternen LLM implementierte: "Wir trainierten das Modell auf internen Dokumenten, um einen Wissensassistenten zu schaffen. In Tests gab es plötzlich Details aus vertraulichen Meetings wieder – teilweise wortwörtlich. Wir mussten komplett neu denken, wie wir mit Trainingsdaten umgehen."
 
-Die psychologischen Aspekte verschärfen diese technischen Probleme. Menschen glauben oft, sie hätten Kontrolle über ihre Daten bei LLM-Interaktionen. Die Realität ist anders: Jede Eingabe wird potentiell für weiteres Training genutzt. Diese Erkenntnis ist den wenigsten bewusst. Die **Kontrollillusion** führt zu sorglosem Teilen sensibler Informationen.
+Die psychologischen Aspekte verschärfen diese technischen Probleme. Menschen glauben oft, sie hätten Kontrolle über ihre Daten bei LLM-Interaktionen. Die Realität ist anders: Jede Eingabe wird potenziell für weiteres Training genutzt. Diese Erkenntnis ist den wenigsten bewusst. Die **Kontrollillusion** führt zu sorglosem Teilen sensibler Informationen.
 
 Das **Recht auf Vergessenwerden** (→ siehe Kapitel 6.2) kollidiert unversöhnlich mit der Architektur von LLMs. Einmal trainierte Information kann nicht chirurgisch entfernt werden. Das gesamte Modell müsste neu trainiert werden – ein Prozess, der Millionen kostet.
 
@@ -75,7 +75,7 @@ Prof. Krüger erforscht die psychologischen Reaktionen auf diese Datenschutzverl
 
 Mehrere Ansätze können den Datenschutz bei LLMs verbessern. **Differential Privacy** bietet mathematische Garantien durch gezieltes Rauschen in den Trainingsdaten. Allerdings entsteht ein Trade-off zwischen Privacy und Modellqualität. **Föderiertes Lernen** trainiert Modelle auf verteilten Daten ohne zentrale Sammlung. Für LLMs ist dies noch experimentell, zeigt aber Potenzial für Unternehmensanwendungen.
 
-Output-Filter und Guardrails prüfen Antworten auf potentielle Datenschutzverletzungen. Die Herausforderung liegt in der Balance zwischen Sicherheit und Nützlichkeit. Transparenz über Trainingsdaten ermöglicht informierte Entscheidungen. Nutzer sollten klar erfahren, welche Datenquellen verwendet wurden. Dies ermöglicht potentielle Opt-outs.
+Output-Filter und Guardrails prüfen Antworten auf potenzielle Datenschutzverletzungen. Die Herausforderung liegt in der Balance zwischen Sicherheit und Nützlichkeit. Transparenz über Trainingsdaten ermöglicht informierte Entscheidungen. Nutzer sollten klar erfahren, welche Datenquellen verwendet wurden. Dies ermöglicht potenzielle Opt-outs.
 
 **Weiterführende Kapitel:** → 2.5, → 6.1
 
@@ -103,7 +103,7 @@ Die psychologischen Konsequenzen von Halluzinationen sind erheblich:
 
 **Epistemische Vigilanz-Ermüdung**: Die ständige Notwendigkeit, LLM-Outputs zu verifizieren, erschöpft kognitive Ressourcen. Menschen verfallen in zwei dysfunktionale Muster: blindes Vertrauen oder komplette Ablehnung.
 
-**Realitäts-Erosion**: Wiederholte Exposition gegenüber plausiblen Falschinformationen kann die Grenze zwischen Fakt und Fiktion verwischen. Besonders vulnerabel sind Menschen mit geringer Medienkompetenz oder in informationally impoverished Umgebungen.
+**Realitätserosion**: Wiederholte Exposition gegenüber plausiblen Falschinformationen kann die Grenze zwischen Fakt und Fiktion verwischen. Besonders vulnerabel sind Menschen mit geringer Medienkompetenz oder in informationally impoverished Umgebungen.
 
 **Vertrauens-Kalibrierungs-Problem**: Menschen sind schlecht darin, ihr Vertrauen in LLMs situativ anzupassen. Sie generalisieren von positiven Erfahrungen in einem Bereich auf alle Bereiche – oder umgekehrt.
 
@@ -137,7 +137,7 @@ LLMs werden auf bestehenden Texten trainiert. Sie perpetuieren und verstärken d
 
 Die Fähigkeit von LLMs, überzeugende Texte zu jedem Thema zu generieren, untergräbt informierte demokratische Diskussion. Wenn jeder Standpunkt gleich eloquent vertreten werden kann, verliert Eloquenz als Qualitätssignal seine Funktion.
 
-Mehrere Strategien helfen beim Umgang mit diesen psychologischen Effekten. Analog zu Screen-Time-Limits brauchen wir Richtlinien für gesunde LLM-Interaktion. Pausen, Reflexionszeit und bewusste menschliche Interaktion sind essentiell.
+Mehrere Strategien helfen beim Umgang mit diesen psychologischen Effekten. Analog zu Screen-Time-Limits brauchen wir Richtlinien für gesunde LLM-Interaktion. Pausen, Reflexionszeit und bewusste menschliche Interaktion sind essenziell.
 
 Bildungsprogramme müssen über technisches Verständnis hinausgehen. Sie sollten psychologische Effekte thematisieren. Menschen müssen lernen, ihre eigenen Reaktionen auf KI zu verstehen und zu regulieren.
 
@@ -211,13 +211,13 @@ Gleichzeitig bieten sich Chancen. KI kann als Unterstützung (nicht Ersatz) für
 
 Die Aufgabe, junge Menschen auf eine Welt mit LLMs vorzubereiten, ist monumental. Curricula müssen über "KI-Literacy" hinausgehen. Sie sollten psychologische Resilienz gegenüber KI fördern. Schüler müssen lernen, ihre eigenen emotionalen Reaktionen auf KI zu verstehen und zu regulieren.
 
-Die Versuchung, Bildung an KI zu delegieren, muss gegen die Notwendigkeit menschlicher Entwicklung abgewogen werden. Kritisches Denken wird wichtiger denn je. In einer Welt, wo KI jeden Standpunkt eloquent vertreten kann, ist dies essentiell.
+Die Versuchung, Bildung an KI zu delegieren, muss gegen die Notwendigkeit menschlicher Entwicklung abgewogen werden. Kritisches Denken wird wichtiger denn je. In einer Welt, wo KI jeden Standpunkt eloquent vertreten kann, ist dies essenziell.
 
 Bildungseinrichtungen sollten auch Safe Spaces für KI-Experimente bieten. Junge Menschen können dort die Grenzen und Gefahren in kontrollierter Umgebung erfahren.
 
 Die gesellschaftlichen Implikationen von LLMs erfordern breite demokratische Diskussion. Die Gefahr der Realitätserosion durch halluzinierende KI-Systeme ist real. Die Möglichkeit massenhafter Manipulation und die psychologischen Effekte auf vulnerable Gruppen erfordern politische Antworten.
 
-Regulierung muss über technische Standards hinausgehen. Sie sollte psychologisches Wohlbefinden adressieren. Möglicherweise brauchen wir ein "Recht auf menschliche Interaktion". Limits für KI-Substitution in kritischen Bereichen könnten nötig sein. Die Förderung von Forschung zu psychologischen Effekten von KI-Systemen ist essentiell.
+Regulierung muss über technische Standards hinausgehen. Sie sollte psychologisches Wohlbefinden adressieren. Möglicherweise brauchen wir ein "Recht auf menschliche Interaktion". Limits für KI-Substitution in kritischen Bereichen könnten nötig sein. Die Förderung von Forschung zu psychologischen Effekten von KI-Systemen ist essenziell.
 
 Gesellschaftlich müssen wir diskutieren: Welche Rolle wollen wir KI-Systeme in unserem emotionalen und sozialen Leben zugestehen? Wie bewahren wir menschliche Authentizität in einer Welt perfekter Simulationen?
 
@@ -266,7 +266,7 @@ Die Lösung dieser Herausforderungen erfordert die systematische Anwendung der i
 >
 > **Praktische Implikationen:**
 > - Entwickler müssen psychologische Auswirkungen von Beginn an berücksichtigen
-> - Transparenz über KI-Natur und Limitationen ist essentiell
+> - Transparenz über KI-Natur und Limitationen ist essenziell
 > - Schutzmaßnahmen für vulnerable Gruppen sind erforderlich
 > - Neue Konzepte wie "Inferenz-Schutz" müssen entwickelt werden
 > - Gesellschaftliche Diskussion über KI-Rolle im emotionalen Leben ist nötig
