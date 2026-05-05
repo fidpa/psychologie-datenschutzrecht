@@ -9,83 +9,183 @@
 - [15.2.5 Generationenkonflikte produktiv nutzen](#15-2-5-generationenkonflikte-produktiv-nutzen)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
-Die digitale Revolution hat nicht alle Generationen gleich erfasst. Während manche mit Smartphones aufwuchsen, mussten andere sich mühsam in die digitale Welt einarbeiten. Diese unterschiedlichen Erfahrungen prägen unterschiedliche Vorstellungen von Privatheit, Öffentlichkeit und **[informationeller Selbstbestimmung]** (→ siehe Kapitel 3.1). Das Verständnis dieser Generationsunterschiede ist essenziell für wirksamen Datenschutz in einer heterogenen Gesellschaft.
+Die digitale Revolution hat nicht alle Generationen gleich erfasst.
+Während manche mit Smartphones aufwuchsen, mussten andere sich mühsam in die digitale Welt einarbeiten.
+Diese unterschiedlichen Erfahrungen prägen unterschiedliche Vorstellungen von Privatheit, Öffentlichkeit und **[informationeller Selbstbestimmung]** (→ siehe Kapitel 3.1).
+Das Verständnis dieser Generationsunterschiede ist essenziell für wirksamen Datenschutz in einer heterogenen Gesellschaft.
 
 ## 15.2.1 Digital Natives vs. Digital Immigrants {#15-2-1-digital-natives-vs-digital-immigrants}
 
-Marc Prensky prägte 2001 die Begriffe ***Digital Natives*** und ***Digital Immigrants***. Diese beschreiben markante Unterschiede im Umgang mit digitalen Technologien. Auch wenn diese Dichotomie inzwischen differenzierter betrachtet wird, bietet sie einen nützlichen Ausgangspunkt. Sie ermöglicht die Analyse generationsspezifischer Privatheitskonzepte.
+Marc Prensky prägte 2001 die Begriffe ***Digital Natives*** und ***Digital Immigrants***.
+Diese beschreiben markante Unterschiede im Umgang mit digitalen Technologien.
+Auch wenn diese Dichotomie inzwischen differenzierter betrachtet wird, bietet sie einen nützlichen Ausgangspunkt.
+Sie ermöglicht die Analyse generationsspezifischer Privatheitskonzepte.
 
-**Digital Natives** sind grob die nach 1980 Geborenen. Sie wuchsen in einer zunehmend vernetzten Welt auf. Für sie ist die Trennung zwischen online und offline oft künstlich. Boyd (2014) dokumentierte in ihrer ethnografischen Studie ein wichtiges Phänomen. Jugendliche verstehen soziale Medien als natürliche Erweiterung ihres sozialen Raums. Sie sehen sie nicht als separate Sphäre.
+**Digital Natives** sind grob die nach 1980 Geborenen.
+Sie wuchsen in einer zunehmend vernetzten Welt auf.
+Für sie ist die Trennung zwischen online und offline oft künstlich.
+Boyd (2014) dokumentierte in ihrer ethnografischen Studie ein wichtiges Phänomen.
+Jugendliche verstehen soziale Medien als natürliche Erweiterung ihres sozialen Raums.
+Sie sehen sie nicht als separate Sphäre.
 
-Felix Hartmann ist mit 29 Jahren ein typischer Digital Native. Er reflektiert: "Für mich war das Internet nie ein 'Cyberspace'. Es war einfach da, wie Elektrizität oder fließendes Wasser." Diese Selbstverständlichkeit prägt sein Verhältnis zu Daten. Privatheit definiert er nicht durch Geheimhaltung, sondern durch **[Kontextkontrolle]**. Dieses Konzept beschreibt Nissenbaum (2009) als **[kontextuelle Integrität]** (→ siehe Kapitel 3.1).
+Felix Hartmann ist mit 29 Jahren ein typischer Digital Native.
+Er reflektiert: "Für mich war das Internet nie ein 'Cyberspace'. Es war einfach da, wie Elektrizität oder fließendes Wasser."
+Diese Selbstverständlichkeit prägt sein Verhältnis zu Daten.
+Privatheit definiert er nicht durch Geheimhaltung, sondern durch **[Kontextkontrolle]**.
+Dieses Konzept beschreibt Nissenbaum (2009) als **[kontextuelle Integrität]** (→ siehe Kapitel 3.1).
 
-**Digital Immigrants** hingegen erlebten den Übergang von analog zu digital bewusst. Dr. Annika Sommer, Jahrgang 1982, steht an der Schwelle. Sie erklärt: "Ich hatte meine ersten E-Mail-Adressen mit 16. Mein erstes Handy bekam ich mit 18. Die Digitalisierung war für mich ein Prozess, keine Gegebenheit." Diese Erfahrung des Übergangs schärft oft das Bewusstsein. Sie sensibilisiert für Veränderungen und Risiken.
+**Digital Immigrants** hingegen erlebten den Übergang von analog zu digital bewusst.
+Dr. Annika Sommer, Jahrgang 1982, steht an der Schwelle.
+Sie erklärt: "Ich hatte meine ersten E-Mail-Adressen mit 16. Mein erstes Handy bekam ich mit 18. Die Digitalisierung war für mich ein Prozess, keine Gegebenheit."
+Diese Erfahrung des Übergangs schärft oft das Bewusstsein.
+Sie sensibilisiert für Veränderungen und Risiken.
 
 Die Unterschiede manifestieren sich in konkreten Verhaltensweisen:
 
-**Informationsverhalten**: Forschungsergebnisse deuten darauf hin, dass jüngere Nutzer durchschnittlich mehr persönliche Informationen online teilen als ältere (Hargittai & Marwick, 2016). Jedoch, und das ist entscheidend, nutzen sie auch sophistiziertere Strategien zur Publikumskontrolle. Sie teilen bewusst verschiedene Aspekte ihrer Identität auf verschiedenen Plattformen.
+**Informationsverhalten**: Forschungsergebnisse deuten darauf hin,
+dass jüngere Nutzer durchschnittlich mehr persönliche Informationen online teilen als ältere (Hargittai & Marwick, 2016).
+Jedoch, und das ist entscheidend, nutzen sie auch sophistiziertere Strategien zur Publikumskontrolle.
+Sie teilen bewusst verschiedene Aspekte ihrer Identität auf verschiedenen Plattformen.
 
-**Risikowahrnehmung**: Ältere Generationen fokussieren oft auf Datenmissbrauch durch Kriminelle oder Unternehmen. Jüngere sorgen sich primär um soziale Risiken – peinliche Fotos, Mobbing, Reputationsschäden (Madden et al., 2013). Diese unterschiedlichen Bedrohungsmodelle führen zu verschiedenen Schutzstrategien.
+**Risikowahrnehmung**: Ältere Generationen fokussieren oft auf Datenmissbrauch durch Kriminelle oder Unternehmen.
+Jüngere sorgen sich primär um soziale Risiken – peinliche Fotos, Mobbing, Reputationsschäden (Madden et al., 2013).
+Diese unterschiedlichen Bedrohungsmodelle führen zu verschiedenen Schutzstrategien.
 
-**Vertrauensmuster**: Digital Natives zeigen höheres Systemvertrauen bei gleichzeitig niedrigerem interpersonalem Vertrauen online. Sie vertrauen der Technik, misstrauen aber anderen Nutzern. Bei Digital Immigrants verhält es sich oft umgekehrt (Blank & Dutton, 2012).
+**Vertrauensmuster**: Digital Natives zeigen höheres Systemvertrauen bei gleichzeitig niedrigerem interpersonalem Vertrauen online.
+Sie vertrauen der Technik, misstrauen aber anderen Nutzern.
+Bei Digital Immigrants verhält es sich oft umgekehrt (Blank & Dutton, 2012).
 
 ### Multidimensionale digitale Sozialisation
 
-Die Forschung zeigt: Die Native/Immigrant-Metapher ist zu simpel. Was sich tatsächlich beobachten lässt, ist ein Kontinuum digitaler Sozialisation mit multiplen Einflussfaktoren — fünf Dimensionen, die gemeinsam das Bild prägen. Das **Zugangsalter** bestimmt, wann intensive Internetnutzung begann. Die **Nutzungsintensität** umfasst die täglichen Online-Stunden. Die **Plattformvielfalt** zeigt, wie viele verschiedene Dienste genutzt werden. **Digitale Kompetenz** beschreibt technisches Verständnis und Problemlösefähigkeit. **Kritische Reflexion** umfasst das Bewusstsein für Risiken und Mechanismen.
+Die Forschung zeigt: Die Native/Immigrant-Metapher ist zu simpel.
+Was sich tatsächlich beobachten lässt, ist ein Kontinuum digitaler Sozialisation mit multiplen Einflussfaktoren — fünf Dimensionen, die gemeinsam das Bild prägen.
+Das **Zugangsalter** bestimmt, wann intensive Internetnutzung begann.
+Die **Nutzungsintensität** umfasst die täglichen Online-Stunden.
+Die **Plattformvielfalt** zeigt, wie viele verschiedene Dienste genutzt werden.
+**Digitale Kompetenz** beschreibt technisches Verständnis und Problemlösefähigkeit.
+**Kritische Reflexion** umfasst das Bewusstsein für Risiken und Mechanismen.
 
-Diese Multidimensionalität erklärt wichtige Phänomene. Manche 60-Jährige gehen versierter mit Datenschutztools um als manche 20-Jährige. Generationszugehörigkeit ist nur ein Faktor unter vielen.
+Diese Multidimensionalität erklärt wichtige Phänomene.
+Manche 60-Jährige gehen versierter mit Datenschutztools um als manche 20-Jährige.
+Generationszugehörigkeit ist nur ein Faktor unter vielen.
 
 ## 15.2.2 Privatheit als generationsspezifisches Konstrukt {#15-2-2-privatheit-als-generationsspezifisches-konstrukt}
 
-Das Konzept der Privatheit selbst unterliegt historischem Wandel. Was eine Generation als schützenswert erachtet, mag für eine andere belanglos oder sogar hinderlich erscheinen. Diese Evolution des Privatheitsverständnisses folgt gesellschaftlichen und technologischen Entwicklungen.
+Das Konzept der Privatheit selbst unterliegt historischem Wandel.
+Was eine Generation als schützenswert erachtet, mag für eine andere belanglos oder sogar hinderlich erscheinen.
+Diese Evolution des Privatheitsverständnisses folgt gesellschaftlichen und technologischen Entwicklungen.
 
 > **Infobox: Generationsspezifische Privatheitskonzepte**
 >
 > Jede Generation entwickelt ihr eigenes Verständnis von Privatheit basierend auf den prägenden Technologien ihrer Jugend. Diese Konzepte sind nicht besser oder schlechter, sondern spiegeln unterschiedliche historische Kontexte wider.
 
-**Die Vorkriegsgeneration** (vor 1945 geboren) erlebte Privatheit primär als räumliches Konzept. Die eigenen vier Wände, der verschlossene Brief, das persönliche Gespräch unter vier Augen – diese physischen Metaphern prägen ihr Verständnis bis heute. Für sie bedeutet Datenschutz oft, möglichst wenig digital zu erfassen.
+**Die Vorkriegsgeneration** (vor 1945 geboren) erlebte Privatheit primär als räumliches Konzept.
+Die eigenen vier Wände, der verschlossene Brief, das persönliche Gespräch unter vier Augen – diese physischen Metaphern prägen ihr Verständnis bis heute.
+Für sie bedeutet Datenschutz oft, möglichst wenig digital zu erfassen.
 
-**Baby Boomer** (1946-1964) wuchsen mit dem Aufstieg der Massenmedien auf. Sie erlebten, wie Prominente ihre Privatheit verloren, entwickelten aber auch ein Bewusstsein für mediale Selbstdarstellung. Goffmans (1959) Konzept der **[Selbstpräsentation]** resoniert stark mit dieser Generation. Privatheit bedeutet für sie oft die Kontrolle über das öffentliche Image.
+**Baby Boomer** (1946-1964) wuchsen mit dem Aufstieg der Massenmedien auf.
+Sie erlebten, wie Prominente ihre Privatheit verloren, entwickelten aber auch ein Bewusstsein für mediale Selbstdarstellung.
+Goffmans (1959) Konzept der **[Selbstpräsentation]** resoniert stark mit dieser Generation.
+Privatheit bedeutet für sie oft die Kontrolle über das öffentliche Image.
 
-**Generation X** (1965-1979) kam während der Computerrevolution ins Erwachsenenalter. Sie erlebte die ersten Datenskandale, die Kommerzialisierung des Internets und den Aufstieg der Überwachungstechnologien. Als besonders charakteristisch gilt die bewusste Kompartmentalisierung: strikte Trennung zwischen beruflichem und privatem Online-Verhalten, differenzierter Umgang mit verschiedenen Plattformen nach Vertrauensniveau. Diese Strategie, die Kontrolle durch Begrenzung sucht, spiegelt die skeptisch-pragmatische Sozialisation dieser Generation wider (Strauss & Howe, 1991).
+**Generation X** (1965-1979) kam während der Computerrevolution ins Erwachsenenalter.
+Sie erlebte die ersten Datenskandale, die Kommerzialisierung des Internets und den Aufstieg der Überwachungstechnologien.
+Als besonders charakteristisch gilt die bewusste Kompartmentalisierung:
+strikte Trennung zwischen beruflichem und privatem Online-Verhalten, differenzierter Umgang mit verschiedenen Plattformen nach Vertrauensniveau.
+Diese Strategie, die Kontrolle durch Begrenzung sucht, spiegelt die skeptisch-pragmatische Sozialisation dieser Generation wider (Strauss & Howe, 1991).
 
-**Millennials/Generation Y** (1980-1995) revolutionierten das Privatheitsverständnis. Für sie ist *Sharing* oft der Default, Geheimhaltung die Ausnahme. Doch wie Marwick und boyd (2014) zeigen, bedeutet dies nicht Privatheitsverzicht. Vielmehr entwickelten sie neue Strategien: Codierte Kommunikation, temporäre Inhalte (Snapchat), multiple Identitäten.
+**Millennials/Generation Y** (1980-1995) revolutionierten das Privatheitsverständnis.
+Für sie ist *Sharing* oft der Default, Geheimhaltung die Ausnahme.
+Doch wie Marwick und boyd (2014) zeigen, bedeutet dies nicht Privatheitsverzicht.
+Vielmehr entwickelten sie neue Strategien: Codierte Kommunikation, temporäre Inhalte (Snapchat), multiple Identitäten.
 
-Diese generationellen Unterschiede lassen sich auch durch kognitive Mechanismen erklären. Kahneman (2011) beschreibt, wie intuitives System-1-Denken unser Verhalten dominiert, und die Privatheitsdefaults verschiedener Generationen sind tief in frühen digitalen Erfahrungen verwurzelt. Was für die Vorkriegsgeneration automatisch als privat gilt — der verschlossene Brief — ist für Gen Y kein besonderes Schutzgut; umgekehrt erscheint das spontane Instagram-Posting der Jüngeren der Großelterngeneration als leichtfertige Preisgabe. Diese unterschiedlichen mentalen Modelle operieren weitgehend unbewusst und entziehen sich einfachen rationalen Begründungen. Wer in Datenschutzkommunikation und -schulung generationell sensibel vorgehen will, muss diese System-1-Ebene adressieren — und Privatheitskonzepte nicht nur erklären, sondern in vertrauten Lebenswelten verankern.
+Diese generationellen Unterschiede lassen sich auch durch kognitive Mechanismen erklären.
+Kahneman (2011) beschreibt, wie intuitives System-1-Denken unser Verhalten dominiert, und die Privatheitsdefaults verschiedener Generationen sind tief in frühen digitalen Erfahrungen verwurzelt.
+Was für die Vorkriegsgeneration automatisch als privat gilt — der verschlossene Brief — ist für Gen Y kein besonderes Schutzgut;
+umgekehrt erscheint das spontane Instagram-Posting der Jüngeren der Großelterngeneration als leichtfertige Preisgabe.
+Diese unterschiedlichen mentalen Modelle operieren weitgehend unbewusst und entziehen sich einfachen rationalen Begründungen.
+Wer in Datenschutzkommunikation und -schulung generationell sensibel vorgehen will, muss diese System-1-Ebene adressieren — und Privatheitskonzepte nicht nur erklären, sondern in vertrauten Lebenswelten verankern.
 
-**Generation Z** (1996-2010) wächst in einer Welt permanenter Vernetzung auf. Für sie verschwimmen online und offline vollständig. Privatheit definieren sie über Algorithmen und **[Filter Bubbles]** – wer sieht was, wann und in welchem Kontext? Eine Studie von Ranzini et al. (2020) zeigt, dass Gen Z Privatheit primär als **kuratierte Authentizität** versteht.
+**Generation Z** (1996-2010) wächst in einer Welt permanenter Vernetzung auf.
+Für sie verschwimmen online und offline vollständig.
+Privatheit definieren sie über Algorithmen und **[Filter Bubbles]** – wer sieht was, wann und in welchem Kontext?
+Eine Studie von Ranzini et al. (2020) zeigt, dass Gen Z Privatheit primär als **kuratierte Authentizität** versteht.
 
-Der Überdruss gegenüber KI-generierten Inhalten, der unter dem Begriff AI Slop diskutiert wird (→ 10.3), erweist sich dabei als generationsübergreifendes Phänomen. Ob Babyboomer, Generation X oder Gen Z: Die Sehnsucht nach authentischer menschlicher Kommunikation verbindet alle Generationen, auch wenn sie unterschiedliche Strategien entwickeln, um Authentizität herzustellen und zu bewahren.
+Der Überdruss gegenüber KI-generierten Inhalten, der unter dem Begriff AI Slop diskutiert wird (→ 10.3), erweist sich dabei als generationsübergreifendes Phänomen.
+Ob Babyboomer, Generation X oder Gen Z:
+Die Sehnsucht nach authentischer menschlicher Kommunikation verbindet alle Generationen, auch wenn sie unterschiedliche Strategien entwickeln, um Authentizität herzustellen und zu bewahren.
 
 Diese generationsspezifischen Konzepte haben konkrete Auswirkungen:
 
-**Einwilligungsverhalten**: Ältere Generationen lesen eher Datenschutzerklärungen (wenn auch selten vollständig). Jüngere klicken schneller "Akzeptieren", verlassen sich aber auf technische Schutzmaßnahmen wie Ad-Blocker oder VPNs (Eurobarometer, 2019).
+**Einwilligungsverhalten**: Ältere Generationen lesen eher Datenschutzerklärungen (wenn auch selten vollständig).
+Jüngere klicken schneller "Akzeptieren", verlassen sich aber auf technische Schutzmaßnahmen wie Ad-Blocker oder VPNs (Eurobarometer, 2019).
 
-**Kommunikationskanäle**: Während Boomer E-Mail als privat empfinden, sehen Millennials es als formell und öffentlich. Gen Z bevorzugt ephemere Messaging-Apps. Diese Präferenzen spiegeln unterschiedliche Privatheitsmodelle wider — ein Befund, den das Eurobarometer (2019) auf europäischer Ebene bestätigt.
+**Kommunikationskanäle**: Während Boomer E-Mail als privat empfinden, sehen Millennials es als formell und öffentlich.
+Gen Z bevorzugt ephemere Messaging-Apps.
+Diese Präferenzen spiegeln unterschiedliche Privatheitsmodelle wider — ein Befund, den das Eurobarometer (2019) auf europäischer Ebene bestätigt.
 
-**Datensparsamkeit**: Das Prinzip der **[Datensparsamkeit]** (→ siehe Kapitel 3.3) resoniert stark mit älteren Generationen. Jüngere interpretieren es anders: Nicht weniger Daten, sondern bessere Kontrolle über Datenflüsse.
+**Datensparsamkeit**: Das Prinzip der **[Datensparsamkeit]** (→ siehe Kapitel 3.3) resoniert stark mit älteren Generationen.
+Jüngere interpretieren es anders: Nicht weniger Daten, sondern bessere Kontrolle über Datenflüsse.
 
 ## 15.2.3 Intergenerationaler Wissenstransfer {#15-2-3-intergenerationaler-wissenstransfer}
 
-Der Austausch zwischen Generationen bietet enormes Potenzial für verbesserten Datenschutz. Doch dieser Transfer erfolgt nicht automatisch. Er muss aktiv gestaltet werden.
+Der Austausch zwischen Generationen bietet enormes Potenzial für verbesserten Datenschutz.
+Doch dieser Transfer erfolgt nicht automatisch.
+Er muss aktiv gestaltet werden.
 
-**Traditionelle Wissensweitergabe**, von Alt zu Jung, funktioniert bei digitalen Themen nur bedingt. Oft sind jüngere Familienmitglieder technisch versierter. Dies führt zu einer **Umkehr der Wissenshierarchie**, die psychologisch herausfordernd sein kann. Wer jahrzehntelang als Wissender agiert hat, fällt nicht leicht in die Rolle des Lernenden — besonders dann, wenn die Lehrende die eigene Enkelin ist.
+**Traditionelle Wissensweitergabe**, von Alt zu Jung, funktioniert bei digitalen Themen nur bedingt.
+Oft sind jüngere Familienmitglieder technisch versierter.
+Dies führt zu einer **Umkehr der Wissenshierarchie**, die psychologisch herausfordernd sein kann.
+Wer jahrzehntelang als Wissender agiert hat, fällt nicht leicht in die Rolle des Lernenden — besonders dann, wenn die Lehrende die eigene Enkelin ist.
 
-Dr. Annika Sommer berichtet aus ihrer Beratungspraxis: „Ich erlebe oft Großeltern, die sich schämen, ihre Enkel um Hilfe beim Smartphone zu bitten. Diese Scham blockiert wichtigen Wissenstransfer." Ihre Lösung: intergenerationale Workshops, in denen beide Seiten Expertise einbringen. In diesen Settings bringt die jüngere Generation technische Fertigkeiten und Plattform-Know-how ein, während die ältere Generation historisches Bewusstsein, institutionelle Erfahrung und ein geschärftes Sensorium für autoritäre Kontrollmechanismen beisteuert. Aus diesem Wechselspiel entstehen Lernsettings, die rein vermittelnde oder rein belehrende Formate nicht erreichen können.
+Dr. Annika Sommer berichtet aus ihrer Beratungspraxis:
+„Ich erlebe oft Großeltern, die sich schämen, ihre Enkel um Hilfe beim Smartphone zu bitten. Diese Scham blockiert wichtigen Wissenstransfer."
+Ihre Lösung: intergenerationale Workshops, in denen beide Seiten Expertise einbringen.
+In diesen Settings bringt die jüngere Generation technische Fertigkeiten und Plattform-Know-how ein,
+während die ältere Generation historisches Bewusstsein, institutionelle Erfahrung und ein geschärftes Sensorium für autoritäre Kontrollmechanismen beisteuert.
+Aus diesem Wechselspiel entstehen Lernsettings, die rein vermittelnde oder rein belehrende Formate nicht erreichen können.
 
-Die Forschung unterscheidet drei komplementäre Transfermodi. **Reverse Mentoring** beschreibt das Lernen Älterer von Jüngeren: Gen Z erklärt Privacy-Einstellungen, Millennials demonstrieren sichere Passwort-Manager. Diese Umkehrung traditioneller Lernhierarchien ist produktiv, verlangt jedoch von beiden Seiten Vertrauensbereitschaft. **Erfahrungstransfer** funktioniert in die entgegengesetzte Richtung und ist in seiner Tiefe oft unterschätzt: Ältere Generationen erinnern an Zeiten ohne permanente Überwachung, kennen totalitäre Kontexte und besitzen eine historisch gewachsene Sensibilität für die Gefahren, die mit zentralisierter Datenmacht einhergehen. Dieses Wissen lässt sich nicht googeln. **Co-Learning** schließlich überwindet die Richtungslogik beider Vorgänger: Großeltern und Enkel erkunden neue Technologien gemeinsam, ohne dass eine Seite die Rolle des Wissensvermittlers übernimmt. Bandura (1977) beschreibt in seiner Theorie des sozialen Lernens, wie Menschen durch Beobachtung und gemeinsames Handeln lernen — ein Prinzip, das bei diesen bidirektionalen Austauschformaten unmittelbar greift und die Nachhaltigkeit des Transfers wesentlich erhöht.
+Die Forschung unterscheidet drei komplementäre Transfermodi.
+**Reverse Mentoring** beschreibt das Lernen Älterer von Jüngeren:
+Gen Z erklärt Privacy-Einstellungen, Millennials demonstrieren sichere Passwort-Manager.
+Diese Umkehrung traditioneller Lernhierarchien ist produktiv, verlangt jedoch von beiden Seiten Vertrauensbereitschaft.
+**Erfahrungstransfer** funktioniert in die entgegengesetzte Richtung und ist in seiner Tiefe oft unterschätzt:
+Ältere Generationen erinnern an Zeiten ohne permanente Überwachung, kennen totalitäre Kontexte und besitzen eine historisch gewachsene Sensibilität für die Gefahren, die mit zentralisierter Datenmacht einhergehen.
+Dieses Wissen lässt sich nicht googeln.
+**Co-Learning** schließlich überwindet die Richtungslogik beider Vorgänger:
+Großeltern und Enkel erkunden neue Technologien gemeinsam, ohne dass eine Seite die Rolle des Wissensvermittlers übernimmt.
+Bandura (1977) beschreibt in seiner Theorie des sozialen Lernens, wie Menschen durch Beobachtung und gemeinsames Handeln lernen — ein Prinzip, das bei diesen bidirektionalen Austauschformaten unmittelbar greift und die Nachhaltigkeit des Transfers wesentlich erhöht.
 
-Erfolgreiche Transferstrategien nutzen bewährte psychologische Prinzipien (→ siehe Kapitel 14.2). **Reziprozität** bedeutet, dass beide Seiten sichtbar geben und empfangen. Das schafft Augenhöhe. **Respekt** äußert sich in der Anerkennung unterschiedlicher Kompetenzen, ohne eine davon zu hierarchisieren. **Geduld** bedeutet, unterschiedliche Lerngeschwindigkeiten nicht als Defizit zu bewerten. **Relevanz** entsteht, wenn Lerninhalte an konkrete Lebens- und Arbeitssituationen der Beteiligten anknüpfen. **Spielerisches Lernen** schließlich reduziert den Leistungsdruck erheblich und senkt die Hemmschwelle, Fragen zu stellen.
+Erfolgreiche Transferstrategien nutzen bewährte psychologische Prinzipien (→ siehe Kapitel 14.2).
+**Reziprozität** bedeutet, dass beide Seiten sichtbar geben und empfangen.
+Das schafft Augenhöhe.
+**Respekt** äußert sich in der Anerkennung unterschiedlicher Kompetenzen, ohne eine davon zu hierarchisieren.
+**Geduld** bedeutet, unterschiedliche Lerngeschwindigkeiten nicht als Defizit zu bewerten.
+**Relevanz** entsteht, wenn Lerninhalte an konkrete Lebens- und Arbeitssituationen der Beteiligten anknüpfen.
+**Spielerisches Lernen** schließlich reduziert den Leistungsdruck erheblich und senkt die Hemmschwelle, Fragen zu stellen.
 
-Besonders wertvoll ist der Transfer **impliziten Wissens**. Jüngere Generationen haben oft intuitive Strategien entwickelt — Audience Segregation, algorithmisches Training, temporäre Identitäten — die sie selbst nicht ohne Weiteres artikulieren können. Nissenbaum (2009) zeigt, dass kontextuelle Integrität als Prinzip von Digital Natives intuitiv angewendet wird, ohne dass das Konzept explizit bekannt wäre. Durch strukturierten Dialog werden diese Praktiken benennbar und damit auch lehrbar. Dr. Annika Sommer nutzt diese Einsicht gezielt: In ihren Workshops beginnt sie stets mit einer Exploration impliziter Strategien — bevor abstrakte Konzepte eingeführt werden. Der Weg führt von der gelebten Praxis zur theoretischen Einordnung, nicht umgekehrt.
+Besonders wertvoll ist der Transfer **impliziten Wissens**.
+Jüngere Generationen haben oft intuitive Strategien entwickelt — Audience Segregation, algorithmisches Training, temporäre Identitäten — die sie selbst nicht ohne Weiteres artikulieren können.
+Nissenbaum (2009) zeigt,
+dass kontextuelle Integrität als Prinzip von Digital Natives intuitiv angewendet wird, ohne dass das Konzept explizit bekannt wäre.
+Durch strukturierten Dialog werden diese Praktiken benennbar und damit auch lehrbar.
+Dr. Annika Sommer nutzt diese Einsicht gezielt:
+In ihren Workshops beginnt sie stets mit einer Exploration impliziter Strategien — bevor abstrakte Konzepte eingeführt werden.
+Der Weg führt von der gelebten Praxis zur theoretischen Einordnung, nicht umgekehrt.
 
 ## 15.2.4 Zukunft der Privatheit aus Sicht der Gen Z {#15-2-4-zukunft-der-privatheit-aus-sicht-der-gen-z}
 
-Generation Z, die ersten true *Digital Natives*, entwickelt grundlegend neue Privatheitskonzepte. Ihre Perspektive gibt Einblicke in die Zukunft des Datenschutzes.
+Generation Z, die ersten true *Digital Natives*, entwickelt grundlegend neue Privatheitskonzepte.
+Ihre Perspektive gibt Einblicke in die Zukunft des Datenschutzes.
 
-**Performative Privatheit**: Für Gen Z ist Privatheit kein Zustand, sondern eine Aktivität. Sie performen Privatheit durch bewusste Inszenierung. Ein scheinbar spontanes Instagram-Foto kann Stunden der Vorbereitung erfordern. Diese **kuratierte Spontaneität** ist ihre Form der Kontrolle (Abidin & Cover, 2019).
+**Performative Privatheit**: Für Gen Z ist Privatheit kein Zustand, sondern eine Aktivität.
+Sie performen Privatheit durch bewusste Inszenierung.
+Ein scheinbar spontanes Instagram-Foto kann Stunden der Vorbereitung erfordern.
+Diese **kuratierte Spontaneität** ist ihre Form der Kontrolle (Abidin & Cover, 2019).
 
-**Algorithmisches Bewusstsein**: Als erste Generation, die mit Empfehlungsalgorithmen aufwuchs, hat Gen Z ein intuitives Verständnis für algorithmische Selektion. Sie „trainieren" bewusst ihre Feeds, nutzen gezielt Inkognito-Modi und verstehen Datenspuren als gestaltbar (Cotter & Reisdorf, 2020).
+**Algorithmisches Bewusstsein**:
+Als erste Generation, die mit Empfehlungsalgorithmen aufwuchs, hat Gen Z ein intuitives Verständnis für algorithmische Selektion.
+Sie „trainieren" bewusst ihre Feeds, nutzen gezielt Inkognito-Modi und verstehen Datenspuren als gestaltbar (Cotter & Reisdorf, 2020).
 
 > **Infobox: Gen Z Datenschutz-Strategien**
 >
@@ -96,55 +196,113 @@ Generation Z, die ersten true *Digital Natives*, entwickelt grundlegend neue Pri
 > - **Collective Privacy**: Gruppennormen über geteilte Inhalte
 > - **Privacy Trading**: Bewusster Tausch von Daten gegen konkrete Vorteile
 
-Qualitative Studien mit jungen Erwachsenen zwischen 16 und 22 Jahren zeigen konsistente Muster: Gen Z begreift Privatheit als Spektrum, nicht als binäre Kategorie. Strategische Identitätspflege über verschiedene Plattformen gilt als selbstverständlich. Wer auf einem Kanal zur Szene spricht, tritt auf einem anderen als Privatperson auf und nutzt einen dritten ausschließlich für enge Vertraute. Statt vollständiger Prävention steht Schadensbegrenzung im Vordergrund, eine pragmatische Haltung, die sich mit den Erkenntnissen von Cotter und Reisdorf (2020) zu algorithmischem Bewusstsein deckt. Gen Z akzeptiert, dass vollständige informationelle Kontrolle im heutigen Ökosystem eine Illusion ist, und setzt stattdessen auf das Prinzip der kontextuellen Integrität (Nissenbaum, 2009): Daten sollen nicht generell geheim gehalten, sondern gezielt in den richtigen Kontexten geteilt werden. Diese Haltung ist kein Rückzug aus dem Datenschutz, sondern seine Neuformulierung unter veränderten Bedingungen.
+Qualitative Studien mit jungen Erwachsenen zwischen 16 und 22 Jahren zeigen konsistente Muster:
+Gen Z begreift Privatheit als Spektrum, nicht als binäre Kategorie.
+Strategische Identitätspflege über verschiedene Plattformen gilt als selbstverständlich.
+Wer auf einem Kanal zur Szene spricht, tritt auf einem anderen als Privatperson auf und nutzt einen dritten ausschließlich für enge Vertraute.
+Statt vollständiger Prävention steht Schadensbegrenzung im Vordergrund, eine pragmatische Haltung, die sich mit den Erkenntnissen von Cotter und Reisdorf (2020) zu algorithmischem Bewusstsein deckt.
+Gen Z akzeptiert, dass vollständige informationelle Kontrolle im heutigen Ökosystem eine Illusion ist, und setzt stattdessen auf das Prinzip der kontextuellen Integrität (Nissenbaum, 2009):
+Daten sollen nicht generell geheim gehalten, sondern gezielt in den richtigen Kontexten geteilt werden.
+Diese Haltung ist kein Rückzug aus dem Datenschutz, sondern seine Neuformulierung unter veränderten Bedingungen.
 
-Diese pragmatische Haltung unterscheidet sich deutlich von älteren Generationen. Während diese oft von Privatheit als Recht oder Wert sprechen, sieht Gen Z sie als **Ressource**, die strategisch eingesetzt wird.
+Diese pragmatische Haltung unterscheidet sich deutlich von älteren Generationen.
+Während diese oft von Privatheit als Recht oder Wert sprechen, sieht Gen Z sie als **Ressource**, die strategisch eingesetzt wird.
 
-Felix Hartmann, der viel mit Praktikanten der Gen Z arbeitet, beobachtet: "Sie haben ein völlig anderes Verhältnis zu Daten. Für sie sind persönliche Informationen eine Art Währung – man gibt sie aus, aber kalkuliert den Return on Investment."
+Felix Hartmann, der viel mit Praktikanten der Gen Z arbeitet, beobachtet:
+"Sie haben ein völlig anderes Verhältnis zu Daten. Für sie sind persönliche Informationen eine Art Währung – man gibt sie aus, aber kalkuliert den Return on Investment."
 
-Diese Strategien zeigen: Gen Z hat Datenschutz nicht aufgegeben, sondern neu definiert. Ihre Privatheit ist **dynamisch, kontextabhängig und verhandelbar**.
+Diese Strategien zeigen: Gen Z hat Datenschutz nicht aufgegeben, sondern neu definiert.
+Ihre Privatheit ist **dynamisch, kontextabhängig und verhandelbar**.
 
-Die Implikationen für zukünftige Datenschutzkonzepte sind weitreichend. Statische Einwilligungen werden durch dynamische Präferenzmodelle ersetzt. **[Privacy by Design]** muss Flexibilität und Nutzerkontrolle priorisieren. Regulierung muss kontextuelle und temporäre Aspekte berücksichtigen. Bildung sollte **[algorithmische Kompetenz]** (→ siehe Kapitel 10) vermitteln, nicht nur Risikovermeidung.
+Die Implikationen für zukünftige Datenschutzkonzepte sind weitreichend.
+Statische Einwilligungen werden durch dynamische Präferenzmodelle ersetzt.
+**[Privacy by Design]** muss Flexibilität und Nutzerkontrolle priorisieren.
+Regulierung muss kontextuelle und temporäre Aspekte berücksichtigen.
+Bildung sollte **[algorithmische Kompetenz]** (→ siehe Kapitel 10) vermitteln, nicht nur Risikovermeidung.
 
 ## 15.2.5 Generationenkonflikte produktiv nutzen {#15-2-5-generationenkonflikte-produktiv-nutzen}
 
-Unterschiedliche Privatheitskonzepte führen unweigerlich zu Konflikten – in Familien, Unternehmen und der Gesellschaft. Diese Konflikte können jedoch, richtig genutzt, Innovation und besseren Schutz fördern.
+Unterschiedliche Privatheitskonzepte führen unweigerlich zu Konflikten – in Familien, Unternehmen und der Gesellschaft.
+Diese Konflikte können jedoch, richtig genutzt, Innovation und besseren Schutz fördern.
 
 **Typische Konfliktfelder**:
 
-**Familienkontext**: Eltern posten Kinderfotos (**[Sharenting]**), Teenager fühlen sich in ihrer Autonomie verletzt. Großeltern verstehen nicht, warum Enkel "alles ins Internet stellen". Kinder installieren Überwachungs-Apps bei besorgten Eltern. Diese Konflikte spiegeln tiefe Wertedifferenzen (Blum-Ross & Livingstone, 2017).
+**Familienkontext**: Eltern posten Kinderfotos (**[Sharenting]**), Teenager fühlen sich in ihrer Autonomie verletzt.
+Großeltern verstehen nicht, warum Enkel "alles ins Internet stellen".
+Kinder installieren Überwachungs-Apps bei besorgten Eltern.
+Diese Konflikte spiegeln tiefe Wertedifferenzen (Blum-Ross & Livingstone, 2017).
 
-**Arbeitsplatz**: Lisa Chen erlebt dies täglich: "Ältere Kollegen wollen alles per E-Mail, Jüngere nur noch Slack. Die einen fürchten Überwachung, die anderen fordern Transparenz. Als Projektmanagerin muss ich diese Welten versöhnen."
+**Arbeitsplatz**: Lisa Chen erlebt dies täglich:
+"Ältere Kollegen wollen alles per E-Mail, Jüngere nur noch Slack. Die einen fürchten Überwachung, die anderen fordern Transparenz. Als Projektmanagerin muss ich diese Welten versöhnen."
 
-**Bildungsbereich**: Lehrkräfte verschiedener Generationen haben unterschiedliche Vorstellungen von digitalem Lernen und Datenschutz. Digital affine Lehrer treffen auf skeptische Kollegen und Eltern mit diversen Einstellungen (Selwyn, 2016).
+**Bildungsbereich**: Lehrkräfte verschiedener Generationen haben unterschiedliche Vorstellungen von digitalem Lernen und Datenschutz.
+Digital affine Lehrer treffen auf skeptische Kollegen und Eltern mit diversen Einstellungen (Selwyn, 2016).
 
-**Produktive Konfliktnutzung** erfordert strukturierte Ansätze. **Perspektivenübernahme fördern** bedeutet Übungen durchzuführen, in denen Generationen die Digitalbiografie der anderen nachvollziehen. **Gemeinsame Werte identifizieren** heißt zu erkennen, dass trotz unterschiedlicher Praktiken alle Generationen Grundwerte teilen. Diese umfassen Autonomie und Würde. **Best Practices kombinieren** verbindet die technische Versiertheit der Jungen mit der Risikosensibilität der Älteren. **Innovationsräume schaffen** bedeutet intergenerationale Teams für Datenschutzlösungen zu etablieren.
+**Produktive Konfliktnutzung** erfordert strukturierte Ansätze.
+**Perspektivenübernahme fördern** bedeutet Übungen durchzuführen, in denen Generationen die Digitalbiografie der anderen nachvollziehen.
+**Gemeinsame Werte identifizieren** heißt zu erkennen, dass trotz unterschiedlicher Praktiken alle Generationen Grundwerte teilen.
+Diese umfassen Autonomie und Würde.
+**Best Practices kombinieren** verbindet die technische Versiertheit der Jungen mit der Risikosensibilität der Älteren.
+**Innovationsräume schaffen** bedeutet intergenerationale Teams für Datenschutzlösungen zu etablieren.
 
-Dr. Annika Sommer entwickelte einen **Generationen-Mediationsansatz** für Datenschutzkonflikte: "Wir bringen alle Altersgruppen an einen Tisch. Jede erklärt ihre Perspektive ohne Bewertung. Dann suchen wir gemeinsam Lösungen, die alle Bedürfnisse respektieren."
+Dr. Annika Sommer entwickelte einen **Generationen-Mediationsansatz** für Datenschutzkonflikte:
+"Wir bringen alle Altersgruppen an einen Tisch. Jede erklärt ihre Perspektive ohne Bewertung. Dann suchen wir gemeinsam Lösungen, die alle Bedürfnisse respektieren."
 
-Ein Praxisbeispiel zeigt die Wirksamkeit dieses Ansatzes. In einem Krankenhaus stritten Generationen über die Einführung einer Patienten-App. Junge Ärzte sahen Effizienzgewinne. Ältere fürchteten Datenschutzrisiken. Pflegekräfte mittleren Alters sorgten sich um Mehrarbeit. Durch strukturierten Dialog entstand eine ausgewogene Lösung. Diese umfasste Opt-in statt Opt-out für alle Funktionen. Altersgerechte Tutorials wurden entwickelt. Eine Papier-Alternative blieb für kritische Prozesse verfügbar. Regelmäßige Evaluation mit allen Gruppen wurde etabliert.
+Ein Praxisbeispiel zeigt die Wirksamkeit dieses Ansatzes.
+In einem Krankenhaus stritten Generationen über die Einführung einer Patienten-App.
+Junge Ärzte sahen Effizienzgewinne.
+Ältere fürchteten Datenschutzrisiken.
+Pflegekräfte mittleren Alters sorgten sich um Mehrarbeit.
+Durch strukturierten Dialog entstand eine ausgewogene Lösung.
+Diese umfasste Opt-in statt Opt-out für alle Funktionen.
+Altersgerechte Tutorials wurden entwickelt.
+Eine Papier-Alternative blieb für kritische Prozesse verfügbar.
+Regelmäßige Evaluation mit allen Gruppen wurde etabliert.
 
 **Psychologische Mechanismen** produktiver Konfliktnutzung:
 
-**Contact Hypothesis** (Allport, 1954): Regelmäßiger Kontakt zwischen Gruppen reduziert Vorurteile, wenn er unter günstigen Bedingungen stattfindet – gleicher Status, gemeinsame Ziele, institutionelle Unterstützung.
+**Contact Hypothesis** (Allport, 1954):
+Regelmäßiger Kontakt zwischen Gruppen reduziert Vorurteile,
+wenn er unter günstigen Bedingungen stattfindet – gleicher Status, gemeinsame Ziele, institutionelle Unterstützung.
 
 **Cognitive Diversity**: Altersgemischte Teams treffen bessere Entscheidungen, da sie verschiedene Perspektiven integrieren (Hong & Page, 2004).
 
-**Social Learning**: Menschen lernen durch Beobachtung anderer. Intergenerationale Interaktion multipliziert Lernmöglichkeiten (Bandura, 1977).
+**Social Learning**: Menschen lernen durch Beobachtung anderer.
+Intergenerationale Interaktion multipliziert Lernmöglichkeiten (Bandura, 1977).
 
-Prof. Dr. Miriam Krüger resümiert: "Generationenkonflikte im Datenschutz sind keine Störung, sondern eine Ressource. Sie zwingen uns, implizite Annahmen zu hinterfragen und robustere Lösungen zu entwickeln."
+Prof. Dr. Miriam Krüger resümiert:
+"Generationenkonflikte im Datenschutz sind keine Störung, sondern eine Ressource. Sie zwingen uns, implizite Annahmen zu hinterfragen und robustere Lösungen zu entwickeln."
 
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
-Die Erkenntnisse über generationsspezifische Privatheitskonzepte haben konkrete Auswirkungen für alle gesellschaftlichen Ebenen. Die Befunde dieses Kapitels münden in drei zentrale Handlungsfelder.
+Die Erkenntnisse über generationsspezifische Privatheitskonzepte haben konkrete Auswirkungen für alle gesellschaftlichen Ebenen.
+Die Befunde dieses Kapitels münden in drei zentrale Handlungsfelder.
 
-Für Gesetzgeber, Politik und Regulierungsbehörden ergibt sich die Aufgabe, generationsspezifische Bedürfnisse systematisch in der Gesetzgebung zu verankern. Datenschutzregulierung muss die Diversität von Privatheitsverständnissen abbilden, von räumlich-physischen Schutzkonzepten bis zu dynamisch-algorithmischen. Flexible Regulierungsansätze, die kontextuelle und temporäre Aspekte berücksichtigen, entsprechen den empirischen Erkenntnissen zu generationellem Datenschutzverhalten besser als statische Einwilligungsmodelle. Darüber hinaus gilt es, Forschung zu altersspezifischen Datenschutzrisiken zu fördern — insbesondere an den Rändern: für Ältere, die von digitaler Überforderung bedroht sind, und für Jüngere, deren implizite Strategien rechtlich noch kaum abgebildet werden. Intergenerationale Dialogformate bei der Entwicklung von Regulierungsvorhaben stärken die demokratische Legitimität und erhöhen die Akzeptanz neuer Regelungen in der Breite der Gesellschaft.
+Für Gesetzgeber, Politik und Regulierungsbehörden ergibt sich die Aufgabe, generationsspezifische Bedürfnisse systematisch in der Gesetzgebung zu verankern.
+Datenschutzregulierung muss die Diversität von Privatheitsverständnissen abbilden, von räumlich-physischen Schutzkonzepten bis zu dynamisch-algorithmischen.
+Flexible Regulierungsansätze, die kontextuelle und temporäre Aspekte berücksichtigen, entsprechen den empirischen Erkenntnissen zu generationellem Datenschutzverhalten besser als statische Einwilligungsmodelle.
+Darüber hinaus gilt es, Forschung zu altersspezifischen Datenschutzrisiken zu fördern — insbesondere an den Rändern:
+für Ältere, die von digitaler Überforderung bedroht sind, und für Jüngere, deren implizite Strategien rechtlich noch kaum abgebildet werden.
+Intergenerationale Dialogformate bei der Entwicklung von Regulierungsvorhaben stärken die demokratische Legitimität und erhöhen die Akzeptanz neuer Regelungen in der Breite der Gesellschaft.
 
-Für Unternehmen, Entwickler und Datenschutzbeauftragte bedeutet generationelle Sensibilität zunächst, Kommunikations- und Schulungsformate zu diversifizieren. Datenschutzbeauftragte, die generationsspezifische Anspracheweisen nutzen — von ausführlichen schriftlichen Anleitungen für ältere Mitarbeitende bis zu interaktiven, app-gestützten Formaten für Gen Z —, erreichen ihre Zielgruppen wirkungsvoller. Umgekehrt bietet Reverse Mentoring im Unternehmen die Chance, implizites digitales Wissen jüngerer Mitarbeitender sichtbar zu machen und für organisationale Datenschutzpraktiken zu nutzen. Produktentwickler sollten granulare Privacy-Kontrollen implementieren, die verschiedenen Nutzerbedürfnissen gerecht werden: Die Einheitslösung, die für alle Generationen gleich funktioniert, gibt es nicht. Altersgemischte Entwicklungsteams und obligatorische Tests mit heterogenen Nutzergruppen reduzieren das Risiko, bestimmte Altersgruppen strukturell zu benachteiligen.
+Für Unternehmen, Entwickler und Datenschutzbeauftragte bedeutet generationelle Sensibilität zunächst, Kommunikations- und Schulungsformate zu diversifizieren.
+Datenschutzbeauftragte, die generationsspezifische Anspracheweisen nutzen — von ausführlichen schriftlichen Anleitungen für ältere Mitarbeitende bis zu interaktiven, app-gestützten Formaten für Gen Z —, erreichen ihre Zielgruppen wirkungsvoller.
+Umgekehrt bietet Reverse Mentoring im Unternehmen die Chance, implizites digitales Wissen jüngerer Mitarbeitender sichtbar zu machen und für organisationale Datenschutzpraktiken zu nutzen.
+Produktentwickler sollten granulare Privacy-Kontrollen implementieren, die verschiedenen Nutzerbedürfnissen gerecht werden:
+Die Einheitslösung, die für alle Generationen gleich funktioniert, gibt es nicht.
+Altersgemischte Entwicklungsteams und obligatorische Tests mit heterogenen Nutzergruppen reduzieren das Risiko, bestimmte Altersgruppen strukturell zu benachteiligen.
 
-Für Bildungseinrichtungen, Familien und die Zivilgesellschaft liegt das größte Potenzial im aktiv gestalteten Generationendialog. Schulen und Hochschulen sollten intergenerationalen Austausch als Lernformat etablieren — nicht nur Kinder über Datenschutz aufzuklären, sondern die Begegnung verschiedener Generationen als wechselseitigen Lernprozess zu organisieren. Familien profitieren von offenen Gesprächen über unterschiedliche Privatheitsvorstellungen: Was für Eltern eine Selbstverständlichkeit ist, kann für Kinder eine inakzeptable Kontrollgeste sein — und umgekehrt. Das gegenseitige Respektieren digitaler Autonomie, das Entwickeln gemeinsamer Familienregeln und das Nutzen von Konflikten als Lerngelegenheiten stärken das Schutzniveau aller Beteiligten. Algorithmische Kompetenz sollte generationenübergreifend vermittelt werden, da die Fähigkeit, Datenflüsse zu verstehen und zu gestalten, in allen Altersgruppen eine demokratische Schlüsselkompetenz darstellt.
+Für Bildungseinrichtungen, Familien und die Zivilgesellschaft liegt das größte Potenzial im aktiv gestalteten Generationendialog.
+Schulen und Hochschulen sollten intergenerationalen Austausch als Lernformat etablieren — nicht nur Kinder über Datenschutz aufzuklären, sondern die Begegnung verschiedener Generationen als wechselseitigen Lernprozess zu organisieren.
+Familien profitieren von offenen Gesprächen über unterschiedliche Privatheitsvorstellungen:
+Was für Eltern eine Selbstverständlichkeit ist, kann für Kinder eine inakzeptable Kontrollgeste sein — und umgekehrt.
+Das gegenseitige Respektieren digitaler Autonomie, das Entwickeln gemeinsamer Familienregeln und das Nutzen von Konflikten als Lerngelegenheiten stärken das Schutzniveau aller Beteiligten.
+Algorithmische Kompetenz sollte generationenübergreifend vermittelt werden,
+da die Fähigkeit, Datenflüsse zu verstehen und zu gestalten, in allen Altersgruppen eine demokratische Schlüsselkompetenz darstellt.
 
-Generationen streiten über Privatheit, weil sie unterschiedliche Welten bewohnen, und genau darin liegt die Chance. Wer diese Differenzen nicht als Störung, sondern als Ressource begreift, gewinnt nicht nur ein reicheres Bild von dem, was Privatheit bedeuten kann, sondern auch robustere Lösungen, die mehr Menschen tragen. Der Dialog zwischen den Generationen ist kein sentimentales Ideal, sondern eine praktische Notwendigkeit für zukunftsfähigen Datenschutz — ebenso wie die Verständigung über kulturelle und nationale Grenzen hinweg, die im folgenden Kapitel analysiert wird (→ siehe Kapitel 15.3).
+Generationen streiten über Privatheit, weil sie unterschiedliche Welten bewohnen, und genau darin liegt die Chance.
+Wer diese Differenzen nicht als Störung, sondern als Ressource begreift, gewinnt nicht nur ein reicheres Bild von dem, was Privatheit bedeuten kann, sondern auch robustere Lösungen, die mehr Menschen tragen.
+Der Dialog zwischen den Generationen ist kein sentimentales Ideal, sondern eine praktische Notwendigkeit für zukunftsfähigen Datenschutz — ebenso wie die Verständigung über kulturelle und nationale Grenzen hinweg, die im folgenden Kapitel analysiert wird (→ siehe Kapitel 15.3).
 
 ---
 
