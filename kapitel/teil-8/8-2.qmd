@@ -38,6 +38,14 @@ Forschung zur Informationssicherheit zeigt,
 dass externe Regulation in vielen Organisationen die dominierende Compliance-Form bleibt (Bulgurcu et al., 2010).
 Die Folge: Sobald die Kontrolle nachlässt, sinkt die Regelbefolgung deutlich (D'Arcy et al., 2009; Herath & Rao, 2009b).
 
+Eine besonders konsequente Variante der externen Regulation entsteht, wenn rechtliche Verpflichtungen (etwa Aufbewahrungspflichten nach Handelsgesetzbuch oder Geldwäschegesetz, Art. 6 Abs. 1 lit. c DSGVO) und freiwillige Datenerhebung in derselben Verarbeitungsumgebung zusammenfallen.
+In dieser Konstellation neigen extern regulierte Mitarbeiter zur **defensiven Datenverarbeitung**:
+Lieber zu viel speichern und zu lang aufbewahren, als rechtliche Sanktionen riskieren.
+Lisa Chen beobachtet diese Dynamik in ihrem Versicherungskonzern:
+„Sobald ein Datenfeld irgendwo eine Aufbewahrungspflicht hat, wandert das gesamte Datenmodell in die Zehn-Jahres-Speicherung. Wer einzelne Felder differenziert behandelt, riskiert eine Wirtschaftsprüfer-Beanstandung — und dieses Risiko nimmt niemand auf sich."
+Die rechtliche Pflicht wird so zum Argument für Datenexpansion über das ursprüngliche Erforderlichkeitsmaß hinaus.
+Strukturell verstärkt sich dadurch der Mechanismus, den Bulgurcu et al. (2010) beobachten: Externe Regulation füllt den Raum, den Überzeugung leer lässt (→ Kap. 4.1).
+
 **Introjizierte Regulation**: Hier haben Mitarbeiter die Regeln teilweise internalisiert, handeln aber primär aus Scham- oder Schuldgefühlen.
 "Ich verschlüssele die E-Mail, weil ich mich sonst schlecht fühle" – ein Fortschritt gegenüber reiner Angst, aber noch keine echte Überzeugung.
 
@@ -393,6 +401,11 @@ dass die Anreize zur Organisationskultur passen und authentisch sind."
 
 Der Übergang von regelbasierter Compliance zu wertebasiertem Commitment markiert die höchste Stufe organisationaler Datenschutzreife.
 Dieser Transformationsprozess erfordert ein tiefes Verständnis psychologischer Mechanismen.
+
+Ein einfacher Mechanismus illustriert diesen Übergang.
+Wer die Verarbeitungszwecke der eigenen Organisation für externe Adressaten formulieren muss, ist gezwungen, sich intern Klarheit zu verschaffen: Was tun wir eigentlich, warum, auf welcher Grundlage?
+Das Artikulieren nach außen erzeugt eine Reflexion nach innen.
+So wird die formale Dokumentationspflicht zum Anlass für tatsächliche Klarheit und damit zur Brücke vom Müssen zum Wollen.
 
 ### Das Commitment-Kontinuum
 

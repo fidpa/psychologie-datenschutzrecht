@@ -40,6 +40,9 @@ Prof. Dr. Miriam Krüger untersuchte in einer groß angelegten Studie die Vertra
 ob die Vorauswahl durch einen Menschen oder einen Algorithmus getroffen wurde. Bei algorithmischer Auswahl sank die wahrgenommene Fairness um 38 Prozent,
 obwohl wir explizit darauf hinwiesen, dass der Algorithmus diskriminierungsfreie Kriterien verwendete."
 
+Die psychologische Tiefe der Bewerbungssituation reicht über die Fairness-Vertrauens-Lücke hinaus:
+Macht-Asymmetrie, Selbstoffenbarungsdruck und das juristische „Recht zur Lüge" prägen Bewerbungsverfahren strukturell (→ siehe Kapitel 12.2.6).
+
 Diese *Fairness-Vertrauens-Lücke* hat mehrere psychologische Ursachen (← vgl. Kapitel 2.2 zu kognitiven Verzerrungen).
 Menschen attribuieren algorithmischen Systemen keine Empathie oder kontextuelle Sensibilität.
 Ein Personalchef mag voreingenommen sein, aber wir trauen ihm zu, besondere Umstände zu berücksichtigen – eine alleinerziehende Mutter, die nach einer Krankheit wieder ins Berufsleben einsteigt, oder einen Quereinsteiger mit unkonventionellem Lebenslauf.
@@ -114,6 +117,16 @@ Lisas Sprach-Hygiene fängt diese Dreiteilung intuitiv ein: Die KI "analysiert",
 
 Diese Lesart erweitert den Befund.
 **Sprach-Hygiene ist nicht nur UX-Strategie, sondern Compliance-Hygiene.** Wer in Organisationen anthropomorphe Sprache zulässt, lässt die Wahrnehmung dafür verschwimmen, wer eigentlich verantwortlich handelt — lange bevor ein konkreter Datenschutzvorfall die juristische Lage testet (→ siehe Kapitel 10.3 zur architektonischen Konkretion dieser Unterscheidung bei Sprachmodellen).
+
+Lisa erkennt parallel, dass die Verantwortlichkeitsfrage nicht nur sprachlich, sondern strukturell verschleiert wird.
+In ADM-Ketten kontrolliert jeder Akteur einen anderen Aspekt: Der Score-Anbieter rechnet, die Bank wendet an, der Sachbearbeiter klickt durch.
+Niemand trägt die Gesamtwirkung, und genau dort entsteht eine [Verantwortungsdiffusion in ADM-Ketten], eine strukturelle Variante der klassischen Diffusion in Gruppen:
+Jeder Akteur externalisiert auf den nächsten.
+Der EuGH adressiert genau dieses Muster im SCHUFA-Urteil (C-634/21, 7.12.2023).
+Die Profilbildung selbst kann zur „Entscheidung" im Sinne des Art. 22 DSGVO werden, sobald ein Dritter den Score maßgeblich übernimmt.
+Damit wird die Verantwortung nicht an das vorgelagerte Unternehmen delegiert, sondern dort verankert, wo das Profil mit Wirkung versehen wird.
+Floridis Trichotomie und der EuGH treffen sich an demselben Punkt:
+Verantwortlich ist, wer den Akt der Wirkung trägt — nicht der, der nur ein Teilstück liefert.
 
 **Weiterführende Kapitel:** → 2.3
 
@@ -435,3 +448,6 @@ Diese Entwicklungen zeigen, dass die psychologischen Mechanismen algorithmischer
 - Araujo, T., Helberger, N., Kruikemeier, S., & de Vreese, C. H. (2020). In AI we trust? Perceptions about automated decision-making by artificial intelligence. *AI & Society*, 35(3), 611-623. https://doi.org/10.1007/s00146-019-00931-w
 - Hofstede, G. (2011). Dimensionalizing cultures: The Hofstede model in context. *Online Readings in Psychology and Culture*, 2(1), Article 8. https://doi.org/10.9707/2307-0919.1014
 - Lee, M. K., & Baykal, S. (2017). Algorithmic mediation in group decisions: Fairness perceptions of algorithmically mediated vs. discussion-based social division. In *Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing* (pp. 1035-1048). https://doi.org/10.1145/2998181.2998230
+
+### Rechtsprechung
+- EuGH, Urteil vom 7.12.2023, Rs. C-634/21 (OQ ./. Land Hessen, „SCHUFA Holding"), ECLI:EU:C:2023:957.

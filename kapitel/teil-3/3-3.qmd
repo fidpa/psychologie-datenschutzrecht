@@ -39,6 +39,25 @@ Jedes Prinzip basiert auf impliziten Annahmen darüber, wie Menschen denken und 
 Diese Annahmen zu dekonstruieren und mit verhaltenspsychologischen Erkenntnissen abzugleichen, ist nicht nur akademisch interessant – es ist essenziell für wirksamen Datenschutz.
 Denn Prinzipien, die menschliche Grenzen ignorieren, scheitern nicht an sich selbst, sondern an uns.
 
+Art. 5 Abs. 1 lit. a DSGVO bündelt drei Anforderungen in einem Satz: Rechtmäßigkeit, Treu und Glauben, Transparenz.
+Die folgenden Abschnitte fokussieren auf Transparenz, Zweckbindung, Datenminimierung, Einwilligung und Datensicherheit als sichtbarste Konfliktfelder zwischen Norm und Verhalten.
+Die Rechtmäßigkeit und das Gebot von Treu und Glauben rücken dabei selten in den Vordergrund, prägen aber das psychologische Umfeld jeder Datenverarbeitung.
+
+Die Rechtmäßigkeit operationalisiert sich als **[Verbotsprinzip]**:
+Datenverarbeitung ist grundsätzlich verboten, sofern keine Erlaubnisnorm sie rechtfertigt.
+Diese Regelungstechnik setzt einen institutionalisierten Default und nutzt damit den Status-quo-Bias gezielt für den Datenschutz.
+Wer Daten verarbeiten will, muss sich aktiv eine Erlaubnis suchen; wer keine findet, lässt es lieber.
+Die Architektur erzeugt allerdings auch Chilling Effects auf der Verantwortlichenseite:
+Verarbeitungen, die grundrechtlich geschützt wären (Art. 11, 13, 16 GRCh), unterbleiben aus Sorge vor Sanktionsrisiken.
+Die Schattenseite des Verbotsprinzips ist deshalb keine Übergriffigkeit der Aufsicht, sondern eine institutionelle Selbstbescheidung der Verantwortlichen, die mehr als rechtlich nötig zurückweicht (→ siehe Kapitel 4.1 zur Einwilligung als systemischem Notausgang).
+
+**[Treu und Glauben]** ist trotz BGB-Patina kein Verweis auf zivilrechtliche Redlichkeit, sondern eine eigenständige Fairness-Norm.
+Erwägungsgrund 60 DSGVO bindet das Prinzip an die Information über Existenz, Zwecke und Rahmenbedingungen einer Verarbeitung;
+die Erwägungsgründe 47 und 50 ergänzen den Maßstab der vernünftigen Erwartungen.
+Treu und Glauben verlangt damit nicht moralische Vollkommenheit, sondern Erwartungskonformität:
+Verarbeitungen, die Betroffene in ihrem Kontext nicht antizipieren konnten, verletzen das Prinzip auch bei formaler Rechtmäßigkeit.
+Damit wird Treu und Glauben zur dogmatischen Brücke zwischen Recht und Psychologie und verankert das Konzept der kontextuellen Integrität (Nissenbaum, 2009) juristisch (→ siehe Kapitel 5.2.3).
+
 ## 3.3.1 Transparenz: Kognitive Kapazitäten und Grenzen {#3-3-1-transparenz-kognitive-kapazitaeten-und-grenzen}
 
 **[Transparenz]** gilt als Königsprinzip des Datenschutzes.
@@ -218,6 +237,29 @@ Erfahrungen aus kommunalen Pilotprojekten zeigen,
 dass Services mit deutlich reduzierten Datensätzen betrieben werden können, ohne dass Funktionalität oder Nutzerzufriedenheit grundsätzlich leiden.
 Weniger ist oft genug, und Nutzer bemerken die Minimierung häufig nicht einmal negativ.
 
+**Verhältnismäßigkeit statt Absolutheit**
+
+Datenminimierung verlangt nicht das absolute Minimum, sondern das angemessene Maß.
+Die Norm legt eine **[Drei-Stufen-Prüfung]** an:
+Erst muss die Datenverarbeitung für den Zweck erheblich sein, dann tatsächlich erforderlich, schließlich gegenüber den Rechten der Betroffenen angemessen.
+Diese Stufung entlastet psychologisch, weil sie Zweck-Mittel-Denken ermöglicht statt pauschaler Datenangst.
+Wer die Stufen kennt, kann sortieren:
+Welche Daten brauchen wir wirklich, welche wären nur „nice to have", welche Maßnahmen wie Pseudonymisierung oder Aggregation reduzieren die Eingriffstiefe?
+Felix nutzt diese Logik in seinem Team-Workshop:
+Statt zu fragen „Was dürfen wir sammeln?" fragt er „Was brauchen wir für welchen Zweck — und mit welchen Garantien?"
+
+**Das Aktualisierungsparadox**
+
+Datenminimierung kollidiert mit dem Grundsatz der Richtigkeit (Art. 5 Abs. 1 lit. d DSGVO).
+Wer Daten richtig halten will, muss sie regelmäßig abgleichen, ergänzen, korrigieren und damit zusätzliche Daten verarbeiten.
+Wer Daten minimieren will, muss auf solche Aktualisierungsschritte verzichten.
+Beide Anforderungen stehen formal nebeneinander, lassen sich aber in der Praxis nicht spannungsfrei erfüllen.
+Art. 11 DSGVO entlastet teilweise: Verantwortliche müssen keine zusätzlichen Informationen einholen, nur um die DSGVO einzuhalten.
+Doch der Konflikt bleibt und verstärkt sich durch hyperbolisches Diskontieren der Zukunftsrisiken:
+Defensive Über-Aktualisierung erscheint sicherer als minimale Datenhaltung, weil Fehler bei veralteten Daten unmittelbar sichtbar werden,
+während Fehler durch übermäßige Datenhaltung erst bei einem Datenleck zur Entfaltung kommen.
+Das Resultat ist häufig stille Maximierung im Namen der Richtigkeit (**[Aktualisierungsparadox]**).
+
 ## 3.3.4 Einwilligung: Autonomie und Überforderung {#3-3-4-einwilligung-autonomie-und-ueberforderung}
 
 Die Einwilligung nach Art. 6 Abs. 1 lit. a und Art. 7 DSGVO gilt als Goldstandard der Legitimation.
@@ -307,6 +349,12 @@ Wer Zwei-Faktor-Authentifizierung aktiviert, wählt tendenziell schwächere Pass
 Wer eine als sicher beworbene App nutzt, teilt dort mehr Daten.
 Wer Verschlüsselung hat, geht sorgloser mit Inhalten um.
 Sicherheitsmaßnahmen verlagern das Risikoverhalten, ohne es zu eliminieren – eine Dynamik, die Security-Designer systematisch unterschätzen.
+
+Diese Verlagerungs-Dynamik verlangt eine architekturelle Antwort.
+Die Informationssicherheit kennt sie als gestaffelte Verteidigung (engl. *Defense in Depth*; BSI, 2023).
+Keine Schicht schützt allein, weil jede die Vorsicht verlagert, die sie erzeugt.
+Erst mehrere unabhängige Schichten — Zutrittskontrolle, Zugangskontrolle, Verschlüsselung, Protokollierung — fangen auf, was die jeweils vorige an gefühlter Sicherheit produziert.
+Aus psychologischer Sicht ist die Schichtung ein Eingeständnis: Jede einzelne Maßnahme braucht ein Korrektiv, weil ihr Sicherheitsversprechen die Vorsicht der Nutzer schwächt.
 
 > **Infobox: Die Security-Privacy-Matrix**
 >

@@ -59,6 +59,27 @@ Hinzu kommt die Sorge um mögliche Reputationsschäden bei Verstößen und nicht
 Prof. Dr. Miriam Krüger erklärt die psychologische Dimension dieser unsichtbaren Bedrohungen:
 "Menschen sind evolutionär auf sichtbare, unmittelbare Bedrohungen programmiert. Die abstrakte Bedrohung eines möglichen Datenlecks in der Zukunft erzeugt eine Art chronischer Hypervigilanz. Diese ist neurobiologisch erschöpfend."
 
+Diese Hypervigilanz hat einen konkreten juristischen Treiber, der in der Stressforschung selten ausdrücklich benannt wird:
+die Haftungs-Asymmetrie zwischen interner und externer DSB-Tätigkeit.
+Für einen internen DSB greift der *innerbetriebliche Schadensausgleich* — eine arbeitsrechtliche Doktrin, die der Große Senat des Bundesarbeitsgerichts 1994 (GS 1/89) konsolidiert hat.
+Sie begrenzt die Haftung von Arbeitnehmern bei betrieblicher Tätigkeit auf Vorsatz und grobe Fahrlässigkeit;
+einfache Fahrlässigkeit bleibt im Grundsatz folgenlos.
+Ein externer DSB hingegen unterliegt der vollen zivilrechtlichen Haftung nach § 280 BGB;
+bei Schadensfällen kann das private Vermögen direkt betroffen sein.
+
+Eine zweite, strafrechtlich rahmende Asymmetrie tritt hinzu.
+Der Bundesgerichtshof hat 2009 in seiner Entscheidung zum Compliance-Officer der Berliner Stadtreinigungsbetriebe (5 StR 394/08, NJW 2009, 3173) die Garantenstellung des betrieblichen Compliance-Verantwortlichen anerkannt.
+In der juristischen Literatur ist seither umstritten,
+ob diese Konstruktion auf den DSB übertragbar ist (Kühling/Buchner 2024; Voigt/von dem Bussche 2017).
+Die Konsequenz wäre erheblich: Der DSB könnte sich durch Unterlassen strafbar machen, wenn er gegen erkannte Datenschutzverstöße nicht einschreitet.
+Diese unbeantwortete Frage erzeugt einen Zustand, den Pauline Boss (1999) als *ambiguous loss* beschrieben hat — ein Schwebezustand, der psychologisch belastender wirkt als eine eindeutig negative Klärung (→ siehe Kapitel 10.4 zu regulatorischer Ambiguität als eigenständigem Stressor).
+
+Für Dr. Annika Sommer hat diese strukturelle Asymmetrie eine biographische Bedeutung.
+„Mein Burnout vor drei Jahren hatte viele Gründe", sagt sie heute, „aber einer davon war ein Stressor, den ich damals nicht benennen konnte:
+die diffuse Angst, persönlich für die Versäumnisse einer ganzen Organisation einzustehen, ohne zu wissen, wo genau die rechtliche Grenze meiner Verantwortung verläuft."
+Die Burnout-Geschichte aus Abschnitt 9.4.2 erhält damit einen juristischen Resonanzboden.
+Die von Miriam Krüger als „neurobiologisch erschöpfend" beschriebene Hypervigilanz ist strukturell verankert und verteilt sich asymmetrisch je nach Anstellungsverhältnis.
+
 Verschärft wird die Situation durch mangelnde Anerkennung.
 Erfolgreicher Datenschutz ist per Definition unsichtbar - es passiert schlichtweg nichts.
 Befragungen unter Führungskräften zeigen wiederkehrend, wie schwer diese "Invisibility of Success" wiegt:

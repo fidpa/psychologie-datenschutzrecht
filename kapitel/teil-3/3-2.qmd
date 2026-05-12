@@ -110,6 +110,16 @@ Das DSGVO-Menschenbild speist sich aus mehreren philosophischen Traditionen:
 - Einwilligung als Meeting of Minds
 - Problem: Ausgeprägte Machtasymmetrien
 
+Diesen vier philosophischen Strömungen liegt eine fünfte Annahme zugrunde, die selten explizit gemacht wird.
+Die DSGVO traut der individuellen Selbstbestimmung nicht uneingeschränkt und kompensiert durch institutionalisiertes Misstrauen:
+Das **[Verbotsprinzip]** stellt jede Datenverarbeitung unter den Vorbehalt einer Erlaubnisnorm.
+Wer ein autonomes Vertragssubjekt unterstellt, würde Datenverarbeitung erlauben, sofern sie keinem Verbot widerspricht.
+Wer dem autonomen Vertragssubjekt nicht traut, kehrt die Logik um:
+Verarbeitung ist grundsätzlich unzulässig, sofern keine Norm sie ausdrücklich erlaubt.
+Diese Default-Setzung ist psychologisch potent — sie nutzt den Status-quo-Bias der Verantwortlichen gezielt und entlastet die Betroffenen davon, jedem Verarbeitungsvorgang aktiv widersprechen zu müssen.
+Sie ist zugleich der Grund, warum die Einwilligung in der DSGVO dominanter wirkt als der Verordnungstext nahelegt:
+Wo Vertrag und gesetzliche Pflicht enden, bleibt sie als rechtssicherer Auffangtatbestand (→ siehe Kapitel 4.1).
+
 ### Verhaltensannahmen in konkreten Normen
 
 **Informationspflichten (Art. 13-14)**:
@@ -276,6 +286,18 @@ Vor der DSGVO waren 78 % der Standortdienste standardmäßig aktiv, nach der DSG
 - Verschiebt Last von Individuen zu Organisationen
 - Anerkennt begrenzte Nutzerressourcen
 - Schafft Anreize für **[Privacy by Design]** (Cavoukian, 2009; Hoepman, 2014; Spiekermann & Cranor, 2009; Colesky et al., 2016)
+
+Die Verschiebung der Last hat allerdings eine Kehrseite, die selten thematisiert wird.
+Die Rechenschaftspflicht (Art. 5 Abs. 2 DSGVO) verlangt nicht nur die Einhaltung der Grundsätze, sondern auch deren dokumentierten Nachweis.
+Damit kollidiert sie mit zwei rechtsstaatlichen Prinzipien.
+Erstens dem **[nemo-tenetur-Grundsatz]** aus Art. 6 EMRK und Art. 47 Abs. 2, Art. 48 Abs. 2 GRCh:
+Wer aktiv dokumentieren muss, schafft Beweismittel, die im späteren Sanktionsverfahren gegen ihn verwendet werden können (→ siehe Kapitel 9.3).
+Zweitens der **[Impossibilium-Regel]**:
+Lückenlose Dokumentation aller Verarbeitungsvorgänge ist faktisch unmöglich, eine entsprechende Pflicht wäre unverhältnismäßig.
+Die DSGVO entschärft die Spannung über den **[risikobasierten Ansatz]** (Art. 24 Abs. 1 DSGVO):
+Nachweispflichten skalieren mit dem Verarbeitungsrisiko.
+Diese Begrenzung verhindert,
+dass die Rechenschaftspflicht zu defensiver Formelhaftigkeit verkommt — ein Resultat, das weder Verantwortlichen noch Betroffenen nützt.
 
 **3. Hohe Sanktionen**:
 - Bis zu 4 % des Jahresumsatzes

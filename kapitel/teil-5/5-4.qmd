@@ -265,6 +265,44 @@ Artikel 21 DSGVO garantiert das Recht, der Profilbildung zu widersprechen.
 Trotz zunehmendem Unbehagen nutzen weniger als drei Prozent der Betroffenen dieses Recht (→ siehe Kapitel 3.2 für psychologische Analyse der DSGVO).
 Die psychologischen Barrieren sind vielschichtig.
 
+Bevor sie im Detail betrachtet werden, lohnt der Blick auf einen oft übersehenen Befund:
+Art. 21 ist das einzige der drei datenschutzrechtlichen Werkzeuge, das die identitätsformende Schicht des *Algorithmic Self* überhaupt adressiert.
+Die beiden anderen Werkzeuge, Datenübertragbarkeit (Art. 20 DSGVO) und Berichtigung (Art. 16 DSGVO), versprechen Kontrolle, greifen aber nicht dort, wo die Kategorisierung wirksam wird.
+
+**Die Datenportabilitäts-Asymmetrie (Art. 20)**
+
+Art. 20 DSGVO erfasst nur Daten, die der Betroffene aktiv „bereitgestellt" hat: Eingaben, Profilangaben, hochgeladene Inhalte.
+Die Article 29 Working Party (WP242, 2017) unterscheidet vier Datentypen:
+*provided data* (aktiv eingegeben), *observed data* (durch Beobachtung des Verhaltens erzeugt), *inferred data* (algorithmisch geschlussfolgerte Kategorisierungen) und *derived data* (mathematisch abgeleitete Aggregate wie Scores).
+Nur die ersten beiden Kategorien lassen sich rechtlich mitnehmen.
+Risikoscores, Persönlichkeits-Klassifikationen, „Cerebral Movie Buff"-Labels — alles, was den algorithmischen Spiegel ausmacht — bleibt beim Anbieter.
+
+**Die Berichtigungs-Asymmetrie (Art. 16)**
+
+Art. 16 DSGVO greift nur bei Tatsachen.
+Eine Tatsache ist ein überprüfbarer empirischer Sachverhalt: Geburtsdatum, Adresse, Kontonummer.
+Werturteile entziehen sich diesem Maßstab, weil sie keine empirische Wahrheit beanspruchen, sondern eine Bewertung vornehmen.
+Algorithmische Klassifikationen werden in der juristischen Praxis überwiegend als Werturteile eingestuft (Kühling/Buchner 2024; Voigt/von dem Bussche 2017).
+Ein Score von 73 ist weder richtig noch falsch — er ist eine Bewertung, deren Berichtigung Art. 16 nicht vorsieht.
+
+**Die doppelte Schutzlücke**
+
+Diese Asymmetrie hat eine bittere Pointe.
+Was Identität formt, lässt sich gerade nicht mitnehmen und nicht berichtigen.
+Wer als „konservativer Anleger" oder „Hochrisiko-Kunde" kategorisiert ist, kann seine Stammdaten zu einem anderen Anbieter portieren, aber nicht die Klassifikation, die sein Verhalten geformt hat.
+Er kann einen Tippfehler in seinem Geburtsdatum korrigieren lassen, aber nicht die Wertung „konservativ".
+Das Datenschutzrecht hält drei Werkzeuge bereit; nur eines davon adressiert die Schicht, auf der das *Algorithmic Self* entsteht.
+Genau dieses Werkzeug, Art. 21 DSGVO, scheitert in der Praxis an psychologischen Barrieren.
+
+Felix Hartmann erinnert sich an seine Kunden, die nach der Klassifikation als „konservative Anleger" nur noch sichere Produkte zu sehen bekamen.
+Theoretisch hätten sie ihre Stammdaten zu einem Konkurrenten übertragen können.
+Theoretisch hätten sie Falschangaben in ihrer Risikoselbsteinschätzung berichtigen lassen können.
+Die Klassifikation selbst — der Schritt, der ihre Anlagezukunft enger gemacht hat — blieb unangetastet vom Recht.
+Die Phase-4-Abhängigkeit aus Abschnitt 5.4.1 erhält damit einen rechtlichen Resonanzboden:
+Das Identitätsdatum, das die Person nicht mehr loswird, ist auch das, das das Recht nicht erreicht.
+Die in Kapitel 7.2.3 beschriebene erlernte Hilflosigkeit der Betroffenenrechte hat hier eine zusätzliche, strukturelle Quelle:
+Wer das Werkzeug benutzt, scheitert an seinem Geltungsbereich.
+
 **Die Widerspruchs-Verweigerungs-Kaskade**
 
 Der Weg vom Unbehagen zur Untätigkeit verläuft als Kaskade (Wachter et al., 2017):

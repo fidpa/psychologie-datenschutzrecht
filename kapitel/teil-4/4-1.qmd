@@ -61,6 +61,11 @@ Druck, Zwang und Machtungleichgewichte dürfen die Entscheidung nicht beeinfluss
 **Informiertheit** umfasst alle Informationen nach Art. 13/14 DSGVO in verständlicher Sprache mit vollständiger Transparenz.
 **Unmissverständlichkeit** fordert eine eindeutige bestätigende Handlung - kein Schweigen oder Untätigkeit, sondern aktives Opt-in.
 
+Die rechtliche Konstruktion geht damit weiter, als es zunächst scheint.
+Maßgeblich ist nicht, ob die Betroffene die Information aufnimmt, sondern allein, dass sie aufnehmen könnte.
+Die Pflicht zum Verstehen verlagert sich vollständig auf die Empfangsseite.
+Diese Fiktion kollidiert mit allem, was die folgenden Studien empirisch belegen.
+
 **Die kognitive Realität**
 
 Demgegenüber steht die empirisch belegte Realität menschlicher Informationsverarbeitung:
@@ -122,6 +127,14 @@ Umfragedaten aus dem Eurobarometer zum Thema ePrivacy und zu Datenschutzeinstell
 Nur eine Minderheit der Nutzer empfindet digitale Einwilligungen als wirklich freiwillig;
 eine deutliche Mehrheit fühlt sich eher oder vollständig gezwungen.
 Die gefühlte Freiwilligkeit ist marginal.
+
+> **Infobox: Bewerbungsverfahren als paradigmatischer Fall struktureller Unfreiwilligkeit**
+> **These 6** benennt Abhängigkeitsverhältnisse — Arbeit, Sozialleistungen — als strukturell freiwilligkeits-feindlich.
+> Das Bewerbungsverfahren ist der vorvertragliche Eingangsfall:
+> Wer einen Arbeitsplatz braucht, gibt persönliche Daten preis, ohne dass Schweigen eine echte Option wäre.
+> Das Bundesarbeitsgericht erkennt diese Asymmetrie indirekt an, indem es Bewerbern das **„Recht zur Lüge"** auf unzulässige Fragen zugesteht (BAG, Urt. v. 06.02.2003 – 2 AZR 621/01 zur verschwiegenen Schwangerschaft; BAG, Urt. v. 15.11.2012 – 6 AZR 339/11 als allgemeine Doktrin).
+> Die Konstruktion bestätigt: Selbstoffenbarung im Beschäftigungskontext ist psychologisch nicht freiwillig.
+> Die psychologische Tiefe dieses Spannungsfelds vertieft Kapitel 12.2.6.
 
 **Das Nicht-Koppelungsgebot: Wann Kopplung die Freiwilligkeit nicht aufhebt**
 
@@ -356,6 +369,30 @@ Das bestätigt die These: Rationalität ist nicht Charakterfrage der Nutzer, son
 **Entscheidungsarchitektur** braucht sinnvolle Defaults, gestaffelte Entscheidungen und Just-in-Time-Information.
 **Externe Unterstützung** umfasst automatisierte Agenten, kollektive Lösungen und technische Hilfen.
 
+**Die juristische Grenze der Einwilligungsdisposition**
+
+Bounded Rationality bezeichnet kognitive Grenzen, also die Frage, was Einwilligung *leisten kann*.
+Davon zu unterscheiden ist die normative Frage, was Einwilligung *leisten darf*.
+Beide Grenzen treffen sich an einem Punkt, an dem auch die beste Entscheidungsarchitektur versagt.
+
+Felix und Annika kooperieren in einem Pilotprojekt.
+Patienten der Klinik sollen ihre Behandlungsdaten direkt mit dem Finanzdashboard ihres Fintech-Kontos verknüpfen können.
+Eine frühe Testpatientin äußert den Wunsch, auf die Transportverschlüsselung zu verzichten, weil ihr älteres Smartphone die TLS-Verbindung verzögert.
+Sie unterschreibt eine Einwilligung, die ausdrücklich auf das Risiko hinweist.
+Beide müssen ablehnen: Felix als Verantwortlicher des Fintechs, Annika als Datenschutzbeauftragte der Klinik.
+
+Die Datenschutzkonferenz hat dies in ihrem Beschluss vom 24. November 2021 zum Verzicht auf technische und organisatorische Maßnahmen klargestellt.
+Eine pauschale Disposition über Sicherheitsstandards der Datenverarbeitung durch Einwilligung ist unzulässig (DSK, 2021).
+Der Grund ist nicht paternalistisch, sondern strukturell.
+Art. 32 DSGVO konkretisiert den Verarbeitungsgrundsatz aus Art. 5 Abs. 1 lit. f DSGVO („Integrität und Vertraulichkeit").
+Dieser Grundsatz schützt nicht nur die einwilligende Person, sondern auch Dritte: Versicherte, Mitversicherte, zukünftige Patienten und die Systemintegrität insgesamt.
+Eng dokumentierte Einzelfall-Ausnahmen lässt der Beschluss zu.
+Massenverfahren schließt er ausdrücklich aus.
+
+Aus verhaltenspsychologischer Sicht ist die Regel ein Eingeständnis.
+Selbst bei vollständiger Information kann die einwilligende Person die kollektiven und langfristigen Folgen einer Schwachstelle nicht überblicken.
+Die Schranke schützt vor einer Illusion: dass individuelle Souveränität strukturelle Schutzmechanismen ersetzen könne.
+
 **Weiterführende Kapitel:** → 4.2
 
 ## 4.1.5 Alternative Legitimationsgrundlagen aus psychologischer Sicht {#4-1-5-alternative-legitimationsgrundlagen-aus-psychologischer-sicht}
@@ -363,11 +400,21 @@ Das bestätigt die These: Rationalität ist nicht Charakterfrage der Nutzer, son
 Angesichts des Scheiterns der informierten Einwilligung stellt sich die Frage nach Alternativen.
 Die DSGVO bietet weitere Rechtsgrundlagen, aber wie schneiden diese aus verhaltenspsychologischer Sicht ab?
 
+Bevor die Alternativen zu prüfen sind, lohnt der Blick auf die Architekturentscheidung, die die Einwilligung erst zur Standardlösung macht.
+Die DSGVO folgt dem **[Verbotsprinzip]**:
+Datenverarbeitung ist grundsätzlich verboten, sofern keine Rechtsgrundlage sie erlaubt.
+In dieser Architektur wirkt die Einwilligung als systemischer Notausgang — der Weg, den Verantwortliche wählen, wenn Vertrag, gesetzliche Pflicht oder berechtigte Interessen nicht greifen.
+Der Notausgang-Charakter erklärt psychologisch, warum die Einwilligung in der Praxis dominiert, obwohl sie kognitiv überfordert:
+Sie ist die rechtssicherste Option in Zweifelsfällen, nicht die situativ passendste.
+Die folgenden Alternativen lesen sich vor diesem Hintergrund nicht als Abweichungen vom Goldstandard, sondern als kontextuell überlegene Auswege aus einer Default-Architektur, die zu viel Last auf die Einwilligung legt.
+
 **Das Spektrum der Rechtsgrundlagen**
 
 Art. 6 DSGVO nennt sechs Rechtsgrundlagen:
 Einwilligung, Vertrag, rechtliche Verpflichtung, lebenswichtige Interessen, öffentliche Aufgabe und berechtigte Interessen.
 Aus psychologischer Sicht haben diese sehr unterschiedlichen Implikationen.
+Die rechtliche Verpflichtung (lit. c) entwickelt aus Verantwortlichen-Sicht eine eigene Dynamik:
+Sie kann zur defensiven Datenverarbeitung führen, also zur Speicherung über das Erforderlichkeitsmaß hinaus aus Sanktionsangst (→ Kap. 8.2.1).
 
 **Vertragserfüllung (Art. 6 Abs. 1 lit. b)**
 
@@ -379,6 +426,18 @@ Empirisch belegt ist dies für Modelle transparenter Datenleistungs-Austauschver
 
 **Probleme** bestehen dennoch:
 „Erforderlichkeit" wird oft überdehnt, Nutzer verstehen Vertragsinhalte auch nicht vollständig, und Pseudo-Vertragskonstruktionen unterminieren das Konzept.
+
+**Die privatautonome Gewichtungsvermutung**
+
+Lit. b ruht dogmatisch auf einer Vermutung:
+Wer einen Vertrag schließt, hat seine Interessen privatautonom gewichtet, sodass eine separate Interessenabwägung entbehrlich erscheint.
+Diese Vermutung trägt nur dort, wo Privatautonomie real ist.
+In strukturellen Ungleichgewichten — Verbraucher gegenüber marktmächtigen Plattformen, Beschäftigte gegenüber Arbeitgebern, Antragsteller gegenüber Sozialleistungsträgern — bleibt die behauptete Gewichtung Fiktion.
+Das Datenschutzrecht verweist solche Asymmetrien auf vorgelagerte Rechtsgebiete wie Verbraucherschutz- oder Arbeitsrecht.
+Psychologisch greift diese Korrektur jedoch zu spät:
+Privacy Paradox, Bounded Rationality und Defaultverhalten dominieren die Vertragsentscheidung, lange bevor vorgelagerte Normen schützend eingreifen können.
+Lit. b bleibt deshalb psychologisch attraktiv und in symmetrischen Konstellationen vermutlich überlegen, in Asymmetrien aber strukturell anfällig.
+These 6 (Freiwilligkeit in Abhängigkeitsverhältnissen) gilt hier analog (→ Kapitel 12.2 zu Beschäftigtendaten, → Kapitel 7.4 zu vulnerablen Gruppen).
 
 **Berechtigte Interessen (Art. 6 Abs. 1 lit. f)**
 
@@ -468,6 +527,12 @@ Bündelung in wenige, kontextuell sinnvolle Entscheidungspunkte ist empirisch ü
 Ein neuer Ansatz setzt auf Legitimation durch Erwartungskonformität.
 Die **Grundidee**: Was vernünftigerweise erwartet wird, ist erlaubt.
 Überraschende Nutzungen brauchen Einwilligung, während Nutzererwartungen empirisch erfasst werden.
+
+Der Ansatz ist im DSGVO-Text bereits angelegt.
+Erwägungsgrund 47 macht die vernünftigen Erwartungen der betroffenen Person zum Kriterium der Interessenabwägung nach Art. 6 Abs. 1 lit. f,
+Erwägungsgrund 50 zum Kriterium der Zweckkompatibilität nach Art. 6 Abs. 4.
+Was als reformerischer Vorschlag erscheint, ist mithin juristische Norminterpretation:
+Privacy as Expected operationalisiert eine Kategorie, die der Verordnungsgeber selbst genannt hat (→ Kapitel 5.2.3 zur kontextuellen Integrität).
 
 Die **Vorteile** sind erheblich: reduzierte kognitive Last, Entsprechung mentaler Modelle und flexible Kontextabhängigkeit.
 **Herausforderungen** bestehen jedoch: Erwartungen sind heterogen, rechtliche Implementierung ist unklar und Manipulation von Erwartungen möglich.

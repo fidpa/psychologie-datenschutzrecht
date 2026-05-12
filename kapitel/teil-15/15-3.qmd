@@ -272,6 +272,31 @@ Dasselbe Muster gilt für Regulierungsvorhaben, die Datenschutz formal stärken,
 Backdoor-Pflichten oder flächendeckende Kommunikationsüberwachung untergraben nicht nur die technische Sicherheit (Abelson et al., 2015), sondern das institutionelle Fundament, auf dem der europäische Vertrauensvorsprung ruht.
 Wer Europas einzigen systematisch aufbaubaren Technologie-Wettbewerbsvorteil durch solche Maßnahmen beschädigt, handelt strategisch selbstschädigend (→ These 9; → Kap. 15.4).
 
+### Vertrauen unter Volatilitätsdruck: Die Schrems-Sequenz
+
+Vertrauen verträgt Erschütterungen, solange der Rhythmus stabil bleibt.
+Genau diese Stabilität fehlt im transatlantischen Datenschutzregime seit über einem Jahrzehnt.
+Die Sequenz beginnt mit dem Urteil des EuGH in der Rechtssache Schrems I vom 6. Oktober 2015 (C-362/14, ECLI:EU:C:2015:650), das die Safe-Harbor-Vereinbarung als Übermittlungsgrundlage für ungültig erklärte.
+Es folgt 2016 das Privacy Shield als Nachfolgeregelung, das wiederum 2020 vom EuGH mit dem Schrems-II-Urteil (C-311/18, ECLI:EU:C:2020:559) verworfen wurde.
+Am 10. Juli 2023 beschließt die Europäische Kommission den EU-US Data Privacy Framework als dritten Anlauf (Durchführungsbeschluss 2023/1795).
+Drei Brüche in acht Jahren, jeweils gefolgt von einer Reparatur — eine Konstellation, die Vertrauensbeziehungen unter Dauerunsicherheit setzt.
+
+Psychologisch lassen sich die Folgen mit zwei Konzepten präzisieren.
+Pauline Boss (2006) prägte den Begriff der **Ambiguous Loss** für Verlustsituationen ohne klaren Abschluss:
+Etwas ist verloren, aber nicht zu Ende, etwas existiert, aber nicht stabil.
+Auf europäische Verantwortliche übertragen bedeutet das einen Zustand andauernder Restambiguität.
+Selbst bei formal grünem Status nach dem aktuellen Angemessenheitsbeschluss bleibt das Substratrisiko unverändert, denn die im Schrems-II-Urteil monierten Überwachungsbefugnisse der US-Nachrichtendienste nach Section 702 FISA wurden im Vorfeld des DPF nicht rechtlich rückgebaut, sondern lediglich durch eine Executive Order des US-Präsidenten flankiert.
+Lewicki und Bunker (1996) nennen den daraus resultierenden Vertrauensmodus **Conditional Trust**:
+Vertrauen besteht, ist aber an erkennbar fragile Bedingungen geknüpft, deren Kollaps jederzeit möglich erscheint.
+Die wiederholte Erfahrung gerichtlicher Korrektur wirkt selbstverstärkend, weil jede Wiederholung die Erwartung weiterer Korrekturen schärft.
+
+Für die Praxis europäischer Datenschutzbeauftragter materialisiert sich diese Volatilität in zyklischer Vertragsarbeit.
+Annika Sommer fasst die Konsequenz aus DSB-Sicht nüchtern zusammen:
+„Unsere Auftragsverarbeitungsverträge mit US-Anbietern stellen wir alle drei bis fünf Jahre auf neue rechtliche Grundlagen um. Erst Privacy Shield, dann Standardvertragsklauseln mit Transfer Impact Assessment, jetzt der Data Privacy Framework — und niemand erwartet, dass das die letzte Umstellung war."
+Die institutionelle Reparatur durch den jüngsten Angemessenheitsbeschluss reduziert das technische Risiko der Übermittlung;
+sie löst aber nicht das psychologische Problem der Conditional Trust auf der Verantwortlichen-Ebene (→ Kap. 9.4).
+Solange die Substratstrukturen unverändert bleiben, bleibt auch die Erwartung weiterer Erschütterungen ein Strukturmerkmal des Systems (→ These 9; → Kap. 8.3).
+
 ## 15.3.5 Digitaler Kulturimperialismus {#15-3-5-digitaler-kulturimperialismus}
 
 Kritiker erheben den Vorwurf des digitalen Kulturimperialismus.

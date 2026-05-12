@@ -7,6 +7,7 @@
 - [12.2.3 BYOD und Work-Life-Blending](#12-2-3-byod-und-work-life-blending)
 - [12.2.4 Betriebsvereinbarungen aus psychologischer Sicht](#12-2-4-betriebsvereinbarungen-aus-psychologischer-sicht)
 - [12.2.5 Remote Work und neue Datenschutzherausforderungen](#12-2-5-remote-work-und-neue-datenschutzherausforderungen)
+- [12.2.6 Bewerbungsverfahren: Selbstoffenbarung unter Druck](#12-2-6-bewerbungsverfahren-selbstoffenbarung-unter-druck)
 - [Implikationen für die Praxis](#implikationen-fuer-die-praxis)
 
 Die moderne Arbeitswelt verändert sich in rasantem Tempo.
@@ -255,6 +256,89 @@ Dr. Annika Sommer fasst die Herausforderungen zusammen:
 "Remote Work ist gekommen, um zu bleiben. Aber wir müssen es menschengerecht gestalten. Das bedeutet:
 Vertrauen statt Kontrolle, Ergebnisorientierung statt Präsenzkult, Respekt vor privaten Räumen und Zeiten. Technische Lösungen allein reichen nicht – wir brauchen eine neue Arbeitskultur, die digitale Möglichkeiten nutzt, ohne Menschen zu digitalen Objekten zu degradieren."
 
+## 12.2.6 Bewerbungsverfahren: Selbstoffenbarung unter Druck {#12-2-6-bewerbungsverfahren-selbstoffenbarung-unter-druck}
+
+Bevor das Beschäftigungsverhältnis beginnt, beginnt die Macht-Asymmetrie.
+Wer einen Arbeitsplatz sucht, muss persönliche Daten preisgeben — Lebenslauf, Zeugnisse, Gesundheitszustand, manchmal sogar familiäre Verhältnisse.
+Wer Arbeitsplätze vergibt, entscheidet, welche Information welcher Bewerber preisgibt und welche Konsequenzen daraus folgen.
+Diese Asymmetrie prägt jede Bewerbungssituation, egal wie höflich der Ton im Vorstellungsgespräch klingt.
+
+Datenschutz greift hier von der ersten Sekunde an, weil die DSGVO auch die vorvertragliche Phase umfasst.
+Die psychologische Dimension geht jedoch über das Recht hinaus.
+Bewerber stehen unter strukturellem Druck, sich attraktiv zu zeigen, ihre Schwächen zu kaschieren und persönliche Informationen offenzulegen, die sie unter anderen Umständen niemals teilen würden.
+
+**Active Sourcing — Sichtbarkeit ohne Wahl**
+
+Der Arbeitsmarkt hat sich in vielen Branchen vom Arbeitgeber- zum Arbeitnehmermarkt verschoben.
+Statt auf Bewerbungen zu warten, suchen Unternehmen aktiv nach Talenten — über LinkedIn, Xing, GitHub und ähnliche Plattformen.
+Diese Praxis trägt den Namen **[Active Sourcing]**:
+Recruiter und Headhunter identifizieren potenzielle Kandidaten anhand öffentlich zugänglicher Profile und sprechen sie direkt an.
+
+Datenschutzrechtlich ist diese Identifikation eine Erhebung personenbezogener Daten.
+Die bloße Veröffentlichung eines Profils stellt keine Einwilligung dar, weder für die Erhebung noch für die Ansprache.
+Berufliche Netzwerke wie LinkedIn oder Xing erlauben Active Sourcing in der Regel als Interessenabwägung nach Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+Freizeitorientierte Plattformen wie Instagram oder TikTok scheiden in der Regel aus, weil ihre Inhalte keinen direkten Bezug zur Stellenanforderung haben und der Kandidat dort nicht mit beruflicher Kontaktaufnahme rechnen muss.
+
+Felix Hartmann kennt diese Logik aus eigener Erfahrung:
+"Mein GitHub-Profil ist eigentlich nur eine Sammlung kleiner Open-Source-Projekte, die ich nebenher pflege. Trotzdem schreiben mich monatlich mehrere Headhunter an, manchmal mit erstaunlich konkreten Vorschlägen. Anfangs fand ich das schmeichelhaft, mittlerweile verunsichert es mich. Was wissen die wirklich über mich, was schließen sie aus meiner Code-Historie auf meine Persönlichkeit, mein Gehaltsgefüge, meine Wechselbereitschaft?"
+
+Diese Verunsicherung verweist auf einen klassischen **[Kontextkollaps]** (→ siehe Kapitel 1.1):
+Ein Profil, das ursprünglich für andere Entwickler gedacht war, wird zur Bewertungsgrundlage potenzieller Arbeitgeber.
+Der ursprüngliche Kontext, fachlicher Austausch in einer Open-Source-Community, wird verlassen, ohne dass der Eigentümer der Daten dem zugestimmt hätte.
+
+**Bewerbungsstress und Impression Management**
+
+Sobald aus der ersten Kontaktaufnahme ein konkretes Verfahren wird, beginnt die nächste Stufe der Selbstoffenbarung.
+Erving Goffman hat in *The Presentation of Self in Everyday Life* (1959) gezeigt, wie Menschen in sozialen Situationen permanent eine inszenierte Version ihrer selbst präsentieren.
+Diese Bühnen-Metaphorik trifft das Bewerbungsgespräch besonders genau:
+Bewerber stehen im Scheinwerferlicht, ihr Auftritt wird minutiös beobachtet, und jede Geste kann den Ausschlag geben.
+
+Sidney Jourard prägte parallel den Begriff der *Self-Disclosure*, also der Selbstoffenbarung in zwischenmenschlichen Beziehungen (Jourard, 1971).
+Seine zentrale Erkenntnis:
+Selbstoffenbarung ist im Normalfall reziprok — wer Persönliches preisgibt, erwartet Persönliches zurück.
+Im Bewerbungsverfahren fehlt diese Reziprozität fast vollständig.
+Bewerber legen Werdegang, Schwächen, Gehaltsvorstellungen und manchmal auch private Lebensumstände offen, während Arbeitgeber kaum mehr als Stellenbeschreibung und Unternehmensbroschüre preisgeben.
+
+Die Stress-Empirie bestätigt das psychologische Gewicht dieser Asymmetrie.
+McCarthy und Goffin (2004) entwickelten mit der *Measure of Anxiety in Selection Interviews* ein Instrument zur Erfassung der Bewerbungsangst und konnten zeigen, dass diese Angst die Leistung im Vorstellungsgespräch systematisch verschlechtert.
+Bewerber wissen, dass jeder Versprecher und jede unbedachte Pause als Defizit ausgelegt werden könnte, und genau diese Befürchtung erhöht die Wahrscheinlichkeit von Versprechern und Pausen.
+
+**Das Fragerecht und das „Recht zur Lüge"**
+
+Die Rechtsprechung hat auf diese Asymmetrie reagiert und das Fragerecht des Arbeitgebers eng zugeschnitten.
+Zulässig sind nur Fragen, die einen sachlichen Bezug zur ausgeschriebenen Tätigkeit haben — fachliche Qualifikation, physische Eignung für die konkrete Aufgabe oder einschlägige Vorstrafen.
+Unzulässig sind Fragen nach Schwangerschaft, Religion, Gewerkschaftszugehörigkeit, allgemeinem Gesundheitszustand, Familienplanung oder politischer Einstellung.
+Der Diskriminierungsschutz aus § 1 AGG liefert hier den rechtlichen Filter.
+
+Was Bewerber tun dürfen, wenn unzulässige Fragen dennoch gestellt werden, hat das Bundesarbeitsgericht in einer Reihe von Entscheidungen geklärt:
+Sie dürfen lügen.
+Genauer: Eine wahrheitswidrige Antwort auf eine unzulässige Frage stellt keine arglistige Täuschung dar und kann den Arbeitsvertrag nicht im Nachhinein zu Fall bringen (BAG, Urt. v. 06.02.2003 – 2 AZR 621/01 zur verschwiegenen Schwangerschaft; BAG, Urt. v. 15.11.2012 – 6 AZR 339/11 als allgemeine Doktrin).
+Diese Konstruktion firmiert in der juristischen Literatur als **[Recht zur Lüge]**.
+
+Psychologisch ist dieses Recht weit mehr als eine Spitzfindigkeit der Rechtsdogmatik.
+Es ist die rechtliche Anerkennung, dass Selbstoffenbarung im Bewerbungskontext keine freiwillige Handlung ist (→ siehe Kapitel 4.1 zur Freiwilligkeit der Einwilligung).
+Wer schweigt, signalisiert Verdächtiges; wer wahrheitsgemäß antwortet, riskiert Diskriminierung.
+Die Lüge wird zum kognitiven Schutzmechanismus, nicht aus moralischer Schwäche, sondern als rationale Reaktion auf strukturellen Druck.
+
+Damit verschiebt sich die Fragestellung weg von der Bewerber-Ehrlichkeit hin zur Recruiter-Disziplin:
+Wer unzulässige Fragen stellt, schafft genau jene Situation, in der die Lüge zum erlaubten Mittel wird.
+
+**Lisa Chens Reflexion: Vom Compliance-Filter zum Vertrauensaufbau**
+
+Lisa Chen leitet seit drei Jahren ein Recruiting-Programm für Aktuare und Underwriter in ihrer Versicherung.
+Sie blickt kritisch auf die übliche Praxis zurück:
+"Früher haben wir Bewerbungsverfahren wie Compliance-Hürden gestaltet — Checkliste durchgehen, AGG-Falle vermeiden, fertig. Das Ergebnis waren sterile Gespräche, in denen alle drei Beteiligten nicht wirklich miteinander redeten, sondern Rollen spielten. Wir haben uns in den letzten Monaten umgestellt:
+Statt zu fragen, was wir abfragen dürfen, fragen wir, welche Informationen wir wirklich brauchen, und welche Asymmetrie der Bewerber gerade aushält. Die Vorstellungsgespräche dauern jetzt länger, aber wir gewinnen Kandidaten, die uns auch nach drei Monaten noch zutrauen, dass wir ihre Daten respektieren."
+
+Lisas Wandel illustriert die Brücke zur **[Datenschutzkultur]** in Organisationen (→ siehe Kapitel 8.1).
+Wer Vertrauen erst aufbauen will, sobald der Vertrag unterschrieben ist, kommt zu spät.
+Vertrauen entsteht in der ersten E-Mail, im ersten Telefonat, in der Frage, ob das Unternehmen das Bewerbungsfoto wirklich braucht.
+
+Vertrauen lässt sich vor dem Vertrag verspielen, und der Verlust trägt dann durch das gesamte Beschäftigungsverhältnis.
+Was als Recruiting-Detail wirkt, prägt die spätere Bereitschaft zur kooperativen Datenpreisgabe, die Akzeptanz von Betriebsvereinbarungen (→ siehe Kapitel 12.2.4) und die Reaktion auf jede künftige Überwachungsmaßnahme (→ siehe Kapitel 12.2.1).
+
+**Weiterführende Kapitel:** → 1.1, → 4.1, → 6.2, → 7.4, → 10.1
+
 ## Implikationen für die Praxis {#implikationen-fuer-die-praxis}
 
 Was wir über die psychologischen Dimensionen des Beschäftigtendatenschutzes wissen, erfordert ein tiefgreifendes Umdenken bei allen beteiligten Akteuren.
@@ -327,6 +411,9 @@ Die Alternative – eine Arbeitswelt totaler Überwachung und psychischer Ersch�
 - **Edmondson, A.** (1999). Psychological safety and learning behavior in work teams. *Administrative Science Quarterly, 44*(2), 350–383. https://doi.org/10.2307/2666999
 - **Edmondson, A. C.** (2019). *The fearless organization: Creating psychological safety in the workplace for learning, innovation, and growth*. John Wiley & Sons.
 - **Frey, B. S., & Jegen, R.** (2001). Motivation crowding theory. *Journal of Economic Surveys, 15*(5), 589–611. https://doi.org/10.1111/1467-6419.00150
+- **Goffman, E.** (1959). *The presentation of self in everyday life*. University of Edinburgh Social Sciences Research Centre. https://doi.org/10.4324/9781003320609-59
+- **Jourard, S. M.** (1971). *The transparent self* (Rev. ed.). Van Nostrand Reinhold.
+- **McCarthy, J., & Goffin, R.** (2004). Measuring job interview anxiety: Beyond weak knees and sweaty palms. *Personnel Psychology, 57*(3), 607–637. https://doi.org/10.1111/j.1744-6570.2004.00002.x
 - **Muller, J. Z.** (2018). *The tyranny of metrics*. Princeton University Press.
 - **Pierce, J. L., Kostova, T., & Dirks, K. T.** (2001). Toward a theory of psychological ownership in organizations. *Academy of Management Review, 26*(2), 298–310. https://doi.org/10.2307/259124
 - **Tarafdar, M., Tu, Q., Ragu-Nathan, T. S., & Ragu-Nathan, B. S.** (2011). Crossing to the dark side: Examining creators, outcomes, and inhibitors of technostress. *Communications of the ACM, 54*(9), 113–120. https://doi.org/10.1145/1995376.1995403

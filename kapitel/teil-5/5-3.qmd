@@ -196,6 +196,14 @@ Die Europäische Kommission hingegen griff den relativen Ansatz im Digital Omnib
 Ob sich der relative oder der absolute Ansatz durchsetzt, ist im April 2026 offen.
 Die Debatte zeigt aber, dass die Diskrepanz zwischen technischer und gefühlter Sicherheit auch die juristische Bewertung erreicht hat.
 
+Hinter dem Streit über die Perspektive steht ein älteres Strukturprinzip: die [Funktionstrennung].
+Pseudonymisierung weist zwei Rollen aus:
+den Datenhalter, der ohne Zuordnungsschlüssel arbeitet, und den Schlüsselhalter, der zuordnen könnte, ohne die Daten zu besitzen.
+Diese Trennung ist mehr als juristische Konstruktion.
+Sie operationalisiert ein psychologisches Prinzip: Vertrauen entsteht nicht durch Verzicht auf Daten, sondern durch verteilte Kontrolle.
+Wer dem Datenhalter vertraut, muss nicht zugleich dem Schlüsselhalter vertrauen.
+Genau dieser Punkt wurde in der Pseudonymisierungs-Kommentierung zum Vertrauensanker (Kühling/Buchner, 2024).
+
 Für Felix bedeutet dieser Autoritätskonflikt ein konkretes Problem.
 Sein Start-up verarbeitet pseudonymisierte Finanzdaten.
 Die Frage, ob diese Daten personenbezogen sind, bestimmt den gesamten Compliance-Aufwand.
@@ -338,6 +346,16 @@ Felix Hartmann erlebt diese Entwicklung in seiner täglichen Arbeit.
 Diese Einschätzung hat ihn veranlasst, in seinem Team eine neue Leitfrage zu etablieren:
 nicht mehr nur „Sind die Daten anonymisiert?", sondern „Bleiben die Daten anonym, wenn jemand sie mit externen Datensätzen kombiniert?"
 
+### Die [Volatilität des Personenbezugs]
+
+Felix' Leitfrage berührt einen Punkt, den die DSGVO selbst nicht stillstellt: Personenbezug ist nicht statisch.
+Was heute mit unverhältnismäßigem Aufwand verbunden ist, kann morgen Routine sein.
+Diese Volatilität folgt der technischen Entwicklung: Verschlüsselung nach gestrigem Stand der Technik bricht unter heutiger Rechenkraft.
+Externe Datenquellen verstärken den Effekt:
+Daten, die isoliert keine Identifikation erlauben, werden personenbeziehbar, sobald sich die verfügbare Referenzbasis erweitert.
+Praktisch folgt daraus: Anonymisierungsentscheidungen sind zeitlich befristet, Verschlüsselung verlangt periodische Erneuerung, und eine Risikobewertung, die heute trägt, kann morgen veraltet sein (vgl. EuGH C-582/14, Breyer, 19.10.2016; Kühling/Buchner, 2024).
+Wer mit potenziell personenbeziehbaren Daten arbeitet, übernimmt damit das Risiko ihrer Volatilität.
+
 ### Zukunftsszenarien
 
 Drei plausible Entwicklungspfade zeichnen sich ab.
@@ -448,3 +466,7 @@ Daten, die unser Selbstbild prägen werden (→ siehe Kapitel 5.4 zur Profilbild
 - Dwork, C. (2008). Differential privacy: A survey of results. *International Conference on Theory and Applications of Models of Computation*, 1-19.
 - Narayanan, A., Paskov, H., Gong, N. Z., Bethencourt, J., Stefanov, E., Shin, E. C. R., & Song, D. (2012). On the feasibility of internet-scale author identification. *Proceedings of the 2012 IEEE Symposium on Security and Privacy*, 300-314.
 - Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science*, 347(6221), 509-514.
+
+### Rechtswissenschaft und Rechtsprechung
+- EuGH, Urteil vom 19.10.2016, Rs. C-582/14 (Breyer ./. Bundesrepublik Deutschland), ECLI:EU:C:2016:779.
+- Kühling, J. & Buchner, B. (Hrsg.) (2024). *Datenschutz-Grundverordnung BDSG. Kommentar* (4. Aufl.). München: C.H. Beck.
