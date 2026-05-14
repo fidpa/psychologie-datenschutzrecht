@@ -1,0 +1,184 @@
+---
+title: "Teil X: Künstliche Intelligenz"
+toc-depth: 2
+---
+
+*Kurzfassungen aller Kapitel dieses Buchteils.*
+
+## Kapitel 10.1: Algorithmische Entscheidungen: Akzeptanz und Widerstand - Kurzversion
+
+**Kernthese**: Menschen zeigen systematische [Algorithm Aversion] - die irrationale Ablehnung algorithmischer Entscheidungen trotz deren nachgewiesener Überlegenheit (94% vs. 62% Trefferquote). Diese Ablehnung wurzelt in fundamentalen psychologischen Mechanismen um Fairness, Kontrolle und Vertrauen.
+
+### 10.1.1 Vertrauen in Maschinen vs. menschliche Entscheidungen
+
+- **[Digitales Vertrauen]** folgt anderen Gesetzmäßigkeiten als zwischenmenschliches Vertrauen und basiert auf Kompetenzerwartungen statt sozialen Signalen
+- **Fairness-Vertrauens-Lücke**: 38% Vertrauensverlust bei algorithmischer Personalauswahl, 27% höhere Zahlungsbereitschaft für menschliche Entscheidungen
+- **Neurologische Unterschiede**: fMRT zeigt reduzierte Amygdala-Aktivität bei Algorithmus-Bewertung, verstärkte analytische Verarbeitung
+
+### 10.1.2 Algorithm Aversion: Ursachen und Überwindung
+
+- **[Algorithm Aversion]** beschreibt systematische Bevorzugung menschlicher Urteile selbst bei algorithmischer Überlegenheit (97% vs. 0,3% Fehlerrate)
+- **Asymmetrische Fehlertoleranz**: 46% Vertrauensverlust nach einem algorithmischen Fehler vs. Toleranz bei menschlichen Fehlern
+- **Überwindungsstrategien**: Minimale Anpassungsmöglichkeiten steigern Akzeptanz von 33% auf 73%, dosierte Anthropomorphisierung, Expertise-Framing
+
+### 10.1.3 Die Illusion der Objektivität
+
+- **Objektivitätsillusion** (Mathwashing) verschleiert, dass Algorithmen kristallisierte menschliche Entscheidungen mit allen Verzerrungen sind
+- **Kognitive Verzerrungen**: Zahlen-Bias, Komplexitäts-Heuristik und [Automation Bias] verstärken Objektivitätsglaube
+- **Folgen**: 64% reduzierte Prüfintensität bei "objektiven" Systemen, passive Abzeichnung algorithmischer Entscheidungen
+
+### 10.1.4 Fairness-Wahrnehmungen bei KI-Entscheidungen
+
+- **Multiple Fairness-Konzeptionen**: Distributive, prozedurale und interaktionale Fairness sind mathematisch oft inkompatibel
+- **Wahrnehmungsverzerrungen**: In-Group Bias, Transparency Paradox, 76% bewerten algorithmische Absagen als "unmenschlich"
+- **Lösungsansätze**: Partizipative Entwicklung, Fairness-Feedback-Loops, kontextualisierte Fairness-Kriterien
+
+### 10.1.5 Kulturelle Unterschiede in der KI-Akzeptanz
+
+- **Hofstedes Kulturdimensionen** erklären globale Akzeptanzunterschiede: Machtdistanz, [Individualismus vs. Kollektivismus], [Unsicherheitsvermeidung]
+- **Empirische Befunde**: 34% Varianz zwischen Ländern vs. 22% zwischen Domänen, 80% Zustimmung zu Social Credit in China
+- **Kulturspezifische Muster**: Deutschland fokussiert Datenschutz, USA Diskriminierung, Japan soziale Harmonie, China gesellschaftlichen Nutzen
+
+### Praktische Implikationen
+
+- **Entwickler**: Psychologische Faktoren von Beginn an mitdenken, [Algorithm Literacy] fördern, Objektivitätsillusion vermeiden
+- **Unternehmen**: Change-Management-Ansatz, partizipative Prozesse, kulturadaptive Systeme entwickeln  
+- **Datenschutzbeauftragte**: Neue Kompetenzen in Algorithm Auditing, Vermittler zwischen Technik und psychologischen Bedürfnissen
+- **Regulierer**: Flexible Rahmen für kulturelle Anpassungen, Balance zwischen Transparenz und kognitiver Verarbeitbarkeit
+
+→ [Zum Volltext (Kapitel 10.1)](../kapitel/teil-10/10-1.qmd)
+
+---
+
+## Kapitel 10.2: Erklärbare KI aus psychologischer Perspektive - Kurzversion
+
+**Kernthese**: Technische Transparenz garantiert kein menschliches Verstehen - nur 23% der Nutzer erreichen funktionales Verstehen von KI-Erklärungen. Erklärbare KI muss kognitive Grenzen respektieren, sonst bleibt sie wirkungslos.
+
+### 10.2.1 Was bedeutet "Verstehen" im KI-Kontext?
+
+- **Verstehensebenen**: Funktionales (23% erreichen es), strukturelles, kausales und teleologisches Verstehen unterscheiden sich fundamental
+- **[Illusion des Verstehens]**: 78% überschätzen ihr Verständnis, nur 19% können Grundprinzipien korrekt wiedergeben
+- **[Anthropomorphisierung]** durch [Theory of Mind] kann Verstehen erleichtern, führt aber zu Missverständnissen über algorithmische Natur
+
+### 10.2.2 Erklärungstiefe und kognitive Überlastung
+
+- **[Cognitive Load Theory]** zeigt: Mehr Information führt nicht zu besserem Verstehen, sondern kann es behindern
+- **Komplexitäts-Paradox**: Einfache Erklärungen (3 Faktoren) erreichen 73% Verständnis, komplexe (50 Faktoren) nur 21%
+- **[George Miller's 7±2]** Regel gilt auch für KI-Erklärungen - menschliche Kapazität ist begrenzt
+
+### 10.2.3 Visualisierungstechniken für KI-Entscheidungen
+
+- **Visualisierungswirksamkeit** variiert stark: Feature Importance 67%, Heatmaps 71%, Entscheidungsbäume 83% bei <5 Knoten
+- **Gestaltpsychologie**: Unbeabsichtigte Gruppierungen und Metaphern-Mismatch erzeugen Fehlinterpretationen
+- **Progressive Disclosure** und mehrstufige Ansätze erreichen 85% Verständnisrate über alle Nutzergruppen
+
+### 10.2.4 Counterfactual Explanations und mentale Modelle
+
+- **"Was wäre wenn"-Erklärungen** resonieren stark mit menschlicher Kognition und fördern Handlungsorientierung
+- **Sweet Spot** bei 2-3 Alternativen - mehr führt zu [Cognitive Load], weniger zu unvollständigem Verständnis
+- **Actionable Counterfactuals** ("Mit 2.000 Euro mehr Einkommen wäre Kredit genehmigt") transformieren passive Ablehnung in aktive Optionen
+
+### 10.2.5 Diskriminierung und Bias: Psychologische Wahrnehmung
+
+- **Wahrnehmungs-Realitäts-Gap**: Technisch faire Systeme werden oft als diskriminierend wahrgenommen, abhängig von Salienz persönlicher Merkmale
+- **[Attribution Bias]** und [Confirmation Bias] verzerren Bias-Wahrnehmung systematisch
+- **Partizipative Fairness-Definition** erhöht Akzeptanz von 34% auf 78% gegenüber Top-Down-Ansätzen
+
+### Praktische Implikationen
+
+- **Entwickler**: Adaptive Erklärungssysteme entwickeln, die sich an Nutzerexpertise anpassen, A/B-Tests für Verständnismetriken
+- **Unternehmen**: Zielgruppenspezifische Erklärungsstrategien, Schulungen gegen [Illusion des Verstehens], transparente Bias-Kommunikation
+- **Regulierer**: Optimale statt maximale Erklärbarkeit fordern, empirische Validierung von Verständlichkeit
+- **Datenschutzbeauftragte**: Neue Kompetenzen in Verständlichkeitsbewertung, Checklisten für nutzergerechte Erklärungen entwickeln
+
+→ [Zum Volltext (Kapitel 10.2)](../kapitel/teil-10/10-2.qmd)
+
+---
+
+## Kapitel 10.3: Large Language Models: Neue Herausforderungen für Datenschutz und Vertrauen - Kurzversion
+
+**Kernthese**: LLMs verwischen die Grenze zwischen Mensch und Maschine unprecedented, wodurch Menschen 3,4-mal mehr sensible Informationen teilen und neue psychologische Vulnerabilitäten entstehen. Die Kombination aus [Anthropomorphisierung], Halluzinationen und menschenähnlicher Kommunikation schafft Datenschutz- und Vertrauensprobleme jenseits traditioneller KI-Systeme.
+
+### 10.3.1 Anthropomorphisierung von Sprachmodellen
+
+- **[Anthropomorphisierung]** erreicht bei LLMs neue Qualität durch flüssige Sprache und scheinbares Kontextverständnis, was [Theory of Mind]-Aktivierung in denselben Hirnregionen wie bei menschlicher Kommunikation auslöst
+- **Datenschutz-Konsequenzen**: Menschen teilen 3,4-mal mehr persönliche Informationen mit anthropomorphisierten Chatbots, reduzierte kritische Distanz besonders bei vulnerablen Gruppen
+- **Parasoziale Beziehungen** entstehen durch Konsistenz-Illusion und "perfekte" Verfügbarkeit der Systeme
+
+### 10.3.2 Datenschutz bei Trainingsdaten und Outputs
+
+- **Training Data Extraction** ermöglicht es LLMs, trainierte Daten teilweise zu reproduzieren, wobei die Wahrscheinlichkeit mit Häufigkeit in Trainingsdaten steigt
+- **[Recht auf Vergessenwerden]** kollidiert fundamental mit LLM-Architektur - einmal trainierte Information kann nicht chirurgisch entfernt werden
+- **[Kontextkollaps]** verletzt [Kontextuelle Integrität], da Texte aus spezifischen Kontexten in universellen Modellen vereint werden
+
+### 10.3.3 Halluzinationen und Vertrauenswürdigkeit
+
+- **Halluzinationen** kombinieren hohe sprachliche Plausibilität mit faktischer Inkorrektheit, verstärkt durch Fluency Heuristic und [Authority Bias]
+- **"Uncanny Valley of Trust"**: LLMs befinden sich im gefährlichen Bereich hoher Fähigkeiten mit übermäßigem Vertrauen
+- **Epistemische Vigilanz-Ermüdung** führt zu dysfunktionalen Mustern von blindem Vertrauen oder kompletter Ablehnung
+
+### 10.3.4 Psychologische Effekte menschenähnlicher KI
+
+- **Identitäts-Effekte**: Intensive LLM-Nutzer zeigen nach sechs Monaten signifikante Veränderungen in Selbstbeschreibung Richtung KI-Sprache
+- **Beziehungs-Substitution** besonders bei vulnerablen Gruppen problematisch, kann reale Beziehungen unterminieren
+- **Kreativitäts-Paradox** und Empathie-Verschiebung zeigen "Kreativitäts-Atrophie-Effekt" und gestörte emotionale Kalibrierung
+
+### 10.3.5 Prompt Injection und Social Engineering
+
+- **Prompt Injection** nutzt Schwierigkeiten bei Unterscheidung zwischen Instruktionen und Daten, verstärkt durch kognitive Überlastung und Autoritäts-Spoofing
+- **Skalierbare Täuschung**: Ein Angreifer kann mit LLM-Unterstützung tausende personalisierte Manipulationskampagnen fahren
+- **Emotionale Exploitation** durch simulierte Empathie ohne moralische Hemmungen erschreckend erfolgreich bei [Social Engineering]
+
+### Praktische Implikationen
+
+- **Entwickler**: [Anthropomorphisierung] bewusst gestalten, psychologische Angriffsvektoren in Sicherheitsmechanismen berücksichtigen, "Honest AI" entwickeln
+- **Unternehmen**: Policies für gesunde LLM-Nutzung, psychologische Vorbereitung der Mitarbeiter, Monitoring für psychologische Gesundheit etablieren
+- **Datenschutzbeauftragte**: Neue Konzepte wie "Inferenz-Schutz" entwickeln, [Psychological Safety] bei KI-Interaktionen sicherstellen
+- **Therapeuten**: Auf KI-Abhängigkeit und Identitätskrisen vorbereiten, neue diagnostische Instrumente für problematische KI-Nutzung entwickeln
+
+→ [Zum Volltext (Kapitel 10.3)](../kapitel/teil-10/10-3.qmd)
+
+---
+
+## Kapitel 10.4: Der AI Act: Psychologische Implikationen der Regulierung - Kurzversion
+
+**Kernthese**: Der AI Act schafft eine Kluft zwischen regulatorischen Intentionen und psychologischer Realität - nach drei Monaten sinkt die Risikoeinschätzung für Hochrisiko-KI um 64%, während 89% Transparenz-Informationen ignorieren. Erfolgreiche KI-Governance muss menschliches Verhalten antizipieren und einplanen.
+
+### 10.4.1 Risikobasierte Regulierung und Risikowahrnehmung
+
+- **Diskrepanz zwischen objektiver und subjektiver Risikoeinschätzung**: Menschen bewerten KI-Risiken emotional statt rational, beeinflusst von Dread Risk vs. Unknown Risk Dimensionen
+- **Habituation-Effekt**: Nach drei Monaten Nutzung sinkt Risikowahrnehmung um 64% unabhängig von objektivem Risiko
+- **Kulturelle Variabilität** in Risikowahrnehmung untergräbt Universalitätsansprüche der Risikokategorisierung
+
+### 10.4.2 Verbotene Praktiken: Manipulation und Ausnutzung
+
+- **[Mikrotargeting] psychologischer Vulnerabilitäten** ermöglicht unprecedented Manipulation durch KI-erkannte emotionale Zustände
+- **Experimentelle Befunde**: KI konnte Kaufentscheidungen um 43% beeinflussen ohne Bewusstsein der Probanden
+- **Durchsetzung erfordert** psychologische Impact Assessments, Red Team Exercises und [Whistleblowing]-Schutz
+
+### 10.4.3 Hochrisiko-KI: Psychologische Schutzbedarfe
+
+- **Autonomie-Bedrohung**: KI in Bildung/Beschäftigung bedroht [Selbstwirksamkeit] und [Selbstbestimmungstheorie] jenseits technischer Risiken
+- **Institutionelles Vertrauen** kann durch wahrgenommene KI-Ungerechtigkeit nachhaltig beschädigt werden
+- **Selbsterfüllende Prophezeiungen** bei KI-Bewertungen besonders in Bildungskontext problematisch
+
+### 10.4.4 Transparenzpflichten und ihre Wirksamkeit
+
+- **Transparenz-Paradox**: Maximale Transparenz führt zu Überforderung und sinkendem Vertrauen statt zu Aufklärung
+- **Geringe Wirksamkeit**: 89% ignorieren Transparenz-Informationen, 8% sind verwirrt, nur 3% fühlen sich besser informiert
+- **Layered Transparency** und [Peer Learning] effektiver als umfassende technische Dokumentation
+
+### 10.4.5 Regulatory Sandboxes: Innovation und Sicherheit
+
+- **Experimentier-Effekt**: Wissen um Teilnahme an Sandbox verändert Verhalten (Hawthorne-Effekt)
+- **Sicherheitsillusion** durch "Sandbox"-Metapher kann zu falscher Risikowahrnehmung führen
+- **Erfolgreiche Sandboxes** zeichnen sich durch klare Zeitgrenzen, transparente Kriterien und Lernkultur aus
+
+### Praktische Implikationen
+
+- **Unternehmen**: Psychologische Expertise integrieren, Risikobewertungen um emotionale Dimensionen erweitern, verständliche statt vollständige Transparenz
+- **Datenschutzbeauftragte**: Zu Brückenbauern zwischen Innovation und menschlichen Bedürfnissen werden, [Behavioral Impact Assessment] durchführen
+- **Regulatoren**: Systematische Behavioral Impact Assessments vor Regelerlass, kontinuierliche Evaluation psychologischer Effekte, Flexibilität für Nachbesserungen
+- **Forschung**: [Interdisziplinäre] Langzeitforschung zu Regulierungseffekten, Real-World-Daten aus Praxis, kulturelle Adaptierung von Best Practices
+
+→ [Zum Volltext (Kapitel 10.4)](../kapitel/teil-10/10-4.qmd)

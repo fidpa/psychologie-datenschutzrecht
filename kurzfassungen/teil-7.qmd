@@ -1,0 +1,242 @@
+---
+title: "Teil VII: Betroffene Personen"
+toc-depth: 2
+---
+
+*Kurzfassungen aller Kapitel dieses Buchteils.*
+
+## Kapitel 7.1: Typologien von Datenschutznutzern – Kurzversion
+
+**Kernthese**: Datenschutzverhalten folgt keinem einheitlichen Muster: Westin (2003) unterscheidet drei Grundtypen — **[Privacy-Fundamentalisten]**, **[Privacy-Pragmatiker]** und **[Privacy-Unbekümmerte]** —; entscheidender ist jedoch, dass die Mehrheit der Menschen kontextabhängig zwischen den Typen wechselt.
+
+### 7.1.1 Privacy-Fundamentalisten
+
+- **15–25 % der Bevölkerung** (Westin, 2003): lehnen nahezu jede Datensammlung ab und nehmen erhebliche Alltagseinschränkungen in Kauf; Barzahlung, VPN und anonyme Suchmaschinen sind für sie Standard.
+- **Psychologisches Profil**: erhöhte Werte in **[Neurotizismus]** und **[Gewissenhaftigkeit]** (OCEAN-Modell, → Kap. 2.4); Datenpreisgabe wird als psychologischer Einschnitt in das Autonomiegefühl erlebt.
+- **[Reaktanztheorie]** (Brehm, 1966): Je stärker der erlebte Zwang zur Einwilligung, desto intensiver die Gegenreaktion — Umgehung, Dienstverzicht oder technische Anonymisierung.
+- **Privacy-Fundamentalisten-Paradox**: Das dichte Technikprofil aus VPN, Tor und Verschlüsselung kann paradoxerweise sichtbarer machen als das Verhalten des „gläsernen" Durchschnittsnutzers (Miriam Krüger).
+
+### 7.1.2 Privacy-Pragmatiker
+
+- **55–65 % der Bevölkerung** (Westin, 2003): situative Kosten-Nutzen-Abwägung; System 1 (Kahneman, 2011) dominiert im digitalen Alltag; bekannte Apps und Routinen werden ohne vertiefte Prüfung abgenickt.
+- **[Mental Accounting]** / **[Privacy-Budgetierung]** (Thaler, 1985): Gesundheits- und Finanzdaten gelten als „teuer", Konsumpräferenzen als „billig"; diese innere Werterangfolge wirkt nach außen widersprüchlich, ist aber intern konsistent.
+- **Schwachstelle Komplexität**: Dark Patterns kapern System-1-Entscheidungen, bevor System 2 eingreift; viele Pragmatiker bereuen Entscheidungen im Nachhinein, ändern ihr Verhalten aber selten (Acquisti & Grossklags, 2005).
+- **Nudges** als wirksamste Intervention: datenschutzfreundliche Defaults, transparente Datenfluss-Übersichten und klare Kosten-Nutzen-Kommunikation (Thaler & Sunstein, 2008).
+
+### 7.1.3 Privacy-Unbekümmerte
+
+- **20–30 % der Bevölkerung** (Westin, 2003): teilen auch sensible Daten bereitwillig; Datenschutz wird als abstrakte Bedrohung wahrgenommen, die andere trifft, nicht man selbst.
+- **[Optimismus-Bias]** (Sharot, 2011; Weinstein, 1980): „Das trifft eher jemanden, der etwas zu verbergen hat" — Risiken werden für andere als wahrscheinlicher eingeschätzt; dieser Bias ist resistent gegenüber Korrekturen durch persönliche Erfahrung.
+- **Drei Untergruppen**: Digitale Nativen (Datensammlung als Normalbedingung), Resignierte (erlernte Hilflosigkeit nach erfolglosen Schutzversuchen; Seligman, 1975) und Benefit-Maximierer (rationale Abwägung auf Basis unvollständiger Information).
+- **[Privacy-Verwahrlosung]**: Wie beim Broken-Windows-Effekt senkt initiale Sorglosigkeit die Hemmschwelle für jede weitere Datenpreisgabe; der Prozess ist von innen kaum spürbar.
+
+### 7.1.4 Dynamische Typen
+
+- **Kontextabhängigkeit** (Acquisti, Brandimarte & Loewenstein, 2015): Privacy-Entscheidungen sind selten stabile Präferenzen, sondern situative Reaktionen; dieselbe Person kann im Büro Fundamentalistin und im Urlaub Unbekümmerte sein.
+- **[Kontextuelle Integrität]** (Nissenbaum, 2009): Jeder soziale Kontext entwickelt eigene Normen über angemessene Informationsflüsse; scheinbare Widersprüche im Datenschutzverhalten sind oft situationssensibles Handeln.
+- **Privacy-Schub-und-Rückfall-Zyklus** (Miriam Krüger): Datenskandale erzeugen kurzfristig fundamentalistische Haltungen; nach Monaten hat Gewöhnung den Effekt weitgehend aufgelöst.
+- **Trigger** wie Jobwechsel oder Scheidung stoßen dauerhaftere Verhaltensänderungen an; Gerätewechsel führt paradoxerweise häufig zu weniger Datenschutz durch kognitive Überforderung in der Einrichtungsphase.
+
+### 7.1.5 Empirische Validierung
+
+- **[Social Desirability Bias]**: Frühe Typologien stützten sich auf Selbstauskünfte; Befragte stellten sich systematisch datenschutzbewusster dar, als sie handelten (Jensen, Potts & Jensen, 2005).
+- **Multi-Method-Triangulation**: Neuere Ansätze kombinieren Selbstberichte, App-Nutzungsdaten und physiologische Messungen; die Grundstruktur der drei Typen bestätigt sich (Acquisti et al., 2015).
+- **Forschungsdesiderat**: Ein standardisiertes, kultursensitives Instrument, das auch Typübergänge erfasst, existiert noch nicht; bestehende Fragebogenbatterien messen Einstellungen, aber keine Dynamik (→ Kap. 16.1).
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Flexible Rahmenwerke mit gestaffelten Schutzniveaus statt uniformer Informationspflichten; typengerechte Interface-Lösungen in Regulatory Sandboxes erproben.
+- **Unternehmen**: „Privacy Personas" als vordefinierte Einstellungsprofile schützen Unbekümmerte durch robuste Defaults, ohne Fundamentalisten und Pragmatiker zu bevormunden.
+- **[Datenschutzbeauftragte]**: Mehrsprachigkeit als professionelle Kernkompetenz — technische Tiefe für Fundamentalisten, Kosten-Nutzen-Argumente für Pragmatiker, konkrete Szenarien für Unbekümmerte.
+- **Nutzer**: Bewusstsein für den eigenen „Privacy-Modus" schützt vor Fehlentscheidungen in erschöpften oder emotional aufgewühlten Phasen.
+
+### Quellengrundlage
+
+- Westin, A. (2003). Social and political dimensions of privacy. *Journal of Social Issues.*
+- Acquisti, A., Brandimarte, L., & Loewenstein, G. (2015). Privacy and human behavior in the age of information. *Science.*
+- Acquisti, A., & Grossklags, J. (2005). Privacy and rationality. *IEEE Security & Privacy.*
+- Kahneman, D. (2011). *Thinking, fast and slow.* Farrar, Straus and Giroux.
+- Thaler, R. (1985). Mental accounting and consumer choice. *Marketing Science.*
+- Brehm, J. W. (1966). *A theory of psychological reactance.* Academic Press.
+- Nissenbaum, H. (2009). *Privacy in context.* Stanford University Press.
+- Seligman, M. E. P. (1975). *Helplessness.* W. H. Freeman.
+
+→ [Zum Volltext (Kapitel 7.1)](../kapitel/teil-7/7-1.qmd)
+
+---
+
+## Kapitel 7.2: Barrieren für die Wahrnehmung von Betroffenenrechten – Kurzversion
+
+**Kernthese**: Starke Rechte auf dem Papier nützen nichts, wenn psychologische und strukturelle Barrieren ihre Nutzung systematisch verhindern.
+Annika Sommer, DSB am Universitätsklinikum Hamburg, beobachtete es in ihren Daten: über 80 Prozent der Patienten sorgten sich um ihre Gesundheitsdaten; Betroffenenrechte nutzte dennoch nur eine verschwindend geringe Zahl.
+
+### 7.2.1 Wissensdefizite und Informationsasymmetrien
+
+- **Selektives Wissen**: 69 % der EU-Bürger haben von der **[DSGVO]** gehört (FRA, 2019); nur ein Bruchteil derer kann auch nur ein einziges ihrer Rechte korrekt benennen.
+- **Strukturelle Überforderung** (McDonald & Cranor, 2008): Alle Datenschutzerklärungen zu lesen würde einen erheblichen Teil der jährlichen Arbeitszeit kosten; Unwissenheit ist keine individuelle Schwäche, sondern systemische Konsequenz.
+- **[Dunning-Kruger-Effekt]**: Wer Erklärungen nur überflogen hat, fühlt sich informierter als er ist; diese Selbstüberschätzung verhindert aktive Informationssuche.
+- **[Shifting Baselines Syndrome]**: Jede Generation akzeptiert ein niedrigeres Datenschutzniveau als normal, nicht weil es legal wurde, sondern weil das Rechtsbewusstsein schwand.
+
+### 7.2.2 Prozessuale Hürden und Komplexität
+
+- **Adressatensuche** unmöglich: Bei einer Standard-App sind potenziell dutzende parallele Datenverarbeiter verantwortlich; viele Betroffene geben nach wenigen erfolglosen Kontaktversuchen auf.
+- **[Hyperbolic Discounting]**: Der zukünftige Nutzen der Rechtsdurchsetzung wird psychologisch stark abgewertet; nach wenigen Tagen ohne Antwort setzt Ermüdung ein, bevor der Prozess begonnen hat.
+- **[Dark Patterns]** in Auskunftsprozessen (Solove, 2013): Versteckte Formulare, technischer Jargon und minimale Antworten betreiben „Compliant Obstruction" — formal rechtskonform, praktisch hinderlich.
+- *Lisa Chen, Projektmanagerin: technisch versiert, dennoch gescheitert — nach zwei Monaten ein 47-seitiger Datenauszug nur aus technischen Logs; ihre Frage nach Weitergabe an Versicherungen blieb unbeantwortet.*
+
+### 7.2.3 Machtungleichgewichte und erlernte Hilflosigkeit
+
+- **Erlernte Hilflosigkeit** (Seligman, 1975): Wiederholtes Scheitern erzeugt die Überzeugung, keine Kontrolle zu haben — auch dann, wenn objektiv Handlungsmöglichkeiten bestehen.
+- **Abhängigkeitsverhältnisse**: Die große Mehrheit der Arbeitnehmer würde Datenschutzrechte nie gegen den Arbeitgeber geltend machen; formale Rechtsposition und erlebte Realität klaffen weit auseinander (Acquisti & Grossklags, 2005).
+- **Individualisierung struktureller Probleme**: Betroffene internalisieren ihr Scheitern als persönliches Versagen; Unternehmen verstärken diese Sichtweise subtil und machen strukturelle Barrieren unsichtbar.
+
+### 7.2.4 Kosten-Nutzen-Kalkulationen
+
+- **Hohe Kosten, unsicherer Nutzen**: Zeit, emotionale Belastung und kognitive Anstrengung übersteigen für viele den abstrakten Nutzen; Auskunft bestätigt oft nur bereits Vermutetes.
+- **[Privacy Calculus]** (→ Kap. 2.6) unter verzerrten Bedingungen: **[Optimismus-Bias]**, **[Status-quo-Bias]** und **[Hyperbolic Discounting]** benachteiligen Rechtsdurchsetzung systematisch.
+- **[Trittbrettfahrer-Problem]**: Die große Mehrheit wünscht, dass „jemand" gegen Datenschutzverletzungen vorgeht; nur eine kleine Minderheit sieht sich selbst in dieser Rolle.
+- *Felix Hartmann, Data Analyst: „Ich weiß genau, was Unternehmen mit Daten machen können. Für die alltägliche Datensammelei? Da kapituliere ich aus rationalen Gründen."*
+
+### 7.2.5 Die Rolle von Datenschutzorganisationen
+
+- **Strategische Erfolge**: Schrems-Urteile des EuGH (C-362/14, 2015; C-311/18, 2020) belegen, dass kollektive Rechtsdurchsetzung wirkt; Millionenstrafen und Praxisänderungen zeigen: Widerstand ist möglich.
+- **Geringe Reichweite**: Zivilgesellschaftliche Datenschutzorganisationen bleiben in der breiten Öffentlichkeit weitgehend unbekannt; Schwellenangst und Bystander-Effekt verhindern Kontaktaufnahme.
+- *Annika Sommer: „Was fehlt, sind niedrigschwellige digitale Unterstützungsangebote — wir brauchen eine Demokratisierung des Datenschutzes."*
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Vom Informationsparadigma lösen; standardisierte maschinenlesbare Prozesse; kollektive Klagerechte als Standard; Usability-Tests für Rechtsdurchsetzungsprozesse verbindlich machen.
+- **Unternehmen**: One-Click-Rechtsdurchsetzung statt bürokratischer Hindernisläufe; Klartext statt Juristendeutsch; Barriereabbau als Vertrauensinvestition.
+- **[Datenschutzbeauftragte]**: Psychologische Kompetenz als Kernkompetenz; Privacy Clinics; Prozesse selbst als Testperson durchlaufen.
+- **Zivilgesellschaft**: Empowerment statt Defizitorientierung; Peer-Support-Netzwerke und Micro-Activism senken Einstiegsschwellen.
+
+### Quellengrundlage
+
+- European Union Agency for Fundamental Rights. (2019). *Data protection and privacy rights.* Publications Office.
+- McDonald, A. M., & Cranor, L. F. (2008). The cost of reading privacy policies. *I/S: A Journal of Law and Policy.*
+- Seligman, M. E. P. (1975). *Helplessness.* W. H. Freeman.
+- Solove, D. J. (2013). Privacy self-management and the consent dilemma. *Harvard Law Review.*
+- Acquisti, A., & Grossklags, J. (2005). Privacy and rationality. *IEEE Security & Privacy.*
+- Cisco. (2019). *Data privacy benchmark study.* Cisco Systems.
+
+→ [Zum Volltext (Kapitel 7.2)](../kapitel/teil-7/7-2.qmd)
+
+---
+
+## Kapitel 7.3: Empowerment-Strategien – Kurzversion
+
+**Kernthese**: Die größte Barriere für effektiven Datenschutz ist erlernte Hilflosigkeit.
+**[Gamification]**, Privacy-Tools, kollektive Rechtsdurchsetzung und Peer-Learning können Menschen von digitaler Ohnmacht zu digitaler Handlungsfähigkeit führen.
+
+### 7.3.1 Digital Literacy als Grundlage
+
+- **Kompetenzlücke** (Eurostat, 2023): Nur eine Minderheit der EU-Bürger verfügt über basale digitale Datenschutzkompetenzen; die Mehrheit überschätzt ihre Kompetenz, der **[Dunning-Kruger-Effekt]** (→ Kap. 2.4) verhindert aktive Informationssuche.
+- **Scaffolding-Prinzip**: Schrittweise Aufgaben von ultra-einfach bis fortgeschritten stärken **[Selbstwirksamkeit]**; jeder Erfolg motiviert zum nächsten Schritt.
+- *Felix Hartmann: „Wir haben aufgehört, Datenschutz zu lehren. Wenn die Leute sehen, was Google aus ihren Suchen ableitet — dann entsteht echtes Verständnis. Und aus Verständnis erwächst der Wunsch nach Kontrolle."*
+
+### 7.3.2 Tools und Technologien
+
+- **Komplexität als Barriere**: Selbst technisch versierte Nutzer scheiterten an PGP 5.0 bei Standardaufgaben (Whitten & Tygar, 1999); Signal und ProtonMail zeigen, wie Verschlüsselung unsichtbar und nutzbar wird.
+- **[Privacy Nudges]** (Thaler & Sunstein, 2008): Die App „Jumbo" schlägt automatisch Privacy-Verbesserungen vor; die überwiegende Mehrheit der Nutzer nimmt vorgeschlagene Änderungen vor.
+- **PIMS** (Janssen & Singh, 2022): Personal Information Management Systems bündeln Transparenz und Zugriffsrechte; wer sieht, wer was hat, setzt Auskunft, Berichtigung und Löschung eher tatsächlich um.
+
+### 7.3.3 Kollektive Rechtsdurchsetzung
+
+- **NOYB** (2024): Durch Bündelung tausender Einzelbeschwerden wurden kumuliert €1,69 Mrd. GDPR-Bußgelder erzwungen; aus ohnmächtigen Einzelnen werden mächtige Kollektive.
+- **Kipppunkt** (Miriam Krüger): „Bei etwa 100 Betroffenen wandelt sich die Wahrnehmung von ‚mein Problem' zu ‚unser Problem'; die individuelle Last sinkt, die Motivation steigt."
+- **[Trittbrettfahrer-Problem]** lösbar durch Mechanism Design: Wer aktiv beiträgt, erhält Vorteile; Gamification-Elemente können Beteiligung zusätzlich motivieren.
+
+### 7.3.4 Gamification
+
+- **Motivationspsychologie** (Deci & Ryan, 2000; Deterding et al., 2011): Gamification setzt auf Autonomie, Meisterschaft und Sinnhaftigkeit; gamifizierte Ansätze erzielen deutlich höhere Abschlussraten als traditionelle Schulungen.
+- **Data Defenders** (EU-App): Reale Datenschutzaktionen geben Spielpunkte; Teilnehmer zeigen nach sechs Monaten deutlich bessere Datenschutzpraktiken als Kontrollgruppen.
+- **[Variable Ratio Reinforcement]** hält Engagement hoch; die Grenze zu manipulativen **[Dark Patterns]** ist dabei schmal und erfordert bewusste Gestaltung.
+- *Lisa Chen: „Wir haben ‚Privacy Champions' — ein Level-System für Datenschutzkompetenz. Ab Level 10 werden Mitarbeiter zu Mentoren für Neue. So entsteht eine positive Spirale."*
+
+### 7.3.5 Peer-to-Peer-Unterstützung
+
+- **Peer-Learning-Vorteil** (Topping, 2005): Eine große Review-Arbeit belegt: Peer-Tutoring und Cooperative Learning sind unter günstigen Bedingungen robust lernwirksam; Tipps von Gleichgestellten werden tendenziell eher umgesetzt als Expertentipps.
+- **[soziale Bewährtheit]** (→ Kap. 2.5): „Jemand wie ich schafft das" — die parasoziale Distanz zu Experten entfällt, Identifikation wird möglich.
+- **CryptoParties**: Informelle Treffen mit entmystifiziertem Setting; ein Großteil der Teilnehmer nutzt anschließend Verschlüsselung, ein Vielfaches gegenüber traditionellen Kursen.
+- *Annika Sommer: „Privacy Circles bringen Krankenschwester und IT-ler zusammen. Jeder ist Experte für seinen Bereich — Probleme, die aus einer Sicht unlösbar scheinen, haben oft simple Lösungen aus anderer Perspektive."*
+- **[Collective Efficacy]**: Online-Communitys verbinden Millionen; Hybrid-Formate, die digitale Reichweite mit Präsenzdynamik verbinden, versprechen das größte Potenzial.
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Verpflichtende Digital-Literacy-Module; Innovationsfonds für Privacy-Tools; kollektive Klagerechte erleichtern; „Recht auf Empowerment" als strukturelle Verankerung.
+- **Unternehmen**: User-Education als Onboarding; gamifizierte Tutorials statt AGBs; Peer-Support-Foren als Community-Aufbau.
+- **[Datenschutzbeauftragte]**: Wandel zu Empowerment-Coaches; Digital-Literacy-Programme; Peer-Learning-Formate moderieren.
+- **Nutzer**: Kontinuierliche Verbesserung statt Perfektion; ein Tool pro Monat; Peer-Communities beitreten und Wissen teilen.
+
+### Quellengrundlage
+
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits. *Psychological Inquiry.*
+- Deterding, S. et al. (2011). From game design elements to gamefulness. *ACM MindTrek Conference.*
+- Thaler, R. H., & Sunstein, C. R. (2008). *Nudge.* Yale University Press.
+- Topping, K. J. (2005). Trends in peer learning. *Educational Psychology.*
+- Eurostat. (2023). *Digital skills in 2023.* European Commission.
+- NOYB. (2024). *Annual Report 2024.*
+- Janssen, H., & Singh, J. (2022). Personal information management systems. *Internet Policy Review.*
+- Whitten, A., & Tygar, J. D. (1999). Why Johnny can't encrypt. *USENIX Security Symposium.*
+
+→ [Zum Volltext (Kapitel 7.3)](../kapitel/teil-7/7-3.qmd)
+
+---
+
+## Kapitel 7.4: Vulnerable Gruppen: Kinder, Senioren und digital Benachteiligte – Kurzversion
+
+**Kernthese**: Datenschutzstandards basieren auf dem Modell des informierten, rationalen Erwachsenen.
+Kinder, Senioren, digital Benachteiligte und Menschen mit Behinderungen benötigen kategorial andere Schutzkonzepte; Annika Sommers Beobachtung fasst es zusammen: „Max klickt alles weg. Frau Schmidt verzweifelt an der Komplexität. Beide sind vulnerabel — auf völlig unterschiedliche Weise."
+
+### 7.4.1 Kinder und Datenschutz
+
+- **Entwicklungspsychologische Grenze** (Piaget, 1952; Malik, 2023): Das formal-operationale Stadium beginnt erst um das 12. Lebensjahr; abstraktes Denken über „Datenverarbeitung" setzt genau diese Reife voraus; Impulskontrolle und langfristige Folgenabschätzung reifen bis ins junge Erwachsenenalter.
+- **Empirische Befunde** (Livingstone, Stoilova & Nandagiri, 2019): Kinder unter etwa 12 Jahren begreifen kaum, dass Daten gespeichert und weitergegeben werden; gelöschte Fotos halten viele für wirklich verschwunden; auch ältere Jugendliche zeigen **[Optimismus-Bias]**: „Mir passiert schon nichts."
+- **Digitaler Fußabdruck**: Kinder teilen eine große Zahl persönlicher Informationen ohne Folgenverständnis; ein erheblicher Anteil der Personalverantwortlichen recherchiert Bewerber online und kann jugendliche Aktivitäten als Ablehnungsgrund heranziehen (Kluemper et al., 2012).
+- **Rechtliche Lücke**: Wann gilt die Einwilligung eines Kindes als wirksam (**[Einwilligungsfähigkeit]**)? Das Verhältnis von **[Kunsturhebergesetz]** (§§ 22, 23 KUG) zu DSGVO ließ der BGH in der „Tina Turner"-Entscheidung (2022) ausdrücklich offen.
+
+### 7.4.2 Kognitive Veränderungen im Alter
+
+- **Normale kognitive Alterung**: Verarbeitungsgeschwindigkeit und Arbeitsgedächtnis (Miller, 1956: ca. 7 Einheiten) nehmen spürbar ab; Multitasking und Navigation in komplexen Interfaces werden zur Herausforderung; kristalline Intelligenz und Urteilsvermögen bleiben stabil.
+- **Überproportionale Betroffenheit**: Senioren werden häufiger Opfer von Online-Betrug und fallen stärker auf Phishing herein als jüngere Altersgruppen (Sen et al., 2023; Czaja et al., 2019); Privacy-Einstellungen dauern deutlich länger als bei Digital Natives (Hunsaker & Hargittai, 2018).
+- **Digitale Scham**: Ein erheblicher Anteil der Senioren schämt sich für mangelnde Digitalkenntnisse; diese Scham verhindert Hilfesuche und verstärkt Vermeidungsstrategien.
+- *Annika Sommer: „Viele ältere Patienten wollen ihre Gesundheitsdaten schützen. Aber die Interfaces überfordern sie. Wenn dann Zeitdruck dazukommt, kapitulieren sie — und geben oft mehr preis als nötig."*
+
+### 7.4.3 Digitale Spaltung
+
+- **Strukturelle Benachteiligung**: Einkommensschwachen Haushalten, Alleinerziehenden und Menschen mit Migrationshintergrund fehlt überproportional häufig ein stabiler Breitbandzugang; Smartphone-only-Nutzung macht komplexe Datenschutzeinstellungen nahezu unmöglich.
+- **Perverser Mechanismus**: Kostenlose Dienste sind oft die datenhungrigsten; Menschen ohne finanzielle Ressourcen haben keine Wahl und „bezahlen" mit ihren Daten für Leistungen, die Wohlhabendere datenschutzfreundlicher einkaufen können (Tsatsou, 2022).
+- **Intersektionale Kumulierung**: Wer mehreren vulnerablen Gruppen angehört, etwa ältere Migrantinnen und Migranten mit geringem Einkommen, trägt die geringsten Ressourcen bei den höchsten Risiken.
+
+### 7.4.4 Menschen mit Behinderungen
+
+- **Doppelte Barrieren**: Screenreader stoßen bei einem Großteil der Datenschutz-Interfaces an Grenzen (Furnell et al., 2022); nur ein kleiner Bruchteil der Datenschutzerklärungen löst die DSGVO-Forderung nach klarer Sprache ein (Linden et al., 2020).
+- **Erzwungene Transparenz**: Assistenztechnologien erfordern Gesundheits-, Standort- und biometrische Daten; weniger Wahlfreiheit erhöht die Vulnerabilität für Diskriminierung und Missbrauch.
+- *Miriam Krüger: „Die große Mehrheit der befragten Menschen mit Behinderungen hat Datenschutzverletzungen erlebt, aber nur wenige haben sich gewehrt. Besonders bitter: Viele Verletzungen geschehen durch Hilfssysteme selbst."*
+
+### 7.4.5 Betreuer und Erziehungsberechtigte
+
+- **Elternparadox**: Die überwiegende Mehrheit der Eltern sorgt sich um Online-Sicherheit, kennt aber häufig nicht die Apps ihrer Kinder; extreme Strategien (Totalüberwachung oder Laissez-faire) erweisen sich beide als problematisch.
+- **[Sharenting]** (Steinberg, 2017): Eltern legen ohne Einwilligung des Kindes eine digitale Fußspur an; ein beachtlicher Anteil der Identitätsdiebstähle bei Kindern geht auf von Eltern geteilte Informationen zurück.
+- **Betreuungsdilemma** (Berridge & Wetle, 2020): Ein beachtlicher Anteil betreuender Angehöriger greift heimlich in die digitalen Angelegenheiten seiner Eltern ein — aus Sorge, aber ohne Legitimation.
+- *Annika Sommer: „Das Ziel muss ‚Empowerment statt Entmündigung' sein: befähigen statt übernehmen, erklären statt verbieten, schrittweise Autonomie aufbauen."*
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Verpflichtende Kinderrechte-Folgenabschätzungen; altersgerechte Abstufungen statt starrer Grenzen; Barrierefreiheit als Datenschutzanforderung verankern.
+- **Unternehmen**: **[Privacy by Design]** zu „Privacy by Design for All" erweitern: Kinder-Interfaces, Senior-Modi, Leichte Sprache und Screenreader-Kompatibilität als Standard.
+- **[Datenschutzbeauftragte]**: Entwicklungspsychologische und Barrierefreiheits-Schulungen; aufsuchende Beratung; Erfolgskennzahlen, die vulnerable Gruppen gesondert erfassen.
+- **Betreuer und Familien**: Gemeinsame Einstellungen statt heimlicher Eingriffe; kostenlose Beratungsangebote für digitale Erziehung; kontinuierliches gemeinsames Lernen.
+
+### Quellengrundlage
+
+- Piaget, J. (1952). *The origins of intelligence in children.* International Universities Press.
+- Livingstone, S., Stoilova, M., & Nandagiri, R. (2019). Children's understanding of personal data and privacy online. *Information, Communication & Society.*
+- Malik, F. (2023). Cognitive development. *StatPearls.*
+- Hunsaker, A., & Hargittai, E. (2018). A review of Internet use among older adults. *New Media & Society.*
+- Steinberg, S. B. (2017). Sharenting: Children's privacy in the age of social media. *Emory Law Journal.*
+- Furnell, S. et al. (2022). Accessible and inclusive cyber security. *SN Computer Science.*
+- Tsatsou, P. (2022). Research on vulnerable people and digital inclusion. *Universal Access in the Information Society.*
+- Berridge, C., & Wetle, T. F. (2020). Why older adults and their children disagree about in-home surveillance. *The Gerontologist.*
+
+→ [Zum Volltext (Kapitel 7.4)](../kapitel/teil-7/7-4.qmd)

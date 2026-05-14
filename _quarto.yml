@@ -139,6 +139,25 @@ book:
         - kapitel/teil-17/17-2.qmd
         - kapitel/teil-17/17-3.qmd
         - kapitel/teil-17/17-4.qmd
+    - part: "Kurzfassungen"
+      chapters:
+        - kurzfassungen/teil-1.qmd
+        - kurzfassungen/teil-2.qmd
+        - kurzfassungen/teil-3.qmd
+        - kurzfassungen/teil-4.qmd
+        - kurzfassungen/teil-5.qmd
+        - kurzfassungen/teil-6.qmd
+        - kurzfassungen/teil-7.qmd
+        - kurzfassungen/teil-8.qmd
+        - kurzfassungen/teil-9.qmd
+        - kurzfassungen/teil-10.qmd
+        - kurzfassungen/teil-11.qmd
+        - kurzfassungen/teil-12.qmd
+        - kurzfassungen/teil-13.qmd
+        - kurzfassungen/teil-14.qmd
+        - kurzfassungen/teil-15.qmd
+        - kurzfassungen/teil-16.qmd
+        - kurzfassungen/teil-17.qmd
 
 comments:
   giscus:

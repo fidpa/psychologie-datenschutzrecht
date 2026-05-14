@@ -1,0 +1,183 @@
+---
+title: "Teil VI: Datenweitergabe und Löschung"
+toc-depth: 2
+---
+
+*Kurzfassungen aller Kapitel dieses Buchteils.*
+
+## Kapitel 6.1: Die Psychologie des Datenteilens – Kurzversion
+
+**Kernthese**: Datenteilen ist kein individuelles Kosten-Nutzen-Kalkül, sondern ein zutiefst soziales Phänomen: **[Reziprozität]**, Vertrauensketten und **[Gruppendruck]** treiben Nutzer zu Preisgaben, die sie rational nicht wollen würden.
+
+### 6.1.1 Reziprozität und soziale Austauschtheorie
+
+- **Evolutionäre Wurzeln**: Die soziale Austauschtheorie (Homans, 1958; Blau, 1964) erklärt Datenteilen als digitale Fortführung uralter Tauschbeziehungen; das Gehirn behandelt reziprokes Teilen als echte Belohnung.
+- **Drei Formen**: Direkte Reziprozität ("Du likest mein Foto, ich teile deins"), generalisierte ("Irgendwann kommt's zurück") und negative Reziprozität als Angst vor sozialem Ausschluss; Norberg et al. (2007) dokumentieren, dass Nutzer deutlich mehr teilen als beabsichtigt, ohne messbaren Mehrwert zu erleben.
+- **[Reziprozitätsinflation]**: Algorithmische Sichtbarkeits-Mechanismen quantifizieren soziale Schulden und treiben eine Spirale an, in der immer mehr Teilen immer weniger echten Austausch erzeugt.
+- **Kulturelle Variation**: Kollektivistische Gesellschaften erleben Nicht-Teilen als soziale Unhöflichkeit; globale Plattformen ignorieren diese Unterschiede und erzeugen kulturellen Reziprozitätsstress.
+
+### 6.1.2 Vertrauensketten bei Datenweitergaben
+
+- **Vertrauensparadox**: Nutzer vertrauen der ersten Stelle in hohem Maß, wissen aber kaum, dass ihre Daten an zahlreiche Drittparteien weiterfließen. Drei Mechanismen erklären die Vertrauensdiffusion: Transitivitätsillusion ("Ich vertraue A, A vertraut B, also vertraue ich B"), Vertrauensvererbung und End-to-End-Blindheit.
+- **Kognitiver Zusammenbruch**: Vertrauen sinkt mit jeder Weitergabestufe markant; ab der dritten Weitergabe berichten Probanden Hilflosigkeit und Resignation statt rationaler Abwägung; die DSGVO-konforme mehrstufige Einwilligung überfordert damit die natürliche Verarbeitungskapazität.
+- **Kaskadierende Effekte**: Der Marriott-Hack 2018 illustriert, wie Vertrauensbrüche weit über das betroffene Unternehmen hinauswirken: Kunden mieden nicht nur Marriott, sondern auch andere Loyalty-Programme und reduzierten Online-Buchungen insgesamt.
+- **Vertrauenssubstitutions-Paradox**: Technische Lösungen wie Blockchain erhöhen die Komplexität, ohne das psychologische Problem zu lösen; Nutzer delegieren Vertrauen an neue Intermediäre und reproduzieren damit die alten Risiken.
+
+### 6.1.3 Kontextkollaps in digitalen Umgebungen
+
+- **Bühnen-Kollaps**: Goffman (1959) zeigt, dass Menschen kontextspezifische "Masken" tragen; digitale Plattformen erzwingen eine einzige Bühne für Chef, Mutter und Ex-Partner gleichzeitig. Danah boyd (2010) nennt das **[Kontextkollaps]**.
+- **Vier-Phasen-Muster**: enthusiastisches Teilen → erste Kollisionen → generische "Lowest Common Denominator"-Strategie → Resignation oder Rückzug auf kontextspezifischere Plattformen.
+- **Psychologische Kosten**: Antizipatorische Angst vor dem Posten, retrospektive Angst über alte Inhalte und performative Erschöpfung durch permanentes Multi-Zielgruppen-Management.
+- **Normatives Prinzip**: Nissenbaum (2009) entwickelt **[kontextuelle Integrität]** als normativen Rahmen: Informationen sollen nur im Kontext ihrer ursprünglichen Erhebung weiterverwendet werden; Plattformen, die Kontexte kollabieren lassen, verletzen diese Erwartung systematisch.
+- *Lisa Chen: „Früher hatte ich ein Profil. Heute jongliere ich fünf verschiedene Identitäten auf sieben Plattformen. Mein 'LinkedIn-Ich' würde mein 'Instagram-Ich' nicht wiedererkennen."*
+
+### 6.1.4 Gruppendruck und soziale Normen
+
+- **[Deskriptive Normen]** dominieren injunktive: Sichtbares Gruppenverhalten wirkt stärker als Vorschriften; Meldungen wie "Viele Ihrer Kontakte nutzen diese App" steigern die Zustimmungsbereitschaft deutlich, weil Nutzer Mehrheitsverhalten als Qualitätssignal deuten.
+- **Asch im Netz**: Solomon Aschs (1956) Konformitätsexperimente zeigen, dass sichtbare Peer-Zustimmung individuelle Entscheidungen überschreibt; digital wird dieser Effekt permanent und quantifiziert. Miriam Krüger betont: die bloße Sichtbarkeit sozialer Vergleichsinformation reicht aus.
+- **[FOMO]-Ökonomie**: Kahneman (2011) beschreibt Verlustaversion als fundamentales Entscheidungsprinzip; FOMO ist Verlustaversion im sozialen Gewand. Plattformen setzen temporale ("Story verschwindet in 24h"), soziale ("Fünf Freunde online") und informationale ("Hunderte Updates") Varianten ein, die Teilen als soziale Notwendigkeit erscheinen lassen (Acquisti & Grossklags, 2005).
+- **Digitale Resilienz**: Starke Offline-Identität, hohe Selbstwirksamkeit und kritische Medienkompetenz schützen vor Konformitätsdruck; Privacy-Pride-Bewegungen nutzen denselben Mechanismus für den Schutz.
+- *Felix Hartmann hat einen "Privacy Buddy": gegenseitige Erinnerungen an Datenschutz-Vorsätze als kollektive Schutzstrategie gegen algorithmischen Sozialdruck.*
+
+### 6.1.5 Die Ökonomie der Aufmerksamkeit
+
+- **Grundproblem** (Simon, 1971): In einer informationsreichen Welt erzeugt Informationsfülle Aufmerksamkeitsarmut; fragmentierte Nutzungsmuster und Decision Fatigue lassen Datenschutzentscheidungen immer nachlässiger ausfallen.
+- **Vulnerability Inflation**: Erst genügten Urlaubsfotos, dann Beziehungsdetails, dann persönliche Krisen — die Eskalation der Intimität ist strukturell: immer mehr Preisgabe für dieselbe Aufmerksamkeit.
+- **Persuasive Design** (Fogg, 2009): Variable-Ratio-Verstärkung (unvorhersehbare Likes), **[Zeigarnick-Effekt]** ("3 ungelesene Nachrichten"), soziale Bewährtheit und Verlustaversion binden Nutzer und unterlaufen systematisch autonome Datenschutzentscheidungen.
+- **Gegenbewegungen**: Time Well Spent, **[Digitaler Minimalismus]** und Aufmerksamkeitsgenossenschaften setzen Qualität vor Quantität der Interaktion.
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: **[Kontextuelle Integrität]** (Nissenbaum, 2009) als Rechtsprinzip kodifizieren; FOMO-basierte **[Dark Patterns]** als unlautere Praxis definieren; Vertrauensketten technisch nachvollziehbar gestalten.
+- **Unternehmen/DSB**: Faire **[Reziprozität]** statt Ausbeutung sozialer Impulse; kontextspezifische Privatsphäre-Optionen als Standard; sozialpsychologische Faktoren (Asch, FOMO) in Datenschutz-Folgenabschätzungen einbeziehen.
+- **Nutzer**: Bewusstsein für Reziprozitätsdruck, **[Kontextkollaps]** und Aufmerksamkeitsmanipulation als erste Schutzebene; kollektive Strategien (Privacy Buddys, Focus-Gruppen) nutzen denselben sozialen Druck für den Schutz.
+
+### Quellengrundlage
+
+- Homans, G. C. (1958). *Social behavior as exchange.* American Journal of Sociology; Blau, P. M. (1964). *Exchange and power in social life.* Wiley.
+- Goffman, E. (1959). *The presentation of self in everyday life.* Doubleday.
+- boyd, d. (2010). Social network sites as networked publics. In: *A networked self.* Routledge.
+- Nissenbaum, H. (2009). *Privacy in context.* Stanford University Press.
+- Asch, S. E. (1956). Studies of independence and conformity. *Psychological Monographs.*
+- Kahneman, D. (2011). *Thinking, fast and slow.* Farrar, Straus and Giroux.
+- Simon, H. A. (1971). In: *Computers, communications, and the public interest.* Johns Hopkins Press.
+- Fogg, B. J. (2009). *Persuasive technology.* Morgan Kaufmann.
+
+→ [Zum Volltext (Kapitel 6.1)](../kapitel/teil-6/6-1.qmd)
+
+---
+
+## Kapitel 6.2: Das Recht auf Vergessenwerden – Kurzversion
+
+**Kernthese**: Das **[Recht auf Vergessenwerden]** (Art. 17 DSGVO) kollidiert mit einer fundamentalen Asymmetrie: Menschliches Gedächtnis ist evolutionär auf Vergessen optimiert; digitale Systeme speichern standardmäßig für immer (Mayer-Schönberger, 2009). **[Digitale Persistenz]** erzeugt neuartige psychologische Belastungen und verweigert zweite Chancen.
+
+### 6.2.1 Gedächtnis und Vergessen: Psychologische Grundlagen
+
+- **Vergessen als Feature**: Drei aktive Gehirnprozesse — synaptisches Pruning, hippocampale Neurogenese, Retrieval-Induced Forgetting — zeigen: Vergessen ist kognitiv aufwändig und notwendig. Anderson et al. (2023) weisen nach, dass präfrontale Areale beim aktiven Vergessen besonders stark aktiviert werden.
+- **Hyperthymesie-Paradox**: Menschen mit perfektem autobiografischem Gedächtnis leiden klinischen Berichten zufolge überdurchschnittlich häufig an Depressionen und Angststörungen; die Unfähigkeit zu vergessen ist keine Superkraft, sondern eine Bürde.
+- **Ebbinghaus-Kurve vs. digitale Gerade**: Natürliches Vergessen entlastet kognitiv, reguliert Emotionen und ermöglicht Identitätsentwicklung; Mayer-Schönberger (2009) schlägt „digitale Verfallsdaten" vor, die dieses Prinzip in Technik übersetzen — standardmäßiges Löschen statt standardmäßigem Speichern.
+- **Kollektives Vergessen**: Gesellschaften brauchen beides: Erinnerung (Holocaust, Klimawandel) und Vergessen (Wahrheits- und Versöhnungskommissionen); digitale Totalerinnerung stört diese Balance grundlegend.
+
+### 6.2.2 Digitale Persistenz vs. menschliche Entwicklung
+
+- **End of History Illusion** (Quoidbach et al., 2013): Menschen unterschätzen systematisch, wie stark sie sich künftig noch verändern werden; digitale Spuren fixieren dagegen das vergangene Selbst als dauerhaft definierend, obwohl Werte und Überzeugungen sich kontinuierlich wandeln.
+- **Vulnerable Entwicklungsphasen**: In der Adoleszenz sind Identitätsexperimente entwicklungsnotwendig, der präfrontale Cortex noch unreif; Quarter-Life-Krise und Midlife-Transition bringen Wertewandel mit sich. Kasket (2019) nennt die zurückgekehrten früheren Ichs treffend „digitale Geister".
+- **Zeitliche Identitätsdiskrepanz**: Das Gehirn verarbeitet das Selbst von vor zehn Jahren ähnlich wie eine fremde Person (Northoff & Bermpohl, 2004); digitale Systeme kollabieren diese Distanz; LinkedIn-Praktikumsjob und überholte Meinungen erscheinen kontextlos aktuell.
+- *Miriam Krüger über ihre 15-jährige Längsschnittstudie: „Nicht die Inhalte selbst bereiteten Probleme — sondern die Dauerhaftigkeit. Fehler, die frühere Generationen vergessen durften, blieben hier haften."*
+
+### 6.2.3 Scham, Reue und zweite Chancen
+
+- **Chronische digitale Scham**: Digitale Scham aktiviert denselben anterioren cingulären Kortex wie physischer Schmerz; anders als analoge Scham fehlt die natürliche Habituation, die Scham bleibt akut, als wäre die Tat gestern geschehen.
+- **Blockierte Reue** (Martinez et al., 2024): Ein erheblicher Teil der Menschen bereut digitale Inhalte und versucht aktiv, diese zu löschen; Löschversuche scheitern jedoch häufig technisch oder durch Plattform-Richtlinien. Reue ohne Auflösung ist kein Entwicklungsmotor mehr.
+- **Kein digitales Verjährungsmodell**: Rechtssystem, Strafrecht und Religion kennen zweite Chancen. Digitale Systeme kennen keine. Der Fall Justine Sacco — unbedachter Tweet 2013, über ein Jahrzehnt später noch Google-Top-Ergebnis trotz gemeinnütziger Arbeit — illustriert das paradigmatisch.
+
+### 6.2.4 Praktische Hürden bei der Durchsetzung
+
+- **Art. 17 DSGVO: Recht mit Schranken**: Sechs Löschtatbestände (Abs. 1), aber klare Grenzen bei Meinungsfreiheit, Dokumentationspflichten und öffentlichem Interesse (Abs. 3); Rosen (2012) beschreibt den unauflösbaren Grundkonflikt: Recht auf Vergessenwerden vs. Recht der Gesellschaft auf Erinnerung.
+- **Privacy Self-Management Dilemma** (Solove, 2013): Das Recht gibt formell Kontrolle zurück, überfordert aber strukturell: Wer Art. 17 ausüben will, muss das Recht kennen, alle Verarbeiter identifizieren, formgerechte Anträge stellen und Ablehnungen anfechten; Eurobarometer-Daten (Europäische Kommission, 2019) zeigen, dass konkrete Kenntnis spezifischer Betroffenenrechte deutlich hinter allgemeiner DSGVO-Bekanntheit zurückbleibt.
+- **Psychologische Barrieren**: Erlernte Hilflosigkeit nach ersten Misserfolgen (Seligman, 1975), Streisand-Effekt-Angst, technische Überforderung und Resignation; „Das Internet vergisst nie" wird zur selbsterfüllenden Prophezeiung, weil Betroffene ihr Handeln daran ausrichten.
+- **Sisyphos-Effekt**: Selbst erfolgreiche Löschungen sind häufig Pyrrhussiege: Google-Cache, Archive.org, Screenshot-Kultur und Jurisdiktionsgrenzen halten Inhalte langfristig auffindbar.
+- *Felix Hartmann: „Ich wollte alte Forenbeiträge löschen lassen. Nach 47 E-Mails, 12 Telefonaten und drei Monaten gab ich auf. Und ich bin IT-Experte!"*
+
+### 6.2.5 Gesellschaftliche Implikationen
+
+- **Digitaler Vigilantismus** (Park et al., 2024): Nissenbaums (2009) kontextuelle Integrität zeigt, dass kontextlose Ausgrabung alter Äußerungen systematisch verletzt; Park et al. nennen die gezielte Cancel-Culture-Praxis „digitalen Vigilantismus" — öffentliche Empörung als Strafmechanismus ohne Prozessgarantien und ohne Ablaufdatum.
+- **Chilling Effects**: Gut belegte Selbstzensur-Dynamik: Moderate Stimmen ziehen sich zurück, spekulative aber wichtige Gedanken werden unterdrückt, demokratischer Diskurs verarmt; die Stimmen mit den wenigsten Risiken dominieren, die nachdenklichsten schweigen.
+- **Generationengerechtigkeit**: Menschen, die als Erwachsene ins Netz kamen, hinterließen Spuren ohne Bewusstsein für die Permanenz; informierte Einwilligung war schlicht nicht möglich. Diese **retroaktive digitale Gefährdung** wirft eine ernste Gerechtigkeitsfrage auf.
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Automatische Löschfristen einführen; digitale Verjährung als Rechtsprinzip; **[Recht auf Neuanfang]** verfassungsrechtlich verankern; Sanktionen bei ungerechtfertigter Ablehnung schärfen.
+- **Unternehmen**: **[Privacy by Expiry]** als Standard: Datenverfallsdaten, nutzerfreundliche Löschprozesse; Vergessen als Vertrauenskapital, nicht als Kostenstelle.
+- **Datenschutzbeauftragte**: Art. 18 DSGVO (Einschränkung der Verarbeitung) als praktische Alternative zu Art. 17 stärker nutzen; psychologisches Verständnis bei Löschanträgen einbringen.
+- **Nutzer**: **[Digitale Hygiene]** als Selbstschutz; Kenntnis von Art. 17 und Art. 18 schafft Handlungsspielraum; Solidarität mit Löschbemühungen anderer fördert kollektive Schutzkultur.
+
+### Quellengrundlage
+
+- Mayer-Schönberger, V. (2009). *Delete: The virtue of forgetting in the digital age.* Princeton University Press.
+- Anderson, M. C. et al. (2023). Prefrontal-hippocampal pathways underlying inhibitory control over memory. *Nature Neuroscience.*
+- Quoidbach, J. et al. (2013). The end of history illusion. *Science.*
+- Kasket, E. (2019). *All the ghosts in the machine.* Robinson.
+- Martinez, L. et al. (2024). Digital regret and the psychological burden of permanent online records. *Cyberpsychology, Behavior, and Social Networking.*
+- Seligman, M. E. P. (1975). *Helplessness.* W. H. Freeman.
+- Rosen, J. (2012). The right to be forgotten. *Stanford Law Review Online.*
+- Solove, D. J. (2013). Privacy self-management and the consent dilemma. *Harvard Law Review.*
+
+→ [Zum Volltext (Kapitel 6.2)](../kapitel/teil-6/6-2.qmd)
+
+---
+
+## Kapitel 6.3: Digitales Erbe und posthume Privatheit – Kurzversion
+
+**Kernthese**: Der Tod beendet das Leben, nicht aber die Daten. Das **[digitale Erbe]** erzeugt ein Spannungsfeld zwischen posthumem Persönlichkeitsrecht, Trauerbedürfnissen und kulturell divergenten Normen; digitale Systeme kennen kein Vergessen und keine Verjährung.
+
+### 6.3.1 Tod und Datenschutz: Rechtliche Grundlagen
+
+- **Rechtliche Lücke**: DSGVO gilt nicht für Verstorbene (Erwägungsgrund 27); Deutschland schützt die Persönlichkeit Verstorbener für zehn Jahre, bei grenzüberschreitenden Fällen herrscht große Rechtsunsicherheit.
+- **BGH-Urteil 12.07.2018 (Az. III ZR 183/17)**: Digitale Inhalte sind vererbbar wie Briefe und Tagebücher; Eltern einer verstorbenen 15-Jährigen erhielten Zugang zum Facebook-Account; die psychologischen Implikationen dieser Gleichstellung blieben im Urteil unbeachtet.
+- **Widersprüchliche Interessen**: Erben beanspruchen Zugangsrecht (Fotos, persönliche Nachrichten), Kommunikationspartner fordern Schutz ihrer Inhalte, Verstorbene hatten posthumen Privatheitsanspruch, Plattformen agieren zwischen Geschäftsmodell und Rechtsunsicherheit.
+- **Internationale Divergenz**: USA (RUFADAA, 2015): Property-Ansatz, breiter Zugang; Frankreich: „digitaler Tod" zu Lebzeiten definierbar; China: Familienkollektiv vor individueller Privatheit; Japan: starker Persönlichkeitsschutz mit eigenen Bestattungsritualen.
+
+### 6.3.2 Trauer im digitalen Zeitalter
+
+- **Neurobiologische Störung**: Trauer ist ein aktiver Reorganisationsprozess; **[digitale Persistenz]** blockiert ihn, indem sie Bindungsrepräsentationen des Verstorbenen permanent aktiviert hält. Die **[Continuing Bonds Theory]** (Stroebe, Schut, & Boerner, 2017; Worden, 2018) zeigt: Gesunde Trauer bedeutet Transformation der Bindung, nicht Loslassen; Profil-Besuche fixieren statt zu transformieren.
+- **Algorithmische Grausamkeit**: Automatische „Erinnerungen", Geburtstagserinnerungen und „Menschen, die Sie vielleicht kennen" reaktivieren Bindungssysteme ungefragt; Öhman & Watson (2019) modellieren, dass Verstorbene auf Facebook in bestimmten Szenarien bis 2070 die lebenden Nutzer zahlenmäßig übersteigen.
+- **Neue Rituale**: Digitale Gedenkseiten, QR-Codes auf Grabsteinen (Japan), VR-Begegnungen — Effekte sind ambivalent: für einen Teil tröstlich, für einen anderen verlängern sie die Trauerphase; die Mehrheit wünscht klarere gesellschaftliche Normen.
+- *Miriam Krüger: „Wenn Trauernde Profile Verstorbener besuchen, zeigt das Gehirn Aktivierungsmuster wie bei lebenden Personen. Die neuronale Reorganisation wird blockiert. Ein erheblicher Anteil entwickelt Muster komplizierter Trauer."*
+
+### 6.3.3 Vorsorge für den digitalen Nachlass
+
+- **Psychologische Barrieren**: Drei Hindernisse: (1) **[Terror Management Theory]**: Todesgedanken werden verdrängt, Nachlassplanung macht Sterblichkeit salient und erhöht messbar den Stresslevel; (2) Illusion digitaler Unsterblichkeit: „Das Internet vergisst nie" wandelt sich unbewusst zu „Ich lebe digital weiter"; (3) Komplexitätsüberforderung: rund hundert Online-Accounts pro Person, hunderte Gigabyte Daten, unklare Rechtslage.
+- **Gestufter Ansatz** erzielt deutlich höhere Abschlussquoten: Bestandsaufnahme und Kategorisierung → technische Vorbereitung (Passwort-Manager, Legacy Contacts) → rechtliche Dokumentation (digitale Vollmacht, Testament) → Kommunikation mit Vertrauenspersonen.
+- **Psychologisch informierte Tools**: „Living Memory" (Vorsorge als Geschenk, nicht als Begräbnisplanung), Gamification und KI-gestützte Begleitung setzen den Fokus auf Liebe statt Tod und senken die emotionale Einstiegshürde.
+- *Annika Sommer: „Die emotionale Hürde ist enorm. Menschen weinen, wenn sie ihre Passwörter aufschreiben; es fühlt sich an wie das eigene Begräbnis planen."*
+
+### 6.3.4 Konflikte zwischen Erben und Plattformen
+
+- **Machtasymmetrie**: Nutzungsbedingungen überschreiben nationales Erbrecht; Erstanfragen werden überwiegend automatisch abgelehnt, Klärung zieht sich über viele Monate hin. Viele Hinterbliebene geben erschöpft auf; Wut auf Plattformen und auf Verstorbene (wegen fehlender Vorsorge) verstärkt die Trauer.
+- **Kafkaeske Fragmentierung**: Facebook/Meta (2–8 Wochen), Google (3–6 Monate), Apple (häufig Gerichtsbeschluss nötig, viele Fälle ungelöst), Microsoft (6–18 Monate) — keine zentrale Anlaufstelle, jede Plattform eigene Anforderungen.
+- **Erfolgreiche Strategien**: Mediale Eskalation, kollektive Aktionen (Erfahrungsaustausch, gemeinsame Anwälte, Gruppen) und regulatorische Hebel (Datenschutzbeschwerden, EU-Ebene) wirksamer als individuelle Bemühungen.
+- *Lisa Chen half einer Kollegin: „Ihr Mann starb plötzlich. Apple verweigerte Zugang zu 20 Jahren Familienfotos. Nach 100+ E-Mails, notariellen Beglaubigungen und 5.000 € Anwaltskosten gab sie auf. Die Fotos sind immer noch gesperrt."*
+
+### 6.3.5 Kulturelle Unterschiede im Umgang mit digitalem Erbe
+
+- **West/Ost-Divergenz**: Individualistische Kulturen priorisieren posthume Privatheit; die Mehrheit befürwortet restriktiven Zugang. Kollektivistische Kulturen betrachten digitales Erbe als Familieneigentum und praktizieren digitale Ahnenrituale.
+- **Religiöse Dimensionen**: Islam: **[Amanat]**: digitale Spuren als anvertrautes Gut, viele Familien wünschen „Reinigung" problematischer Inhalte; Buddhismus: digitales Karma, rituelle Cyber-Verbrennungen; Japan: digitale Butsudan (Hausaltäre mit Tablets der Verstorbenen) als lebendige Praxis; Christentum: theologisch gespalten zur digitalen Seele.
+- **Interkulturelle Konflikte**: Digitale Erbfälle sind häufig international und involvieren multiple Kulturen und Rechtsordnungen; ein Großteil bleibt unbefriedigend gelöst, sekundäre Familienkonflikte entstehen. „Cultural Liaisons" und flexible kulturspezifische Templates sind emerging best practices.
+
+### Praktische Implikationen
+
+- **Gesetzgeber**: Klare Regelungen für digitales Erbe schaffen; posthumes Persönlichkeitsrecht modernisieren; Plattform-Pflichten bei Erbfällen definieren; internationale Abkommen vorantreiben.
+- **Unternehmen/Plattformen**: Humane Legacy-Prozesse mit menschlichen Ansprechpartnern; kulturell sensible Policies; proaktive Vorsorge-Tools anbieten.
+- **[Datenschutzbeauftragte]**: Digitale Nachlassberatung ausbauen; interkulturell vermitteln; emotionale Dimensionen von Erbschaftsanfragen erkennen und Vorsorge in Datenschutzschulungen integrieren.
+- **Nutzer**: Digitalen Nachlass aktiv und gestuft regeln; Legacy Contacts bestimmen; Vorsorge als Fürsorge für Hinterbliebene begreifen.
+
+### Quellengrundlage
+
+- Bundesgerichtshof. (2018). Urteil vom 12.07.2018, Az. III ZR 183/17 — Digitaler Nachlass (Facebook-Zugang).
+- Revised Uniform Fiduciary Access to Digital Assets Act (RUFADAA). (2015). Uniform Law Commission.
+- Stroebe, M., Schut, H., & Boerner, K. (2017). Continuing bonds in adaptation to bereavement. *Clinical Psychology Review.*
+- Worden, J. W. (2018). *Grief counseling and grief therapy* (5th ed.). Springer.
+- Öhman, C. J., & Watson, D. (2019). Are the dead taking over Facebook? *Big Data & Society.*
+
+→ [Zum Volltext (Kapitel 6.3)](../kapitel/teil-6/6-3.qmd)
